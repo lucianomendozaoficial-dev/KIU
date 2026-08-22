@@ -848,5 +848,22 @@
     "edad": "",
     "camara": false,
     "especial": "Marvel"
+  },
+  {
+    "id": 51,
+    "nombre": "Moana 2",
+    "generos": ["Aventura", "Animacion", "Comedia", "Familia"],
+    "descripcion": "Tras recibir una inesperada llamada de sus antepasados, Vaiana debe viajar a los lejanos mares de Oceanía y adentrarse en peligrosas aguas perdidas para vivir una aventura sin precedentes.",
+    "año": 2024,
+    "duracion": "1h 31min",
+    "portada": "https://image.tmdb.org/t/p/w185/f4voSsbPTvaQwicwd1dyxICow6c.jpg",
+    "banner": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/ac70c442-571e-48ae-8733-7494bd7d27c6/compose?aspectRatio=1.78&format=webp&width=1200",
+    "embed": "https://fastream.to/embed-6hfbq9oh5vcf.html",
+    "rating": 6.2,
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especial": "Disney"
   }
 ]
