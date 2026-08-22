@@ -865,5 +865,39 @@
     "edad": "",
     "camara": false,
     "especial": "Disney"
+  },
+  {
+    "id": 52,
+    "nombre": "La idea de tenerte",
+    "generos": ["Comedia", "Musica", "Romance"],
+    "descripcion": "Solène, madre soltera de 40 años, comienza un romance inesperado con Hayes Campbell, de 24 años, el cantante principal de August Moon, la banda de chicos más popular del planeta.",
+    "año": 2024,
+    "duracion": "1h 57min",
+    "portada": "https://image.tmdb.org/t/p/w185/heci4aAOBfN5I2BQ1QpVFE2o5qi.jpg",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD73cfXWC_0XIdHG4I6oDctGRigI5vCbsIL7Q3UBqAHMe0tPM4e5YaHUA&s=10",
+    "embed": "https://fastream.to/embed-60kxptaum23i.html",
+    "rating": 6.0,
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especial": "Prime Video"
+  },
+  {
+    "id": 53,
+    "nombre": "Mientras estes conmigo",
+    "generos": ["Musica", "Romance"],
+    "descripcion": "Cuenta la historia real de la estrella de música cristiana Jeremy Camp, profundizando en su aventura de amor y pérdida, demostrando así que siempre hay esperanza.",
+    "año": 2020,
+    "duracion": "1h 56min",
+    "portada": "https://image.tmdb.org/t/p/w185/bD7JLFdRzfr0Pa7AZetnNepYDeM.jpg",
+    "banner": "https://i.ytimg.com/vi/Up1YDK1xTEo/maxresdefault.jpg",
+    "embed": "https://fastream.to/embed-ecy5lvia0m3j.html",
+    "rating": 8.3,
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especial": "Prime Video"
   }
 ]
