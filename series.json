@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "nombre": "Soy Luna: Volver a rodar",
+    "generos": ["Comedia", "Drama", "Familia"],
+    "descripcion": "En el punto más alto de su carrera como patinadora profesional de freestyle, Luna Valente sufre un terrible accidente y desaparece sin rastro del mundo del patinaje, dejando una estela imborrable.",
+    "año": 2026,
+    "duracion": "N/A",
+    "portada": "https://image.tmdb.org/t/p/w185/3gzwiyE7jHHvjWS8WBEqztCqxD9.jpg",
+    "banner": "https://static.wikia.nocookie.net/soyluna/images/3/34/Revival_promotional.jpg/revision/latest/scale-to-width-down/1200?cb=20260714131858",
+    "rating": 7.9,
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especial": "Disney",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "nombre": "1", "embed": "https://fastream.to/embed-ee43gbv3jmyb.html" },
+          { "nombre": "2", "embed": "https://fastream.to/embed-m7psktx03dlf.html" },
+          { "nombre": "3", "embed": "https://fastream.to/embed-6fswse1afes8.html" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Loki",
+    "generos": ["Accion", "Aventura", "Ciencia Ficcion", "Fantasia"],
+    "descripcion": "En “Loki”, de Marvel Studios, el volátil villano Loki (Tom Hiddleston) retoma su papel como el Dios de las Mentiras en una nueva serie que transcurre después de los eventos de “Avengers: Endgame”. Kate Herron dirige y Michael Waldron es el guionista principal.",
+    "año": 2021,
+    "duracion": "N/A",
+    "portada": "https://image.tmdb.org/t/p/w185/kAHPDqUUciuObEoCgYtHttt6L2Q.jpg",
+    "banner": "https://media.gq.com.mx/photos/5fd78f5d0ff8b1d1ff884138/16:9/w_2560%2Cc_limit/LOKI.jpg",
+    "rating": 7.9,
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especial": "Marvel",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "nombre": "1", "embed": "https://fastream.to/embed-z2yh1jvjr21g.html" },
+          { "nombre": "2", "embed": "https://fastream.to/embed-6djzovm8n959.html" }
+        ]
+      }
+    ]
+  }
+]
