@@ -49,5 +49,30 @@
         ]
       }
     ]
+  },
+  {
+    "id": 3,
+    "nombre": "Kakegurui",
+    "generos": ["Animacion", "Crimen", "Drama", "Misterio"],
+    "descripcion": "En la academia privada Hyakkaō, los estudiantes millonarios gozan de ciertos beneficios por tener habilidades e inteligencia más desarrollada, el resto sufre de los problemas de los de bajo estatus y su poca estrategia en los juegos de apuestas. Una nueva estudiante de segundo año transferida muestra una obsesiva conducta y gran destreza en los juegos de apuestas.",
+    "año": 2017,
+    "duracion": "N/A",
+    "rating": 8.2,
+    "portada": "https://image.tmdb.org/t/p/w185/h1MUwcwNjK3nkXFzeFowUqfy0Qw.jpg",
+    "banner": "https://i.pinimg.com/736x/03/03/ae/0303aea3d78503897006c7898be2ef24.jpg",
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especial": "Netflix",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "nombre": "1", "embed": "https://fastream.to/embed-965qo998rf0c.html" },
+          { "nombre": "2", "embed": "https://fastream.to/embed-kvrvg21wbej5.html" }
+        ]
+      }
+    ]
   }
 ]
