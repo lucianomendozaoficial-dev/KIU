@@ -950,5 +950,22 @@
     "edad": "+18",
     "camara": false,
     "especial": "Prime Video"
+  },
+  {
+    "id": 57,
+    "nombre": "Código: Venganza",
+    "generos": ["Accion", "Suspenso"],
+    "descripcion": "Después de que su jefe multimillonario sea asesinado frente a él, el agente de seguridad Cole Reed es incriminado por el homicidio y queda al borde de la bancarrota e injusticia. Perseguido por fuerzas internacionales, Reed debe limpiar su nombre y descubrir la conspiración detrás del asesinato, en una carrera contra el tiempo con acción intensa en alta mar y entornos corporativos letales.",
+    "año": 2026,
+    "duracion": "1h 35min",
+    "rating": 6.1,
+    "portada": "https://image.tmdb.org/t/p/w185/6PwLfI2qpRZIIwN63XnNMYAqj87.jpg",
+    "banner": "https://m.media-amazon.com/images/M/MV5BYjY2ZjY4ZjItZDkxMi00YzkzLWIwYmItYTY2YjRjZjA3Njg5XkEyXkFqcGdeQXZ3ZXNsZXk@._V1_QL75_UY281_CR0,0,500,281_.jpg",
+    "embed": "https://fastream.to/embed-2cuvr08mt0p2.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especial": false
   }
 ]
