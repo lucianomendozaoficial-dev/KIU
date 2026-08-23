@@ -5,15 +5,15 @@
     "dni": "47.258.027",
     "nombreCompleto": "Luciano Mendoza",
     "fechaExpiracion": "2026-09-18",
-    "plan": "Premium"
+    "plan": "Estandar"
   },
   {
-    "nombre": "kiu",
+    "nombre": "Kiu",
     "password": "2026",
     "dni": "00000000",
     "nombreCompleto": "Invitado Temporal",
     "fechaExpiracion": "2026-08-24",
-    "plan": "Dias Gratis"
+    "plan": "FreeDays"
   },
   {
     "nombre": "San",
@@ -21,6 +21,6 @@
     "dni": "00000000",
     "nombreCompleto": "Santiago Mendoza",
     "fechaExpiracion": "2026-08-25",
-    "plan": "Dias Gratis"
+    "plan": "FreeDays"
   }
 ]
