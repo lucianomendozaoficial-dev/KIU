@@ -18,9 +18,10 @@
       {
         "numero": 1,
         "capitulos": [
-          { "nombre": "1", "embed": "https://fastream.to/embed-ee43gbv3jmyb.html" },
-          { "nombre": "2", "embed": "https://fastream.to/embed-m7psktx03dlf.html" },
-          { "nombre": "3", "embed": "https://fastream.to/embed-6fswse1afes8.html" }
+          { "nombre": "C1", "embed": "https://fastream.to/embed-ee43gbv3jmyb.html" },
+          { "nombre": "C2", "embed": "https://fastream.to/embed-m7psktx03dlf.html" },
+          { "nombre": "C3", "embed": "https://fastream.to/embed-6fswse1afes8.html" },
+          { "nombre": "C4", "embed": "https://fastream.to/embed-gnrxz8t09xcm.html" }
         ]
       }
     ]
@@ -32,7 +33,7 @@
     "descripcion": "En “Loki”, de Marvel Studios, el volátil villano Loki (Tom Hiddleston) retoma su papel como el Dios de las Mentiras en una nueva serie que transcurre después de los eventos de “Avengers: Endgame”. Kate Herron dirige y Michael Waldron es el guionista principal.",
     "año": 2021,
     "duracion": "N/A",
-    "rating": 8.5,
+    "rating": 8.6,
     "portada": "https://image.tmdb.org/t/p/w185/kAHPDqUUciuObEoCgYtHttt6L2Q.jpg",
     "banner": "https://media.gq.com.mx/photos/5fd78f5d0ff8b1d1ff884138/16:9/w_2560%2Cc_limit/LOKI.jpg",
     "tipo": "serie",
@@ -44,8 +45,10 @@
       {
         "numero": 1,
         "capitulos": [
-          { "nombre": "1", "embed": "https://fastream.to/embed-z2yh1jvjr21g.html" },
-          { "nombre": "2", "embed": "https://fastream.to/embed-6djzovm8n959.html" }
+          { "nombre": "C1", "embed": "https://fastream.to/embed-z2yh1jvjr21g.html" },
+          { "nombre": "C2", "embed": "https://fastream.to/embed-6djzovm8n959.html" },
+          { "nombre": "C3", "embed": "https://fastream.to/embed-v7h16fsy2ryq.html" },
+          { "nombre": "C4", "embed": "https://fastream.to/embed-y3vqxtm0o003.html" }
         ]
       }
     ]
@@ -69,36 +72,14 @@
       {
         "numero": 1,
         "capitulos": [
-          { "nombre": "1", "embed": "https://fastream.to/embed-965qo998rf0c.html" },
-          { "nombre": "2", "embed": "https://fastream.to/embed-kvrvg21wbej5.html" }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "nombre": "World s End Harem",
-    "generos": ["Animacion", "Drama", "Misterio", "Ciencia Ficcion", "Fantasia"],
-    "descripcion": "En 2040 un virus llamado MK ha erradicado al 99,9% de la población masculina del mundo. Mizuhara Reito ha estado en sueño criogénico durante los últimos cinco años, dejando atrás a Tachibana Erisa, la chica de sus sueños.",
-    "año": 2022,
-    "duracion": "N/A",
-    "rating": 7.1,
-    "portada": "https://mega1080.me/wp-content/uploads/thumbs/37103fc8edfea2af2a6232a6a77aff9c_hd.webp",
-    "banner": "https://imgs.search.brave.com/6C_m5TCmeJGuqWpCGaaYrTOAna75mBC6yVgmwQHYUcs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9vcGVyLmNvbS9p/bWcvZ2FsbGVyeS93/b3JsZHMtZW5kLWhh/cmVtLXJlbGVhc2Ut/ZGF0ZS1jaGFyYWN0/ZXJzLWFuZC1wbG90/LXdoYXQtd2Uta25v/dy1zby1mYXIvd2hv/LWFyZS10aGUtY2hh/cmFjdGVycy1pbi13/b3JsZHMtZW5kLWhh/cmVtLTE2MzQ2NjAz/ODQuanBn",
-    "tipo": "serie",
-    "idioma": "Español (Latino)",
-    "edad": "+16",
-    "camara": false,
-    "especial": "Anime",
-    "temporadas": [
-      {
-        "numero": 1,
-        "capitulos": [
-          { "nombre": "1", "embed": "https://jkanime.net/jkplayer/um?e=alU0WjhWZnJkTHBwa3Rnd2lUVE9zSFdOaVFrUXRWRDNpN2p2cGlQK3RmYWFRUHhpOTZtU1RFOEtsY3F0ZHNrTUZMZXlUQkFXaER0VzdJYVFOck1rbFE9PTo6O43g7WNGlOPKqmqwWCjl8A--&t=9d5f802718a8d7139caa9addd293483e&op=NDY4NDI=" },
-          { "nombre": "2", "embed": "https://jkanime.net/jkplayer/um?e=TjBORGhCeGlMSUI5NFNLcmJqQ2NlbjVGMllUNW5CVDZCM0tiRVVwbTRFOVN6V0VzY29rV1VJaS94bVcxbUhnWXZPYTM3bU1RYjlxZCtTQlJlWWI5UFE9PTo6Qq2_lG11N2kD0XfwZFUfBA--&t=49d3b4db2721b0aa94033cd2bbbdde43&op=NDc5NjM=" },
-          { "nombre": "3", "embed": "https://jkanime.net/jkplayer/um?e=RnBzRzlZMWFjc2tIcS9lWXVQaXB5NUpTbDEvaVJ2L20ydlBnVGJHYzdZa1p4bUtucXdRQmIwUVBYMjd4eW1uSThpaXBmSzZ4T0Z4RXpkM3B6N3N6UXc9PTo6RrgeRMksLEidGzMR_Y6M7A--&t=54430319f44a3febe74012d9ced38a1d&op=NDgwMzI=" }
+          { "nombre": "C1", "embed": "https://fastream.to/embed-965qo998rf0c.html" },
+          { "nombre": "C2", "embed": "https://fastream.to/embed-kvrvg21wbej5.html" },
+          { "nombre": "C3", "embed": "https://fastream.to/embed-4rex1i3vloc2.html" },
+          { "nombre": "C4", "embed": "https://fastream.to/embed-y6tdf93sah3t.html" },
+          { "nombre": "C5", "embed": "https://fastream.to/embed-3yad6nq5v2ev.html" }
         ]
       }
     ]
   }
+  
 ]
