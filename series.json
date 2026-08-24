@@ -80,6 +80,32 @@
         ]
       }
     ]
+  },
+  {
+    "id": 4,
+    "nombre": "The walking dead: Daryl Dixon",
+    "generos": ["Accion", "Aventura", "Ciencia Ficcion", "Fantasia"],
+    "descripcion": "Meses después de que lo vimos por última vez en "The Walking Dead", Daryl Dixon se ve transportado a través del Atlántico a Francia.",
+    "año": 2023,
+    "duracion": "N/A",
+    "rating": 7.8,
+    "portada": "https://image.tmdb.org/t/p/w185/kdM24KINoAVK9wjCtDJCkdffEpc.jpg",
+    "banner": "https://m.media-amazon.com/images/S/pv-target-images/4e66721ca75d3b78d6bf05f6ee833e5b9c7190c12873fc85b58e9b502023c22f.jpg",
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especial": "Prime Video",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "nombre": "C1", "embed": "https://fastream.to/embed-sm2tnm8frwci.html" },
+          { "nombre": "C2", "embed": "https://fastream.to/embed-gf1qhe69th78.html" },
+          { "nombre": "C3", "embed": "https://fastream.to/embed-1thp7v66xgy0.html" }
+        ]
+      }
+    ]
   }
   
 ]
