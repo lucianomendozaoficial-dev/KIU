@@ -14,13 +14,5 @@
     "nombreCompleto": "Invitado Temporal",
     "fechaExpiracion": "2026-08-24",
     "plan": "FreeDays"
-  },
-  {
-    "nombre": "San",
-    "password": "2026",
-    "dni": "00000000",
-    "nombreCompleto": "Santiago Mendoza",
-    "fechaExpiracion": "2026-08-25",
-    "plan": "FreeDays"
   }
 ]
