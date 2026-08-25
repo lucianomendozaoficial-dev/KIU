@@ -14,5 +14,13 @@
     "nombreCompleto": "Invitado Temporal",
     "fechaExpiracion": "2026-08-24",
     "plan": "FreeDays"
+  },
+{
+    "nombre": "Elias",
+    "password": "2000",
+    "dni": "00000000",
+    "nombreCompleto": "Elias",
+    "fechaExpiracion": "2026-09-01",
+    "plan": "FreeDays"
   }
 ]
