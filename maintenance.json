@@ -1,5 +1,5 @@
 {
-  "global": false,
+  "global": true,
   "sections": {
     "home": false,
     "movies": false,
