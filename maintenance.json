@@ -1,0 +1,17 @@
+{
+  "global": false,
+  "sections": {
+    "home": false,
+    "movies": false,
+    "series": false,
+    "detail": false,
+    "player": false,
+    "favorites": false,
+    "search": false,
+    "brand": false
+  },
+  "messages": {
+    "global": "Estamos realizando tareas de mantenimiento. Vuelve pronto.",
+    "section": "Esta sección se encuentra en mantenimiento. Disculpa las molestias."
+  }
+}
