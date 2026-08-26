@@ -1018,5 +1018,22 @@
     "edad": "",
     "camara": false,
     "especial": "Netflix"
+  },
+  {
+    "id": 61,
+    "nombre": "Iron Man",
+    "generos": ["Aventura", "Ciencia Ficcion"],
+    "descripcion": "Tony Stark, playboy multimillonario, es el dueño de Stark Industries, una importante empresa de armamento. Unos terroristas le secuestran y torturan para que fabrique para ellos un misil devastador. En vez de eso decide que su empresa dejará de fabricar armas, la deja en manos de Obadiah Stane, su hombre de confianza y él se dedica a construir una potente armadura. Pero Stane le traiciona y sigue fabricando armas.",
+    "año": 2008,
+    "duracion": "2h 6min",
+    "rating": 7.9,
+    "portada": "https://image.tmdb.org/t/p/w185/2Ms5bJuHPPzSuMGogEwyQu0UF7t.jpg",
+    "banner": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/655febf8-8fee-41a6-874b-7a8fe9aea627/compose?aspectRatio=1.78&format=webp&width=1200",
+    "embed": "https://fastream.to/embed-hx1sx3uk9ir5.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "",
+    "camara": false,
+    "especial": "Marvel"
   }
 ]
