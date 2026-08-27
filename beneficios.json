@@ -1,0 +1,23 @@
+{
+  "FreeDays": {
+    "precio": 0,
+    "beneficios": [
+      "Dias Gratis",
+      "Acceso a todo el catálogo"
+    ]
+  },
+  "Estandar": {
+    "precio": 1500,
+    "beneficios": [
+      "Acceso a todo el catalogo"
+    ]
+  },
+  "Premium": {
+    "precio": 2000,
+    "beneficios": [
+      "Acceso a todo el catalogo",
+      "Contenido Anticipado",
+      "Perfil Niños"
+    ]
+  }
+}
