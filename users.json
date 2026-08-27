@@ -22,5 +22,13 @@
     "nombreCompleto": "Elias",
     "fechaExpiracion": "2026-09-01",
     "plan": "FreeDays"
+  },
+{
+    "nombre": "Mely",
+    "password": "9999",
+    "dni": "00000000",
+    "nombreCompleto": "Melany Diaz",
+    "fechaExpiracion": "2026-09-06",
+    "plan": "FreeDays"
   }
 ]
