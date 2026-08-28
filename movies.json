@@ -1052,5 +1052,22 @@
     "edad": "",
     "camara": false,
     "especial": "Prime Video"
+  },
+  {
+    "id": 63,
+    "nombre": "Michael",
+    "generos": ["Drama", "Musica"],
+    "descripcion": "Narra la vida de Michael Jackson más allá de la música, recorriendo su trayectoria desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en un artista visionario cuya ambición creativa le impulsó a convertirse en el artista más grande del mundo.",
+    "año": 2026,
+    "duracion": "2h 7min",
+    "rating": 7.4,
+    "portada": "https://image.tmdb.org/t/p/w185/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg",
+    "banner": "https://i.ytimg.com/vi/wOPLURIeAYc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDw-X4eb3rwLsdrVqkJV4NBApqwag",
+    "embed": "https://fastream.to/embed-9aqyhbfai9b8.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "",
+    "camara": false,
+    "especial": "Prime Video"
   }
 ]
