@@ -1154,5 +1154,22 @@
     "edad": "",
     "camara": false,
     "especial": "Netflix"
+  },
+  {
+    "id": 69,
+    "nombre": "Pinocho: Sin cuerdas",
+    "generos": ["Fantasia", "Misterio", "Terror"],
+    "descripcion": "Un niño llamado James visita a su abuelo, Geppetto, quien le presenta a Pinocho, una marioneta de madera aparentemente mágica, para convertirse en su mejor amigo. Sin embargo, ignorando la ingenuidad de Pinocho, James lo presenta al mundo, lo que lleva al títere a emprender una cruzada para eliminar todo lo "malo" junto con su amigo y compañero Pepe el Grillo.",
+    "año": 2026,
+    "duracion": "1h 22min",
+    "rating": 5.8,
+    "portada": "https://image.tmdb.org/t/p/w185/hRaAGZf4U4V1eDsugSKZAllqdc5.jpg",
+    "banner": "https://images.justwatch.com/backdrop/346014604/s640/pinocho-sin-cuerdas.jpg",
+    "embed": "https://fastream.to/embed-hz7mskauv910.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "",
+    "camara": false,
+    "especial": false
   }
 ]
