@@ -103,19 +103,36 @@
   },
   {
     "id": 7,
-    "nombre": "Supergirl",
+    "nombre": "Resident Evil: Noche cero",
     "generos": ["Ciencia Ficcion", "Accion", "Aventura"],
-    "descripcion": "Mientras celebra su cumpleaños número 21, Kara Zor-El viaja por la galaxia con su perro Krypto, durante el cual conoce a la joven Ruthye Marye Knoll y emprende una búsqueda asesina de venganza.",
+    "descripcion": "Un desafortunado mensajero, encargado de entregar un paquete a un hospital remoto, se ve atrapado en medio de un brote y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
     "año": 2026,
     "duracion": "",
-    "rating": 7.1,
-    "portada": "https://image.tmdb.org/t/p/w185/diEz9JG1UHEDTN0Yeri5sJZD7PL.jpg",
-    "banner": "https://tse2.mm.bing.net/th/id/OIP.xs2AJpWUX4-JDZ0AYxbJ6QHaEo?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-    "embed": "ps://hugh.cdn.rumble.cloud/video/fwe2/e5/s8/2/8/U/W/A/8UWAA.aaa.mp4",
+    "rating": 7.7,
+    "portada": "https://image.tmdb.org/t/p/w185/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
+    "banner": "https://reelevant.wordpress.com/wp-content/uploads/2026/09/srtccgtpqbaltnayckkxipklly.png",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fww1/5c/s8/2/U/8/N/Z/U8NZA.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Hbo"
+    "especial": false
+  },
+  {
+    "id": 8,
+    "nombre": "Guerra mundial Z",
+    "generos": ["Ciencia Ficcion", "Suspenso", "Drama", "Terror"],
+    "descripcion": "espués de ser llevado a un portaaviones del ejército, Gerry recibirá la misión de averiguar el origen del virus que está destruyendo la humanidad a pasos agigantados. Deberá viajar a Jerusalén, último lugar del que se tienen registros del virus que dio origen a la pandemia. Aquí comenzará una carrera contrarreloj que Gerry tendrá que ganar si quiere salvaguardar el futuro de una humanidad que está siendo devastada por unos seres rabiosos que parecen tener su origen en un virus diseñado y propagado por los seres humanos.",
+    "año": 2013,
+    "duracion": "",
+    "rating": 7.0,
+    "portada": "https://image.tmdb.org/t/p/w185/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg",
+    "banner": "https://tse4.mm.bing.net/th/id/OIP.v1E7Hk5D8O-_5ULxvg1f-gHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/M/r/K/t/MrKtq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especial": "Netflix"
   }
 ]
