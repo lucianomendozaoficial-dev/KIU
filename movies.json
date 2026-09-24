@@ -151,5 +151,22 @@
     "edad": "",
     "camara": false,
     "especial": "Netflix"
+  },
+  {
+    "id": 10,
+    "nombre": "Mas alla del universo",
+    "generos": ["Romance", "Drama", "Musica"],
+    "descripcion": "cuenta la historia de Nina, una joven pianista con lupus que espera un trasplante de riñón y encuentra el amor y la fuerza para cumplir sus sueños musicales gracias a Gabriel, uno de los médicos que la cuida.",
+    "año": 2022,
+    "duracion": "",
+    "rating": ,
+    "portada": "https://image.tmdb.org/t/p/original/fkOHhO1KQyLGOblM7e5bkfnu0Ln.jpg",
+    "banner": "https://mx.web.img2.acsta.net/r_1280_720/pictures/22/04/13/22/55/5294271.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/J/r/f/r/Jrfrq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especial": "Netflix"
   }
 ]
