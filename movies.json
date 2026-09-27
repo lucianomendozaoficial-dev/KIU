@@ -5,62 +5,71 @@
     "generos": [
       "Comedia",
       "Aventura",
-      "Fantasia",
+      "Fantasía",
       "Familia"
     ],
     "descripcion": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
     "año": 2025,
     "duracion": "",
     "portada": "https://image.tmdb.org/t/p/original/rZYYmjgyF5UP1AVsvhzzDOFLCwG.jpg",
-    "banner": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcDcnUUhdSED1M8gwx7842jMl_nzbMxXTjDoCpsuiWdqyAveux8jltaV1jN-iKGj7A1_w7Lm4-tVPZYqAHlAn4-_Jd0DYvQ-hUgxO5vN2Ncr64fp4joplOUIymBXIuDEzLFHkJTXqQiHoT_8dKCfKFXHXjyZZ5ZmEbwVUsnu1x-OvpTD19hBc9gS1yuCpZ/s3840/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
     "embed": "https://rumble.com/hls-vod/78jie0/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "+13",
     "camara": false,
-    "especial": false
+    "especial": false,
+    "tmdb_id": 950387,
+    "rating": 6.2,
+    "rating_updated": "2026-09-27T17:08:40.889Z"
   },
   {
     "id": 2,
     "nombre": "Avengers: Infinity War",
     "generos": [
-      "Accion",
+      "Acción",
       "Aventura",
-      "Ciencia Ficcion",
-      "Fantasia"
+      "Ciencia Ficción",
+      "Fantasía"
     ],
     "descripcion": "Un nuevo peligro acecha procedente de las sombras del cosmos. Thanos, el infame tirano intergaláctico, tiene como objetivo reunir las seis Gemas del Infinito, artefactos de poder inimaginable, y usarlas para imponer su perversa voluntad a toda la existencia.",
     "año": 2018,
     "duracion": "",
     "portada": "https://image.tmdb.org/t/p/original/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg",
-    "banner": "https://www.ciempiesmagazine.com/wp-content/uploads/2018/06/share-1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
     "embed": "https://rumble.com/hls-vod/78tkvm/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Marvel"
+    "especial": "Marvel",
+    "tmdb_id": 299536,
+    "rating": 8.2,
+    "rating_updated": "2026-09-27T17:08:41.267Z"
   },
   {
     "id": 3,
     "nombre": "Avengers: Endgame",
     "generos": [
-      "Accion",
+      "Acción",
       "Aventura",
-      "Ciencia Ficcion",
-      "Fantasia"
+      "Ciencia Ficción",
+      "Fantasía"
     ],
     "descripcion": "Después de los eventos devastadores de 'Vengadores: Infinity War', el universo está en ruinas debido a las acciones de Thanos. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles sean las consecuencias... Cuarta y última entrega de la saga Vengadores.",
     "año": 2019,
     "duracion": "",
-    "portada": "https://image.tmdb.org/t/p/original/i4YcoMGEZECeoF3uaZ7tlxrvoxo.jpg",
-    "banner": "https://c.files.bbci.co.uk/BF0D/production/_106090984_2e39b218-c369-452e-b5be-d2476f9d8728.jpg",
+    "portada": "https://image.tmdb.org/t/p/original/ycvuLbEuMG88UPuwuAYJWY0ZI8v.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/j/K/2/f/jK2fq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Marvel"
+    "especial": "Marvel",
+    "tmdb_id": 299534,
+    "rating": 8.2,
+    "rating_updated": "2026-09-27T17:08:41.646Z"
   },
   {
     "id": 4,
@@ -73,79 +82,91 @@
     "año": 2004,
     "duracion": "",
     "portada": "https://image.tmdb.org/t/p/original/yrZPHvxkgWWeUXigjxBsxmqcGAf.jpg",
-    "banner": "https://assets.mubicdn.net/images/film/43336/image-w1280.jpg?1745490428",
+    "banner": "https://image.tmdb.org/t/p/original/qvcOovScPoRalRxDy50rYSYFree.jpg",
     "embed": "https://rumble.com/hls-vod/78aoym/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "+18",
     "camara": false,
-    "especial": "Prime Video"
+    "especial": "Prime Video",
+    "tmdb_id": 10591,
+    "rating": 6.8,
+    "rating_updated": "2026-09-27T17:08:42.033Z"
   },
   {
     "id": 5,
     "nombre": "Deadpool",
     "generos": [
       "Comedia",
-      "Accion",
+      "Acción",
       "Aventura"
     ],
     "descripcion": "Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida, adoptando Wade entonces el alter ego de Deadpool. Armado con sus nuevas habilidades y un oscuro y retorcido sentido del humor, Deadpool intentará dar caza al hombre que casi destruye su vida.",
     "año": 2016,
     "duracion": "",
     "portada": "https://image.tmdb.org/t/p/original/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg",
-    "banner": "https://tse3.mm.bing.net/th/id/OIP.cLwNMCVZJpp4UNixOSH3OQHaE7?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "banner": "https://image.tmdb.org/t/p/original/rFj9IKlL75B2pXhZA60jkNWvxeW.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/O/B/d/-/OBd-p.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Marvel"
+    "especial": "Marvel",
+    "tmdb_id": 293660,
+    "rating": 7.6,
+    "rating_updated": "2026-09-27T17:08:42.409Z"
   },
   {
     "id": 6,
     "nombre": "Deadpool 2",
     "generos": [
       "Comedia",
-      "Accion",
+      "Acción",
       "Aventura"
     ],
     "descripcion": "el mutante conocido como Deadpool y el antihéroe más gamberro de Marvel tiene que vérselas esta vez con Cable (Josh Brolin). El poderoso villano ha secuestrado a un chaval llamado Russell (Julian Dennison). Para salvar al joven, el desvergonzado mutante decide montar un hiper-mega escuadrón al que, por toda la cara, va a llamar X-Force. En este escuadrón estarán Domino (Zazie Beetz), Estrella Rota (Lewis Tan), Negasonic (Brianna Hildebrand), Zeitgeist (Bill Skarsgård), Yukio (Shioli Kutsuna), Coloso (Stefan Kapicic) y Bedlam (Terry Crews). Con su característica irreverencia, el antihéroe deberá demostrar a Cable que es un héroe y no solo un payaso.",
     "año": 2018,
     "duracion": "",
     "portada": "https://image.tmdb.org/t/p/original/84NUrv5kuMUDDlOPqi97KGJMdLm.jpg",
-    "banner": "https://tse4.mm.bing.net/th/id/OIP.fbKCi7UtWSZpEwx9cNOwvwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "banner": "https://image.tmdb.org/t/p/original/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/t/5/w/_/t5w_p.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Marvel"
+    "especial": "Marvel",
+    "tmdb_id": 383498,
+    "rating": 7.5,
+    "rating_updated": "2026-09-27T17:08:42.786Z"
   },
   {
     "id": 7,
     "nombre": "Resident Evil: Noche cero",
     "generos": [
-      "Ciencia Ficcion",
-      "Accion",
+      "Ciencia Ficción",
+      "Acción",
       "Aventura"
     ],
     "descripcion": "Un desafortunado mensajero, encargado de entregar un paquete a un hospital remoto, se ve atrapado en medio de un brote y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
     "año": 2026,
     "duracion": "",
     "portada": "https://image.tmdb.org/t/p/original/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
-    "banner": "https://reelevant.wordpress.com/wp-content/uploads/2026/09/srtccgtpqbaltnayckkxipklly.png",
+    "banner": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/fww1/5c/s8/2/U/8/N/Z/U8NZA.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": false
+    "especial": false,
+    "tmdb_id": 1423191,
+    "rating": 7.3,
+    "rating_updated": "2026-09-27T17:08:43.163Z"
   },
   {
     "id": 8,
     "nombre": "Guerra mundial Z",
     "generos": [
-      "Ciencia Ficcion",
+      "Ciencia Ficción",
       "Suspenso",
       "Drama",
       "Terror"
@@ -153,14 +174,17 @@
     "descripcion": "espués de ser llevado a un portaaviones del ejército, Gerry recibirá la misión de averiguar el origen del virus que está destruyendo la humanidad a pasos agigantados. Deberá viajar a Jerusalén, último lugar del que se tienen registros del virus que dio origen a la pandemia. Aquí comenzará una carrera contrarreloj que Gerry tendrá que ganar si quiere salvaguardar el futuro de una humanidad que está siendo devastada por unos seres rabiosos que parecen tener su origen en un virus diseñado y propagado por los seres humanos.",
     "año": 2013,
     "duracion": "",
-    "portada": "https://image.tmdb.org/t/p/w185/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg",
-    "banner": "https://tse4.mm.bing.net/th/id/OIP.v1E7Hk5D8O-_5ULxvg1f-gHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "portada": "https://image.tmdb.org/t/p/original/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kg2FOT2Oe5PSCgs3L4vLel6B7ck.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/M/r/K/t/MrKtq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Netflix"
+    "especial": "Netflix",
+    "tmdb_id": 72190,
+    "rating": 6.9,
+    "rating_updated": "2026-09-27T17:08:43.539Z"
   },
   {
     "id": 9,
@@ -172,13 +196,16 @@
     "año": 2019,
     "duracion": "",
     "portada": "https://image.tmdb.org/t/p/original/hBq8SkRduhzF8B4nwBNbEE1zuOp.jpg",
-    "banner": "https://windumanoth.com/wp-content/uploads/2019/11/En-la-hierba-alta.png",
+    "banner": "https://image.tmdb.org/t/p/original/qk8pKinGFWEDZ02NVKuUsBuWuGx.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/r/q/H/t/rqHtq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Netflix"
+    "especial": "Netflix",
+    "tmdb_id": 523139,
+    "rating": 5.6,
+    "rating_updated": "2026-09-27T17:08:43.975Z"
   },
   {
     "id": 10,
@@ -186,19 +213,22 @@
     "generos": [
       "Romance",
       "Drama",
-      "Musica"
+      "Música"
     ],
     "descripcion": "cuenta la historia de Nina, una joven pianista con lupus que espera un trasplante de riñón y encuentra el amor y la fuerza para cumplir sus sueños musicales gracias a Gabriel, uno de los médicos que la cuida.",
     "año": 2022,
     "duracion": "",
     "portada": "https://image.tmdb.org/t/p/original/fkOHhO1KQyLGOblM7e5bkfnu0Ln.jpg",
-    "banner": "https://mx.web.img2.acsta.net/r_1280_720/pictures/22/04/13/22/55/5294271.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pKfvYWbxhVnGHg6By3VaxtrbLZe.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/J/r/f/r/Jrfrq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Netflix"
+    "especial": "Netflix",
+    "tmdb_id": 962232,
+    "rating": 7.9,
+    "rating_updated": "2026-09-27T17:08:44.361Z"
   },
   {
     "id": 11,
@@ -211,33 +241,39 @@
     "año": 2015,
     "duracion": "",
     "portada": "https://image.tmdb.org/t/p/original/kNjz9Ezuf8tZHP2MfMbtDzDJ8wR.jpg",
-    "banner": "https://tse4.mm.bing.net/th/id/OIP.sHLoz3BodIkNvPOTCZsagwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "banner": "https://image.tmdb.org/t/p/original/iof28QKa6bKFYCXSexuITxdKBvi.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/C/r/h/Y/CrhYp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Paramount"
+    "especial": "Paramount",
+    "tmdb_id": 318846,
+    "rating": 7.4,
+    "rating_updated": "2026-09-27T17:08:44.736Z"
   },
   {
     "id": 12,
     "nombre": "ghost rider 2",
     "generos": [
-      "Accion",
-      "Fantasia",
+      "Acción",
+      "Fantasía",
       "Suspenso"
     ],
     "descripcion": "Johnny Blaze, atormentado por la maldición del Ghost Rider, debe proteger al hijo del Diablo para intentar liberarse de su propia maldición.",
     "año": 2011,
     "duracion": "",
     "portada": "https://image.tmdb.org/t/p/original/nMPCSYPyeBbfwHUCvyAJUEUiLBU.jpg",
-    "banner": "https://wallpapers.com/images/hd/ghost-rider-chains-of-hell-4r3t7tctbunbd5lh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ebNcAJfWsSbbv7VhboAvpUdOduJ.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/H/5/Z/W/H5ZWp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Marvel"
+    "especial": "Marvel",
+    "tmdb_id": 71676,
+    "rating": 5,
+    "rating_updated": "2026-09-27T17:08:45.113Z"
   },
   {
     "id": 13,
@@ -250,51 +286,198 @@
     "año": 2016,
     "duracion": "",
     "portada": "https://image.tmdb.org/t/p/original/w8jnoNb6ND8WcYPkKyDhrgOvRqf.jpg",
-    "banner": "https://m.media-amazon.com/images/S/pv-target-images/2dea031566a8687ba1ed91f5d9f44b68a2609c79b0ce98ca5b9b6d4950f40788._UR1920,1080_SX500_FMjpg_.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oFQilRMEq6yQbtMPxIYWpXeQ5ZN.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/N/C/Y/W/NCYWp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": false
+    "especial": false,
+    "tmdb_id": 291805,
+    "rating": 6.8,
+    "rating_updated": "2026-09-27T17:08:45.494Z"
   },
   {
     "id": 14,
     "nombre": "Harry Potter y la piedra filosofal ",
     "generos": [
       "Aventura",
-      "Fantasia"
+      "Fantasía"
     ],
     "descripcion": "un niño huérfano criado por sus crueles tíos, descubre en su 11.º cumpleaños que es un mago y es invitado a estudiar en Hogwarts, donde enfrentará el misterio de la Piedra Filosofal y la amenaza del mago Voldemort.",
     "año": 2001,
     "duracion": "",
     "portada": "https://image.tmdb.org/t/p/original/kNNtiEp5qktfRjiwjkRq8WLmF40.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gpQeZl2Sx8QKSxx9PabjX6Q14y4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lvOLivVeX3DVVcwfVkxKf0R22D8.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/N/Y/J/V/NYJVp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Hbo"
+    "especial": "Hbo",
+    "tmdb_id": 671,
+    "rating": 7.9,
+    "rating_updated": "2026-09-27T17:08:45.870Z"
   },
   {
     "id": 15,
-    "nombre": "el dia despues de mañana",
+    "nombre": "El día después de mañana",
     "generos": [
-      "Ciencia Ficcion",
-      "Accion",
-      "Suspenso"
+      "Ciencia Ficción",
+      "Suspenso",
+      "Aventura"
     ],
-    "descripcion": "narra cómo un abrupto colapso climático global provoca tormentas extremas y una nueva era glacial, mientras el climatólogo Jack Hall intenta rescatar a su hijo Sam en un Nueva York congelado.",
+    "descripcion": "Las investigaciones del climatólogo Jack Hall indican que el calentamiento global podría desencadenar un repentino y catastrófico cambio climático de la Tierra. Hall advierte a los dirigentes políticos de la necesidad de adoptar inmediatamente medidas para evitarlo, pero sus advertencias llegan demasiado tarde: una serie de anómalos fenómenos climáticos empiezan a producirse en distintas partes del globo. El calentamiento global ha puesto el planeta al borde de una nueva era glacial. Mientras Jack advierte a la Casa Blanca del inminente cambio climático, su hijo Sam y sus amigos se encuentran atrapados en Nueva York, a donde han ido para participar en un concurso académico entre institutos.",
     "año": 2004,
     "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-09-27T17:19:28.362Z",
+    "tmdb_id": 435,
     "portada": "https://image.tmdb.org/t/p/original/rT70FZPn3DEFB5UdMHlkwaYQWNV.jpg",
-    "banner": "https://tse2.mm.bing.net/th/id/OIP.VOHowJwMU3Iloxq9lW--ygHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "banner": "https://image.tmdb.org/t/p/original/smqQ71MIn1DSdSiQzCzCOV6rgRq.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/1/i/g/V/1igVp.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especial": "Disney"
+  },
+  {
+    "id": 16,
+    "nombre": "Los colegas del barrio",
+    "generos": [
+      "Comedia",
+      "Crimen"
+    ],
+    "descripcion": "Ashtray es un joven negro que se va a Los Angeles a vivir con su padre y con su peculiar abuela. Allí se encuentra con su primo Loc Dog, que se pasa el día con su pandilla de amigos por el barrio",
+    "año": 1996,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-09-27T17:21:55.893Z",
+    "tmdb_id": 10607,
+    "portada": "https://image.tmdb.org/t/p/original/kcuYD6iEbd20783khRyZqFnGwNB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dfkE2LppPbJ1qUzi3tdND5iuMFp.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/r/m/x/s/rmxsq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especial": "Netflix"
+  },
+  {
+    "id": 17,
+    "nombre": "Criaturas Asombrosas",
+    "generos": [
+      "Aventura",
+      "Drama",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "En un mundo azotado por una ola de mutaciones que transforman a los humanos en animales, François hace todo lo posible para salvar a su esposa. Mientras algunas de las criaturas desaparecen en un bosque cercano, él y su hijo Émile se embarcan en una búsqueda que cambiará sus vidas para siempre.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-09-27T17:23:37.405Z",
+    "tmdb_id": 943134,
+    "portada": "https://image.tmdb.org/t/p/original/oWh4BiNEmg7d91ZOXPzdkRo0KSO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/H41DJiw7Q8xn6bWC75eyaavp9L.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/J/s/s/U/JssUp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
     "especial": "Disney"
+  },
+  {
+    "id": 18,
+    "nombre": "Muerte instantánea",
+    "generos": [
+      "Terror",
+      "Misterio",
+      "Suspenso"
+    ],
+    "descripcion": "Una adolescente solitaria, Bird Fitcher, se tropieza con una antigua Polaroid y pronto descubre que la cámara alberga un terrible secreto: cualquiera que se toma una fotografía con ella, tiene un final trágico y violento. Ella y sus amigos deben sobrevivir una noche para resolver el misterio de la cámara “embrujada”. Adaptación cinematográfica del cortometraje homónimo.",
+    "año": 2019,
+    "duracion": "",
+    "rating": 6,
+    "rating_updated": "2026-09-27T17:26:31.813Z",
+    "tmdb_id": 431075,
+    "portada": "https://image.tmdb.org/t/p/original/ghNua7wru2APolXOutWqO5kpJrI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lECfRcKuZzIm3uyIt6K7SuudDfN.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/x/q/J/p/xqJpq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especial": "Prime Video"
+  },
+  {
+    "id": 19,
+    "nombre": "La decisión más difícil",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "Sara y Brian viven una vida idílica con su pequeño hijo y su hija. Pero su familia se ve sacudida por noticias repentinas y desgarradoras que los fuerzan a tomar una decisión difícil y poco ortodoxa para salvar la vida de su bebé. La decisión desesperada de los padres plantea cuestiones éticas y morales y arranca la base de su relación. Sus acciones finalmente desencadenan un caso judicial que amenaza con desgarrar a la familia, al tiempo que revelan verdades sorprendentes que desafían las percepciones de todos sobre el amor y la lealtad y dan un nuevo significado a la definición de curación.",
+    "año": 2009,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-09-27T17:43:04.285Z",
+    "tmdb_id": 10024,
+    "portada": "https://image.tmdb.org/t/p/original/bvLsfZfaqGiq46lEbtWj7WuQjZ9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zpVMWiNJgcwHB0zIMGjXQMnSKPZ.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/o/i/J/Q/oiJQp.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especial": "Prime Video"
+  },
+  {
+    "id": 20,
+    "nombre": "Los Croods 2: Una Nueva Era",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Aventura",
+      "Fantasía",
+      "Comedia"
+    ],
+    "descripcion": "La familia prehistórica Los Croods es desafiada por una familia rival, los Betterman, que dicen ser mejores y más evolucionados.",
+    "año": 2020,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-09-27T17:44:48.788Z",
+    "tmdb_id": 529203,
+    "portada": "https://image.tmdb.org/t/p/original/5uMWKEmegf5aTJnp1u98JF4QerP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/f/q/K/Q/fqKQp.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especial": "Prime Video"
+  },
+  {
+    "id": 21,
+    "nombre": "¡Patos!",
+    "generos": [
+      "Familia",
+      "Comedia",
+      "Aventura",
+      "Animación"
+    ],
+    "descripcion": "Después de que una familia de patos migratorios aterriza en su estanque con emocionantes historias de lugares remotos, la familia Mallard embarca en un viaje familiar, atravezando la ciudad de Nueva York, con destino a la tropical Jamaica.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-09-27T17:46:02.752Z",
+    "tmdb_id": 940551,
+    "portada": "https://image.tmdb.org/t/p/original/hy48coaN2eRaoXN5u1Qzt8xYpwM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gklkxY0veMajdCiGe6ggsh07VG2.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/q/A/J/R/qAJRp.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especial": "Netflix"
   }
 ]
