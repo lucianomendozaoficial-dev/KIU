@@ -2,7 +2,12 @@
   {
     "id": 1,
     "nombre": "Una película de Minecraft",
-    "generos": ["Comedia", "Aventura", "Fantasia", "Familia"],
+    "generos": [
+      "Comedia",
+      "Aventura",
+      "Fantasia",
+      "Familia"
+    ],
     "descripcion": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
     "año": 2025,
     "duracion": "",
@@ -18,7 +23,12 @@
   {
     "id": 2,
     "nombre": "Avengers: Infinity War",
-    "generos": ["Accion", "Aventura", "Ciencia Ficcion", "Fantasia"],
+    "generos": [
+      "Accion",
+      "Aventura",
+      "Ciencia Ficcion",
+      "Fantasia"
+    ],
     "descripcion": "Un nuevo peligro acecha procedente de las sombras del cosmos. Thanos, el infame tirano intergaláctico, tiene como objetivo reunir las seis Gemas del Infinito, artefactos de poder inimaginable, y usarlas para imponer su perversa voluntad a toda la existencia.",
     "año": 2018,
     "duracion": "",
@@ -34,7 +44,12 @@
   {
     "id": 3,
     "nombre": "Avengers: Endgame",
-    "generos": ["Accion", "Aventura", "Ciencia Ficcion", "Fantasia"],
+    "generos": [
+      "Accion",
+      "Aventura",
+      "Ciencia Ficcion",
+      "Fantasia"
+    ],
     "descripcion": "Después de los eventos devastadores de 'Vengadores: Infinity War', el universo está en ruinas debido a las acciones de Thanos. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles sean las consecuencias... Cuarta y última entrega de la saga Vengadores.",
     "año": 2019,
     "duracion": "",
@@ -50,7 +65,10 @@
   {
     "id": 4,
     "nombre": "La chica de al lado",
-    "generos": ["Comedia", "Romance"],
+    "generos": [
+      "Comedia",
+      "Romance"
+    ],
     "descripcion": "Matthew, un ambicioso joven de un instituto con aspiraciones a ser político en el futuro, se enamora de la chica de sus sueños: la bella y joven vecina de la puerta de al lado. Ambos comienzan un idílico romance, pero un sorprendente descubrimiento pondrá a prueba su relación: ella es un famosa actriz porno.",
     "año": 2004,
     "duracion": "",
@@ -66,7 +84,11 @@
   {
     "id": 5,
     "nombre": "Deadpool",
-    "generos": ["Comedia", "Accion", "Aventura"],
+    "generos": [
+      "Comedia",
+      "Accion",
+      "Aventura"
+    ],
     "descripcion": "Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida, adoptando Wade entonces el alter ego de Deadpool. Armado con sus nuevas habilidades y un oscuro y retorcido sentido del humor, Deadpool intentará dar caza al hombre que casi destruye su vida.",
     "año": 2016,
     "duracion": "",
@@ -82,7 +104,11 @@
   {
     "id": 6,
     "nombre": "Deadpool 2",
-    "generos": ["Comedia", "Accion", "Aventura"],
+    "generos": [
+      "Comedia",
+      "Accion",
+      "Aventura"
+    ],
     "descripcion": "el mutante conocido como Deadpool y el antihéroe más gamberro de Marvel tiene que vérselas esta vez con Cable (Josh Brolin). El poderoso villano ha secuestrado a un chaval llamado Russell (Julian Dennison). Para salvar al joven, el desvergonzado mutante decide montar un hiper-mega escuadrón al que, por toda la cara, va a llamar X-Force. En este escuadrón estarán Domino (Zazie Beetz), Estrella Rota (Lewis Tan), Negasonic (Brianna Hildebrand), Zeitgeist (Bill Skarsgård), Yukio (Shioli Kutsuna), Coloso (Stefan Kapicic) y Bedlam (Terry Crews). Con su característica irreverencia, el antihéroe deberá demostrar a Cable que es un héroe y no solo un payaso.",
     "año": 2018,
     "duracion": "",
@@ -98,7 +124,11 @@
   {
     "id": 7,
     "nombre": "Resident Evil: Noche cero",
-    "generos": ["Ciencia Ficcion", "Accion", "Aventura"],
+    "generos": [
+      "Ciencia Ficcion",
+      "Accion",
+      "Aventura"
+    ],
     "descripcion": "Un desafortunado mensajero, encargado de entregar un paquete a un hospital remoto, se ve atrapado en medio de un brote y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
     "año": 2026,
     "duracion": "",
@@ -114,7 +144,12 @@
   {
     "id": 8,
     "nombre": "Guerra mundial Z",
-    "generos": ["Ciencia Ficcion", "Suspenso", "Drama", "Terror"],
+    "generos": [
+      "Ciencia Ficcion",
+      "Suspenso",
+      "Drama",
+      "Terror"
+    ],
     "descripcion": "espués de ser llevado a un portaaviones del ejército, Gerry recibirá la misión de averiguar el origen del virus que está destruyendo la humanidad a pasos agigantados. Deberá viajar a Jerusalén, último lugar del que se tienen registros del virus que dio origen a la pandemia. Aquí comenzará una carrera contrarreloj que Gerry tendrá que ganar si quiere salvaguardar el futuro de una humanidad que está siendo devastada por unos seres rabiosos que parecen tener su origen en un virus diseñado y propagado por los seres humanos.",
     "año": 2013,
     "duracion": "",
@@ -130,7 +165,9 @@
   {
     "id": 9,
     "nombre": "En la hierba alta",
-    "generos": ["Terror"],
+    "generos": [
+      "Terror"
+    ],
     "descripcion": "Dos hermanos, Becky embarazada y Cal, viajan en coche por carretera. Durante una parada cerca de una iglesia abandonada, escuchan los gritos de auxilio de un niño pequeño llamado Tobin que parece estar perdido en un inmenso campo de hierba alta.",
     "año": 2019,
     "duracion": "",
@@ -146,7 +183,11 @@
   {
     "id": 10,
     "nombre": "Mas alla del universo",
-    "generos": ["Romance", "Drama", "Musica"],
+    "generos": [
+      "Romance",
+      "Drama",
+      "Musica"
+    ],
     "descripcion": "cuenta la historia de Nina, una joven pianista con lupus que espera un trasplante de riñón y encuentra el amor y la fuerza para cumplir sus sueños musicales gracias a Gabriel, uno de los médicos que la cuida.",
     "año": 2022,
     "duracion": "",
@@ -162,7 +203,10 @@
   {
     "id": 11,
     "nombre": "La gran apuesta",
-    "generos": ["Comedia", "Drama"],
+    "generos": [
+      "Comedia",
+      "Drama"
+    ],
     "descripcion": "relata la historia real de un grupo de inversores que descubrieron que el mercado inmobiliario de Estados Unidos estaba basado en una burbuja gigante a punto de estallar.",
     "año": 2015,
     "duracion": "",
@@ -174,5 +218,83 @@
     "edad": "",
     "camara": false,
     "especial": "Paramount"
+  },
+  {
+    "id": 12,
+    "nombre": "ghost rider 2",
+    "generos": [
+      "Accion",
+      "Fantasia",
+      "Suspenso"
+    ],
+    "descripcion": "Johnny Blaze, atormentado por la maldición del Ghost Rider, debe proteger al hijo del Diablo para intentar liberarse de su propia maldición.",
+    "año": 2011,
+    "duracion": "",
+    "portada": "https://image.tmdb.org/t/p/original/nMPCSYPyeBbfwHUCvyAJUEUiLBU.jpg",
+    "banner": "https://wallpapers.com/images/hd/ghost-rider-chains-of-hell-4r3t7tctbunbd5lh.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/H/5/Z/W/H5ZWp.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especial": "Marvel"
+  },
+  {
+    "id": 13,
+    "nombre": "los ilusionistas 2",
+    "generos": [
+      "Crimen",
+      "Suspenso"
+    ],
+    "descripcion": "Los Ilusionistas 2 sigue a los Cuatro Jinetes, quienes regresan a la luz pública para llevar a cabo un nuevo espectáculo de magia. Sin embargo, su acto no sale como lo planeado y son engañados por un magnate de la tecnología. Los Jinetes deben escapar y realizar un truco para limpiar sus nombres y revelar al verdadero culpable detrás de todo.",
+    "año": 2016,
+    "duracion": "",
+    "portada": "https://image.tmdb.org/t/p/original/w8jnoNb6ND8WcYPkKyDhrgOvRqf.jpg",
+    "banner": "https://m.media-amazon.com/images/S/pv-target-images/2dea031566a8687ba1ed91f5d9f44b68a2609c79b0ce98ca5b9b6d4950f40788._UR1920,1080_SX500_FMjpg_.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/N/C/Y/W/NCYWp.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especial": false
+  },
+  {
+    "id": 14,
+    "nombre": "Harry Potter y la piedra filosofal ",
+    "generos": [
+      "Aventura",
+      "Fantasia"
+    ],
+    "descripcion": "un niño huérfano criado por sus crueles tíos, descubre en su 11.º cumpleaños que es un mago y es invitado a estudiar en Hogwarts, donde enfrentará el misterio de la Piedra Filosofal y la amenaza del mago Voldemort.",
+    "año": 2001,
+    "duracion": "",
+    "portada": "https://image.tmdb.org/t/p/original/kNNtiEp5qktfRjiwjkRq8WLmF40.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gpQeZl2Sx8QKSxx9PabjX6Q14y4.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/N/Y/J/V/NYJVp.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especial": "Hbo"
+  },
+  {
+    "id": 15,
+    "nombre": "el dia despues de mañana",
+    "generos": [
+      "Ciencia Ficcion",
+      "Accion",
+      "Suspenso"
+    ],
+    "descripcion": "narra cómo un abrupto colapso climático global provoca tormentas extremas y una nueva era glacial, mientras el climatólogo Jack Hall intenta rescatar a su hijo Sam en un Nueva York congelado.",
+    "año": 2004,
+    "duracion": "",
+    "portada": "https://image.tmdb.org/t/p/original/rT70FZPn3DEFB5UdMHlkwaYQWNV.jpg",
+    "banner": "https://tse2.mm.bing.net/th/id/OIP.VOHowJwMU3Iloxq9lW--ygHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/1/i/g/V/1igVp.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especial": "Disney"
   }
 ]
