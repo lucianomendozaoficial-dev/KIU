@@ -4532,5 +4532,1515 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 178,
+    "nombre": "Juego limpio",
+    "generos": [
+      "Drama",
+      "Suspenso",
+      "Romance"
+    ],
+    "descripcion": "Un ascenso inesperado en un fondo de cobertura despiadado lleva la relación de una joven pareja al límite, amenazando con desbaratar no sólo su reciente compromiso sino también sus vidas.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-09-28T20:48:12.466Z",
+    "tmdb_id": 910571,
+    "portada": "https://image.tmdb.org/t/p/original/f9DEQQTeNPLBQvy40AGdcoD3hGE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/50Wq7fY21obXVRICuljdlSigWvH.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/k/7/z/7/k7z7n.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 179,
+    "nombre": "Moana 2",
+    "generos": [
+      "Aventura",
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "descripcion": "Después de recibir una llamada inesperada de sus antepasados ​​navegantes, Moana viajará a los lejanos mares de Oceanía, donde vivirá una peligrosa aventura con su nueva tripulación.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-09-28T20:49:15.088Z",
+    "tmdb_id": 1241982,
+    "portada": "https://image.tmdb.org/t/p/original/mLAGAFUrRw9pphjnbnhtG1hASSN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vYqt6kb4lcF8wwqsMMaULkP9OEn.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/h/S/j/i/hSjiv.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": true,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 180,
+    "nombre": "Moana: Un mar de aventuras",
+    "generos": [
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Animación"
+    ],
+    "descripcion": "En la antigua Polinesia, cuando una terrible maldición del semidiós Maui llega a la isla de Moana, ella responde al llamado del océano para buscar al semidiós y arreglar las cosas.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-09-28T20:50:10.920Z",
+    "tmdb_id": 277834,
+    "portada": "https://image.tmdb.org/t/p/original/hw4FlDdufQuLIsYiqBYIL0Bxn26.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qLVNZFHYUR6Li64He67SWl6BHQe.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/P/S/i/I/PSiIr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 181,
+    "nombre": "La pirámide",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "Un equipo de arqueólogos estadounidenses descubre una antigua pirámide en medio del desierto egipcio. Se adentran en ella y al poco tiempo se encontrarán perdidos en un intrincado laberinto que parece no tener fin. Desesperados, tratan de encontrar una salida, pero pronto se dan cuenta de que algo les persigue.",
+    "año": 2014,
+    "duracion": "",
+    "rating": 5.3,
+    "rating_updated": "2026-09-28T20:51:12.271Z",
+    "tmdb_id": 282813,
+    "portada": "https://image.tmdb.org/t/p/original/a2N5St0TCmyJy2F8IwPlo2lEbiJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9wmzKxkmnsoW5gdvW7Iq1mBcKNJ.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/M/I/9/e/MI9eo.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 182,
+    "nombre": "El secreto de Adaline",
+    "generos": [
+      "Romance",
+      "Fantasía",
+      "Drama"
+    ],
+    "descripcion": "Adaline Bowman, nacida a comienzos del siglo XX, adquiere a los 29 años la eterna juventud tras un accidente. Tras años de vida solitaria y permanecer con la misma edad durante 8 décadas, conoce a Ellis Jones, un hombre por el que podría merecer la pena perder la inmortalidad.",
+    "año": 2015,
+    "duracion": "",
+    "rating": 7.5,
+    "rating_updated": "2026-09-28T20:52:17.409Z",
+    "tmdb_id": 293863,
+    "portada": "https://image.tmdb.org/t/p/original/q8r8UFAmb5qAfz4W7wEXCJoCEBr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wTvDGO0xGMmnScqjuiDeWU7PkcB.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/V/F/G/d/VFGdo.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 183,
+    "nombre": "The Marvels",
+    "generos": [
+      "Ciencia Ficción",
+      "Aventura",
+      "Acción"
+    ],
+    "descripcion": "Cuando sus deberes llevan a Carol Danvers, alias Capitana Marvel, a un agujero de gusano anómalo vinculado a un revolucionario Kree, sus poderes se enredan con los de Ms. Marvel y con los de Monica Rambeau, la distanciada sobrina de Carol y astronauta de S.A.B.E.R. Juntas, deberán trabajar en sincronía para salvar al universo como \"The Marvels\".",
+    "año": 2023,
+    "duracion": "",
+    "rating": 5.9,
+    "rating_updated": "2026-09-28T20:53:04.421Z",
+    "tmdb_id": 609681,
+    "portada": "https://image.tmdb.org/t/p/original/vpuuFM032yiX8tox4L84Wl9MGjG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/m/r/Z/a/mrZao.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": true,
+    "especiales": [
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 184,
+    "nombre": "Hijos de perra",
+    "generos": [
+      "Comedia",
+      "Aventura"
+    ],
+    "descripcion": "Dicen que el perro es el mejor amigo del hombre, pero ¿qué pasa si el hombre es un completo idiota? En ese caso, quizá sea momento para una dulce revancha al estilo de perruno.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-09-28T20:53:57.487Z",
+    "tmdb_id": 912908,
+    "portada": "https://image.tmdb.org/t/p/original/8zL3tQs1pcHBDgaDMZT5mOxsCX7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1HzL603WOer58xtnrRYdSIL5K04.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/w/A/2/_/wA2_n.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 185,
+    "nombre": "Alien: Covenant",
+    "generos": [
+      "Terror",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "La tripulación de una nave colonia, con destino a un planeta remoto, descubre un paraíso inexplorado con una amenaza más allá de su imaginación, y debe intentar una angustiosa huida.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 6.2,
+    "rating_updated": "2026-09-28T20:56:59.801Z",
+    "tmdb_id": 126889,
+    "portada": "https://image.tmdb.org/t/p/original/245tgZ3mTHWs0NRiPSwPjKobKHf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iXXPaQPfQowpQ5UvhsHLj9BgFhe.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/R/f/Q/_/RfQ_n.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 186,
+    "nombre": "Ámame hasta con las uñas",
+    "generos": [
+      "Romance",
+      "Ciencia Ficción",
+      "Drama"
+    ],
+    "descripcion": "¿Cómo podrías estar seguro de haber encontrado el amor verdadero? Imagina una prueba que pudiera darte esa seguridad al comparar una uña de cada persona. ¿Te gustaría saber el resultado? ¿Y podrías aceptarlo?",
+    "año": 2023,
+    "duracion": "",
+    "rating": 5.9,
+    "rating_updated": "2026-09-28T20:57:51.734Z",
+    "tmdb_id": 790459,
+    "portada": "https://image.tmdb.org/t/p/original/rhyQm8bgeioBXrb1A6XNEW5oljd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wsMuEaqX5Sks209lnjWEChCdv3C.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/s/Q/t/7/sQt7n.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 187,
+    "nombre": "Nowhere",
+    "generos": [
+      "Suspenso",
+      "Drama"
+    ],
+    "descripcion": "Una joven embarazada llamada Mia escapa de un país en guerra escondiéndose en un contenedor marítimo a bordo de un carguero. Después de una violenta tormenta, Mia da a luz al niño mientras está perdida en el mar, donde deberá luchar para sobrevivir.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-09-28T20:59:57.606Z",
+    "tmdb_id": 1151534,
+    "portada": "https://image.tmdb.org/t/p/original/8uvCXfpaU1VveV5w9h05OxN0zdN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lUIAlOzNVKunMHo7lFDqH8eGsWK.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/-/3/1/i/-31ir.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Ingles",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 188,
+    "nombre": "Robot salvaje",
+    "generos": [
+      "Familia",
+      "Animación",
+      "Ciencia Ficción",
+      "Aventura"
+    ],
+    "descripcion": "Un robot - ROZZUM unidad 7134, \"Roz\" para abreviar - naufraga en una isla deshabitada y debe aprender a adaptarse al duro entorno, estableciendo gradualmente relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de un ganso huérfano.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 8.3,
+    "rating_updated": "2026-09-28T21:01:35.822Z",
+    "tmdb_id": 1184918,
+    "portada": "https://image.tmdb.org/t/p/original/cYMihyFZreVBn8x6KnyPY4ea0HX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/k/g/P/3/kgP3t.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": true,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 189,
+    "nombre": "Estación Zombie: tren a Busan",
+    "generos": [
+      "Acción",
+      "Terror",
+      "Suspenso",
+      "Aventura"
+    ],
+    "descripcion": "Un brote viral misterioso pone a Corea en estado de emergencia. Sok-woo y su hija Soo-ahn suben al KTX, un tren rápido que une los 442 km que separan Seúl de Busan, una ciudad que se defiende con éxito de la epidemia. Sin embargo, justo en el momento de su partida, la estación es invadida por zombis que matan al conductor del tren y a otros pasajeros",
+    "año": 2016,
+    "duracion": "",
+    "rating": 7.7,
+    "rating_updated": "2026-09-28T21:03:09.042Z",
+    "tmdb_id": 396535,
+    "portada": "https://image.tmdb.org/t/p/original/rZnsbdwRN5j87FS1KtgXvMiNiqa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/brnfCYyz8EMbBrHgmh8sCwBi5i1.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/F/r/n/F/FrnFq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 190,
+    "nombre": "Annabelle 3: Viene a casa",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "Los demonólogos Ed y Lorraine Warren están decididos a evitar que Annabelle cause más estragos, así que llevan a la muñeca poseída a la sala de objetos bajo llave que tienen en su casa. La colocan \"a salvo\" en una vitrina sagrada bendecida por un sacerdote. Pero una terrorífica noche nada santa, Annabelle despierta a los espíritus malignos de la habitación, que se fijan en nuevos objetivos: la hija de diez años de los Warren, Judy, su niñera y una amiga de esta.",
+    "año": 2019,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-09-28T21:04:08.352Z",
+    "tmdb_id": 521029,
+    "portada": "https://image.tmdb.org/t/p/original/iz4SaRVObEiFBEBdnVUkN0seGmV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jB98SrdXAYSbiprjIwc7WfVCuCV.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/x/T/r/1/xTr1n.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 191,
+    "nombre": "Como si fuera la primera vez",
+    "generos": [
+      "Comedia",
+      "Romance"
+    ],
+    "descripcion": "Henry Roth es un hombre temeroso del compromiso hasta que conoce a la bella Lucy. Se llevan bien y Henry cree que por fin ha encontrado a la chica de sus sueños, hasta que descubre que tiene pérdida de memoria a corto plazo y se olvida de él al día siguiente.",
+    "año": 2004,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-09-28T21:05:02.855Z",
+    "tmdb_id": 1824,
+    "portada": "https://image.tmdb.org/t/p/original/cPTDtitf7UiP1rgV2PLQ5hGiRgY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/v8lPo8UWKyP2tIXD8N64HfNP4Pw.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/4/K/a/y/4Kayo.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 192,
+    "nombre": "Ted 2",
+    "generos": [
+      "Comedia",
+      "Fantasía"
+    ],
+    "descripcion": "Se trata de una secuela de la exitosa comedia escrita y dirigida por el cómico Seth MacFarlane. Recién casados Ted y Tami-Lynn deciden tener un bebé. John se ofrece en donar su esperma para que su mejor amigo pueda cumplir su sueño de tener un hijo, pero inesperadamente reciben una carta legal que dice que el estado no le permite ser padre ya que no está demostrado que sea una persona. Todos juntos tendrán que unir fuerzas para luchar por sus derechos en un tribunal de justicia.",
+    "año": 2015,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-09-28T21:05:58.162Z",
+    "tmdb_id": 214756,
+    "portada": "https://image.tmdb.org/t/p/original/go2FcmJD36B1cpuxCxvfafK5rZQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xtHonIIIQXverDQM08TMQXjn9Fe.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/1/W/T/Q1WTt.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 193,
+    "nombre": "Ted",
+    "generos": [
+      "Comedia",
+      "Fantasía"
+    ],
+    "descripcion": "Cuando John Bennett (Mark Wahlberg) era pequeño, deseaba que su osito de peluche Ted fuera un oso de verdad y, por desgracia, su sueño se hizo realidad. Más de veinte años después, Ted sigue con John y saca de quicio a su novia Lori, que empieza a perder la paciencia. Para colmo, a John no parece preocuparle su futuro profesional y se pasa la vida fumando porros con Ted. A pesar de ello, John intenta alcanzar la madurez, pero parece que para conseguirlo le resulta indispensable la ayuda de Ted.",
+    "año": 2012,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-09-28T21:06:42.914Z",
+    "tmdb_id": 72105,
+    "portada": "https://image.tmdb.org/t/p/original/rpadMMk5g2ivupPqtTQMnHIxJK0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hkAVgWvAMmM8tj9CDEvGqMdNQBE.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/U/B/T/S/UBTSu.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 194,
+    "nombre": "Camino hacia el terror 3",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Fonda y sus amigos deciden pasar en el bosque unos días de tranquilidad. Sin embargo, estos serán acechados por los salvajes mutantes que viven en el lugar. Mientras tanto, varios peligrosos prisioneros son trasladados de prisión y durante el traslado son atacados y varios de ellos escapan. A partir de ese momento, Fonda y Nate deberán hacer lo posible por sobrevivir tratando de evitar a los mutantes y a los prisioneros.",
+    "año": 2009,
+    "duracion": "",
+    "rating": 5.7,
+    "rating_updated": "2026-09-28T21:08:33.450Z",
+    "tmdb_id": 23823,
+    "portada": "https://image.tmdb.org/t/p/original/xh122zfOAFmeI5g4c6axmESfUy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8568C7FeSsjmqLGuObSB0oB6kOU.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/1/9/d/H/19dHn.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 195,
+    "nombre": "Shrek 4: Para Siempre",
+    "generos": [
+      "Comedia",
+      "Aventura",
+      "Fantasía",
+      "Animación",
+      "Familia"
+    ],
+    "descripcion": "Rumpelstiltskin engaña a un Shrek agobiado por la crisis de la mediana edad para que se deje borrar de la existencia y sea trasladado a una oscura línea temporal alternativa en la que Rumpelstiltskin gobierna de forma suprema.",
+    "año": 2010,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-09-28T21:09:37.328Z",
+    "tmdb_id": 10192,
+    "portada": "https://image.tmdb.org/t/p/original/3MyKXb1ozCfq61tPNKpIggwvP6J.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uzzTystB8lL0mRDII5Sfs5HxgkI.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe1/5f/s8/2/5/C/0/5/5C05v.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 196,
+    "nombre": "Shrek Tercero",
+    "generos": [
+      "Fantasía",
+      "Aventura",
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "Designado a regañadientes como el heredero de la tierra de Muy Muy Lejano, Shrek urde un plan para instalar al rebelde Artie como el nuevo rey mientras la princesa Fiona trata de evitar un golpe de estado por parte del Príncipe Encantador.",
+    "año": 2007,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-09-28T21:10:24.166Z",
+    "tmdb_id": 810,
+    "portada": "https://image.tmdb.org/t/p/original/7sTwtmVPTX77CFOUXdwAM7lKtKL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/2a/s8/2/k/s/B/u/ksBuw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 197,
+    "nombre": "Shrek",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Fantasía",
+      "Aventura",
+      "Familia"
+    ],
+    "descripcion": "Un malvado lord exilia a las criaturas de cuentos de hadas al pantano de un ogro gruñón, que debe ir en busca y rescatar a una princesa para el lord con el fin de recuperar su tierra.",
+    "año": 2001,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-09-28T21:11:07.683Z",
+    "tmdb_id": 808,
+    "portada": "https://image.tmdb.org/t/p/original/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/w0eKUOEog2ImtktCHAMUZws8qif.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/V/h/b/w/Vhbwv.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 198,
+    "nombre": "Creed 2: Defendiendo el Legado",
+    "generos": [
+      "Drama",
+      "Acción"
+    ],
+    "descripcion": "Adonis Creed se debate entre las obligaciones personales y el entrenamiento para su próxima gran pelea, con el desafío de su vida por delante. Enfrentarse a un oponente que tiene vínculos con el pasado de su familia solo intensifica su inminente batalla en el ring. Afortunadamente Rocky Balboa está a su lado a lo largo de todo el camino, y juntos se cuestionarán por lo que vale la pena luchar y descubrirán que nada es más importante que la familia…",
+    "año": 2018,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-09-28T21:11:48.771Z",
+    "tmdb_id": 480530,
+    "portada": "https://image.tmdb.org/t/p/original/76L2V05c4e6bWsIkWXz4GFXUYYG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9il7qNbeYnPMYlutsVYDsj4hRyb.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/fa/s8/2/u/Q/i/c/uQicw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 199,
+    "nombre": "A través del mar",
+    "generos": [
+      "Romance",
+      "Drama",
+      "Comedia"
+    ],
+    "descripcion": "En A través del mar, Ares se ha ido a estudiar a Estocolmo, y él y Raquel están manteniendo una relación a distancia, lo que supone un mayor desafío de lo que ellos habían imaginado. Cuando llega el verano y se reencuentran, el periodo de separación y las nuevas personas que han conocido en ese tiempo harán que lo que creían seguro empiece a tambalearse.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-09-28T21:17:47.543Z",
+    "tmdb_id": 988078,
+    "portada": "https://image.tmdb.org/t/p/original/hisRiTK0zCP1sXtlCSrmFRVOVlz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zFsB4MB4BwVYE5tqXe9sYdCH3Vr.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe1/44/s8/2/S/u/J/a/SuJaw.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (España)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 200,
+    "nombre": "Gigantes de Acero",
+    "generos": [
+      "Acción",
+      "Ciencia Ficción",
+      "Drama"
+    ],
+    "descripcion": "En un futuro no muy lejano el boxeo es robótico: en los combates ya no se enfrentan seres humanos, sino robots humanoides, sofisticadas máquinas diseñadas para luchar. Charlie Kenton, un antiguo boxeador que casi llegó a alcanzar la gloria, está pasando una mala racha como promotor de combates. Un día, encuentra un viejo robot desechado y, al comprobar que es un gran boxeador, decide entrenarlo.",
+    "año": 2011,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-09-28T21:23:12.158Z",
+    "tmdb_id": 39254,
+    "portada": "https://image.tmdb.org/t/p/original/2iYS1XVm8vh5vokZhO3N4dtgODn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pjlxrd646cBYznHoPBWTzz6FujX.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/4a/s8/2/4/P/M/j/4PMjw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 201,
+    "nombre": "Una película de miedo",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Un grupo de adolescentes de aspecto familiar se ve acosado por un asesino enmascarado más que reconocible. A medida que aumentan las víctimas y las risas se multiplican, ninguna de tus películas de terror favoritas escapa a la mordaz sátira de esta parodia desternillante.",
+    "año": 2000,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-09-28T21:24:04.720Z",
+    "tmdb_id": 4247,
+    "portada": "https://image.tmdb.org/t/p/original/kfAiQqJGnfbQj52Bna7Ohlu04y3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/m5dA4JZsj78EBTa2D6imWOAebwB.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/M/x/J/b/MxJbl.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Paramount"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 202,
+    "nombre": "Aguas siniestras",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "Ray Waller es un ex jugador de béisbol de las grandes ligas obligado a jubilarse anticipadamente por una enfermedad degenerativa. Se muda a una nueva casa con su preocupada esposa Eve y sus dos hijos. Con la esperanza secreta, contra todo pronóstico, de volver al béisbol profesional, Ray convence a Eve de que la resplandeciente piscina del patio trasero de la nueva casa será divertida para los niños y le brindará fisioterapia. Pero un oscuro secreto en el pasado del hogar desatará una fuerza malévola que arrastrará a la familia a las profundidades de un terror ineludible.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 5.5,
+    "rating_updated": "2026-09-28T21:25:21.936Z",
+    "tmdb_id": 1072342,
+    "portada": "https://image.tmdb.org/t/p/original/bHy9CZdMeH1cnQnsTcyaGu7Yiz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aZ8dBIvpDFp9cp23MfBiY5mWfuy.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Z/H/e/U/ZHeUp.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 203,
+    "nombre": "Mi Navidad con Bob",
+    "generos": [
+      "Familia",
+      "Drama"
+    ],
+    "descripcion": "James Bowen es objeto de una investigación sobre el bienestar de los animales que amenaza con llevarse a su amado gato, Bob, en Navidad.",
+    "año": 2020,
+    "duracion": "",
+    "rating": 6.7,
+    "rating_updated": "2026-09-28T21:26:14.538Z",
+    "tmdb_id": 673737,
+    "portada": "https://image.tmdb.org/t/p/original/6RzyEQ9KdXnW8X4EVGBLqfAW1iU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oKtuit0R4v4i6colEDeYpdTKKqS.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/0/l/S/V/0lSVk.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+7",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Navidad"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 204,
+    "nombre": "Sonido de Libertad",
+    "generos": [
+      "Acción",
+      "Drama"
+    ],
+    "descripcion": "La historia de Tim Ballard, un ex agente del gobierno de EE. UU., que deja su trabajo para dedicar su vida a rescatar a niños de los traficantes sexuales mundiales.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 8,
+    "rating_updated": "2026-09-28T21:27:10.742Z",
+    "tmdb_id": 678512,
+    "portada": "https://image.tmdb.org/t/p/original/apxaWDCqjPrVc1v5HiKW2r10yiL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7JqWWLCajnt6XWCrRlgvtsYP0u6.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/E/m/A/6/EmA6n.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 205,
+    "nombre": "Feliz día de tu muerte",
+    "generos": [
+      "Comedia",
+      "Terror",
+      "Misterio"
+    ],
+    "descripcion": "Una joven estudiante universitaria (Jessica Rothe) reconstruye el día de su asesinato reviviendo tanto los detalles cotidianos como su aterrador final, hasta intentar descubrir la identidad de su asesino.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 6.7,
+    "rating_updated": "2026-09-28T21:28:27.890Z",
+    "tmdb_id": 440021,
+    "portada": "https://image.tmdb.org/t/p/original/xLu1qmpTCW0qAYCZ3MylNyQ52Lv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9XSEL3EMC2D8k4UcYBn8etgRxPg.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/P/q/5/s/Pq5sk.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 206,
+    "nombre": "El pasajero",
+    "generos": [
+      "Acción",
+      "Suspenso",
+      "Misterio"
+    ],
+    "descripcion": "Durante su trayecto habitual de vuelta a casa en tren, un hombre de negocios felizmente casado comienza a hablar con una misteriosa pasajera. Pronto el hombre se verá envuelto en una conspiración criminal que amenaza con poner en peligro tanto su vida como la de sus seres más cercanos.",
+    "año": 2018,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-09-28T21:29:43.738Z",
+    "tmdb_id": 399035,
+    "portada": "https://image.tmdb.org/t/p/original/nd7dKQ1Lpkzlvl4V29gEu2Kg3sX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/srnI5CdeydB9E8WNOqblj0jRfSn.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/o/g/2/j/og2jk.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 207,
+    "nombre": "El proyecto Adam",
+    "generos": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Comedia"
+    ],
+    "descripcion": "Adam Reed es un viajero del tiempo del año 2050 que se ha aventurado en una misión de rescate para buscar a Laura, la mujer que ama, que se perdió en el continuo espacio-tiempo en circunstancias misteriosas. Cuando la nave de Adam se estropea, es enviado en espiral al año 2022, y al único lugar que conoce de esta época de su vida: su casa, donde vive su yo cuando tenía 13 años.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-09-28T21:33:33.634Z",
+    "tmdb_id": 696806,
+    "portada": "https://image.tmdb.org/t/p/original/k5waciRFMN5bwudDrgFLffoAorm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ewUqXnwiRLhgmGhuksOdLgh49Ch.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/p/n/G/6/pnG6j.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 208,
+    "nombre": "El Conductor",
+    "generos": [
+      "Suspenso",
+      "Terror"
+    ],
+    "descripcion": "Hans, un hombre seguro de sí mismo, viaja con su familia a casa de sus padres, al otro lado del país. En el camino provoca una disputa de tránsito con otro conductor, quien comienza a perseguirlos en venganza. El conductor confronta a Hans con su ego de tal manera que pierde completamente el control sobre su familia y vuelve a ser el niño asustado y vulnerable que alguna vez fue.",
+    "año": 2019,
+    "duracion": "",
+    "rating": 6.1,
+    "rating_updated": "2026-09-28T21:34:33.352Z",
+    "tmdb_id": 549435,
+    "portada": "https://image.tmdb.org/t/p/original/a7VGIhRYrxR0AMpxHnKvvAyIARO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bFOYL81Q3mK5pavLf3TkEVKNOrp.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/I/E/A/5/IEA5j.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 209,
+    "nombre": "Rápidos y furiosos X",
+    "generos": [
+      "Acción",
+      "Crimen",
+      "Suspenso"
+    ],
+    "descripcion": "A través de varias misiones y contra lo imposible, Dom Toretto y su familia han sido más astutos y más rápidos que todos los enemigos se le han cruzado en su camino. Ahora se enfrentan a su enemigo más letal: una amenaza aterradora que surge de las sombras del pasado que está alimentado de una venganza sangrienta, y está decidido a destruir a su familia y destruir todo, y a cualquier persona, a los que Dom ama.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-09-28T21:35:31.562Z",
+    "tmdb_id": 385687,
+    "portada": "https://image.tmdb.org/t/p/original/x3zlm6VxPvVrYWE3bHkYUQMR798.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/o/K/7/Q/oK7Qq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+7",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 210,
+    "nombre": "Splice: Experimento Mortal",
+    "generos": [
+      "Terror",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Elsa y Clive, dos jóvenes científicos rebeldes, desafían los límites legales y éticos y avanzan con un experimento peligroso: empalmar el ADN humano y animal para crear un nuevo organismo. Nombrada \"Dren\", la criatura se desarrolla rápidamente a partir de un infante femenino deformado en una bella pero peligrosa humana-quimera alada, que forja un vínculo con sus dos creadores - sólo para que el enlace se vuelva mortal.",
+    "año": 2010,
+    "duracion": "",
+    "rating": 5.9,
+    "rating_updated": "2026-09-28T21:36:28.997Z",
+    "tmdb_id": 37707,
+    "portada": "https://image.tmdb.org/t/p/original/rIYJsichDJbxGFGMyNRwIsQ144P.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pjocJEjenTiJOi6o1vG8JArgt1h.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/M/k/c/D/MkcDj.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (España)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 211,
+    "nombre": "Guardianes de la Galaxia volumen 3",
+    "generos": [
+      "Ciencia Ficción",
+      "Aventura",
+      "Acción"
+    ],
+    "descripcion": "Peter Quill, aún conmocionado por la pérdida de Gamora, debe reunir a su equipo en torno a él para defender el universo junto con la protección de uno de los suyos. Una misión que, si no se lleva a cabo con éxito, podría suponer el fin de los Guardianes tal y como los conocemos.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 7.9,
+    "rating_updated": "2026-09-28T21:37:43.484Z",
+    "tmdb_id": 447365,
+    "portada": "https://image.tmdb.org/t/p/original/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/u/q/4/3/uq43k.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 212,
+    "nombre": "Cincuenta Sombras Más Oscuras",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "Cuando Christian Grey, que se siente herido, intenta convencer a Anastasia Steele de que vuelva a formar parte de su vida, ella le exige un nuevo acuerdo antes de aceptar. Pero cuando la pareja empieza a ser más confiada y a tener una cierta estabilidad, aparecen mujeres del pasado de Christian decididas a frenar en seco sus esperanzas de un futuro juntos... Secuela de \"50 sombras de Grey\", en la que Grey sigue explorando sus demonios interiores y la joven Anastasia confronta sus sentimientos y confusión sobre su relación con el atractivo millonario, un tipo misterioso lleno de secretos.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-09-28T21:38:42.659Z",
+    "tmdb_id": 341174,
+    "portada": "https://image.tmdb.org/t/p/original/jvBAQOg2ObZKYXZGxYSz3Fkr7Qt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/16aJtXO6lObbBUr11IvkjB1QD1f.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/s/b/P/c/sbPcp.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 213,
+    "nombre": "Cincuenta Sombras de Grey",
+    "generos": [
+      "Drama",
+      "Romance",
+      "Suspenso"
+    ],
+    "descripcion": "Anastasia Steele, una joven estudiante de literatura, conoce al carismático y misterioso empresario Christian Grey durante una entrevista. A pesar de sus diferencias, la atracción entre ellos es innegable, llevándolos a una relación intensa donde Ana descubrirá facetas inesperadas de Grey y de sí misma.",
+    "año": 2015,
+    "duracion": "",
+    "rating": 5.9,
+    "rating_updated": "2026-09-28T21:40:34.044Z",
+    "tmdb_id": 216015,
+    "portada": "https://image.tmdb.org/t/p/original/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7IGKrY1f1KfwMipx9wZC4NRgIdF.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/n/r/G/L/nrGLt.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 214,
+    "nombre": "Avatar: El camino del agua",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Más de una década después, los hombres del cielo regresan a Pandora. Entonces Jake Sully, Neytiri y sus hijos deciden hacer un gran sacrificio para mantener a su pueblo a salvo y seguir con vida.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-09-28T21:41:54.123Z",
+    "tmdb_id": 76600,
+    "portada": "https://image.tmdb.org/t/p/original/oIVSTKNyKvjm4NmmJi4zjQqHJ02.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/g/y/J/A/gyJAj.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 215,
+    "nombre": "La Ballena",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "Un profesor de inglés solitario que sufre de obesidad severa intenta volver a conectarse con su hija adolescente separada para tener una última oportunidad de redención.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-09-28T21:42:42.532Z",
+    "tmdb_id": 785084,
+    "portada": "https://image.tmdb.org/t/p/original/3cgOB3d3YA8OlYibhO3NH5aCJxG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/46FRuCeAn6TrS4F1P4F9zhyCpyo.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/6/C/Q/u/6CQuj.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 216,
+    "nombre": "Evil Dead: El despertar",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "El reencuentro entre dos hermanas distanciadas se ve interrumpido por el surgimiento de demonios que poseen cuerpos, lo que las sumerge en una batalla primigenia por la supervivencia mientras se enfrentan a la versión más terrorífica de familia imaginable.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-09-28T21:43:41.139Z",
+    "tmdb_id": 713704,
+    "portada": "https://image.tmdb.org/t/p/original/ylnzQGuIbNuqV6xgoxgXtTQOAui.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/p/2/q/5/p2q5o.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 217,
+    "nombre": "MEGAN",
+    "generos": [
+      "Ciencia Ficción",
+      "Terror"
+    ],
+    "descripcion": "Cuando Gemma se convierte en la cuidadora de su sobrina huérfana de 8 años, Cady, Gemma no está segura ni preparada para ser madre. Bajo una intensa presión en el trabajo, Gemma decide emparejar su prototipo M3GAN con Cady en un intento de resolver ambos problemas, una decisión que tendrá consecuencias inimaginables.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-09-28T21:44:52.542Z",
+    "tmdb_id": 536554,
+    "portada": "https://image.tmdb.org/t/p/original/tv3Yjn78U8hFGFrkSypiIhHNUh3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qd4EKTuudkws9lW76Dn9C0tnuVA.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/C/g/j/b/Cgjbo.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 218,
+    "nombre": "El Exorcista del Papa",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "El Padre Gabriele Amorth, Exorcista Principal del Vaticano investiga la terrorífica posesión de un niño y termina descubriendo una conspiración que hace siglos fue encubierta de manera desesperada por el Vaticano.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-09-28T21:45:50.207Z",
+    "tmdb_id": 758323,
+    "portada": "https://image.tmdb.org/t/p/original/kdknWP9bsQfS6I6aZQyJGBmhn2t.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3oqmk6mNWPatBKcjOOJLp5WW9zN.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/a/e/O/V/aeOVj.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 219,
+    "nombre": "Sword Art Online Progressive: Scherzo de una profunda oscuridad",
+    "generos": [
+      "Animación",
+      "Acción",
+      "Fantasía",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Han pasado dos meses desde que comenzó el juego mortal, y Kirito y Asuna continúan progresando. Se detienen en busca de un tesoro, pero luego deben enfrentarse al monstruo menos favorito de Asuna.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 7.7,
+    "rating_updated": "2026-09-28T21:46:53.801Z",
+    "tmdb_id": 893712,
+    "portada": "https://image.tmdb.org/t/p/original/uiuXdwQCujXZgvLSo7FjVgAWCIy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sIsABtZxFBm1IOVOGocd4iPySyg.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/f4/s8/2/o/u/V/m/ouVmw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Anime"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 220,
+    "nombre": "Super Mario Bros. La película",
+    "generos": [
+      "Familia",
+      "Comedia",
+      "Aventura",
+      "Fantasía",
+      "Animación"
+    ],
+    "descripcion": "Mientras trabaja bajo tierra para arreglar una tubería de agua, los plomeros de Brooklyn Mario y su hermano Luigi son transportados por una misteriosa tubería y llegan a un nuevo mundo mágico.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-09-28T21:47:54.573Z",
+    "tmdb_id": 502356,
+    "portada": "https://image.tmdb.org/t/p/original/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/L/6/b/Q/L6bQp.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 221,
+    "nombre": "Mea Culpa",
+    "generos": [
+      "Drama",
+      "Crimen",
+      "Suspenso"
+    ],
+    "descripcion": "Después de aceptar el caso de un artista acusado de asesinato, una abogada defensora se ve forzada a elegir entre su familia, el deber y sus instintos más básicos.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 5.7,
+    "rating_updated": "2026-09-28T22:15:32.834Z",
+    "tmdb_id": 1090874,
+    "portada": "https://image.tmdb.org/t/p/original/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mXLqmRDY3HUokHSjdSCLenM5nfJ.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/x/L/r/a/xLraq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 222,
+    "nombre": "Contratiempo",
+    "generos": [
+      "Drama",
+      "Misterio",
+      "Suspenso"
+    ],
+    "descripcion": "Barcelona, España. Adrián Doria, un joven y exitoso empresario acusado de homicidio, se reúne una noche con Virginia Goodman, una abogada experta en interrogatorios, con el propósito de urdir una estrategia de defensa.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 8.1,
+    "rating_updated": "2026-09-28T22:16:46.569Z",
+    "tmdb_id": 411088,
+    "portada": "https://image.tmdb.org/t/p/original/pAGYftcdwEcTGyS4s4SIXw3YWer.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/157QuwzU58D5RtXmkBl5iNaxigN.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/t/2/t/V/t2tVr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 223,
+    "nombre": "Tarot de la muerte",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "Cuando un grupo de amigos viola imprudentemente la regla sagrada de las lecturas de Tarot -nunca usar la baraja de otra persona-, desatan sin saberlo un mal innombrable atrapado en las cartas malditas. Uno a uno, se enfrentan cara a cara con el destino y terminan en una carrera contra la muerte para escapar del futuro predicho en sus lecturas.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-09-28T22:17:46.572Z",
+    "tmdb_id": 719221,
+    "portada": "https://image.tmdb.org/t/p/original/cRNMX3xXDjAxxcdrPqxsbSa9im9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/otfoeC96neoOdA4HqsX06OWuzE9.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/X/P/G/3/XPG3r.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 224,
+    "nombre": "El salario del miedo",
+    "generos": [
+      "Acción"
+    ],
+    "descripcion": "Cuando la explosión de un pozo petrolero amenaza cientos de vidas, un equipo de expertos debe transportar nitroglicerina en una travesía mortal por el desierto.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6.2,
+    "rating_updated": "2026-09-28T22:18:43.115Z",
+    "tmdb_id": 984324,
+    "portada": "https://image.tmdb.org/t/p/original/6cKzsWfDtGj5BMHi1dN9EkGz4lJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jBPG5F5WW2qv5diBzxUr52sPMef.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/L/N/M/U/LNMUq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 225,
+    "nombre": "Observados",
+    "generos": [
+      "Fantasía",
+      "Terror",
+      "Misterio"
+    ],
+    "descripcion": "Sigue a Mina, una artista de 28 años que queda varada en un bosque en el oeste de Irlanda. Cuando Mina encuentra refugio, sin saberlo, queda atrapada junto a tres extraños que son observados y acechados por misteriosas criaturas cada noche.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-09-28T22:20:31.800Z",
+    "tmdb_id": 1086747,
+    "portada": "https://image.tmdb.org/t/p/original/okjbd9xyA9jGTzy7asVXW4o4FuL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/whnFKx0Y54Ktg6o2TiwbnQfXdZf.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/B/8/A/E/B8AEs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 226,
+    "nombre": "Primera cita de Riley",
+    "generos": [
+      "Animación",
+      "Familia"
+    ],
+    "descripcion": "Riley, ahora de 12 años, está colgando en casa con sus padres en San Francisco cuando el problema potencial viene golpeando: un muchacho aparece en la puerta.",
+    "año": 2015,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-09-28T22:21:23.626Z",
+    "tmdb_id": 355338,
+    "portada": "https://image.tmdb.org/t/p/original/tYId7ILR86oAr00LoJ5WWbxdzhM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/q2haCPQUzeMlRlX0wKJgddMbE0o.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/m/p/m/H/mpmHs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 227,
+    "nombre": "Avengers: Los Vengadores",
+    "generos": [
+      "Ciencia Ficción",
+      "Acción",
+      "Aventura"
+    ],
+    "descripcion": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro. Adaptación del cómic de Marvel \"Los Vengadores\", el legendario grupo de superhéroes formado por Ironman, Hulk, Thor y el Capitán América entre otros.",
+    "año": 2012,
+    "duracion": "",
+    "rating": 8.1,
+    "rating_updated": "2026-09-28T22:22:40.734Z",
+    "tmdb_id": 24428,
+    "portada": "https://image.tmdb.org/t/p/original/cWNIua1iPA4kGyQxJGvnx7UIzoT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/a/b/e/C/abeCs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 228,
+    "nombre": "Jack y Jill",
+    "generos": [
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "Jack Sadelstein, un exitoso ejecutivo de publicidad en Los Ángeles con una bella esposa e hijos, teme un evento cada año: la visita de Acción de Gracias de su hermana gemela Jill. La necesidad y la agresividad pasiva de Jill enloquecen a Jack, volcando su vida normalmente tranquila.",
+    "año": 2011,
+    "duracion": "",
+    "rating": 4.4,
+    "rating_updated": "2026-09-28T22:23:38.638Z",
+    "tmdb_id": 71880,
+    "portada": "https://image.tmdb.org/t/p/original/rglSEPbB5bA3EWzqellWjlVsKA1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kye3Xz5ojZcOy9sWYcFHvXLTNCk.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/W/c/u/L/WcuLs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 229,
+    "nombre": "La Era de Hielo: Las aventuras de Buck",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Aventura"
+    ],
+    "descripcion": "Continúa contando las hilarantes aventuras de uno de los mamíferos favoritos de la prehistoria. Tras un distanciamiento con su hermana mayor, Ellie, los hermanos Crash y Eddie parten a la búsqueda de un lugar propio, pero rápidamente acaban atrapados en una caverna subterránea. El aventurero Buck Wild acudirá a su rescate y juntos, tendrán que enfrentarse a los dinosaurios del Mundo Perdido.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-09-28T22:25:11.493Z",
+    "tmdb_id": 774825,
+    "portada": "https://image.tmdb.org/t/p/original/wdiMAU3KgGlomdTYhqtNn3Uulfs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tleIOY1MS8DIe6v7x6gg7lRCOfA.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/d5/s8/2/W/5/6/f/W56fw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 230,
+    "nombre": "La era de hielo: Choque de mundos",
+    "generos": [
+      "Aventura",
+      "Animación",
+      "Familia",
+      "Comedia",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Scrat y su mítica bellota estan en el espacio, donde accidentalmente desencadenará una serie de acontecimientos que amenazarán la Edad de Hielo. Para salvarse, Sid, Manny, Diego y el resto de la manada deberán salir de su hogar y embarcarse en una nueva aventura.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 6.1,
+    "rating_updated": "2026-09-28T22:25:58.772Z",
+    "tmdb_id": 278154,
+    "portada": "https://image.tmdb.org/t/p/original/vYwnsTkM0aIrig7QnQlm6061xie.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wQoe0j7ZDk7LWexC0XhwkK4brIb.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe1/91/s8/2/D/V/5/f/DV5fw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 231,
+    "nombre": "La era de hielo 4",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Aventura",
+      "Familia"
+    ],
+    "descripcion": "La loca persecución de Scrat por su escurridiza bellota desde el principio de los tiempos, tiene consecuencias que cambiarán el mundo: un cataclismo continental que desencadenará la mayor de las aventuras para Manny, Diego y Sid. En medio de estas agitaciones, Sid se reencuentra con su Abuelita Gruñona y la manada tropieza con una extraña cuadrilla de piratas de altamar decididos a impedirles su regreso a casa.",
+    "año": 2012,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-09-28T22:26:42.131Z",
+    "tmdb_id": 57800,
+    "portada": "https://image.tmdb.org/t/p/original/anoTw49j2tZrZYPUyZRaV6s8fKd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/scLQDnf1m2AqEEQSjAEdMRD6K9I.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe1/01/s8/2/_/q/5/f/_q5fw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 232,
+    "nombre": "La era de hielo 3",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Aventura"
+    ],
+    "descripcion": "Cuando Sid intenta adoptar tres huevos de dinosaurio y la verdadera madre de estos lo secuestra y lo lleva a un mundo perdido bajo tierra, sus amigos intentan rescatarlo.",
+    "año": 2009,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-09-28T22:27:35.310Z",
+    "tmdb_id": 8355,
+    "portada": "https://image.tmdb.org/t/p/original/pKQAvnsf6eIL9EGEI2lAgvI94zQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6Ybbh8TrO8bkEfQXDedekLwVDfA.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe1/8b/s8/2/D/K/4/f/DK4fw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 233,
+    "nombre": "La era de hielo 2",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Comedia",
+      "Aventura"
+    ],
+    "descripcion": "Manny, Sid y Diego descubren que la Edad de Hielo está llegando a su fin y se unen al resto del grupo para emprender un viaje hacia tierras más altas. Durante el trayecto, descubren que Manny no es, en realidad, el último de los mamuts lanudos.",
+    "año": 2006,
+    "duracion": "",
+    "rating": 6.7,
+    "rating_updated": "2026-09-28T22:28:22.592Z",
+    "tmdb_id": 950,
+    "portada": "https://image.tmdb.org/t/p/original/gs84R3mH9dUz56jvE6KcosRSNub.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o1jr0UqVjxIZ1JnFzuVLN4ulWey.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/02/s8/2/t/b/4/f/tb4fw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 234,
+    "nombre": "La era de hielo",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Aventura"
+    ],
+    "descripcion": "La historia gira en torno a unos héroes bajo cero: un mamut lanudo, un tigre de dientes de sable, un perezoso y una combinación prehistórica de ardilla y rata, conocida como Scrat.",
+    "año": 2002,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-09-28T22:29:03.343Z",
+    "tmdb_id": 425,
+    "portada": "https://image.tmdb.org/t/p/original/j52ufQ4Y5QIESpCdgSN3MVNvZOK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8pwIhymsxfAVjrAE7syDjQULn37.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe1/ea/s8/2/9/r/3/f/9r3fw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 235,
+    "nombre": "Super Mario Galaxy: La película",
+    "generos": [
+      "Familia",
+      "Comedia",
+      "Aventura",
+      "Fantasía",
+      "Animación"
+    ],
+    "descripcion": "Mario y Luigi se enfrentan una nueva amenaza: Bowser Jr., quién está decidido liberar a su padre del cautiverio y restaurar el legado familiar. Junto con nuevos y viejos compañeros, los hermanos viajan a través de las estrellas para detener la cruzada del joven heredero.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8.2,
+    "rating_updated": "2026-09-28T22:29:46.825Z",
+    "tmdb_id": 1226863,
+    "portada": "https://image.tmdb.org/t/p/original/4Js0gYWxuvTN6b8iAaSF1cSQzBs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fww1/2c/s8/2/8/J/Z/e/8JZeA.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 236,
+    "nombre": "Camino Hacia el Terror 4",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Un grupo de amigos deciden ir a practicar snow en sus vacaciones invernales. Pero como en anteriores ocasiones, tomarán un camino equivocado perdiéndose en una tormenta y buscando refugio en un antiguo sanatorio. Allí están completamente aislados y a merced de la tormenta. Pero el lugar, tiene un pasado y algunos de sus antiguos pacientes no están demasiado contentos en tener \"invitados\".",
+    "año": 2011,
+    "duracion": "",
+    "rating": 5.8,
+    "rating_updated": "2026-09-28T22:30:30.442Z",
+    "tmdb_id": 71672,
+    "portada": "https://image.tmdb.org/t/p/original/3tTAlLrPJAfWz1E2841yEKRbBoM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8xyJcJnYbupkPPMvwTEJaUwjxDI.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/t/a/4/E/ta4Es.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
