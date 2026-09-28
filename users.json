@@ -8,27 +8,11 @@
     "plan": "Premium"
   },
   {
-    "nombre": "Kiu",
-    "password": "2026",
+    "nombre": "Day",
+    "password": "2030",
     "dni": "00000000",
-    "nombreCompleto": "Invitado Temporal",
-    "fechaExpiracion": "2026-08-24",
-    "plan": "FreeDays"
-  },
-{
-    "nombre": "Elias",
-    "password": "2000",
-    "dni": "00000000",
-    "nombreCompleto": "Elias",
-    "fechaExpiracion": "2026-09-01",
-    "plan": "FreeDays"
-  },
-{
-    "nombre": "Mely",
-    "password": "9999",
-    "dni": "00000000",
-    "nombreCompleto": "Melany Diaz",
-    "fechaExpiracion": "2026-09-06",
-    "plan": "FreeDays"
+    "nombreCompleto": "Daiana",
+    "fechaExpiracion": "2026-10-28",
+    "plan": "Premium"
   }
 ]
