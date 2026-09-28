@@ -11,6 +11,9 @@
     "descripcion": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
     "año": 2025,
     "duracion": "",
+    "rating": 6.2,
+    "rating_updated": "2026-09-27T17:08:40.889Z",
+    "tmdb_id": 950387,
     "portada": "https://image.tmdb.org/t/p/original/rZYYmjgyF5UP1AVsvhzzDOFLCwG.jpg",
     "banner": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
     "embed": "https://rumble.com/hls-vod/78jie0/playlist.m3u8",
@@ -18,10 +21,12 @@
     "idioma": "Español (Latino)",
     "edad": "+13",
     "camara": false,
-    "especial": false,
-    "tmdb_id": 950387,
-    "rating": 6.2,
-    "rating_updated": "2026-09-27T17:08:40.889Z"
+    "especiales": [
+      "Hbo",
+      "Netflix",
+      "Prime Video"
+    ],
+    "plan": "basico"
   },
   {
     "id": 2,
@@ -35,6 +40,9 @@
     "descripcion": "Un nuevo peligro acecha procedente de las sombras del cosmos. Thanos, el infame tirano intergaláctico, tiene como objetivo reunir las seis Gemas del Infinito, artefactos de poder inimaginable, y usarlas para imponer su perversa voluntad a toda la existencia.",
     "año": 2018,
     "duracion": "",
+    "rating": 8.2,
+    "rating_updated": "2026-09-27T17:08:41.267Z",
+    "tmdb_id": 299536,
     "portada": "https://image.tmdb.org/t/p/original/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg",
     "banner": "https://image.tmdb.org/t/p/original/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
     "embed": "https://rumble.com/hls-vod/78tkvm/playlist.m3u8",
@@ -42,10 +50,11 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Marvel",
-    "tmdb_id": 299536,
-    "rating": 8.2,
-    "rating_updated": "2026-09-27T17:08:41.267Z"
+    "especiales": [
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "basico"
   },
   {
     "id": 3,
@@ -59,6 +68,9 @@
     "descripcion": "Después de los eventos devastadores de 'Vengadores: Infinity War', el universo está en ruinas debido a las acciones de Thanos. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles sean las consecuencias... Cuarta y última entrega de la saga Vengadores.",
     "año": 2019,
     "duracion": "",
+    "rating": 8.2,
+    "rating_updated": "2026-09-27T17:08:41.646Z",
+    "tmdb_id": 299534,
     "portada": "https://image.tmdb.org/t/p/original/ycvuLbEuMG88UPuwuAYJWY0ZI8v.jpg",
     "banner": "https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/j/K/2/f/jK2fq.aaa.mp4",
@@ -66,10 +78,11 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Marvel",
-    "tmdb_id": 299534,
-    "rating": 8.2,
-    "rating_updated": "2026-09-27T17:08:41.646Z"
+    "especiales": [
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "basico"
   },
   {
     "id": 4,
@@ -88,10 +101,13 @@
     "idioma": "Español (Latino)",
     "edad": "+18",
     "camara": false,
-    "especial": "Prime Video",
     "tmdb_id": 10591,
     "rating": 6.8,
-    "rating_updated": "2026-09-27T17:08:42.033Z"
+    "rating_updated": "2026-09-27T17:08:42.033Z",
+    "plan": "basico",
+    "especiales": [
+      "Prime Video"
+    ]
   },
   {
     "id": 5,
@@ -111,10 +127,13 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Marvel",
     "tmdb_id": 293660,
     "rating": 7.6,
-    "rating_updated": "2026-09-27T17:08:42.409Z"
+    "rating_updated": "2026-09-27T17:08:42.409Z",
+    "plan": "basico",
+    "especiales": [
+      "Marvel"
+    ]
   },
   {
     "id": 6,
@@ -134,10 +153,13 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Marvel",
     "tmdb_id": 383498,
     "rating": 7.5,
-    "rating_updated": "2026-09-27T17:08:42.786Z"
+    "rating_updated": "2026-09-27T17:08:42.786Z",
+    "plan": "basico",
+    "especiales": [
+      "Marvel"
+    ]
   },
   {
     "id": 7,
@@ -157,10 +179,11 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": false,
     "tmdb_id": 1423191,
     "rating": 7.3,
-    "rating_updated": "2026-09-27T17:08:43.163Z"
+    "rating_updated": "2026-09-27T17:08:43.163Z",
+    "plan": "basico",
+    "especiales": []
   },
   {
     "id": 8,
@@ -181,10 +204,13 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Netflix",
     "tmdb_id": 72190,
     "rating": 6.9,
-    "rating_updated": "2026-09-27T17:08:43.539Z"
+    "rating_updated": "2026-09-27T17:08:43.539Z",
+    "plan": "basico",
+    "especiales": [
+      "Netflix"
+    ]
   },
   {
     "id": 9,
@@ -202,10 +228,13 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Netflix",
     "tmdb_id": 523139,
     "rating": 5.6,
-    "rating_updated": "2026-09-27T17:08:43.975Z"
+    "rating_updated": "2026-09-27T17:08:43.975Z",
+    "plan": "basico",
+    "especiales": [
+      "Netflix"
+    ]
   },
   {
     "id": 10,
@@ -225,10 +254,13 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Netflix",
     "tmdb_id": 962232,
     "rating": 7.9,
-    "rating_updated": "2026-09-27T17:08:44.361Z"
+    "rating_updated": "2026-09-27T17:08:44.361Z",
+    "plan": "basico",
+    "especiales": [
+      "Netflix"
+    ]
   },
   {
     "id": 11,
@@ -247,10 +279,13 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Paramount",
     "tmdb_id": 318846,
     "rating": 7.4,
-    "rating_updated": "2026-09-27T17:08:44.736Z"
+    "rating_updated": "2026-09-27T17:08:44.736Z",
+    "plan": "basico",
+    "especiales": [
+      "Paramount"
+    ]
   },
   {
     "id": 12,
@@ -270,10 +305,13 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Marvel",
     "tmdb_id": 71676,
     "rating": 5,
-    "rating_updated": "2026-09-27T17:08:45.113Z"
+    "rating_updated": "2026-09-27T17:08:45.113Z",
+    "plan": "basico",
+    "especiales": [
+      "Marvel"
+    ]
   },
   {
     "id": 13,
@@ -292,10 +330,11 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": false,
     "tmdb_id": 291805,
     "rating": 6.8,
-    "rating_updated": "2026-09-27T17:08:45.494Z"
+    "rating_updated": "2026-09-27T17:08:45.494Z",
+    "plan": "basico",
+    "especiales": []
   },
   {
     "id": 14,
@@ -314,10 +353,13 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Hbo",
     "tmdb_id": 671,
     "rating": 7.9,
-    "rating_updated": "2026-09-27T17:08:45.870Z"
+    "rating_updated": "2026-09-27T17:08:45.870Z",
+    "plan": "basico",
+    "especiales": [
+      "Hbo"
+    ]
   },
   {
     "id": 15,
@@ -340,7 +382,10 @@
     "idioma": "Español (Latino)",
     "edad": "+13",
     "camara": false,
-    "especial": "Disney"
+    "plan": "basico",
+    "especiales": [
+      "Disney"
+    ]
   },
   {
     "id": 16,
@@ -362,7 +407,10 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Netflix"
+    "plan": "basico",
+    "especiales": [
+      "Netflix"
+    ]
   },
   {
     "id": 17,
@@ -385,7 +433,10 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Disney"
+    "plan": "basico",
+    "especiales": [
+      "Disney"
+    ]
   },
   {
     "id": 18,
@@ -408,7 +459,10 @@
     "idioma": "Español (Latino)",
     "edad": "+13",
     "camara": false,
-    "especial": "Prime Video"
+    "plan": "basico",
+    "especiales": [
+      "Prime Video"
+    ]
   },
   {
     "id": 19,
@@ -429,7 +483,10 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Prime Video"
+    "plan": "basico",
+    "especiales": [
+      "Prime Video"
+    ]
   },
   {
     "id": 20,
@@ -454,7 +511,10 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Prime Video"
+    "plan": "basico",
+    "especiales": [
+      "Prime Video"
+    ]
   },
   {
     "id": 21,
@@ -478,7 +538,10 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Netflix"
+    "plan": "basico",
+    "especiales": [
+      "Netflix"
+    ]
   },
   {
     "id": 22,
@@ -500,7 +563,8 @@
     "idioma": "Español (Latino)",
     "edad": "+13",
     "camara": false,
-    "especial": false
+    "plan": "basico",
+    "especiales": []
   },
   {
     "id": 23,
@@ -523,7 +587,10 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Prime Video"
+    "plan": "basico",
+    "especiales": [
+      "Prime Video"
+    ]
   },
   {
     "id": 24,
@@ -546,7 +613,8 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": false
+    "plan": "basico",
+    "especiales": []
   },
   {
     "id": 25,
@@ -569,7 +637,10 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Prime Video"
+    "plan": "basico",
+    "especiales": [
+      "Prime Video"
+    ]
   },
   {
     "id": 26,
@@ -594,7 +665,10 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Disney"
+    "plan": "basico",
+    "especiales": [
+      "Disney"
+    ]
   },
   {
     "id": 27,
@@ -617,7 +691,10 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Netflix"
+    "plan": "basico",
+    "especiales": [
+      "Netflix"
+    ]
   },
   {
     "id": 28,
@@ -640,7 +717,8 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": false
+    "plan": "basico",
+    "especiales": []
   },
   {
     "id": 29,
@@ -664,7 +742,10 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Hbo"
+    "plan": "basico",
+    "especiales": [
+      "Hbo"
+    ]
   },
   {
     "id": 30,
@@ -690,7 +771,10 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Hbo"
+    "plan": "basico",
+    "especiales": [
+      "Hbo"
+    ]
   },
   {
     "id": 31,
@@ -712,7 +796,10 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Prime Video"
+    "plan": "basico",
+    "especiales": [
+      "Prime Video"
+    ]
   },
   {
     "id": 32,
@@ -736,7 +823,10 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Hbo"
+    "plan": "basico",
+    "especiales": [
+      "Hbo"
+    ]
   },
   {
     "id": 33,
@@ -760,7 +850,10 @@
     "idioma": "Español (Latino)",
     "edad": "TP",
     "camara": false,
-    "especial": "Disney"
+    "plan": "basico",
+    "especiales": [
+      "Disney"
+    ]
   },
   {
     "id": 34,
@@ -783,7 +876,8 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": false
+    "plan": "basico",
+    "especiales": []
   },
   {
     "id": 35,
@@ -806,7 +900,8 @@
     "idioma": "Español (Latino)",
     "edad": "+13",
     "camara": false,
-    "especial": false
+    "plan": "basico",
+    "especiales": []
   },
   {
     "id": 36,
@@ -829,7 +924,8 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": false
+    "plan": "basico",
+    "especiales": []
   },
   {
     "id": 37,
@@ -852,7 +948,8 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": false
+    "plan": "basico",
+    "especiales": []
   },
   {
     "id": 38,
@@ -874,7 +971,10 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Hbo"
+    "plan": "basico",
+    "especiales": [
+      "Hbo"
+    ]
   },
   {
     "id": 39,
@@ -898,7 +998,8 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": false
+    "plan": "basico",
+    "especiales": []
   },
   {
     "id": 40,
@@ -920,6 +1021,9 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especial": "Marvel"
+    "plan": "basico",
+    "especiales": [
+      "Marvel"
+    ]
   }
 ]
