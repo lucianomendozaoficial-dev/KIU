@@ -22,9 +22,9 @@
     "edad": "+13",
     "camara": false,
     "especiales": [
+      "Prime Video",
       "Hbo",
-      "Netflix",
-      "Prime Video"
+      "Netflix"
     ],
     "plan": "basico"
   },
@@ -48,7 +48,7 @@
     "embed": "https://rumble.com/hls-vod/78tkvm/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+7",
     "camara": false,
     "especiales": [
       "Marvel",
@@ -94,6 +94,9 @@
     "descripcion": "Matthew, un ambicioso joven de un instituto con aspiraciones a ser político en el futuro, se enamora de la chica de sus sueños: la bella y joven vecina de la puerta de al lado. Ambos comienzan un idílico romance, pero un sorprendente descubrimiento pondrá a prueba su relación: ella es un famosa actriz porno.",
     "año": 2004,
     "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-09-27T17:08:42.033Z",
+    "tmdb_id": 10591,
     "portada": "https://image.tmdb.org/t/p/original/yrZPHvxkgWWeUXigjxBsxmqcGAf.jpg",
     "banner": "https://image.tmdb.org/t/p/original/qvcOovScPoRalRxDy50rYSYFree.jpg",
     "embed": "https://rumble.com/hls-vod/78aoym/playlist.m3u8",
@@ -101,13 +104,11 @@
     "idioma": "Español (Latino)",
     "edad": "+18",
     "camara": false,
-    "tmdb_id": 10591,
-    "rating": 6.8,
-    "rating_updated": "2026-09-27T17:08:42.033Z",
-    "plan": "basico",
     "especiales": [
-      "Prime Video"
-    ]
+      "Prime Video",
+      "Disney"
+    ],
+    "plan": "basico"
   },
   {
     "id": 5,
@@ -120,20 +121,21 @@
     "descripcion": "Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida, adoptando Wade entonces el alter ego de Deadpool. Armado con sus nuevas habilidades y un oscuro y retorcido sentido del humor, Deadpool intentará dar caza al hombre que casi destruye su vida.",
     "año": 2016,
     "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-09-27T17:08:42.409Z",
+    "tmdb_id": 293660,
     "portada": "https://image.tmdb.org/t/p/original/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg",
     "banner": "https://image.tmdb.org/t/p/original/rFj9IKlL75B2pXhZA60jkNWvxeW.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/O/B/d/-/OBd-p.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
-    "tmdb_id": 293660,
-    "rating": 7.6,
-    "rating_updated": "2026-09-27T17:08:42.409Z",
-    "plan": "basico",
     "especiales": [
-      "Marvel"
-    ]
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "basico"
   },
   {
     "id": 6,
@@ -146,20 +148,21 @@
     "descripcion": "el mutante conocido como Deadpool y el antihéroe más gamberro de Marvel tiene que vérselas esta vez con Cable (Josh Brolin). El poderoso villano ha secuestrado a un chaval llamado Russell (Julian Dennison). Para salvar al joven, el desvergonzado mutante decide montar un hiper-mega escuadrón al que, por toda la cara, va a llamar X-Force. En este escuadrón estarán Domino (Zazie Beetz), Estrella Rota (Lewis Tan), Negasonic (Brianna Hildebrand), Zeitgeist (Bill Skarsgård), Yukio (Shioli Kutsuna), Coloso (Stefan Kapicic) y Bedlam (Terry Crews). Con su característica irreverencia, el antihéroe deberá demostrar a Cable que es un héroe y no solo un payaso.",
     "año": 2018,
     "duracion": "",
+    "rating": 7.5,
+    "rating_updated": "2026-09-27T17:08:42.786Z",
+    "tmdb_id": 383498,
     "portada": "https://image.tmdb.org/t/p/original/84NUrv5kuMUDDlOPqi97KGJMdLm.jpg",
     "banner": "https://image.tmdb.org/t/p/original/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/t/5/w/_/t5w_p.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
-    "tmdb_id": 383498,
-    "rating": 7.5,
-    "rating_updated": "2026-09-27T17:08:42.786Z",
-    "plan": "basico",
     "especiales": [
-      "Marvel"
-    ]
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "basico"
   },
   {
     "id": 7,
@@ -172,18 +175,18 @@
     "descripcion": "Un desafortunado mensajero, encargado de entregar un paquete a un hospital remoto, se ve atrapado en medio de un brote y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
     "año": 2026,
     "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-09-27T17:08:43.163Z",
+    "tmdb_id": 1423191,
     "portada": "https://image.tmdb.org/t/p/original/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
     "banner": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/fww1/5c/s8/2/U/8/N/Z/U8NZA.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
-    "tmdb_id": 1423191,
-    "rating": 7.3,
-    "rating_updated": "2026-09-27T17:08:43.163Z",
-    "plan": "basico",
-    "especiales": []
+    "especiales": [],
+    "plan": "basico"
   },
   {
     "id": 8,
@@ -197,20 +200,20 @@
     "descripcion": "espués de ser llevado a un portaaviones del ejército, Gerry recibirá la misión de averiguar el origen del virus que está destruyendo la humanidad a pasos agigantados. Deberá viajar a Jerusalén, último lugar del que se tienen registros del virus que dio origen a la pandemia. Aquí comenzará una carrera contrarreloj que Gerry tendrá que ganar si quiere salvaguardar el futuro de una humanidad que está siendo devastada por unos seres rabiosos que parecen tener su origen en un virus diseñado y propagado por los seres humanos.",
     "año": 2013,
     "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-09-27T17:08:43.539Z",
+    "tmdb_id": 72190,
     "portada": "https://image.tmdb.org/t/p/original/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg",
     "banner": "https://image.tmdb.org/t/p/original/kg2FOT2Oe5PSCgs3L4vLel6B7ck.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/M/r/K/t/MrKtq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
-    "tmdb_id": 72190,
-    "rating": 6.9,
-    "rating_updated": "2026-09-27T17:08:43.539Z",
-    "plan": "basico",
     "especiales": [
       "Netflix"
-    ]
+    ],
+    "plan": "basico"
   },
   {
     "id": 9,
@@ -298,20 +301,21 @@
     "descripcion": "Johnny Blaze, atormentado por la maldición del Ghost Rider, debe proteger al hijo del Diablo para intentar liberarse de su propia maldición.",
     "año": 2011,
     "duracion": "",
+    "rating": 5,
+    "rating_updated": "2026-09-27T17:08:45.113Z",
+    "tmdb_id": 71676,
     "portada": "https://image.tmdb.org/t/p/original/nMPCSYPyeBbfwHUCvyAJUEUiLBU.jpg",
     "banner": "https://image.tmdb.org/t/p/original/ebNcAJfWsSbbv7VhboAvpUdOduJ.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/H/5/Z/W/H5ZWp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+7",
     "camara": false,
-    "tmdb_id": 71676,
-    "rating": 5,
-    "rating_updated": "2026-09-27T17:08:45.113Z",
-    "plan": "basico",
     "especiales": [
-      "Marvel"
-    ]
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "basico"
   },
   {
     "id": 13,
@@ -1019,11 +1023,1119 @@
     "embed": "https://rumble.com/hls-vod/78jzyo/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 41,
+    "nombre": "Tres Metros Sobre El Cielo",
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "descripcion": "Historia de dos jóvenes que pertenecen a mundos diferentes. Es la crónica de un amor improbable, casi imposible pero inevitable arrastrando en un viaje frenético descubren el primer gran amor. Babi (Maria Valverde) es una chica de clase media alta que se educa en la bondad y la inocencia. Hache (Mario Casas) es un niño rebelde, impulsivo, inconsciente, tiene un apetito de riesgo y peligro encarnado en peleas interminables y carreras ilegales de motos, el límite del sentido común",
+    "año": 2010,
+    "duracion": "",
+    "rating": 7.7,
+    "rating_updated": "2026-09-28T01:18:49.611Z",
+    "tmdb_id": 61979,
+    "portada": "https://image.tmdb.org/t/p/original/nNoMfNPnvEzGADXDkP6eJAP81KB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2Mq10FWFbxoYgsZysWlw7T9wSNe.jpg",
+    "embed": "https://rumble.com/hls-vod/78jzy4/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix",
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 42,
+    "nombre": "Terrifier",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "El payaso psicópata Art, aterroriza a dos chicas durante la noche de Halloween, matando a todos aquellos que se interponen en su camino.",
+    "año": 2018,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-09-28T01:25:54.606Z",
+    "tmdb_id": 420634,
+    "portada": "https://image.tmdb.org/t/p/original/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/naNXYdBzTEb1KwOdi1RbBkM9Zv1.jpg",
+    "embed": "https://rumble.com/hls-vod/78k132/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 43,
+    "nombre": "Terrifier 2: El Payaso Siniestro",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "Después de ser resucitado por una entidad siniestra, Art the Clown regresa al condado de Miles, donde debe cazar y destruir a una adolescente y a su hermano menor en la noche de Halloween.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 6.7,
+    "rating_updated": "2026-09-28T01:26:59.079Z",
+    "tmdb_id": 663712,
+    "portada": "https://image.tmdb.org/t/p/original/6ZfvF7ZS8MJXe0YwRkPAtXNpXrG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4QJtcL4D3abqdX6Snrk8ciRkroa.jpg",
+    "embed": "https://rumble.com/hls-vod/78k13y/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 44,
+    "nombre": "Exit 8",
+    "generos": [
+      "Misterio",
+      "Suspenso",
+      "Terror"
+    ],
+    "descripcion": "Película basada en el videojuego de KOTAKE CREATE \"The Exit 8\", cuya premisa es que una persona anónima se encuentra en una estación de metro atrapada en un bucle en donde debe avanzar sólo cuando una anomalía no aparezca en su campo de visión... o volverá al inicio sin ser capaz de huir de ese lugar.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-09-28T01:27:50.110Z",
+    "tmdb_id": 1408208,
+    "portada": "https://image.tmdb.org/t/p/original/55M0P4DpAPwoe4RJ1zHBNtVmTkO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3cVrg7tzSf5AgEecYWDOSAzXAeX.jpg",
+    "embed": "https://rumble.com/hls-vod/78k3mw/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 45,
+    "nombre": "Maze Runner: Correr o morir",
+    "generos": [
+      "Acción",
+      "Misterio",
+      "Ciencia Ficción",
+      "Suspenso"
+    ],
+    "descripcion": "Thomas abre los ojos y se da cuenta que está en un ascensor. Lo extraño es que no recuerda nada, ni dónde está, ni quién es. Lo único que aún permanece intacto en su memoria es su nombre, y ya es mucho. Antes de que le dé tiempo a cuestionarse algo sobre sí mismo las puertas se abrirán y aparecerá ante él un extraño mundo. Todo lo que ve son chicos de su edad que tienen su mismo estado de amnesia. Una aventura fantástica que pronto destapará la dura realidad bajo ese velo de incertidumbre.",
+    "año": 2014,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-09-28T01:29:10.902Z",
+    "tmdb_id": 198663,
+    "portada": "https://image.tmdb.org/t/p/original/6uMWXENVeq83K5THrMflbmoEbn9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eTlcNXGv32zkVI7ZDHhfeaKHXKQ.jpg",
+    "embed": "https://rumble.com/hls-vod/78k5la/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 46,
+    "nombre": "Maze Runner: Prueba de fuego",
+    "generos": [
+      "Ciencia Ficción",
+      "Acción",
+      "Suspenso",
+      "Aventura"
+    ],
+    "descripcion": "Thomas y sus compañeros deben cruzar un agreste desierto para encontrar pistas que les ayuden a combatir a la malévola organización CRUEL. Durante su viaje encontrarán inimaginables obstáculos, conocerán a afectados por la enfermedad, y harán nuevos aliados.",
+    "año": 2015,
+    "duracion": "",
+    "rating": 6.7,
+    "rating_updated": "2026-09-28T01:29:40.493Z",
+    "tmdb_id": 294254,
+    "portada": "https://image.tmdb.org/t/p/original/womQQ2ltHhYeP35kitlwzAhtUt9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4mcOCiR06dqQ5eoEJcG3zvonjOa.jpg",
+    "embed": "https://rumble.com/hls-vod/78k5fi/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 47,
+    "nombre": "Maze Runner: La cura mortal",
+    "generos": [
+      "Ciencia Ficción",
+      "Acción",
+      "Aventura",
+      "Suspenso"
+    ],
+    "descripcion": "El joven héroe Thomas no puede confiar en la organización CRUEL, entonces con sus amigos se embarca en una misión para encontrar una cura para la enfermedad mortal conocida como La Llamarada.",
+    "año": 2018,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-09-28T01:30:21.735Z",
+    "tmdb_id": 336843,
+    "portada": "https://image.tmdb.org/t/p/original/dM5La06fiOi6ODLIikEZX93ySFc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zGCfnZ3bCowMY9So9ZGpsyuOYl3.jpg",
+    "embed": "https://rumble.com/hls-vod/78k5is/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 48,
+    "nombre": "Shin Godzilla",
+    "generos": [
+      "Acción",
+      "Ciencia Ficción",
+      "Terror"
+    ],
+    "descripcion": "Godzilla, fuerza destructiva insondable para el hombre, resucita en el Tokio de hoy en día para acosar de nuevo a la civilización. Un país aún atormentado por las secuelas de un desastre natural, experimenta de repente el horror catastrófico de Godzilla. Apremiado por la muerte y la desesperación, Japón deberá encontrar el poder para superar este desafío.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-09-28T01:31:22.267Z",
+    "tmdb_id": 315011,
+    "portada": "https://image.tmdb.org/t/p/original/iBUgBTHljQh61QabZRJrGDRfP2f.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tb0uo01w2kDHiQwTszsLlSusAm4.jpg",
+    "embed": "https://rumble.com/hls-vod/78k5gu/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+7",
+    "camara": false,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 49,
+    "nombre": "La familia del futuro",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Ciencia Ficción",
+      "Aventura"
+    ],
+    "descripcion": "Esta gran aventura te lleva a un nuevo mundo lleno de imaginación y sorpresas. Acompaña a Lewis, un joven y brillante inventor, en su viaje por el tiempo para encontrar a la familia que nunca conoció. Lewis descubre que el futuro está en sus manos pero no puede salvarlo solo, necesitará la ayuda de la loca familia Robinson para seguir adelante y no dejar de creer en sí mismo.",
+    "año": 2007,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-09-28T01:32:18.948Z",
+    "tmdb_id": 1267,
+    "portada": "https://image.tmdb.org/t/p/original/1V34tiUPo3memMuCFlGhpA7ODbj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AsWuvFnzgmG6kZMIpJO7HZpvYRB.jpg",
+    "embed": "https://rumble.com/hls-vod/78k5ju/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 50,
+    "nombre": "La noche del demonio: Capítulo 2",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Josh y Renai Lambert se han mudado con sus hijos a la casa de Lorraine, la madre de Josh, esperando olvidar el pasado y comenzar una nueva vida. Pero pronto la familia empieza a percibir extrañas visiones y fenómenos amenazantes que los obligarán a desentrañar un oscuro secreto.",
+    "año": 2013,
+    "duracion": "",
+    "rating": 6.7,
+    "rating_updated": "2026-09-28T01:33:14.062Z",
+    "tmdb_id": 91586,
+    "portada": "https://image.tmdb.org/t/p/original/xSGxOMeMUx8BfhlLgXh7MNbJul6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/i9oyhCYxIYH2082J0Rc3a3jQjRB.jpg",
+    "embed": "https://rumble.com/hls-vod/78neu4/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Hbo",
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 51,
+    "nombre": "La noche del demonio: Capítulo 3",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Elise Rainier acepta a regañadientes utilizar su capacidad de ponerse en contacto con los muertos a fin de ayudar a una adolescente que se ha convertido en el blanco de una peligrosa entidad sobrenatural.",
+    "año": 2015,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-09-28T01:34:19.323Z",
+    "tmdb_id": 280092,
+    "portada": "https://image.tmdb.org/t/p/original/l2e7dnFYGnXVA0sTahF6z0z62JL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1fpwEe2GvNjAq2MN2xxdifNZLBT.jpg",
+    "embed": "https://rumble.com/hls-vod/78neu4/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Hbo",
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 52,
+    "nombre": "La noche del demonio: La última llave",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "La parapsicóloga Elise Rainier se enfrenta a su pasado oscuro cuando regresa a su antigua casa familiar, donde se desata una serie de horrores paranormales que amenazan con destruir todo lo que ella conoce. Con su vida y su cordura en juego, Elise debe enfrentarse a sus propios demonios mientras lucha contra fuerzas malévolas que buscan dominarla.",
+    "año": 2018,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-09-28T01:35:21.924Z",
+    "tmdb_id": 406563,
+    "portada": "https://image.tmdb.org/t/p/original/cTc4svNfcS83LxudQK89tewy86Z.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/q1r0QUf4UVTqtkxOSMnTD8RyTaL.jpg",
+    "embed": "https://rumble.com/hls-vod/78nf0c/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Hbo",
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 53,
+    "nombre": "La noche del demonio",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Una familia descubre que los espíritus oscuros han invadido su hogar después de que su hijo inexplicablemente cae en un sueño sin fin. Cuando llegan a un profesional para obtener ayuda, aprenden que las cosas son mucho más personales de lo que pensaban.",
+    "año": 2011,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-09-28T01:36:34.490Z",
+    "tmdb_id": 49018,
+    "portada": "https://image.tmdb.org/t/p/original/3myfmbsEApam7jaPosW2Q76qdkS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tJvRdhlkonjBLBUpTqp0RPPujxJ.jpg",
+    "embed": "https://rumble.com/hls-vod/78nera/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Hbo",
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 54,
+    "nombre": "La noche del demonio: La puerta roja",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Una familia se ve atrapada en una espiral de terror cuando descubren una misteriosa puerta en su nueva casa. Al abrirla, liberan fuerzas oscuras que amenazan con consumirlos, enfrentándolos a un mal más allá de su comprensión y poniendo en peligro sus vidas y su cordura.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-09-28T01:37:29.730Z",
+    "tmdb_id": 614479,
+    "portada": "https://image.tmdb.org/t/p/original/im4yhz8A9LvXgu1nBPSIBtaBIf6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/i2GVEvltEu3BXn5crBSxgKuTaca.jpg",
+    "embed": "https://rumble.com/hls-vod/78nezc/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix",
+      "Hbo"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 55,
+    "nombre": "Supergirl",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Mientras celebra su cumpleaños número 21, Kara Zor-El viaja por la galaxia con su perro Krypto, durante el cual conoce a la joven Ruthye Marye Knoll y emprende una \"búsqueda asesina de venganza\".",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.7,
+    "rating_updated": "2026-09-28T01:38:30.494Z",
+    "tmdb_id": 1081003,
+    "portada": "https://image.tmdb.org/t/p/original/xhei2GX9L2H1eQlrHeFw44VNLd1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/e5/s8/2/8/U/W/A/8UWAA.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": true,
+    "especiales": [
+      "Hbo",
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 56,
+    "nombre": "¿Cuánto me amas?",
+    "generos": [
+      "Comedia",
+      "Drama"
+    ],
+    "descripcion": "François (Bernard Campan) se gana la lotería y le propone a una prostituta llamada Daniela (Monica Bellucci) pagarle el triple de lo que ha ganado a cambio de que se vaya a vivir con él hasta que se acabe el dinero. Cuando ella acepta, empieza una tortuosa historia de amor no exenta de romanticismo, pasión y sexo. Además, al final, no será tan fácil despedirse de Charly (Gérard Depardieu) y del mundo de la noche.",
+    "año": 2005,
+    "duracion": "",
+    "rating": 5.9,
+    "rating_updated": "2026-09-28T01:42:53.270Z",
+    "tmdb_id": 5070,
+    "portada": "https://image.tmdb.org/t/p/original/gsMv6jkfY5sDCLOMgCu6N1a2Mz6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/Ao3moi1E8sMxLlMwWRC3w9wZ6TL.jpg",
+    "embed": "https://rumble.com/hls-vod/78p56g/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "plan": "basico",
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 57,
+    "nombre": "Agente bajo fuego",
+    "generos": [
+      "Acción",
+      "Suspenso"
+    ],
+    "descripcion": "Después de un ataque traicionero, el agente del Servicio Secreto Mike Banning es acusado de intentar asesinar al Presidente Trumbull. Perseguido por sus propios colegas y por el FBI, Banning comienza una carrera contrarreloj para limpiar su nombre.",
+    "año": 2019,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-09-28T01:45:02.088Z",
+    "tmdb_id": 423204,
+    "portada": "https://image.tmdb.org/t/p/original/zC8HSq4xWsPgPDjgmlFix4VMtaD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sGqqnvOqJg2HDHrjtCPIlCwF4Mu.jpg",
+    "embed": "https://rumble.com/hls-vod/78p9ds/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
     "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 58,
+    "nombre": "Turbulencia En La Oficina",
+    "generos": [
+      "Romance",
+      "Comedia"
+    ],
+    "descripcion": "Jennifer Lopez y Brett Goldstein protagonizan esta comedia romántica picante sobre un amor secreto de oficina y los enredos de dos adictos al trabajo deciden seguir su corazón.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-09-28T01:48:02.499Z",
+    "tmdb_id": 1358005,
+    "portada": "https://image.tmdb.org/t/p/original/tTGToWluGxIsQJzRJCkCqhfjVtd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg",
+    "embed": "https://rumble.com/hls-vod/78qjt8/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 59,
+    "nombre": "¿Y dónde está el fantasma? 2",
+    "generos": [
+      "Comedia",
+      "Terror"
+    ],
+    "descripcion": "Habiendo exorcizado los demonios de su ex, Malcolm está comenzando fresco con su nueva novia y sus dos hijos. Después de mudarse a su casa de ensueño, sin embargo, Malcolm es una vez más plagado de extraños eventos paranormales.",
+    "año": 2014,
+    "duracion": "",
+    "rating": 6.2,
+    "rating_updated": "2026-09-28T01:50:35.803Z",
+    "tmdb_id": 184345,
+    "portada": "https://image.tmdb.org/t/p/original/vRbDuqlmGPM9wGZ3VwbrjQu16Oa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6gycezbvc8iHSune1Evq79dcYIY.jpg",
+    "embed": "https://rumble.com/hls-vod/78qosm/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 60,
+    "nombre": "Tripulación Dave",
+    "generos": [
+      "Comedia",
+      "Ciencia Ficción",
+      "Aventura",
+      "Familia"
+    ],
+    "descripcion": "Dave, recién llegado a Nueva York, es el visitante más perdido de todos. Parece totalmente fuera de lugar e incómodo con su propio cuerpo. Y es que Dave no es un hombre, sino una nave hecha a imagen y semejanza del comandante en miniatura que la controla.",
+    "año": 2008,
+    "duracion": "",
+    "rating": 5.3,
+    "rating_updated": "2026-09-28T01:51:30.404Z",
+    "tmdb_id": 11260,
+    "portada": "https://image.tmdb.org/t/p/original/nGbd86jWDgzRx678HgCcSoQkXQW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/azheZwmLAiWZyDuL416NL0IxvFp.jpg",
+    "embed": "https://rumble.com/hls-vod/78ql4i/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 61,
+    "nombre": "¿Y dónde está el fantasma?",
+    "generos": [
+      "Comedia",
+      "Terror"
+    ],
+    "descripcion": "Una joven pareja, Malcolm y Kisha, se acaban de mudar a la casa de sus sueño. Al instalarse, descubren que no están solos en ella. Pero no es la casa la que está embrujada, sino la novia de Malcolm, que parece estar poseída por un demonio. Malcolm contrata a un sacerdote para librarla de este intruso, decidido a no dejar que el espíritu maligno arruine su relación... o, más importante aún, su vida sexual...",
+    "año": 2013,
+    "duracion": "",
+    "rating": 6,
+    "rating_updated": "2026-09-28T01:52:37.985Z",
+    "tmdb_id": 139038,
+    "portada": "https://image.tmdb.org/t/p/original/pAVGfrADDvKMgoZnJLSCiLBCCiG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mgnMFeLCEaNTOiD7w2DOaqzddyJ.jpg",
+    "embed": "https://rumble.com/hls-vod/78qos2/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 62,
+    "nombre": "Amos del Universo",
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "En las regiones más lejanas del espacio, el Reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-09-28T01:53:24.901Z",
+    "tmdb_id": 454639,
+    "portada": "https://image.tmdb.org/t/p/original/bY9y1kR336h94xBiNvzkhG8FyP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5MUMB3aPEPEQPCIAaygXFUTWE9Y.jpg",
+    "embed": "https://rumble.com/hls-vod/78pc9w/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+7",
+    "camara": true,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 63,
+    "nombre": "Love Me, Love Me",
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "descripcion": "Tras la muerte de su hermano, June se muda a Milán para empezar de nuevo y encuentra consuelo en Will, el alumno modelo de su nueva escuela internacional. Pero cuando su conflictivo mejor amigo James inicia una rivalidad que pronto se convierte en una atracción irresistible, June deberá elegir entre la seguridad y un amor que lo pone todo en jaque.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.1,
+    "rating_updated": "2026-09-28T01:54:45.242Z",
+    "tmdb_id": 1317672,
+    "portada": "https://image.tmdb.org/t/p/original/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ohUhHOqW8cM59Ay5UjqplLzJbH3.jpg",
+    "embed": "https://rumble.com/hls-vod/78roy6/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 64,
+    "nombre": "Titanes del Pacífico: La insurrección",
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Ciencia Ficción",
+      "Aventura"
+    ],
+    "descripcion": "Un futuro cercano. Han pasado 10 años tras la primera invasión que sufrió la humanidad, pero la lucha aún no ha terminado. El planeta vuelve a ser asediado por los Kaiju, una raza de alienígenas colosales, que emergen desde un portal interdimensional con el objetivo de destruir a la raza humana. Ante esta nueva amenaza, los Jaegers, robots gigantes de guerra pilotados por dos personas para sobrellevar la inmensa carga neuronal que conlleva manipularlos, ya no están a la altura de lo que se les viene encima. Será entonces cuando los supervivientes de la primera invasión, además de nuevos personajes como el hijo de Pentecost, tendrán que idear la manera de sorprender al enorme enemigo, apostando por nuevas estrategias defensivas y de ataque. Con la Tierra en ruinas e intentando reconstruirse, esta nueva batalla puede ser decisiva para el futuro...",
+    "año": 2018,
+    "duracion": "",
+    "rating": 6.1,
+    "rating_updated": "2026-09-28T01:56:39.530Z",
+    "tmdb_id": 268896,
+    "portada": "https://image.tmdb.org/t/p/original/cxSBAjrOa2nluuPGUUIWLM5ycLn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oMaj75G2WFw66xI1TREg1hrToSg.jpg",
+    "embed": "https://rumble.com/hls-vod/78rtr0/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 65,
+    "nombre": "Titanes Del Pacífico",
+    "generos": [
+      "Acción",
+      "Ciencia Ficción",
+      "Aventura"
+    ],
+    "descripcion": "Cuando legiones de monstruosas criaturas, denominadas Kaiju, comienzan a salir del mar, se inicia una guerra que acabará con millones de vidas y que consumirá los recursos de la humanidad durante interminables años. Para combatir a los Kaiju gigantes diseñan un tipo especial de arma: enormes robots, llamados Jaegers, que son controlados simultáneamente por dos pilotos cuyas mentes están bloqueadas en un puente neural. Pero incluso los Jaegers proporcionan poca defensa ante los incansables Kaiju. A punto de la derrota, las fuerzas que defienden a la humanidad no tienen otra elección que recurrir a dos insólitos héroes: un ex piloto acabado y un aprendiz que todavía no se ha puesto a prueba. Ambos se unen para traer a un legendario pero al parecer obsoleto Jaeger del pasado. Juntos, son la última esperanza de la humanidad frente al Apocalipsis que se avecina",
+    "año": 2013,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-09-28T01:58:01.214Z",
+    "tmdb_id": 68726,
+    "portada": "https://image.tmdb.org/t/p/original/qGu6CHagpxv1XW6Bn3sUJ9SFaH0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9X7Im1YuBhyHYVD8r7CAONPJR5k.jpg",
+    "embed": "https://rumble.com/hls-vod/78rtsc/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 66,
+    "nombre": "Avengers 2: Era de Ultrón",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Cuando Tony Stark y Bruce Banner intentan poner en marcha un inactivo programa de mantenimiento de la paz llamado Ultrón, las cosas van terriblemente mal y depende de los héroes más poderosos de la Tierra evitar que el villano Ultrón lleve a cabo su terrible plan.",
+    "año": 2015,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-09-28T01:59:15.821Z",
+    "tmdb_id": 99861,
+    "portada": "https://image.tmdb.org/t/p/original/fXi6HGIJXi7Z8YWZRcRI56dfY4p.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+    "embed": "https://rumble.com/hls-vod/78rwme/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+7",
+    "camara": false,
+    "especiales": [
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 67,
+    "nombre": "Los colores de la montaña",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "Un grupo heterogéneo de jóvenes en Colombia vive solo por una pasión: el fútbol. Pero cuando su preciosa bola nueva rueda hacia un campo minado, sus sueños se detienen repentinamente. Incluso cuando la aldea se convierte en el centro de un tira y afloja entre grupos paramilitares de derecha y guerrilleros de izquierda, la idea de un intento de rescate es demasiado tentadora para resistirla.",
+    "año": 2011,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-09-28T02:00:29.570Z",
+    "tmdb_id": 81623,
+    "portada": "https://image.tmdb.org/t/p/original/i3jGJkhb9GRKEYRj0skw9zeKu7u.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/u4JmL2dal2fg4cI2UGNPVs3RDDI.jpg",
+    "embed": "https://rumble.com/hls-vod/78s2y8/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 68,
+    "nombre": "Cómo ser soltera",
+    "generos": [
+      "Comedia",
+      "Romance"
+    ],
+    "descripcion": "La ciudad de Nueva York está llena de corazones solitarios que buscan la pareja correcta: ya sea una conexión amorosa, un ligue, o algo en medio. Y en algún punto entre los mensajes de texto con bromas y las aventuras de una sola noche sin compromiso, lo que todos estos solteros tienen en común es la necesidad de aprender cómo ser solteros en un mundo lleno de definiciones del amor siempre envolventes. Nunca fue tan divertido dormir en diferentes camas en la ciudad que nunca duerme.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-09-28T02:01:11.758Z",
+    "tmdb_id": 259694,
+    "portada": "https://image.tmdb.org/t/p/original/kqt1Cr0apmqR1uYXGlblArCKSR3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bCakS265nbi6fYB3bwuzVLAsjsv.jpg",
+    "embed": "https://rumble.com/hls-vod/78sdyo/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 69,
+    "nombre": "La guerra de las galaxias",
+    "generos": [
+      "Aventura",
+      "Acción",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "La princesa Leia es capturada y retenida como rehén por las malvadas fuerzas imperiales en su afán por apoderarse del Imperio Galáctico. El audaz Luke Skywalker y el audaz capitán Han Solo se unen al encantador dúo de robots R2-D2 y C-3PO para rescatar a la bella princesa y restaurar la paz y la justicia en el Imperio.",
+    "año": 1977,
+    "duracion": "",
+    "rating": 8.2,
+    "rating_updated": "2026-09-28T02:02:26.223Z",
+    "tmdb_id": 11,
+    "portada": "https://image.tmdb.org/t/p/original/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg",
+    "embed": "https://rumble.com/hls-vod/78sdzs/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 70,
+    "nombre": "Michael",
+    "generos": [
+      "Música",
+      "Drama"
+    ],
+    "descripcion": "Narra la vida de Michael Jackson más allá de la música, recorriendo su trayectoria desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en un artista visionario cuya ambición creativa le impulsó a convertirse en el artista más grande del mundo.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8.6,
+    "rating_updated": "2026-09-28T02:03:19.777Z",
+    "tmdb_id": 936075,
+    "portada": "https://image.tmdb.org/t/p/original/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+    "embed": "https://rumble.com/hls-vod/78tdvs/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 71,
+    "nombre": "Destino Final",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "Un joven estudiante tiene una premonición al subirse al avión en el que se dispone a ir a París con sus compañeros. Presintiendo que algo grave va a pasar, él y sus amigos desembarcan antes del despegue. Efectivamente, el avión sufre un trágico accidente, y los jóvenes piensan que se han librado de una muerte segura gracias a la premonición de su amigo. Pero el destino no ha sido vencido todavía...",
+    "año": 2000,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-09-28T02:05:21.317Z",
+    "tmdb_id": 9532,
+    "portada": "https://image.tmdb.org/t/p/original/6F3MEcGHeMAMxledi7vQfqkZRkc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7isarjYDEKZ5t1CgcvbuqEUby8P.jpg",
+    "embed": "https://rumble.com/hls-vod/78tly2/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 72,
+    "nombre": "Hablando con Él",
+    "generos": [
+      "Drama",
+      "Crimen"
+    ],
+    "descripcion": "Basado en la inspiradora y poderosa historia real y las entradas de diario de Rachel Joy Scott, la primera estudiante asesinada en el tiroteo de la escuela secundaria de Columbine en 1999.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-09-28T02:14:05.860Z",
+    "tmdb_id": 409502,
+    "portada": "https://image.tmdb.org/t/p/original/lTXGRIkquoSHcjkhzOXbMVkpu6L.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rsdFvneLY76JGXQ1rYovyeUtqyc.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/0/L/b/o/0Lboq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Netflix",
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 73,
+    "nombre": "Chicas Pesadas",
+    "generos": [
+      "Drama",
+      "Comedia"
+    ],
+    "descripcion": "Una joven adolescente, Cady (Lindsay Lohan), acostumbrada a vivir en África con sus padres zoólogos, se encuentra una nueva jungla cuando se muda a Illinois. Allí acude a la escuela pública, donde se enamorará del ex-novio de la chica más popular del colegio (Rachel McAdams). Las chicas comenzarán a hacer la vida imposible a Cady, y ésta no tendrá otro remedio que usar sus mismas tácticas para mantenerse a flote.",
+    "año": 2004,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-09-28T02:19:01.897Z",
+    "tmdb_id": 10625,
+    "portada": "https://image.tmdb.org/t/p/original/7L7wCakqwuoz6S9zRVaAH0NLJ3H.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nP3y0TkR6XniFs9J53qQkg4Bnnk.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/8/n/m/n/8nmnq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Paramount",
+      "Prime Video",
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 74,
+    "nombre": "Mortal Kombat",
+    "generos": [
+      "Acción",
+      "Fantasía"
+    ],
+    "descripcion": "Durante nueve generaciones, Shang Tsung, un brujo malvado, ha llevado a un poderoso príncipe a la victoria contra sus mortales enemigos. Si vence el décimo torneo Mortal Kombat, la desolación y el mal que han florecido en el mundo exterior reinarán la Tierra por siempre.",
+    "año": 1995,
+    "duracion": "",
+    "rating": 5.9,
+    "rating_updated": "2026-09-28T02:22:50.052Z",
+    "tmdb_id": 9312,
+    "portada": "https://image.tmdb.org/t/p/original/yQA2tNUex9usFP4Tp6NEuZNGtxN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dfU9xyEEyLxvZ5unTn05Whm9Lce.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/m/Q/N/QmQNp.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 75,
+    "nombre": "Vidas Pasadas",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 7.7,
+    "rating_updated": "2026-09-28T02:24:12.388Z",
+    "tmdb_id": 666277,
+    "portada": "https://image.tmdb.org/t/p/original/z34UKyOAONFN54O340rL1dQRHKa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7HR38hMBl23lf38MAN63y4pKsHz.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/p/3/i/n/p3inq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 76,
+    "nombre": "Spider-Man: De regreso a casa",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man (El Hombre Araña). Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-09-28T02:27:08.005Z",
+    "tmdb_id": 315635,
+    "portada": "https://image.tmdb.org/t/p/original/h1Iq6WfE4RWc9klGvN8sdi5aR6V.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/g/R/P/l/gRPlq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Disney",
       "Marvel"
-    ]
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 77,
+    "nombre": "El hombre araña 3",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Una extraña entidad negra de otro mundo se vincula con Peter Parker y le provoca confusión interna mientras lucha contra nuevos villanos, tentaciones y venganza.",
+    "año": 2007,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-09-28T02:28:40.570Z",
+    "tmdb_id": 559,
+    "portada": "https://image.tmdb.org/t/p/original/etRvHz9ElAP0TMwltAZV1ufyfnW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/FfAU0PUs8AJkMU2VbkVNFtRXR4.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/g/X/M/k/gXMkq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Marvel",
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 78,
+    "nombre": "Raya y El Último Dragón",
+    "generos": [
+      "Animación",
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Familia"
+    ],
+    "descripcion": "Raya, una niña de gran espíritu aventurero, se embarca en la búsqueda del último dragón del mundo con el objetivo de devolver el equilibrio a Kumandra, un lejano y recóndito territorio habitado por una civilización milenaria.",
+    "año": 2021,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-09-28T02:31:04.988Z",
+    "tmdb_id": 527774,
+    "portada": "https://image.tmdb.org/t/p/original/hbjOtofNpvFvhzBUUoZGAjkjjsl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zmX7ObPaRfiCmY6LMalUb1bJDKj.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/0/0/x/k/00xkq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 79,
+    "nombre": "Norbit",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "El amable Norbit siempre la ha pasado muy mal desde el día en que fue abandonado en una combinación de orfanato y restaurante chino. Recientemente fue obligado a casarse con la insoportable y glotona Rasputia, y él llega a su límite. Entonces, Kate, el amor de su infancia, se muda de regreso a su ciudad y él trata de hallar la forma de regresar con su verdadero amor.",
+    "año": 2007,
+    "duracion": "",
+    "rating": 5.7,
+    "rating_updated": "2026-09-28T02:32:18.123Z",
+    "tmdb_id": 9757,
+    "portada": "https://image.tmdb.org/t/p/original/XcZ5NzygPp54csxCnzvQKuxFL2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nMgQD51KzAqrt4F6iwxw5TetVLW.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/s/p/2/h/sp2hq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 80,
+    "nombre": "Una pareja explosiva 3",
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Crimen"
+    ],
+    "descripcion": "El corazón de París esconde un secreto mortal. Al otro lado del mundo, en Los Ángeles, el embajador Han está a punto de divulgar ese secreto. Tiene en su poder información sobre los mecanismos internos de las Tríadas, el sindicato del crimen más poderoso y más conocido del mundo. El embajador ha descubierto la identidad de Shy Shen, elemento clave del vasto anillo del crimen, y está a punto de revelarlo al Tribunal Penal Mundial, hasta que la bala de un asesino lo silencia para siempre. Las Tríadas harán cualquier cosa para asegurarse de que sus secretos permanezcan enterrados, y solamente existe una esperanza para poder detenerlos… El detective Carter, del departamento de policía de Los Ángeles, y el inspector chino Lee viajan a París para detener una conspiración criminal a nivel global y para salvar la vida de un vieja amiga: la hija del embajador Han: Soo Yung.",
+    "año": 2007,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-09-28T02:34:44.557Z",
+    "tmdb_id": 5174,
+    "portada": "https://image.tmdb.org/t/p/original/2UeIKPirME0l4UeUuv5TklDezR4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ozsLB1HRCN6ZAmJN89pWtoiAwnb.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/8/4/g/s/84gsq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 81,
+    "nombre": "Una pareja explosiva 2",
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Crimen"
+    ],
+    "descripcion": "El detective James Carter se encuentra de vacaciones en Hong Kong con su buen amigo el detective Lee. Mientras Carter está ansioso por dedicarse a la juerga y las mujeres, Lee tiene que enfrentarse con un jefe de las Tríadas, responsable del asesinato de dos funcionarios de la embajada norteamericana. Conforme avancen en la investigación, descubrirán una trama de distribución de billetes falsos.",
+    "año": 2001,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-09-28T02:35:47.506Z",
+    "tmdb_id": 5175,
+    "portada": "https://image.tmdb.org/t/p/original/3S0vWjet3KjO58PSP7ZFXmypAJB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vPJwn9pp5f58CqdaXU3eOSLoJkl.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/C/A/P/g/CAPgq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 82,
+    "nombre": "Una pareja explosiva",
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Crimen"
+    ],
+    "descripcion": "Dos detectives diferentes son asignados en un mismo caso. Ambos tendrán que adaptarse a las costumbres del otro para poder concluir su trabajo con éxito, pero no va a ser una tarea fácil. El detective inspector Lee es el rey de las artes marciales y pertenece a la Royal Hong Kong Police. Su pupila preferida es la hija de once años del Cónsul chino, de la cual el inspector Lee es su guardaespaldas y su mejor amigo. Esta muchacha es capturada en los Estados Unidos por un peligroso grupo criminal.",
+    "año": 1998,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-09-28T02:36:35.851Z",
+    "tmdb_id": 2109,
+    "portada": "https://image.tmdb.org/t/p/original/kZyMWQutqBfVYFxnhypGt0YaKcD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9FrpAtF87VKblKkDEiIZzYgO40K.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/j/W/O/g/jWOgq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 83,
+    "nombre": "Corazón de Campeón",
+    "generos": [
+      "Familia",
+      "Drama"
+    ],
+    "descripcion": "Cuando una niña encuentra un caballo perdido, se presenta a una competición de carreras de barriles y se convierte en campeona.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 5.4,
+    "rating_updated": "2026-09-28T02:37:45.180Z",
+    "tmdb_id": 1081334,
+    "portada": "https://image.tmdb.org/t/p/original/3P92qwxkLM4gxqz7ab3B8JVKoQZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hjCeAzZNGlskGEJKYNRu8yzfmK6.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/F/Y/m/f/FYmfq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
