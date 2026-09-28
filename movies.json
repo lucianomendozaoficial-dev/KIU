@@ -2137,5 +2137,457 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 84,
+    "nombre": "Parásito oscuro",
+    "generos": [
+      "Terror",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Después de un robo en una joyería, un grupo de ladrones se refugia con un anfitrión en un edificio de apartamentos destartalado en las afueras. Pero no saben que en el sótano se esconde una oscura criatura alienígena con poderes telepáticos.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 5.8,
+    "rating_updated": "2026-09-28T02:56:08.744Z",
+    "tmdb_id": 1207413,
+    "portada": "https://image.tmdb.org/t/p/original/hmfVO0q2LCsu2sTOe4KjH1aU5tG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oK29TJvtWzzYFWWPBq1RGfb8FMS.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/X/p/K/p/XpKpq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 85,
+    "nombre": "Secuestrada: La verdad de Lisa Mcvey",
+    "generos": [
+      "Drama",
+      "Película de tv",
+      "Crimen"
+    ],
+    "descripcion": "Del productor detrás de \"Girl in the Box\" y \"Girl in the Bunker\", llega la inquietante historia real de Lisa McVey, quien fue secuestrada en 1984 pero luego liberada por su abusador, solo para que la gente cuestione su historia.",
+    "año": 2018,
+    "duracion": "",
+    "rating": 8,
+    "rating_updated": "2026-09-28T02:57:15.620Z",
+    "tmdb_id": 550776,
+    "portada": "https://image.tmdb.org/t/p/original/ndLQXjvF5yvW51rreLDTr85o1gv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gPW90IPq6Go8hlT0n7Es3cFl7ly.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/A/J/-/c/AJ-cq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 86,
+    "nombre": "Guerra de Papás 2",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Dusty y Brad se han unido para ofrecerle a sus hijos la Navidad perfecta. Este nuevo equipo se pone a prueba cuando el papá gruñón de Dusty y el papá ultra cariñoso y tierno de Brad llegan para convertir a las vacaciones decembrinas en un completo caos.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-09-28T02:58:34.264Z",
+    "tmdb_id": 419680,
+    "portada": "https://image.tmdb.org/t/p/original/aXpW8D8IMbeaRKvqvDt4K58mvv0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wGQZepzZbZpzZW7a4aTZyAu8huy.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/f0/s8/2/o/x/z/D/oxzDA.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Netflix",
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 87,
+    "nombre": "Guerra de Papás",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "La historia de un ejecutivo radiofónico de clase media (Ferrell) que se esfuerza por convertirse en el mejor padrastro de los dos hijos de su esposa, pero las complicaciones se producen cuando llega su padre libre y libre, forzando a un padrastro a competir por el cariño de los niños.",
+    "año": 2015,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-09-28T03:02:29.743Z",
+    "tmdb_id": 274167,
+    "portada": "https://image.tmdb.org/t/p/original/stFOBXXoEMeGm7S5z7nTNGXJZ4G.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4kui3QA55M2ZOmBgoRlrYj5MSlK.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fww1/1d/s8/2/K/w/z/D/KwzDA.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Netflix",
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 88,
+    "nombre": "Sunrise: El último amanecer",
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "descripcion": "Basada en la exitosa novela, Sunrise: El último amanecer narra la historia de Ry, una universitaria con una enfermedad crónica que viaja a Mallorca junto a su madre. Cuando se enamora de Julián, descubre una nueva forma de vivir, pero, antes de que termine el verano, el deterioro de su salud y los secretos familiares ponen todo en riesgo.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-09-28T03:03:57.281Z",
+    "tmdb_id": 1516698,
+    "portada": "https://image.tmdb.org/t/p/original/18HnXofpKuoD8oMdRj6GPvmdEJN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/28/s8/2/A/G/c/T/AGcTA.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 89,
+    "nombre": "Chicken Little",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Comedia"
+    ],
+    "descripcion": "Cuando el cielo se está cayendo y la cordura ha volado del nido, Chicken Little debe urdir un plan para salvar al planeta de la invasión alienígena y demostrar que el héroe más grande del mundo es un pollito.",
+    "año": 2005,
+    "duracion": "",
+    "rating": 5.9,
+    "rating_updated": "2026-09-28T03:06:46.200Z",
+    "tmdb_id": 9982,
+    "portada": "https://image.tmdb.org/t/p/original/AsDUBjrECTVstxCSGvPbwpA0I0M.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/h5Bwxe6dTVFtAFkybkd1EAB4yUW.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fww1/ee/s8/2/i/i/V/j/iiVjz.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 90,
+    "nombre": "Mortal Kombat II",
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Aventura"
+    ],
+    "descripcion": "Los campeones favoritos de los fans —ahora acompañados por el mismísimo Johnny Cage— se enfrentan entre sí en la batalla definitiva, sangrienta y sin reglas, para derrotar el oscuro dominio de Shao Kahn, que amenaza con destruir el Reino de la Tierra y a sus defensores.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-09-28T03:08:14.717Z",
+    "tmdb_id": 931285,
+    "portada": "https://image.tmdb.org/t/p/original/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fww1/4f/s8/2/-/3/I/I/-3IIA.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 91,
+    "nombre": "La noche del demonio: Están entre nosotros",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Un trío de acosadores se infiltra en un tranquilo suburbio y obliga a una nueva familia a entrar en el plano astral, donde descubren una verdad aterradora: el Más Allá se está filtrando al mundo real.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-09-28T03:09:46.003Z",
+    "tmdb_id": 1291595,
+    "portada": "https://image.tmdb.org/t/p/original/icc5Tjg14CZH94b0CDBQ2PP8YjH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/4f/s8/2/e/j/0/S/ej0SA.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": true,
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 92,
+    "nombre": "Flow",
+    "generos": [
+      "Aventura",
+      "Animación",
+      "Familia",
+      "Fantasía"
+    ],
+    "descripcion": "En un mundo al borde del colapso, un gato solitario pierde su hogar por una inundación y encuentra refugio en un barco con otras especies. Juntos, deberán superar diferencias y desafíos mientras navegan por un misterioso paisaje sumergido.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 8.1,
+    "rating_updated": "2026-09-28T03:10:52.534Z",
+    "tmdb_id": 823219,
+    "portada": "https://image.tmdb.org/t/p/original/sx81sF46pooqfqbbqFy84xXpXpH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pZfpUMEJzw9BZHtXuZzzOrRxtMa.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe1/e6/s8/2/R/Y/q/u/RYquw.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 93,
+    "nombre": "Érase una vez...",
+    "generos": [
+      "Fantasía",
+      "Aventura"
+    ],
+    "descripcion": "Antes de que Alicia viajase al País de las Maravillas y antes de que Peter se convirtiera en el héroe más famoso del País de Nunca Jamás, estos dos niños eran hermanos. Ambos vivían con sus padres, Jack y Rose, y David, su hermano mayor. Sin embargo, cuando este último fallece, sus progenitores se sumen en una profunda depresión. Los niños tratarán de que sus padres vuelvan a ser los que eran y, para ello, tendrán que decidir entre enfrentarse a la realidad o viajar a los mundos que su imaginación pueda ofrecer.",
+    "año": 2020,
+    "duracion": "",
+    "rating": 5.8,
+    "rating_updated": "2026-09-28T03:12:13.121Z",
+    "tmdb_id": 527400,
+    "portada": "https://image.tmdb.org/t/p/original/7KMi2m7l12w7gCKsR6j4N0J2Ygz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nfBT7RR8kYFBORhVhcCqk5T0ZiX.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/I/n/C/M/InCMp.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 94,
+    "nombre": "Ghost Rider: el vengador fantasma",
+    "generos": [
+      "Suspenso",
+      "Acción",
+      "Fantasía"
+    ],
+    "descripcion": "Cuando el motociclista Johnny Blaze vende su alma al Diablo para salvar la vida de su padre, se transforma en el Vengador Fantasma, el cazador de recompensas del Diablo, y es enviado a cazar pecadores.",
+    "año": 2007,
+    "duracion": "",
+    "rating": 5.6,
+    "rating_updated": "2026-09-28T03:13:27.486Z",
+    "tmdb_id": 1250,
+    "portada": "https://image.tmdb.org/t/p/original/zpIL93pCQJz7gT17EnSHOkcMBOF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zbV32WKHFuEYLXLTpr0rmVjQn11.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/-/9/t/a/-9taq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 95,
+    "nombre": "La Purga Por Siempre",
+    "generos": [
+      "Acción",
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Todas las reglas se rompen cuando una secta de merodeadores sin ley decide que la Purga anual no se detiene al amanecer y, en cambio, nunca debe terminar mientras persiguen a un grupo de inmigrantes a quienes quieren castigar debido a su duro pasado histórico.",
+    "año": 2021,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-09-28T03:15:24.515Z",
+    "tmdb_id": 602223,
+    "portada": "https://image.tmdb.org/t/p/original/r2t07ky5WFRiI0bXLRIQCjalNkj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ciKBP3tgzUxp7sHFNZxofBXUS8k.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/f/7/h/a/f7haq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 96,
+    "nombre": "Spider-Man: A través del Spider-Verso",
+    "generos": [
+      "Animación",
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Después de reunirse con Gwen Stacy, Miles Morales, el amigable Spider-Man del vecindario de tiempo completo de Brooklyn, es catapultado a través del Multiverso, donde se encuentra con un equipo de Spider-People encargado de proteger su existencia. Pero cuando los héroes chocan sobre cómo manejar una nueva amenaza, Miles se enfrenta a las otras arañas y debe redefinir lo que significa ser un héroe para poder salvar a las personas que más ama.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 8.4,
+    "rating_updated": "2026-09-28T03:16:36.671Z",
+    "tmdb_id": 569094,
+    "portada": "https://image.tmdb.org/t/p/original/rXhgHQmtjTIQOEDU8E2TbUFMjWM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/L/b/p/b/Lbpbu.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": true,
+    "especiales": [
+      "Netflix",
+      "Marvel"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 97,
+    "nombre": "Spider-Man: Un nuevo universo",
+    "generos": [
+      "Animación",
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "En un universo paralelo donde Peter Parker ha muerto, un jóven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el líder mafioso Wilson Fisk (a.k.a Kingpin) construye el \"Super Colisionador\" trae a una versión alternativa de Peter Parker que tratará de enseñarle a Miles como ser un mejor Spider-Man. Pero no será el único Spider Man en entrar a este universo, 4 versiones alternas de Spidey aparecerán y buscarán regresar a su universo antes de que toda la realidad colapse.",
+    "año": 2018,
+    "duracion": "",
+    "rating": 8.4,
+    "rating_updated": "2026-09-28T03:19:21.523Z",
+    "tmdb_id": 324857,
+    "portada": "https://image.tmdb.org/t/p/original/9l9exwzYsEtSbtuLHJQoNQVQGp7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1ntePsIqeklfmrQJqZPncCydsqY.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/x/H/a/QxHaq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Marvel"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 98,
+    "nombre": "Hotel para Perros",
+    "generos": [
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "Una comedia es desatada en este éxito de taquilla del que “pedirás más”. (Peter Hammond, Hollywood.com) Cuando Andi (Emma Roberts) y Bruce (Jake T. Austin) necesitan un lugar para esconder a su perro, Viernes, ellos transforman un hotel abandonado en un lugar del cual ningún callejero es rechazado. Lleno de perros adorables, un equipo de inteligentes adolescentes e ingeniosos inventos, esta encantadora aventura te dejará pensando- ¿quién dejó entrar a los perros?",
+    "año": 2009,
+    "duracion": "",
+    "rating": 6.1,
+    "rating_updated": "2026-09-28T03:20:52.491Z",
+    "tmdb_id": 15189,
+    "portada": "https://image.tmdb.org/t/p/original/5YRcVjYVDaFdgqdnqvryLLDrkAm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hovfur18TPFABZIuJYvgjLpln8V.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/p/7/P/S/p7PSp.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
+  },
+  {
+    "id": 99,
+    "nombre": "Las crónicas de Narnia: El león, la bruja y el ropero",
+    "generos": [
+      "Aventura",
+      "Familia",
+      "Fantasía"
+    ],
+    "descripcion": "La historia narra las aventuras de cuatro hermanos: Lucy, Edmund, Susan y Peter, que durante la Segunda Guerra Mundial descubren el mundo de Narnia, al que acceden a través de un armario mágico mientras juegan al escondite en la casa de campo de un viejo profesor. En Narnia descubrirán un mundo increíble habitado por animales que hablan, duendes, faunos, centauros y gigantes al que la Bruja Blanca- Jadis- ha condenado al invierno eterno. Con la ayuda del león Aslan, el noble soberano, los niños lucharán para vencer el poder que la Bruja Blanca ejerce sobre Narnia en una espectacular batalla y conseguir así liberarle de la maldición del frío.",
+    "año": 2005,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-09-28T03:21:51.469Z",
+    "tmdb_id": 411,
+    "portada": "https://image.tmdb.org/t/p/original/5WNqb7C6EX5r752mKjnfzxGvWui.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tuDhEdza074bA497bO9WFEPs6O6.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/j/n/v/F/jnvFp.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 100,
+    "nombre": "Priscilla",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "Cuando la adolescente Priscilla Beaulieu conoce a Elvis Presley en una fiesta, el hombre que ya es una superestrella meteórica del rock and roll se convierte en alguien completamente inesperado en los momentos privados: un enamoramiento emocionante, un aliado en la soledad, un mejor amigo vulnerable.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 6.7,
+    "rating_updated": "2026-09-28T03:22:45.560Z",
+    "tmdb_id": 1020006,
+    "portada": "https://image.tmdb.org/t/p/original/2i9EgnxyXcD0POswNcirYCSm2iP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zz219ZRGo0vVIzvKttjx5nXOc2N.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/t/0/x/A/t0xAp.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
+  },
+  {
+    "id": 101,
+    "nombre": "Un don excepcional",
+    "generos": [
+      "Drama",
+      "Comedia"
+    ],
+    "descripcion": "Frank Adler es un hombre soltero que crió a su sobrina Mary una niña talentosa, en una ciudad en la costa de Florida. Frank quiere para Mary una vida normal pero las habilidades matemáticas a los siete años de la niña llaman la atención de la madre de Frank, Evelyn cuyos planes amenazan con separar a Frank y Mary.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 8,
+    "rating_updated": "2026-09-28T03:27:08.929Z",
+    "tmdb_id": 400928,
+    "portada": "https://image.tmdb.org/t/p/original/wVPGBiFx8y20tac8ayS2HANZ9aB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aH63TQfTFgAT8tYZs0CjDsqfMo2.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/6/M/d/m/6Mdmm.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
