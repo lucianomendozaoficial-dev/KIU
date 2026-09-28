@@ -1,16 +1,32 @@
 {
-"Estandar": {
-    "precio": 1500,
+"Basico": {
+    "precio": 2000,
     "beneficios": [
-      "Acceso a todo el catalogo"
+      "Con Anuncios",
+      "1 Perfil",
+      "Contenido Limitado",
+      "Maxima calidad"  
     ]
   },
-  "Premium": {
-    "precio": 3000,
+  {
+"Estandar": {
+    "precio": 3500,
     "beneficios": [
-      "Acceso a todo el catalogo",
-      "Contenido Anticipado",
-      "Perfil Niños"
+      "Sin Anuncios",
+      "2 Perfiles",
+      "Contenido Extendido",
+      "Maxima calidad",
+      "Canales"  
+    ]
+  },  
+  "Premium": {
+    "precio": 5500,
+    "beneficios": [
+      "Sin Anuncios",
+      "5 Perfiles",
+      "Contenido Completo",
+      "Canales",
+      "Contenido Extra"  
     ]
   }
 }
