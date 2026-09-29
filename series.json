@@ -1,5 +1,53 @@
 [
   {
+    "id": 1,
+    "nombre": "Soy Luna: Volver a rodar",
+    "generos": [
+      "Comedia",
+      "Drama",
+      "Familia"
+    ],
+    "descripcion": "En el punto más alto de su carrera como patinadora profesional de freestyle, Luna Valente sufre un terrible accidente y desaparece sin rastro del mundo del patinaje, dejando una estela imborrable.",
+    "año": 2026,
+    "duracion": "N/A",
+    "rating": 7.4,
+    "portada": "https://image.tmdb.org/t/p/w185/3gzwiyE7jHHvjWS8WBEqztCqxD9.jpg",
+    "banner": "https://static.wikia.nocookie.net/soyluna/images/3/34/Revival_promotional.jpg/revision/latest/scale-to-width-down/1200?cb=20260714131858",
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://fastream.to/embed-ee43gbv3jmyb.html"
+          },
+          {
+            "nombre": "C2",
+            "embed": "https://fastream.to/embed-m7psktx03dlf.html"
+          },
+          {
+            "nombre": "C3",
+            "embed": "https://fastream.to/embed-6fswse1afes8.html"
+          },
+          {
+            "nombre": "C4",
+            "embed": "https://fastream.to/embed-gnrxz8t09xcm.html"
+          }
+        ]
+      }
+    ],
+    "tmdb_id": 324434,
+    "rating_updated": "2026-09-29T00:14:25.904Z"
+  },
+  {
     "id": 2,
     "nombre": "Loki",
     "generos": [
@@ -12,84 +60,139 @@
     "año": 2021,
     "duracion": "N/A",
     "rating": 8.2,
-    "rating_updated": "2026-09-27T18:50:50.848Z",
-    "tmdb_id": 84958,
-    "portada": "https://image.tmdb.org/t/p/original/vCk6wy6WQHwARR4jewbxhhmESs7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
+    "portada": "https://image.tmdb.org/t/p/w185/kAHPDqUUciuObEoCgYtHttt6L2Q.jpg",
+    "banner": "https://media.gq.com.mx/photos/5fd78f5d0ff8b1d1ff884138/16:9/w_2560%2Cc_limit/LOKI.jpg",
     "tipo": "serie",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Marvel",
       "Disney"
     ],
-    "plan": "basico",
+    "plan": "premium",
     "temporadas": [
       {
         "numero": 1,
         "capitulos": [
           {
             "nombre": "C1",
-            "embed": "https://1a-1791.com/video/fwe2/cc/s8/2/f/M/8/X/fM8Xx.caa.mp4"
+            "embed": "https://fastream.to/embed-z2yh1jvjr21g.html"
           },
           {
             "nombre": "C2",
-            "embed": "https://1a-1791.com/video/fwe1/0b/s8/2/1/0/9/X/109Xx.caa.mp4"
+            "embed": "https://fastream.to/embed-6djzovm8n959.html"
           },
           {
             "nombre": "C3",
-            "embed": "https://1a-1791.com/video/fwe2/66/s8/2/s/p/a/Y/spaYx.caa.mp4"
+            "embed": "https://fastream.to/embed-v7h16fsy2ryq.html"
           },
           {
             "nombre": "C4",
-            "embed": "https://1a-1791.com/video/fwe1/ee/s8/2/J/y/h/Y/JyhYx.caa.mp4"
-          },
-          {
-            "nombre": "C5",
-            "embed": "https://1a-1791.com/video/fwe2/89/s8/2/k/h/k/Y/khkYx.caa.mp4"
-          },
-          {
-            "nombre": "C6",
-            "embed": "https://1a-1791.com/video/fwe1/38/s8/2/X/9/k/Y/X9kYx.caa.mp4"
+            "embed": "https://fastream.to/embed-y3vqxtm0o003.html"
           }
         ]
       }
-    ]
+    ],
+    "tmdb_id": 84958,
+    "rating_updated": "2026-09-29T00:14:26.290Z"
   },
   {
     "id": 3,
-    "nombre": "Dragon Ball Daima",
+    "nombre": "Kakegurui",
     "generos": [
       "Animación",
-      "Action & adventure",
-      "Comedia",
-      "Sci-fi & fantasy"
+      "Crimen",
+      "Drama",
+      "Misterio"
     ],
-    "descripcion": "Debido a una conspiración, Goku y sus amigos se vuelven pequeños. ¿Qué tipo de aventura les espera a Goku, al Supremo Kaio y a los nuevos personajes Glorio y Panzy en este mundo desconocido, el “Reino de los Demonios”?",
-    "año": 2024,
+    "descripcion": "En la academia privada Hyakkaō, los estudiantes millonarios gozan de ciertos beneficios por tener habilidades e inteligencia más desarrollada, el resto sufre de los problemas de los de bajo estatus y su poca estrategia en los juegos de apuestas.",
+    "año": 2017,
     "duracion": "N/A",
-    "rating": 8.2,
-    "rating_updated": "2026-09-28T03:35:11.742Z",
-    "tmdb_id": 236994,
-    "portada": "https://image.tmdb.org/t/p/original/65WbqM4xMfslBxuY3zbztlrEb5t.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+    "rating": 8.1,
+    "portada": "https://image.tmdb.org/t/p/w185/h1MUwcwNjK3nkXFzeFowUqfy0Qw.jpg",
+    "banner": "https://i.pinimg.com/736x/03/03/ae/0303aea3d78503897006c7898be2ef24.jpg",
     "tipo": "serie",
-    "idioma": "Subtitulado",
-    "edad": "",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
     "camara": false,
-    "especiales": [],
-    "plan": "basico",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "estandar",
     "temporadas": [
       {
         "numero": 1,
         "capitulos": [
           {
             "nombre": "C1",
-            "embed": "https://1a-1791.com/video/fw/s8/2/d/p/v/f/dpvfv.caa.mp4"
+            "embed": "https://fastream.to/embed-965qo998rf0c.html"
+          },
+          {
+            "nombre": "C2",
+            "embed": "https://fastream.to/embed-kvrvg21wbej5.html"
+          },
+          {
+            "nombre": "C3",
+            "embed": "https://fastream.to/embed-4rex1i3vloc2.html"
+          },
+          {
+            "nombre": "C4",
+            "embed": "https://fastream.to/embed-y6tdf93sah3t.html"
+          },
+          {
+            "nombre": "C5",
+            "embed": "https://fastream.to/embed-3yad6nq5v2ev.html"
           }
         ]
       }
-    ]
+    ],
+    "tmdb_id": 72305,
+    "rating_updated": "2026-09-29T00:14:26.992Z"
+  },
+  {
+    "id": 4,
+    "nombre": "The walking dead: Daryl Dixon",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Fantasía"
+    ],
+    "descripcion": "Meses después de que lo vimos por última vez en The Walking Dead, Daryl Dixon se ve transportado a través del Atlántico a Francia.",
+    "año": 2023,
+    "duracion": "N/A",
+    "rating": 8,
+    "portada": "https://image.tmdb.org/t/p/w185/kdM24KINoAVK9wjCtDJCkdffEpc.jpg",
+    "banner": "https://m.media-amazon.com/images/S/pv-target-images/4e66721ca75d3b78d6bf05f6ee833e5b9c7190c12873fc85b58e9b502023c22f.jpg",
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "estandar",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://fastream.to/embed-sm2tnm8frwci.html"
+          },
+          {
+            "nombre": "C2",
+            "embed": "https://fastream.to/embed-gf1qhe69th78.html"
+          },
+          {
+            "nombre": "C3",
+            "embed": "https://fastream.to/embed-1thp7v66xgy0.html"
+          }
+        ]
+      }
+    ],
+    "tmdb_id": 211684,
+    "rating_updated": "2026-09-29T00:14:27.372Z"
   }
 ]
