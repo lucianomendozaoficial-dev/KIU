@@ -76,7 +76,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/j/K/2/f/jK2fq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Marvel",
@@ -229,7 +229,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/r/q/H/t/rqHtq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "tmdb_id": 523139,
     "rating": 5.5,
@@ -255,7 +255,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/J/r/f/r/Jrfrq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+18",
     "camara": false,
     "tmdb_id": 962232,
     "rating": 7.9,
@@ -280,7 +280,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/C/r/h/Y/CrhYp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+7",
     "camara": false,
     "tmdb_id": 318846,
     "rating": 7.4,
@@ -332,7 +332,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/N/C/Y/W/NCYWp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "tmdb_id": 291805,
     "rating": 6.8,
@@ -355,7 +355,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/N/Y/J/V/NYJVp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "tmdb_id": 671,
     "rating": 7.9,
@@ -409,7 +409,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/r/m/x/s/rmxsq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "plan": "basico",
     "especiales": [
@@ -435,7 +435,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/J/s/s/U/JssUp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "plan": "basico",
     "especiales": [
@@ -485,7 +485,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/o/i/J/Q/oiJQp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "plan": "basico",
     "especiales": [
@@ -513,7 +513,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/f/q/K/Q/fqKQp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "plan": "basico",
     "especiales": [
@@ -540,7 +540,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/q/A/J/R/qAJRp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "plan": "basico",
     "especiales": [
@@ -589,7 +589,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/n/t/L/o/ntLoq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "plan": "basico",
     "especiales": [
@@ -615,7 +615,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Y/R/E/o/YREoq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "plan": "basico",
     "especiales": []
@@ -639,7 +639,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/h/1/B/o/h1Boq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+18",
     "camara": false,
     "plan": "basico",
     "especiales": [
@@ -693,7 +693,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fww1/0c/s8/2/w/m/0/U/wm0UA.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+18",
     "camara": false,
     "plan": "basico",
     "especiales": [
@@ -719,7 +719,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fww1/34/s8/2/4/s/0/U/4s0UA.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "plan": "basico",
     "especiales": []
@@ -744,7 +744,7 @@
     "embed": "https://rumble.com/hls-vod/78aptg/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+18",
     "camara": false,
     "plan": "basico",
     "especiales": [
@@ -773,7 +773,7 @@
     "embed": "https://rumble.com/hls-vod/78asxu/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "plan": "basico",
     "especiales": [
@@ -798,7 +798,7 @@
     "embed": "https://rumble.com/hls-vod/78jive/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+18",
     "camara": false,
     "plan": "basico",
     "especiales": [
@@ -825,7 +825,7 @@
     "embed": "https://rumble.com/hls-vod/78jimy/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+18",
     "camara": false,
     "plan": "basico",
     "especiales": [
@@ -878,7 +878,7 @@
     "embed": "https://rumble.com/hls-vod/78jik0/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "plan": "basico",
     "especiales": []
@@ -926,7 +926,7 @@
     "embed": "https://rumble.com/hls-vod/78inkk/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "plan": "basico",
     "especiales": []
@@ -950,7 +950,7 @@
     "embed": "https://rumble.com/hls-vod/78inh6/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "plan": "basico",
     "especiales": []
@@ -973,7 +973,7 @@
     "embed": "https://rumble.com/hls-vod/78igse/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "plan": "basico",
     "especiales": [
@@ -1000,7 +1000,7 @@
     "embed": "https://rumble.com/hls-vod/78inai/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "plan": "basico",
     "especiales": []
@@ -1042,7 +1042,7 @@
     "año": 2010,
     "duracion": "",
     "rating": 7.7,
-    "rating_updated": "2026-09-28T01:18:49.611Z",
+    "rating_updated": "2026-09-29T02:22:32.127Z",
     "tmdb_id": 61979,
     "portada": "https://image.tmdb.org/t/p/original/nNoMfNPnvEzGADXDkP6eJAP81KB.jpg",
     "banner": "https://image.tmdb.org/t/p/original/2Mq10FWFbxoYgsZysWlw7T9wSNe.jpg",
@@ -1067,7 +1067,7 @@
     "año": 2018,
     "duracion": "",
     "rating": 6.3,
-    "rating_updated": "2026-09-28T01:25:54.606Z",
+    "rating_updated": "2026-09-29T02:22:32.203Z",
     "tmdb_id": 420634,
     "portada": "https://image.tmdb.org/t/p/original/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
     "banner": "https://image.tmdb.org/t/p/original/naNXYdBzTEb1KwOdi1RbBkM9Zv1.jpg",
@@ -1091,7 +1091,7 @@
     "año": 2022,
     "duracion": "",
     "rating": 6.7,
-    "rating_updated": "2026-09-28T01:26:59.079Z",
+    "rating_updated": "2026-09-29T02:22:32.273Z",
     "tmdb_id": 663712,
     "portada": "https://image.tmdb.org/t/p/original/6ZfvF7ZS8MJXe0YwRkPAtXNpXrG.jpg",
     "banner": "https://image.tmdb.org/t/p/original/4QJtcL4D3abqdX6Snrk8ciRkroa.jpg",
@@ -1117,7 +1117,7 @@
     "año": 2025,
     "duracion": "",
     "rating": 7,
-    "rating_updated": "2026-09-28T01:27:50.110Z",
+    "rating_updated": "2026-09-29T02:22:32.341Z",
     "tmdb_id": 1408208,
     "portada": "https://image.tmdb.org/t/p/original/55M0P4DpAPwoe4RJ1zHBNtVmTkO.jpg",
     "banner": "https://image.tmdb.org/t/p/original/3cVrg7tzSf5AgEecYWDOSAzXAeX.jpg",
@@ -1142,7 +1142,7 @@
     "año": 2014,
     "duracion": "",
     "rating": 7.2,
-    "rating_updated": "2026-09-28T01:29:10.902Z",
+    "rating_updated": "2026-09-29T02:22:32.408Z",
     "tmdb_id": 198663,
     "portada": "https://image.tmdb.org/t/p/original/6uMWXENVeq83K5THrMflbmoEbn9.jpg",
     "banner": "https://image.tmdb.org/t/p/original/eTlcNXGv32zkVI7ZDHhfeaKHXKQ.jpg",
@@ -1169,7 +1169,7 @@
     "año": 2015,
     "duracion": "",
     "rating": 6.7,
-    "rating_updated": "2026-09-28T01:29:40.493Z",
+    "rating_updated": "2026-09-29T02:22:32.475Z",
     "tmdb_id": 294254,
     "portada": "https://image.tmdb.org/t/p/original/womQQ2ltHhYeP35kitlwzAhtUt9.jpg",
     "banner": "https://image.tmdb.org/t/p/original/4mcOCiR06dqQ5eoEJcG3zvonjOa.jpg",
@@ -1196,7 +1196,7 @@
     "año": 2018,
     "duracion": "",
     "rating": 7.1,
-    "rating_updated": "2026-09-28T01:30:21.735Z",
+    "rating_updated": "2026-09-29T02:22:32.558Z",
     "tmdb_id": 336843,
     "portada": "https://image.tmdb.org/t/p/original/dM5La06fiOi6ODLIikEZX93ySFc.jpg",
     "banner": "https://image.tmdb.org/t/p/original/zGCfnZ3bCowMY9So9ZGpsyuOYl3.jpg",
@@ -1222,7 +1222,7 @@
     "año": 2016,
     "duracion": "",
     "rating": 7.2,
-    "rating_updated": "2026-09-28T01:31:22.267Z",
+    "rating_updated": "2026-09-29T02:22:32.640Z",
     "tmdb_id": 315011,
     "portada": "https://image.tmdb.org/t/p/original/iBUgBTHljQh61QabZRJrGDRfP2f.jpg",
     "banner": "https://image.tmdb.org/t/p/original/tb0uo01w2kDHiQwTszsLlSusAm4.jpg",
@@ -1250,7 +1250,7 @@
     "año": 2007,
     "duracion": "",
     "rating": 6.9,
-    "rating_updated": "2026-09-28T01:32:18.948Z",
+    "rating_updated": "2026-09-29T02:22:32.711Z",
     "tmdb_id": 1267,
     "portada": "https://image.tmdb.org/t/p/original/1V34tiUPo3memMuCFlGhpA7ODbj.jpg",
     "banner": "https://image.tmdb.org/t/p/original/AsWuvFnzgmG6kZMIpJO7HZpvYRB.jpg",
@@ -1275,7 +1275,7 @@
     "año": 2013,
     "duracion": "",
     "rating": 6.7,
-    "rating_updated": "2026-09-28T01:33:14.062Z",
+    "rating_updated": "2026-09-29T02:22:32.795Z",
     "tmdb_id": 91586,
     "portada": "https://image.tmdb.org/t/p/original/xSGxOMeMUx8BfhlLgXh7MNbJul6.jpg",
     "banner": "https://image.tmdb.org/t/p/original/i9oyhCYxIYH2082J0Rc3a3jQjRB.jpg",
@@ -1301,7 +1301,7 @@
     "año": 2015,
     "duracion": "",
     "rating": 6.3,
-    "rating_updated": "2026-09-28T01:34:19.323Z",
+    "rating_updated": "2026-09-29T02:22:32.875Z",
     "tmdb_id": 280092,
     "portada": "https://image.tmdb.org/t/p/original/l2e7dnFYGnXVA0sTahF6z0z62JL.jpg",
     "banner": "https://image.tmdb.org/t/p/original/1fpwEe2GvNjAq2MN2xxdifNZLBT.jpg",
@@ -1327,7 +1327,7 @@
     "año": 2018,
     "duracion": "",
     "rating": 6.3,
-    "rating_updated": "2026-09-28T01:35:21.924Z",
+    "rating_updated": "2026-09-29T02:22:32.958Z",
     "tmdb_id": 406563,
     "portada": "https://image.tmdb.org/t/p/original/cTc4svNfcS83LxudQK89tewy86Z.jpg",
     "banner": "https://image.tmdb.org/t/p/original/q1r0QUf4UVTqtkxOSMnTD8RyTaL.jpg",
@@ -1353,7 +1353,7 @@
     "año": 2011,
     "duracion": "",
     "rating": 7,
-    "rating_updated": "2026-09-28T01:36:34.490Z",
+    "rating_updated": "2026-09-29T02:22:33.025Z",
     "tmdb_id": 49018,
     "portada": "https://image.tmdb.org/t/p/original/3myfmbsEApam7jaPosW2Q76qdkS.jpg",
     "banner": "https://image.tmdb.org/t/p/original/tJvRdhlkonjBLBUpTqp0RPPujxJ.jpg",
@@ -1379,7 +1379,7 @@
     "año": 2023,
     "duracion": "",
     "rating": 6.5,
-    "rating_updated": "2026-09-28T01:37:29.730Z",
+    "rating_updated": "2026-09-29T02:22:33.108Z",
     "tmdb_id": 614479,
     "portada": "https://image.tmdb.org/t/p/original/im4yhz8A9LvXgu1nBPSIBtaBIf6.jpg",
     "banner": "https://image.tmdb.org/t/p/original/i2GVEvltEu3BXn5crBSxgKuTaca.jpg",
@@ -1406,14 +1406,14 @@
     "año": 2026,
     "duracion": "",
     "rating": 6.7,
-    "rating_updated": "2026-09-28T01:38:30.494Z",
+    "rating_updated": "2026-09-29T02:22:33.193Z",
     "tmdb_id": 1081003,
     "portada": "https://image.tmdb.org/t/p/original/xhei2GX9L2H1eQlrHeFw44VNLd1.jpg",
     "banner": "https://image.tmdb.org/t/p/original/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/e5/s8/2/8/U/W/A/8UWAA.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": true,
     "especiales": [
       "Hbo",
@@ -1432,14 +1432,14 @@
     "año": 2005,
     "duracion": "",
     "rating": 5.9,
-    "rating_updated": "2026-09-28T01:42:53.270Z",
+    "rating_updated": "2026-09-29T02:22:33.278Z",
     "tmdb_id": 5070,
     "portada": "https://image.tmdb.org/t/p/original/gsMv6jkfY5sDCLOMgCu6N1a2Mz6.jpg",
     "banner": "https://image.tmdb.org/t/p/original/Ao3moi1E8sMxLlMwWRC3w9wZ6TL.jpg",
     "embed": "https://rumble.com/hls-vod/78p56g/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [],
     "plan": "basico"
@@ -1455,14 +1455,14 @@
     "año": 2019,
     "duracion": "",
     "rating": 6.6,
-    "rating_updated": "2026-09-28T01:45:02.088Z",
+    "rating_updated": "2026-09-29T02:22:33.359Z",
     "tmdb_id": 423204,
     "portada": "https://image.tmdb.org/t/p/original/zC8HSq4xWsPgPDjgmlFix4VMtaD.jpg",
     "banner": "https://image.tmdb.org/t/p/original/sGqqnvOqJg2HDHrjtCPIlCwF4Mu.jpg",
     "embed": "https://rumble.com/hls-vod/78p9ds/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -1480,14 +1480,14 @@
     "año": 2026,
     "duracion": "",
     "rating": 6.4,
-    "rating_updated": "2026-09-28T01:48:02.499Z",
+    "rating_updated": "2026-09-29T02:22:33.442Z",
     "tmdb_id": 1358005,
     "portada": "https://image.tmdb.org/t/p/original/tTGToWluGxIsQJzRJCkCqhfjVtd.jpg",
     "banner": "https://image.tmdb.org/t/p/original/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg",
     "embed": "https://rumble.com/hls-vod/78qjt8/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+18",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -1505,7 +1505,7 @@
     "año": 2014,
     "duracion": "",
     "rating": 6.2,
-    "rating_updated": "2026-09-28T01:50:35.803Z",
+    "rating_updated": "2026-09-29T02:22:37.900Z",
     "tmdb_id": 184345,
     "portada": "https://image.tmdb.org/t/p/original/vRbDuqlmGPM9wGZ3VwbrjQu16Oa.jpg",
     "banner": "https://image.tmdb.org/t/p/original/6gycezbvc8iHSune1Evq79dcYIY.jpg",
@@ -1532,14 +1532,14 @@
     "año": 2008,
     "duracion": "",
     "rating": 5.3,
-    "rating_updated": "2026-09-28T01:51:30.404Z",
+    "rating_updated": "2026-09-29T02:22:38.211Z",
     "tmdb_id": 11260,
     "portada": "https://image.tmdb.org/t/p/original/nGbd86jWDgzRx678HgCcSoQkXQW.jpg",
     "banner": "https://image.tmdb.org/t/p/original/azheZwmLAiWZyDuL416NL0IxvFp.jpg",
     "embed": "https://rumble.com/hls-vod/78ql4i/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+7",
     "camara": false,
     "especiales": [
       "Prime Video"
@@ -1557,7 +1557,7 @@
     "año": 2013,
     "duracion": "",
     "rating": 6,
-    "rating_updated": "2026-09-28T01:52:37.985Z",
+    "rating_updated": "2026-09-29T02:22:38.318Z",
     "tmdb_id": 139038,
     "portada": "https://image.tmdb.org/t/p/original/pAVGfrADDvKMgoZnJLSCiLBCCiG.jpg",
     "banner": "https://image.tmdb.org/t/p/original/mgnMFeLCEaNTOiD7w2DOaqzddyJ.jpg",
@@ -1583,7 +1583,7 @@
     "año": 2026,
     "duracion": "",
     "rating": 7.1,
-    "rating_updated": "2026-09-28T01:53:24.901Z",
+    "rating_updated": "2026-09-29T02:22:38.421Z",
     "tmdb_id": 454639,
     "portada": "https://image.tmdb.org/t/p/original/bY9y1kR336h94xBiNvzkhG8FyP.jpg",
     "banner": "https://image.tmdb.org/t/p/original/5MUMB3aPEPEQPCIAaygXFUTWE9Y.jpg",
@@ -1608,7 +1608,7 @@
     "año": 2026,
     "duracion": "",
     "rating": 6.1,
-    "rating_updated": "2026-09-28T01:54:45.242Z",
+    "rating_updated": "2026-09-29T02:22:38.500Z",
     "tmdb_id": 1317672,
     "portada": "https://image.tmdb.org/t/p/original/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
     "banner": "https://image.tmdb.org/t/p/original/ohUhHOqW8cM59Ay5UjqplLzJbH3.jpg",
@@ -1635,14 +1635,14 @@
     "año": 2018,
     "duracion": "",
     "rating": 6.1,
-    "rating_updated": "2026-09-28T01:56:39.530Z",
+    "rating_updated": "2026-09-29T02:22:38.588Z",
     "tmdb_id": 268896,
     "portada": "https://image.tmdb.org/t/p/original/cxSBAjrOa2nluuPGUUIWLM5ycLn.jpg",
     "banner": "https://image.tmdb.org/t/p/original/oMaj75G2WFw66xI1TREg1hrToSg.jpg",
     "embed": "https://rumble.com/hls-vod/78rtr0/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+7",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -1661,14 +1661,14 @@
     "año": 2013,
     "duracion": "",
     "rating": 7,
-    "rating_updated": "2026-09-28T01:58:01.214Z",
+    "rating_updated": "2026-09-29T02:22:38.684Z",
     "tmdb_id": 68726,
     "portada": "https://image.tmdb.org/t/p/original/qGu6CHagpxv1XW6Bn3sUJ9SFaH0.jpg",
     "banner": "https://image.tmdb.org/t/p/original/9X7Im1YuBhyHYVD8r7CAONPJR5k.jpg",
     "embed": "https://rumble.com/hls-vod/78rtsc/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Hbo"
@@ -1687,7 +1687,7 @@
     "año": 2015,
     "duracion": "",
     "rating": 7.3,
-    "rating_updated": "2026-09-28T01:59:15.821Z",
+    "rating_updated": "2026-09-29T02:22:38.769Z",
     "tmdb_id": 99861,
     "portada": "https://image.tmdb.org/t/p/original/fXi6HGIJXi7Z8YWZRcRI56dfY4p.jpg",
     "banner": "https://image.tmdb.org/t/p/original/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
@@ -1712,7 +1712,7 @@
     "año": 2011,
     "duracion": "",
     "rating": 7.6,
-    "rating_updated": "2026-09-28T02:00:29.570Z",
+    "rating_updated": "2026-09-29T02:22:38.869Z",
     "tmdb_id": 81623,
     "portada": "https://image.tmdb.org/t/p/original/i3jGJkhb9GRKEYRj0skw9zeKu7u.jpg",
     "banner": "https://image.tmdb.org/t/p/original/u4JmL2dal2fg4cI2UGNPVs3RDDI.jpg",
@@ -1735,14 +1735,14 @@
     "año": 2016,
     "duracion": "",
     "rating": 6.3,
-    "rating_updated": "2026-09-28T02:01:11.758Z",
+    "rating_updated": "2026-09-29T02:22:38.972Z",
     "tmdb_id": 259694,
     "portada": "https://image.tmdb.org/t/p/original/kqt1Cr0apmqR1uYXGlblArCKSR3.jpg",
     "banner": "https://image.tmdb.org/t/p/original/bCakS265nbi6fYB3bwuzVLAsjsv.jpg",
     "embed": "https://rumble.com/hls-vod/78sdyo/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Apple"
@@ -1761,14 +1761,14 @@
     "año": 1977,
     "duracion": "",
     "rating": 8.2,
-    "rating_updated": "2026-09-28T02:02:26.223Z",
+    "rating_updated": "2026-09-29T02:22:39.054Z",
     "tmdb_id": 11,
     "portada": "https://image.tmdb.org/t/p/original/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg",
     "banner": "https://image.tmdb.org/t/p/original/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg",
     "embed": "https://rumble.com/hls-vod/78sdzs/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Disney"
@@ -1786,14 +1786,14 @@
     "año": 2026,
     "duracion": "",
     "rating": 8.6,
-    "rating_updated": "2026-09-28T02:03:19.777Z",
+    "rating_updated": "2026-09-29T02:22:39.143Z",
     "tmdb_id": 936075,
     "portada": "https://image.tmdb.org/t/p/original/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
     "banner": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
     "embed": "https://rumble.com/hls-vod/78tdvs/playlist.m3u8",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Prime Video",
@@ -1811,7 +1811,7 @@
     "año": 2000,
     "duracion": "",
     "rating": 6.6,
-    "rating_updated": "2026-09-28T02:05:21.317Z",
+    "rating_updated": "2026-09-29T02:22:39.221Z",
     "tmdb_id": 9532,
     "portada": "https://image.tmdb.org/t/p/original/6F3MEcGHeMAMxledi7vQfqkZRkc.jpg",
     "banner": "https://image.tmdb.org/t/p/original/7isarjYDEKZ5t1CgcvbuqEUby8P.jpg",
@@ -1836,14 +1836,14 @@
     "año": 2016,
     "duracion": "",
     "rating": 7.1,
-    "rating_updated": "2026-09-28T02:14:05.860Z",
+    "rating_updated": "2026-09-29T02:22:39.323Z",
     "tmdb_id": 409502,
     "portada": "https://image.tmdb.org/t/p/original/lTXGRIkquoSHcjkhzOXbMVkpu6L.jpg",
     "banner": "https://image.tmdb.org/t/p/original/rsdFvneLY76JGXQ1rYovyeUtqyc.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/0/L/b/o/0Lboq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Netflix",
@@ -1862,14 +1862,14 @@
     "año": 2004,
     "duracion": "",
     "rating": 7.2,
-    "rating_updated": "2026-09-28T02:19:01.897Z",
+    "rating_updated": "2026-09-29T02:22:39.403Z",
     "tmdb_id": 10625,
     "portada": "https://image.tmdb.org/t/p/original/7L7wCakqwuoz6S9zRVaAH0NLJ3H.jpg",
     "banner": "https://image.tmdb.org/t/p/original/nP3y0TkR6XniFs9J53qQkg4Bnnk.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/8/n/m/n/8nmnq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Paramount",
@@ -1896,7 +1896,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/m/Q/N/QmQNp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Hbo"
@@ -1921,7 +1921,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/p/3/i/n/p3inq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Hbo"
@@ -1947,7 +1947,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/g/R/P/l/gRPlq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Disney",
@@ -1974,7 +1974,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/g/X/M/k/gXMkq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Marvel",
@@ -2054,7 +2054,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/8/4/g/s/84gsq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -2080,7 +2080,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/C/A/P/g/CAPgq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -2106,7 +2106,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/j/W/O/g/jWOgq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -2131,7 +2131,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/F/Y/m/f/FYmfq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+7",
     "camara": false,
     "especiales": [
       "Prime Video"
@@ -2202,7 +2202,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/f0/s8/2/o/x/z/D/oxzDA.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Netflix",
@@ -2227,7 +2227,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fww1/1d/s8/2/K/w/z/D/KwzDA.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Netflix",
@@ -2253,7 +2253,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/28/s8/2/A/G/c/T/AGcTA.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [
       "Prime Video"
@@ -2279,7 +2279,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fww1/ee/s8/2/i/i/V/j/iiVjz.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Disney"
@@ -2305,7 +2305,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fww1/4f/s8/2/-/3/I/I/-3IIA.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [
       "Hbo"
@@ -2355,7 +2355,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fwe1/e6/s8/2/R/Y/q/u/RYquw.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [],
     "plan": "basico"
@@ -2378,7 +2378,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/I/n/C/M/InCMp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+7",
     "camara": false,
     "especiales": [],
     "plan": "basico"
@@ -2402,7 +2402,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/-/9/t/a/-9taq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [
       "Hbo"
@@ -2428,7 +2428,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/f/7/h/a/f7haq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+18",
     "camara": false,
     "especiales": [
       "Hbo"
@@ -2455,7 +2455,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/L/b/p/b/Lbpbu.caa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": true,
     "especiales": [
       "Netflix",
@@ -2483,7 +2483,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/x/H/a/QxHaq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Prime Video",
@@ -2533,7 +2533,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/j/n/v/F/jnvFp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Disney"
@@ -2558,7 +2558,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/t/0/x/A/t0xAp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Hbo"
@@ -2583,7 +2583,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/6/M/d/m/6Mdmm.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+7",
     "camara": false,
     "especiales": [
       "Disney"
@@ -2611,7 +2611,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/X/N/w/I/XNwIp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [],
     "plan": "basico"
@@ -2636,7 +2636,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/h/Q/r/E/hQrEp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Disney"
@@ -2663,7 +2663,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/a/u/t/E/autEp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Disney"
@@ -2690,7 +2690,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/9/G/p/E/9GpEp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Disney"
@@ -2716,7 +2716,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/9/W/4/d/9W4dt.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Paramount"
@@ -2740,7 +2740,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/_/d/W/G/_dWGp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -2765,7 +2765,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/p/l/Y/G/plYGp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Apple",
@@ -2792,7 +2792,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/e/S/Q/l/eSQlp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+18",
     "camara": false,
     "especiales": [
       "Prime Video"
@@ -2818,7 +2818,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/K/-/-/i/K--ip.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -2943,7 +2943,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/n/D/-/9/nD-9r.caa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": true,
     "especiales": [
       "Prime Video",
@@ -2968,7 +2968,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/e/0/K/8/e0K8q.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Vix"
@@ -2994,7 +2994,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/w/9/C/4/w9C4q.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+18",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -3069,7 +3069,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/W/-/S/L/W-SLq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (España)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [],
     "plan": "basico"
@@ -3092,7 +3092,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/I/f/b/E/IfbEq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Prime Video"
@@ -3116,7 +3116,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/v/Q/A/B/vQABq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (España)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [],
     "plan": "basico"
@@ -3140,7 +3140,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/3/O/Y/t/3OYtq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -3190,7 +3190,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/t/5/8/q/t58qq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -3215,7 +3215,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/J/o/W/q/JoWqq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -3243,7 +3243,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/y/F/L/7/yFL7q.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -3269,7 +3269,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/V/R/F/n/VRFnq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -3296,7 +3296,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/I/5/b/m/I5bmq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": true,
     "especiales": [
       "Anime"
@@ -3322,7 +3322,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/W/p/Y/g/WpYgq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [],
     "plan": "basico"
@@ -3397,7 +3397,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/l/0/W/W/l0WWp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -3423,7 +3423,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/W/m/i/X/WmiXr.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [
       "Prime Video"
@@ -3449,7 +3449,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Y/t/9/i/Yt9ir.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -3500,7 +3500,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/f/y/n/a/fynap.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -3526,7 +3526,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/5/q/b/I/5qbIo.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+18",
     "camara": false,
     "especiales": [
       "Hbo"
@@ -3554,7 +3554,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/I/g/l/a/Iglap.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Disney"
@@ -3605,7 +3605,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/6/2/Z/G/62ZGo.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [],
     "plan": "basico"
@@ -3630,7 +3630,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/C/Z/6/E/CZ6Eo.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Disney"
@@ -3656,7 +3656,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/A/P/3/E/AP3Eo.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+18",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -3681,7 +3681,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/q/E/6/7/qE67o.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Prime Video"
@@ -3707,7 +3707,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/9/q/y/7/9qy7o.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Hbo"
@@ -3733,7 +3733,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fww1/1b/s8/2/c/D/T/L/cDTLA.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": true,
     "especiales": [
       "Marvel",
@@ -3762,7 +3762,7 @@
     "embed": "https://1a-1791.com/video/fwe2/a2/s8/2/2/z/E/C/2zECA.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": true,
     "especiales": [],
     "plan": "basico"
@@ -3787,7 +3787,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/aa/s8/2/s/j/4/Q/sj4QA.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Disney"
@@ -3814,7 +3814,7 @@
     "embed": "https://1a-1791.com/video/fwe2/7b/s8/2/W/K/a/F/WKaFA.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": true,
     "especiales": [
       "Disney"
@@ -3841,7 +3841,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/5/S/C/6/5SC6o.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [],
     "plan": "basico"
@@ -3865,7 +3865,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/J/k/v/6/Jkv6o.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Hbo"
@@ -3891,7 +3891,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/N/E/c/E/NEcEo.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Prime Video",
@@ -3918,7 +3918,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/g/P/3/D/gP3Do.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+18",
     "camara": false,
     "especiales": [],
     "plan": "basico"
@@ -3940,7 +3940,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/6/Q/C/7/6QC7o.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [],
     "plan": "basico"
@@ -3992,7 +3992,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/w/W/7/X/wW7Xo.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Hbo"
@@ -4119,7 +4119,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/c/w/Y/y/cwYyp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Hbo"
@@ -4280,7 +4280,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/76/s8/2/l/p/c/o/lpcow.gaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+7",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -4304,7 +4304,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/o/E/U/J/oEUJo.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Ingles",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Disney"
@@ -4331,7 +4331,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/S/U/e/w/SUewo.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+7",
     "camara": false,
     "especiales": [
       "Hbo"
@@ -4403,7 +4403,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/d/W/x/s/dWxso.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [],
     "plan": "basico"
@@ -4427,7 +4427,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/v/L/J/_/vLJ_n.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -4525,7 +4525,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/J/Y/E/7/JYE7n.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [
       "Netflix",
@@ -4681,7 +4681,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/m/r/Z/a/mrZao.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": true,
     "especiales": [
       "Marvel",
@@ -5090,7 +5090,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fwe1/44/s8/2/S/u/J/a/SuJaw.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (España)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -5116,7 +5116,7 @@
     "embed": "https://1a-1791.com/video/fwe1/4a/s8/2/4/P/M/j/4PMjw.caa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Disney"
@@ -5316,7 +5316,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/I/E/A/5/IEA5j.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [],
     "plan": "basico"
@@ -5389,7 +5389,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/u/q/4/3/uq43k.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Marvel",
@@ -5415,7 +5415,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/s/b/P/c/sbPcp.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+18",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -5467,7 +5467,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/g/y/J/A/gyJAj.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Disney"
@@ -5491,7 +5491,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/6/C/Q/u/6CQuj.caa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -5593,7 +5593,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/f4/s8/2/o/u/V/m/ouVmw.caa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Anime"
@@ -5621,7 +5621,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/L/6/b/Q/L6bQp.caa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [],
     "plan": "basico"
@@ -5645,7 +5645,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/x/L/r/a/xLraq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -5671,7 +5671,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/t/2/t/V/t2tVr.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [],
     "plan": "basico"
@@ -5717,7 +5717,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/L/N/M/U/LNMUq.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+16",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -5743,7 +5743,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/B/8/A/E/B8AEs.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Netflix"
@@ -5768,7 +5768,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/m/p/m/H/mpmHs.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+7",
     "camara": false,
     "especiales": [
       "Disney"
@@ -5794,7 +5794,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/a/b/e/C/abeCs.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Marvel",
@@ -5820,7 +5820,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/W/c/u/L/WcuLs.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+13",
     "camara": false,
     "especiales": [
       "Hbo"
@@ -5847,7 +5847,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/d5/s8/2/W/5/6/f/W56fw.caa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+7",
     "camara": false,
     "especiales": [
       "Disney"
@@ -5875,7 +5875,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fwe1/91/s8/2/D/V/5/f/DV5fw.caa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Disney"
@@ -5902,7 +5902,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fwe1/01/s8/2/_/q/5/f/_q5fw.caa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Disney"
@@ -5929,7 +5929,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fwe1/8b/s8/2/D/K/4/f/DK4fw.caa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Disney"
@@ -5956,7 +5956,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/02/s8/2/t/b/4/f/tb4fw.caa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Disney"
@@ -5983,7 +5983,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fwe1/ea/s8/2/9/r/3/f/9r3fw.caa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Disney"
@@ -6011,7 +6011,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/fww1/2c/s8/2/8/J/Z/e/8JZeA.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "TP",
     "camara": false,
     "especiales": [
       "Hbo"
@@ -6036,7 +6036,7 @@
     "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/t/a/4/E/ta4Es.aaa.mp4",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
-    "edad": "",
+    "edad": "+18",
     "camara": false,
     "especiales": [
       "Prime Video"
