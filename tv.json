@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Caso Cerrado",
+    "genero": "Entretenimiento",
+    "plan": "basico",
+    "logo": "https://yt3.googleusercontent.com/MQz5kxEXUHXQaHPoSAauzvY_qkviSBsRYuvpbtaKuZm-PSZaWkv2JBBqxlsSCK3Tn9knEOEA=s900-c-k-c0x00ffffff-no-rj",
+    "embed": "https://www.youtube.com/embed/CG7UYN5OrQA?autoplay=1&rel=0"
+  },
+  {
+    "id": 2,
+    "nombre": "El Chavo",
+    "genero": "Comedia",
+    "plan": "basico",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRolvPs0yq2l257YGN5viqiumxaO7RDKQbL82z8Nsv7XISbCBzM6gmn50E&s=10",
+    "embed": "https://www.youtube.com/embed/fy_fYd3ZwPE?autoplay=1&rel=0"
+  },
+  {
+    "id": 3,
+    "nombre": "Crónica TV",
+    "genero": "Noticias",
+    "plan": "estandar",
+    "logo": "https://play-lh.googleusercontent.com/34lXLvFU5YrF5HH-HxUvJOFMKtGJYxk6HHgMYL3OIKikCwhDrd7IG9797oasGmL2tKBcrSb4Jl7lqoKnXK8_7eg",
+    "embed": "https://www.youtube.com/embed/hw4uHyct4vg?autoplay=1&rel=0"
+  },
+  {
+    "id": 4,
+    "nombre": "C5N",
+    "genero": "Noticias",
+    "plan": "estandar",
+    "logo": "https://media.minutouno.com/p/97848ad6986b07ac9e2c012d93629aa6/adjuntos/150/imagenes/041/362/0041362586/c5n-logo.jpg",
+    "embed": "https://www.youtube.com/embed/j6oh4Kqz3UM?autoplay=1&rel=0"
+  },
+  {
+    "id": 5,
+    "nombre": "Canal Luz",
+    "genero": "Religioso",
+    "plan": "premium",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHx6uOGy7vI1XFHbexb6PSztM-CEB0or1BeBt_FJx8Skf-2uMcMwD9u2Q&s=10",
+    "embed": "https://www.youtube.com/embed/YpyQFCk7oYc?autoplay=1&rel=0"
+  }
+]
