@@ -1,6 +1,6 @@
 [
   {
-    "id": 6,
+    "id": 1,
     "nombre": "El Trece",
     "genero": "Noticias",
     "plan": "estandar",
@@ -8,7 +8,7 @@
     "embed": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL"
   },
   {
-    "id": 7,
+    "id": 2,
     "nombre": "Neo Net Music",
     "genero": "Musica",
     "plan": "estandar",
