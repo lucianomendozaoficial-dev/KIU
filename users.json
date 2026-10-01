@@ -1,18 +1,24 @@
 [
   {
+    "id": 0,
     "nombre": "Luciano",
     "password": "2378",
     "dni": "47.258.027",
     "nombreCompleto": "Luciano Mendoza",
     "fechaExpiracion": "2026-12-15",
-    "plan": "premium"
+    "plan": "premium",
+    "debePagar": "",
+    "descripcion": ""
   },
   {
+    "id": 0,
     "nombre": "Day",
     "password": "2030",
     "dni": "00000000",
     "nombreCompleto": "Daiana",
     "fechaExpiracion": "2026-10-28",
-    "plan": "premium"
+    "plan": "premium",
+    "debePagar": "",
+    "descripcion": ""
   }
 ]
