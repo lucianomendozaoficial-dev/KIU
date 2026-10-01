@@ -1,14 +1,14 @@
 [
   {
     "id": 0,
-    "nombre": "Luciano",
-    "password": "2378",
-    "dni": "47.258.027",
-    "nombreCompleto": "Luciano Mendoza",
-    "fechaExpiracion": "2026-09-10",
-    "plan": "basico",
-    "debePagar": "",
-    "descripcion": ""
+    "nombre": "Day",
+    "password": "2030",
+    "dni": "00000000",
+    "nombreCompleto": "Daiana",
+    "fechaExpiracion": "2026-10-28",
+    "plan": "premium",
+    "debePagar": "1 Mes gratis por Luciano",
+    "descripcion": "1 Mes de premium otorgado por luciano mendoza."
   },
   {
     "id": 0,
