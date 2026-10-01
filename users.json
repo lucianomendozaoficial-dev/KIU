@@ -20,5 +20,16 @@
     "plan": "premium",
     "debePagar": "",
     "descripcion": ""
+  },
+  {
+    "id": 1,
+    "nombre": "tuty",
+    "password": "2378",
+    "dni": "47.258.027",
+    "nombreCompleto": "Fabian Mendoza",
+    "fechaExpiracion": "2026-10-15",
+    "plan": "basico",
+    "debePagar": "$2.500",
+    "descripcion": ""
   }
 ]
