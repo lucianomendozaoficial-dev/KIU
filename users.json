@@ -5,7 +5,7 @@
     "dni": "47.258.027",
     "nombreCompleto": "Luciano Mendoza",
     "fechaExpiracion": "2026-12-15",
-    "plan": "Premium"
+    "plan": "premium"
   },
   {
     "nombre": "Day",
@@ -13,6 +13,6 @@
     "dni": "00000000",
     "nombreCompleto": "Daiana",
     "fechaExpiracion": "2026-10-28",
-    "plan": "Premium"
+    "plan": "premium"
   }
 ]
