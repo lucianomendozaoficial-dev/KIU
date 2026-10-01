@@ -12,10 +12,10 @@
     "año": 2021,
     "duracion": "N/A",
     "rating": 8.2,
-    "rating_updated": "2026-09-29T00:14:26.290Z",
+    "rating_updated": "2026-10-01T01:23:05.373Z",
     "tmdb_id": 84958,
-    "portada": "https://image.tmdb.org/t/p/w185/kAHPDqUUciuObEoCgYtHttt6L2Q.jpg",
-    "banner": "https://media.gq.com.mx/photos/5fd78f5d0ff8b1d1ff884138/16:9/w_2560%2Cc_limit/LOKI.jpg",
+    "portada": "https://image.tmdb.org/t/p/original/vCk6wy6WQHwARR4jewbxhhmESs7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
     "tipo": "serie",
     "idioma": "Español (Latino)",
     "edad": "+13",
@@ -92,13 +92,14 @@
     "generos": [
       "Action & adventure",
       "Drama",
-      "Sci-fi & fantasy"
+      "Ciencia Ficción",
+      "Fantasía"
     ],
     "descripcion": "Luego de que un virus zombi se propaga por su escuela, un grupo de jóvenes atrapados debe encontrar una salida o acabar infectado.",
     "año": 2022,
     "duracion": "N/A",
     "rating": 8.3,
-    "rating_updated": "2026-09-29T23:37:31.860Z",
+    "rating_updated": "2026-10-01T01:23:06.397Z",
     "tmdb_id": 99966,
     "portada": "https://image.tmdb.org/t/p/original/8jClvC5U756Uhd8zDYek50ihO49.jpg",
     "banner": "https://image.tmdb.org/t/p/original/8hp2CuGnw1iP5dLBVMAPUv23swx.jpg",
@@ -115,6 +116,234 @@
           {
             "nombre": "C1",
             "embed": "https://1a-1791.com/video/fww1/70/s8/2/K/_/C/u/K_Cuy.caa.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Está bien no estar bien",
+    "generos": [
+      "Drama",
+      "Comedia"
+    ],
+    "descripcion": "Una historia sobre un empleado de una sala psiquiátrica y una mujer, con un trastorno de personalidad antisocial, que es una escritora popular de libros infantiles. Un hombre que niega el amor y una mujer que no conoce el amor desafían el destino y se enamoran, encontrando sus almas e identidades en el proceso.",
+    "año": 2020,
+    "duracion": "N/A",
+    "rating": 8.5,
+    "rating_updated": "2026-10-01T01:23:07.402Z",
+    "tmdb_id": 96462,
+    "portada": "https://image.tmdb.org/t/p/original/yGoQugW6v16jdK32JNhMpHl1aCo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://1a-1791.com/video/fwe1/ae/s8/2/w/a/d/p/wadpy.caa.mp4"
+          },
+          {
+            "nombre": "C2",
+            "embed": "https://1a-1791.com/video/fwe2/97/s8/2/4/e/d/p/4edpy.caa.mp4"
+          },
+          {
+            "nombre": "C3",
+            "embed": "https://1a-1791.com/video/fwe2/40/s8/2/w/g/d/p/wgdpy.caa.mp4"
+          },
+          {
+            "nombre": "C4",
+            "embed": "https://1a-1791.com/video/fwe2/37/s8/2/Q/k/d/p/Qkdpy.caa.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "La tierra permanece",
+    "generos": [
+      "Ciencia Ficción",
+      "Fantasía"
+    ],
+    "descripcion": "Cuando una plaga de una virulencia sin precedentes arrasa el planeta, la raza humana queda prácticamente aniquilada. Después, a medida que la gran maquinaria de la civilización se desmorona lenta e inexorablemente, sólo quedan unos pocos supervivientes destrozados que luchan contra la extinción.",
+    "año": 2024,
+    "duracion": "N/A",
+    "rating": 7.3,
+    "rating_updated": "2026-10-01T01:23:08.389Z",
+    "tmdb_id": 250308,
+    "portada": "https://image.tmdb.org/t/p/original/dHhtX1AFLil6gpZk9QZZLnXSn8F.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/g97e0jUEjvVBF5Ald9oD7eWNMN4.jpg",
+    "tipo": "serie",
+    "idioma": "Español (España)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "basico",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://1a-1791.com/video/fww1/ec/s8/2/u/M/p/v/uMpvy.caa.mp4"
+          },
+          {
+            "nombre": "C2",
+            "embed": "https://1a-1791.com/video/fww1/cf/s8/2/U/N/p/v/UNpvy.caa.mp4"
+          },
+          {
+            "nombre": "C3",
+            "embed": "https://1a-1791.com/video/fww1/fd/s8/2/i/Q/p/v/iQpvy.caa.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "No vengas a casa",
+    "generos": [
+      "Misterio",
+      "Drama",
+      "Ciencia Ficción",
+      "Fantasía"
+    ],
+    "descripcion": "Una madre se muda a la tenebrosa mansión de su familia, donde enfrenta oscuros secretos de su pasado cuando su hija desaparece de manera misteriosa.",
+    "año": 2024,
+    "duracion": "N/A",
+    "rating": 7.9,
+    "rating_updated": "2026-10-01T01:23:09.397Z",
+    "tmdb_id": 273081,
+    "portada": "https://image.tmdb.org/t/p/original/upEU30dtEqx80DSQSaEjeXLcKRI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/i92vV0MMeXZKs9zsYFOpjYYt2s2.jpg",
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://1a-1791.com/video/fww1/d5/s8/2/m/w/z/v/mwzvy.caa.mp4"
+          },
+          {
+            "nombre": "C2",
+            "embed": "https://1a-1791.com/video/fww1/7c/s8/2/Y/v/z/v/Yvzvy.caa.mp4"
+          },
+          {
+            "nombre": "C3",
+            "embed": "https://1a-1791.com/video/fww1/0b/s8/2/4/t/z/v/4tzvy.caa.mp4"
+          },
+          {
+            "nombre": "C4",
+            "embed": "https://1a-1791.com/video/fww1/bd/s8/2/Q/s/z/v/Qszvy.caa.mp4"
+          },
+          {
+            "nombre": "C5",
+            "embed": "https://1a-1791.com/video/fww1/ea/s8/2/G/t/z/v/Gtzvy.caa.mp4"
+          },
+          {
+            "nombre": "C6",
+            "embed": "https://1a-1791.com/video/fww1/10/s8/2/y/w/z/v/ywzvy.caa.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Ms. Marvel",
+    "generos": [
+      "Comedia",
+      "Ciencia Ficción",
+      "Fantasía",
+      "Acción",
+      "Aventura"
+    ],
+    "descripcion": "Una gran estudiante, ávida jugadora, y escriba voraz fan-fic, Kamala Khan tiene una afinidad especial por los Superhéroes, particularmente por Capitana Marvel. Sin embargo, ella lucha por encajar en casa y en la escuela — es decir, hasta que obtenga superpoderes como los superhéroes que ella siempre ha admirado. La vida es más fácil con super poderes, ¿Cierto?",
+    "año": 2022,
+    "duracion": "N/A",
+    "rating": 6.3,
+    "rating_updated": "2026-10-01T01:21:56.703Z",
+    "tmdb_id": 92782,
+    "portada": "https://image.tmdb.org/t/p/original/3KzoEdclGwXQH2t2oYZZlw46TvW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mfcLUWASJghU8MTNK38eYktfE83.jpg",
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Disney",
+      "Marvel"
+    ],
+    "plan": "basico",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://1a-1791.com/video/fwe1/d3/s8/2/Z/w/O/e/ZwOey.gaa.mp4"
+          },
+          {
+            "nombre": "C2",
+            "embed": "https://1a-1791.com/video/fwe2/83/s8/2/p/6/0/e/p60ey.caa.mp4"
+          },
+          {
+            "nombre": "C3",
+            "embed": "https://1a-1791.com/video/fwe1/aa/s8/2/z/6/5/e/z65ey.caa.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Las aventuras de Tintín",
+    "generos": [
+      "Animación",
+      "Action & adventure",
+      "Misterio"
+    ],
+    "descripcion": "Tintín, eterno adolescente sin familia conocida, es reportero que en realidad actúa más como aventurero o detective. Viaja por todo el mundo acompañado de su inseparable perro Milú con el propósito de enfrentarse a las fuerzas del mal para proteger a los débiles y a los oprimidos y saciar su inagotable sed de aventuras.",
+    "año": 1991,
+    "duracion": "N/A",
+    "rating": 7.9,
+    "rating_updated": "2026-10-01T01:31:14.559Z",
+    "tmdb_id": 1570,
+    "portada": "https://image.tmdb.org/t/p/original/30TKKVAZzeCAHujE0ONhJNlSKOk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/e9pwnvHUVtP7jg4icWXYRWF2uc9.jpg",
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://archive.org/download/tintin-espanol/Cap%20%201%20%20TINTIN%20EN%20AMERICA.mp4"
           }
         ]
       }
