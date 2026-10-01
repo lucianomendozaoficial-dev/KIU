@@ -1,10 +1,10 @@
 [
   {
     "id": 0,
-    "nombre": "Day",
-    "password": "2030",
+    "nombre": "Luciano",
+    "password": "2378",
     "dni": "00000000",
-    "nombreCompleto": "Daiana",
+    "nombreCompleto": "Luciano Mendoza",
     "fechaExpiracion": "2026-10-28",
     "plan": "premium",
     "debePagar": "",
