@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "nombre": "tuty",
-    "password": "0000",
+    "nombre": "lucianomendozaoficial@gmail.com",
+    "password": "2378",
     "dni": "47.258.027",
     "nombreCompleto": "Luciano Mendoza",
-    "fechaExpiracion": "2026-09-10",
+    "fechaExpiracion": "2026-12-15",
     "plan": "premium",
     "debePagar": "$2.500",
-    "descripcion": ""
+    "descripcion": "Cuenta del dueño de KIU Play."
   },
   {
     "id": 2,
