@@ -268,6 +268,10 @@
           {
             "nombre": "C5",
             "embed": "https://1a-1791.com/video/fww1/ea/s8/2/G/t/z/v/Gtzvy.caa.mp4"
+          },
+          {
+            "nombre": "C6",
+            "embed": "https://1a-1791.com/video/fww1/10/s8/2/y/w/z/v/ywzvy.caa.mp4"
           }
         ]
       }
@@ -349,6 +353,43 @@
           {
             "nombre": "C1",
             "embed": "https://archive.org/download/tintin-espanol/Cap%20%201%20%20TINTIN%20EN%20AMERICA.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Mi Adorable Demonio",
+    "generos": [
+      "Drama",
+      "Comedia"
+    ],
+    "descripcion": "Un implacable demonio pierde sus poderes tras conocer a la joven y arrogante heredera de una empresa. ¿Tendrá ella la llave para resolver su problema... y entrar a su corazón?",
+    "año": 2023,
+    "duracion": "N/A",
+    "rating": 8.5,
+    "rating_updated": "2026-10-02T01:33:54.143Z",
+    "tmdb_id": 218539,
+    "portada": "https://image.tmdb.org/t/p/original/nOSDJNtN9JZxikBiRAfyQ8K91dH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eSB0fD6CbNW3LT8Z55V07fmYFpo.jpg",
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://1a-1791.com/video/fwe1/20/s8/2/e/7/L/n/e7Lny.caa.mp4"
+          },
+          {
+            "nombre": "C2",
+            "embed": "https://1a-1791.com/video/fwe2/0d/s8/2/2/-/L/n/2-Lny.caa.mp4"
           }
         ]
       }
