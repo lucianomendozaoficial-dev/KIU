@@ -394,5 +394,116 @@
         ]
       }
     ]
+  },
+  {
+    "id": 10,
+    "nombre": "Dragon Ball Daima",
+    "generos": [
+      "Animación",
+      "Action & adventure",
+      "Comedia",
+      "Sci-fi & fantasy"
+    ],
+    "descripcion": "Debido a una conspiración, Goku y sus amigos se vuelven pequeños. ¿Qué tipo de aventura les espera a Goku, al Supremo Kaio y a los nuevos personajes Glorio y Panzy en este mundo desconocido, el “Reino de los Demonios”?",
+    "año": 2024,
+    "duracion": "N/A",
+    "rating": 8.2,
+    "rating_updated": "2026-10-02T01:53:45.745Z",
+    "tmdb_id": 236994,
+    "portada": "https://image.tmdb.org/t/p/original/65WbqM4xMfslBxuY3zbztlrEb5t.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": ""
+          },
+          {
+            "nombre": "C2",
+            "embed": ""
+          },
+          {
+            "nombre": "C3",
+            "embed": ""
+          },
+          {
+            "nombre": "C4",
+            "embed": ""
+          },
+          {
+            "nombre": "C5",
+            "embed": ""
+          },
+          {
+            "nombre": "C6",
+            "embed": ""
+          },
+          {
+            "nombre": "C7",
+            "embed": ""
+          },
+          {
+            "nombre": "C8",
+            "embed": ""
+          },
+          {
+            "nombre": "C9",
+            "embed": ""
+          },
+          {
+            "nombre": "C10",
+            "embed": ""
+          },
+          {
+            "nombre": "C11",
+            "embed": ""
+          },
+          {
+            "nombre": "C12",
+            "embed": ""
+          },
+          {
+            "nombre": "C13",
+            "embed": ""
+          },
+          {
+            "nombre": "C14",
+            "embed": ""
+          },
+          {
+            "nombre": "C15",
+            "embed": ""
+          },
+          {
+            "nombre": "C16",
+            "embed": ""
+          },
+          {
+            "nombre": "C17",
+            "embed": ""
+          },
+          {
+            "nombre": "C18",
+            "embed": ""
+          },
+          {
+            "nombre": "C19",
+            "embed": ""
+          },
+          {
+            "nombre": "C20",
+            "embed": ""
+          }
+        ]
+      }
+    ]
   }
 ]
