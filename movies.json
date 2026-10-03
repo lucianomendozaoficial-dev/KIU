@@ -6342,5 +6342,30 @@
     "camara": false,
     "especiales": [],
     "plan": "basico"
+  },
+  {
+    "id": 251,
+    "nombre": "Sultana",
+    "generos": [
+      "Drama",
+      "Música"
+    ],
+    "descripcion": "Narra una intensa lucha de poder entre Meral, la veterana reina de un club nocturno en Estambul, y Anna, una joven y talentosa bailarina bielorrusa a quien ella misma protege.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8.3,
+    "rating_updated": "2026-10-03T23:53:46.231Z",
+    "tmdb_id": 1656489,
+    "portada": "https://image.tmdb.org/t/p/original/uE1TWEFVQ4OeWNDV0Wit5eEJCOJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lDHfyYkTIWCWWdbHkLZwRXQx3Ul.jpg",
+    "embed": "https://fastream.to/embed-lm3vbk2vh8a7.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
