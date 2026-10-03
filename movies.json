@@ -6168,5 +6168,28 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 243,
+    "nombre": "Solo por una noche",
+    "generos": [
+      "Romance",
+      "Comedia"
+    ],
+    "descripcion": "Dos desconocidos, ávidos de amor, se topan por casualidad en la única noche del año en que las personas solteras tienen permitido tener relaciones sexuales.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-10-03T02:36:32.897Z",
+    "tmdb_id": 1433367,
+    "portada": "https://image.tmdb.org/t/p/original/dfuqSiCp3Y24nO1z1YembfTrrtn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
+    "embed": "https://fastream.to/embed-as3rviv8cbjr.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
   }
 ]
