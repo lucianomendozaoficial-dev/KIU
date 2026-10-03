@@ -6291,5 +6291,30 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 249,
+    "nombre": "Quinze Dias",
+    "generos": [
+      "Comedia",
+      "Romance"
+    ],
+    "descripcion": "Sigue a Felipe, un joven tímido con sobrepeso que sufre acoso escolar. Sus planes de pasar unas vacaciones tranquilas se alteran cuando su madre hospeda durante dos semanas a Caio, su vecino y amor de la infancia, transformando la tensión inicial en un tierno viaje de autodescubrimiento y romance.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-10-03T23:46:56.509Z",
+    "tmdb_id": 1418582,
+    "portada": "https://image.tmdb.org/t/p/original/f52tZybwHnomYCkRhe9rHMSEz5j.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bwsGEeiEnKqsZ9vm3G82as8xUu7.jpg",
+    "embed": "https://fastream.to/embed-68ne6lxe9tvd.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
