@@ -6042,5 +6042,28 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 238,
+    "nombre": "Turbo",
+    "generos": [
+      "Animación",
+      "Familia"
+    ],
+    "descripcion": "La historia de un caracol de jardín común que sueña con ganar el Indy 500.",
+    "año": 2013,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-10-03T01:18:16.039Z",
+    "tmdb_id": 77950,
+    "portada": "https://image.tmdb.org/t/p/original/lDARMqluCrWaFgybY9KHLY96L3n.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3qfiZd8ETMk9MQsmhbOB5QAAx0l.jpg",
+    "embed": "https://fastream.to/embed-ng5e3czgfxru.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
   }
 ]
