@@ -6117,5 +6117,30 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 241,
+    "nombre": "La hipótesis del amor",
+    "generos": [
+      "Romance",
+      "Comedia"
+    ],
+    "descripcion": "Basada en el éxito del New York Times, La hipótesis del amor sigue a Olive, una estudiante de doctorado que besa por impulso al profesor más intimidante del departamento, Adam Carlsen. Ambos necesitan fingir que están en una relación y comienzan un experimento de química que podría resultar en amor.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8.1,
+    "rating_updated": "2026-10-03T02:32:24.309Z",
+    "tmdb_id": 1032863,
+    "portada": "https://image.tmdb.org/t/p/original/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+    "embed": "https://fastream.to/embed-q8gqxad5986c.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
