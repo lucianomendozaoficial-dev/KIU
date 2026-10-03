@@ -6367,5 +6367,27 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 252,
+    "nombre": "Un hijo",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.9,
+    "rating_updated": "2026-10-03T23:54:14.381Z",
+    "tmdb_id": 1396368,
+    "portada": "https://image.tmdb.org/t/p/original/9Za5Q0DtFaLq8RZZ6TjmE20RguW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tlAT4zOqxGv0MCkDvuxJDx3nvKK.jpg",
+    "embed": "https://fastream.to/embed-v0xxfqauhb97.html",
+    "tipo": "pelicula",
+    "idioma": "Español (España)",
+    "edad": "",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
   }
 ]
