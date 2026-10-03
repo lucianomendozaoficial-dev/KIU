@@ -17,7 +17,7 @@
     "dni": "",
     "nombreCompleto": "Diana",
     "fechaExpiracion": "2026-10-28",
-    "plan": "premium",
+    "plan": "estandar",
     "debePagar": "$2.500",
     "descripcion": ""
   },
@@ -28,7 +28,7 @@
     "dni": "",
     "nombreCompleto": "Elias Seville",
     "fechaExpiracion": "2026-10-30",
-    "plan": "premium",
+    "plan": "estandar",
     "debePagar": "$5.800",
     "descripcion": ""
   }
