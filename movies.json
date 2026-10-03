@@ -3768,33 +3768,6 @@
     "plan": "basico"
   },
   {
-    "id": 149,
-    "nombre": "Moana",
-    "generos": [
-      "Familia",
-      "Fantasía",
-      "Comedia",
-      "Aventura"
-    ],
-    "descripcion": "Moana que quiere ser una viajera marinera. Cuando su isla natal se ve amenazada, Moana debe adentrarse en el mar junto a un semidiós llamado Maui para salvar a su pueblo.",
-    "año": 2026,
-    "duracion": "",
-    "rating": 7.4,
-    "rating_updated": "2026-10-03T01:28:10.481Z",
-    "tmdb_id": 1108427,
-    "portada": "https://image.tmdb.org/t/p/original/6WWJiE7Dwj63H122IOG2htJsCGP.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-    "embed": "https://1a-1791.com/video/fwe2/7b/s8/2/W/K/a/F/WKaFA.aaa.mp4",
-    "tipo": "pelicula",
-    "idioma": "Español (Latino)",
-    "edad": "TP",
-    "camara": true,
-    "especiales": [
-      "Disney"
-    ],
-    "plan": "basico"
-  },
-  {
     "id": 150,
     "nombre": "Venganza Silenciosa",
     "generos": [
