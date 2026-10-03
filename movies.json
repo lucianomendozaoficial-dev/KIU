@@ -6266,5 +6266,30 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 248,
+    "nombre": "Ovejas Asesinas",
+    "generos": [
+      "Terror",
+      "Comedia"
+    ],
+    "descripcion": "Un experimento de ingeniería genética que sale terriblemente mal convierte a un gran rebaño de dóciles ovejas en implacables máquinas de matar.",
+    "año": 2006,
+    "duracion": "",
+    "rating": 5.8,
+    "rating_updated": "2026-10-03T23:44:07.980Z",
+    "tmdb_id": 3603,
+    "portada": "https://image.tmdb.org/t/p/original/1fXV2dqHfC3bNbFtieLlNBOY9gu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/c3md9NhdIT9P9aLd2ESF68i0BvT.jpg",
+    "embed": "https://fastream.to/embed-ek8fy60al1o1.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
