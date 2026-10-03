@@ -6241,5 +6241,30 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 247,
+    "nombre": "Sliver: Una invasión a la intimidad",
+    "generos": [
+      "Drama",
+      "Suspenso"
+    ],
+    "descripcion": "Después de divorciarse, la bella Carly Norris (Sharon Stone) se traslada a vivir a un lujoso edificio de la zona alta de Nueva York, donde se han producido varios accidentes mortales y rodeados de misterio. Entre los vecinos de Carly están Zeke (William Baldwin), un atractivo soltero, y Jack (Tom Berenger), escritor de best sellers sobre crímenes reales que vive obsesionado con las faldas y los incidentes acaecidos en el edificio.",
+    "año": 1993,
+    "duracion": "",
+    "rating": 5.6,
+    "rating_updated": "2026-10-03T23:39:17.922Z",
+    "tmdb_id": 867,
+    "portada": "https://image.tmdb.org/t/p/original/yeOtHpz4CcGSkfw9whTYc0TCg2m.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zu09Mwoo69qwHpcj3gNtKntgUB7.jpg",
+    "embed": "Sliver: Una invasión a la intimidad",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
