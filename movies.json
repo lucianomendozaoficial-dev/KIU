@@ -5989,7 +5989,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 236,
@@ -6036,12 +6036,12 @@
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "+13",
-    "camara": false,
+    "camara": true,
     "especiales": [
       "Marvel",
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 238,
