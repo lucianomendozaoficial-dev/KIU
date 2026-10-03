@@ -6414,5 +6414,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 254,
+    "nombre": "El afinador",
+    "generos": [
+      "Crimen",
+      "Drama",
+      "Suspenso"
+    ],
+    "descripcion": "Las meticulosas habilidades de un talentoso afinador de pianos le llevan a descubrir una inesperada aptitud para abrir cajas fuertes, lo que pone su vida patas arriba.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-10-03T23:58:46.166Z",
+    "tmdb_id": 1340206,
+    "portada": "https://image.tmdb.org/t/p/original/3B6mx5mhAPYvCHhyxYC83BlWGd0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39344&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
