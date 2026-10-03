@@ -6091,5 +6091,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 240,
+    "nombre": "Un hombre por semana",
+    "generos": [
+      "Comedia",
+      "Romance",
+      "Drama"
+    ],
+    "descripcion": "Ha pasado un año desde que Mónica se divorció. Sus mejores amigas, Martha y Paula, deciden hacerle una intervención para que salga con un hombre por semana, se divierta y, tal vez, encuentre un nuevo amor.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.5,
+    "rating_updated": "2026-10-03T02:29:54.885Z",
+    "tmdb_id": 1611398,
+    "portada": "https://image.tmdb.org/t/p/original/rHwOvosfDFRsjBihdh9dIHnMgbO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/z4rHWzEQlg4DGy3fiGeOzjmfkyP.jpg",
+    "embed": "https://fastream.to/embed-t5khmvchesvc.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
