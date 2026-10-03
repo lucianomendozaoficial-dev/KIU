@@ -6164,5 +6164,32 @@
     "camara": false,
     "especiales": [],
     "plan": "basico"
+  },
+  {
+    "id": 244,
+    "nombre": "Moana",
+    "generos": [
+      "Familia",
+      "Fantasía",
+      "Comedia",
+      "Aventura"
+    ],
+    "descripcion": "Moana que quiere ser una viajera marinera. Cuando su isla natal se ve amenazada, Moana debe adentrarse en el mar junto a un semidiós llamado Maui para salvar a su pueblo.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-10-03T02:39:01.923Z",
+    "tmdb_id": 1108427,
+    "portada": "https://image.tmdb.org/t/p/original/6WWJiE7Dwj63H122IOG2htJsCGP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+    "embed": "https://fastream.to/embed-i97afroo7t5e.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
