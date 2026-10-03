@@ -6316,5 +6316,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 250,
+    "nombre": "Cloud クラウド",
+    "generos": [
+      "Acción",
+      "Drama",
+      "Crimen",
+      "Suspenso",
+      "Terror"
+    ],
+    "descripcion": "Yoshii es un hombre que gana dinero mediante la reventa online mientras a su alrededor ocurren sucesos extraños que ponen su vida en riesgo.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6.7,
+    "rating_updated": "2026-10-03T23:49:38.035Z",
+    "tmdb_id": 1244244,
+    "portada": "https://image.tmdb.org/t/p/original/iIcyt6PnuehVkdMueRHkxDboy4p.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sAnpF9jooAGWA8pwuMK4aX2uLvA.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39482&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
   }
 ]
