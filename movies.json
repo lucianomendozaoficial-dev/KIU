@@ -5989,7 +5989,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 236,
@@ -6014,7 +6014,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 237,
@@ -6041,7 +6041,7 @@
       "Marvel",
       "Disney"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 238,
