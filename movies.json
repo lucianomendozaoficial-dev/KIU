@@ -6087,7 +6087,9 @@
     "idioma": "Español (Latino)",
     "edad": "+16",
     "camara": false,
-    "especiales": [],
+    "especiales": [
+      "Prime Video"
+    ],
     "plan": "basico"
   }
 ]
