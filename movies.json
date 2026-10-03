@@ -6389,5 +6389,30 @@
     "camara": false,
     "especiales": [],
     "plan": "basico"
+  },
+  {
+    "id": 253,
+    "nombre": "En La Mira Del Peligro",
+    "generos": [
+      "Acción",
+      "Comedia"
+    ],
+    "descripcion": "Jaxen, un ex policía convertido en detective privado de Atlanta, es contratado para encontrar a la desaparecida estrella de R&B Jahari. Su investigación descubre que su desaparición está relacionada con una conspiración mayor, lo que le obliga a cuestionar a los que le rodean y su propio pasado.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-03T23:56:27.796Z",
+    "tmdb_id": 1218628,
+    "portada": "https://image.tmdb.org/t/p/original/HBDWCx1Rv6nscYVmh25G6zLWBH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/q6DLjPZM7tMeNcLNjgyyRfamnuT.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39364&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
