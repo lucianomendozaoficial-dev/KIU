@@ -6217,5 +6217,29 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 246,
+    "nombre": "Los perdonados",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "Una pareja adinerada al borde del divorcio, David y Jo Henninger, viajan desde Londres a Marruecos para asistir a un fin de semana a todo lujo en el suntuoso hogar sahariano de unos amigos. Tras una comida acompañada de demasiado alcohol, sucede una tragedia. Lo que prometía ser una gran festividad acabará convirtiéndose en un fin de semana que, en el peor de los sentidos, ninguno olvidará jamás.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 5.8,
+    "rating_updated": "2026-10-03T23:37:39.367Z",
+    "tmdb_id": 522927,
+    "portada": "https://image.tmdb.org/t/p/original/f37G0xxPdWw6IeeuMHxU05mMU2A.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lAm9U6DrTBRskp1OLI6UGFHZ816.jpg",
+    "embed": "https://fastream.to/embed-jicylf44735f.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
