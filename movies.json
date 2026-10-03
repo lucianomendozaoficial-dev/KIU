@@ -6142,5 +6142,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 242,
+    "nombre": "Zona de riesgo",
+    "generos": [
+      "Acción",
+      "Crimen",
+      "Suspenso"
+    ],
+    "descripcion": "Los obreros de una construcción en Londres desentierran una bomba de la Segunda Guerra Mundial sin explotar, lo que obliga a la población a evacuar la ciudad. Unos ladrones oportunistas, aprovechan el caos para llevar a cabo un elaborado atraco.​",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-10-03T02:34:07.612Z",
+    "tmdb_id": 1242265,
+    "portada": "https://image.tmdb.org/t/p/original/8f3EHn2nFe4xbtcwNX9hmM0kb4m.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
+    "embed": "https://fastream.to/embed-oudze4sfryhl.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
