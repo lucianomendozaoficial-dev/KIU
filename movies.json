@@ -7789,5 +7789,30 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 307,
+    "nombre": "El asesinato de Rachel Nickell",
+    "generos": [
+      "Documental",
+      "Crimen"
+    ],
+    "descripcion": "Asesinan a una madre joven a plena luz del día y frente a su hijito en Wimbledon Common, Londres. Este documental examina este caso de homicidio que quedó sin resolver por años.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-10-04T01:44:27.995Z",
+    "tmdb_id": 1693002,
+    "portada": "https://image.tmdb.org/t/p/original/4gcZdPpd6xFxfFHBX0VfxvGhchO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yKeYZOmBMQUMKpMlJJF8q4riYpl.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38700&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
