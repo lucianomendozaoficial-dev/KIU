@@ -7039,5 +7039,32 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 278,
+    "nombre": "Spooky Buddies",
+    "generos": [
+      "Comedia",
+      "Familia",
+      "Misterio",
+      "Película de tv"
+    ],
+    "descripcion": "",
+    "año": 2011,
+    "duracion": "",
+    "rating": 6,
+    "rating_updated": "2026-10-04T01:01:58.595Z",
+    "tmdb_id": 70587,
+    "portada": "https://image.tmdb.org/t/p/original/mP4HsISgOFpXqHOhTjlXcpRbH9X.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/d79CoC9Hq3ZKuQr9v2SFMLtWiZV.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38957&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+7",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
