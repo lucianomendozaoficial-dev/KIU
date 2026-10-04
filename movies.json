@@ -7426,5 +7426,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 293,
+    "nombre": "La muerte de Robin Hood",
+    "generos": [
+      "Aventura",
+      "Drama",
+      "Acción"
+    ],
+    "descripcion": "Una cruda reinterpretación de la leyenda de Robin Hood donde un solitario marcado por la batalla, atormentado por su violento pasado, encuentra la redención a través de una mujer enigmática tras una grave herida.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.7,
+    "rating_updated": "2026-10-04T01:17:14.845Z",
+    "tmdb_id": 1284465,
+    "portada": "https://image.tmdb.org/t/p/original/pC2hVl4J522GcMVc5OghRHSs0tq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38914&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
