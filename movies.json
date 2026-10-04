@@ -6571,5 +6571,32 @@
       "Paramount"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 260,
+    "nombre": "Un Gato con Suerte",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "descripcion": "Beckett es un gato mimado y egoísta que da por sentada la suerte que le ha tocado. Sin embargo, todo eso está a punto de cambiar cuando pierde por descuido su novena vida. Su tiempo se ha terminado y de pronto se encuentra a las puertas del cielo suplicándole al Guardián una última oportunidad para poder regresar a su perfecta y mundana vida. Desobedeciendo las indicaciones del Guardián, Becket escapa y regresa a la Tierra con otras nueve vidas pero, en esta ocasión, se reencarnará en un animal diferente en cada una de ellas (ratón, cucaracha, mofeta, perro, etc.).",
+    "año": 2024,
+    "duracion": "",
+    "rating": 7.7,
+    "rating_updated": "2026-10-04T00:11:04.833Z",
+    "tmdb_id": 567811,
+    "portada": "https://image.tmdb.org/t/p/original/4clvunwVxvwjem4y1BjuqImlPB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xEPQxkqAVIXrZKQIQCKqyRHzc1t.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39291&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+7",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
