@@ -6598,5 +6598,30 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 261,
+    "nombre": "¡Llama a mi agente!: La película",
+    "generos": [
+      "Comedia",
+      "Drama"
+    ],
+    "descripcion": "Cinco años después del cierre de la agencia ASK y justo antes de su debut como directora, Andréa pierde a su protagonista y recurre a su viejo equipo. ¿Será su condena o salvación?",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.1,
+    "rating_updated": "2026-10-04T00:15:10.275Z",
+    "tmdb_id": 1365884,
+    "portada": "https://image.tmdb.org/t/p/original/1eXCsF4GXcDJoBL4BkJHwzMwshh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39270&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
