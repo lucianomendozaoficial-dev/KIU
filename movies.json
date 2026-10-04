@@ -6755,5 +6755,30 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 267,
+    "nombre": "No es Otra Película de Amor",
+    "generos": [
+      "Comedia",
+      "Romance"
+    ],
+    "descripcion": "Julia, una romántica empedernida, finalmente encuentra al hombre de sus sueños: el británico Grant Fonkyerdoder. Pero ella y su amado enfrentan muchos obstáculos que deben vencer antes de llegar al altar. Primero, cada uno debe conocer a los padres del otro, luego tienen que consultar a una casamentera e impedir los planes de una bella, pero celosa Andy, que a toda costa intenta arruinar los planes de boda.",
+    "año": 2006,
+    "duracion": "",
+    "rating": 4.3,
+    "rating_updated": "2026-10-04T00:26:53.250Z",
+    "tmdb_id": 10073,
+    "portada": "https://image.tmdb.org/t/p/original/82ce2k5OxwcLDGolf3HBl2JWyEC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vORtOIuQMp3h3DCC6acfv1tsqhy.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39180&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
