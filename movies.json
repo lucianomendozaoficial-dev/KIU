@@ -7814,5 +7814,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 308,
+    "nombre": "México 86",
+    "generos": [
+      "Comedia",
+      "Historia",
+      "Drama"
+    ],
+    "descripcion": "Atrevimiento, locura y puro ingenio mexicano. En 1986, México fue sede del campeonato de fútbol más importante del mundo contra todo pronóstico. ¿Cómo se logró esa hazaña?",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-10-04T01:45:33.183Z",
+    "tmdb_id": 1530510,
+    "portada": "https://image.tmdb.org/t/p/original/ie0evW3npWrB25prNSKOdlEamSd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5Dkv39CuytJDnJeZjkepFtOWqBr.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38691&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
