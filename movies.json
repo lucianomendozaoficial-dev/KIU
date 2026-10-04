@@ -6623,5 +6623,30 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 262,
+    "nombre": "Carrera contra el tiempo",
+    "generos": [
+      "Suspenso",
+      "Acción"
+    ],
+    "descripcion": "En el thriller psicológico Carrera contra el tiempo, una sola llamada destruye la vida de Maia Marten, una destacada abogada londinense, durante su entrenamiento matutino: secuestraron a su hijo. Para recuperarlo, deberá correr sin parar y obedecer cada orden despiadada sin confiar en nadie. Cada segundo es una prueba de cuán lejos puede llegar una madre para salvar a su hijo.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-10-04T00:18:08.184Z",
+    "tmdb_id": 1386315,
+    "portada": "https://image.tmdb.org/t/p/original/kYjHS43tFzPfRfm9PjwbSwg0bTz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39218&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
