@@ -7401,5 +7401,30 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 292,
+    "nombre": "El choque",
+    "generos": [
+      "Documental",
+      "Crimen"
+    ],
+    "descripcion": "Una adolescente choca contra un edificio y causa la muerte de su novio y de su amigo. En este documental, lo que parecía un trágico accidente se convierte en un caso de asesinato.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-04T01:15:55.208Z",
+    "tmdb_id": 1662317,
+    "portada": "https://image.tmdb.org/t/p/original/mTN9baARVvqjS8ZuMUQeFBW6z2l.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2iqLoDsatVBwAvHTEzI71p3qBe9.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38915&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
