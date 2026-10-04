@@ -7172,5 +7172,32 @@
       "Navidad"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 283,
+    "nombre": "Santa Buddies",
+    "generos": [
+      "Familia",
+      "Aventura",
+      "Fantasía"
+    ],
+    "descripcion": "",
+    "año": 2009,
+    "duracion": "",
+    "rating": 5.9,
+    "rating_updated": "2026-10-04T01:06:44.255Z",
+    "tmdb_id": 24833,
+    "portada": "https://image.tmdb.org/t/p/original/aDmuDHCg1dvt6W232GxSuupnMwK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2vJqaom2DH1nTO2sZ0A5qipG1NG.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38952&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney",
+      "Navidad"
+    ],
+    "plan": "basico"
   }
 ]
