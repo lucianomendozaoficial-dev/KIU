@@ -7894,5 +7894,31 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 311,
+    "nombre": "Backrooms: Sin salida",
+    "generos": [
+      "Terror",
+      "Misterio",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Una extraña puerta aparece en el sótano de una exposición de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para salvarlo.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-04T01:49:34.500Z",
+    "tmdb_id": 1083381,
+    "portada": "https://image.tmdb.org/t/p/original/3YTb97zytlWRWZb7HrOiEhk4e6f.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38672&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
