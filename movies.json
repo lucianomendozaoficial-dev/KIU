@@ -6544,5 +6544,32 @@
       "Hbo"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 259,
+    "nombre": "La Furia de los Thundermans",
+    "generos": [
+      "Película de tv",
+      "Familia",
+      "Acción",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Los nuevos poderes energéticos de Chloe dividen a los Thundermans sobre si entrenarla en casa o enviarla a una escuela de héroes. Pero cuando la decana de la escuela revela un peligroso plan, la familia se reúne para salvar a Chloe y a la ciudad.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-10-04T00:07:54.385Z",
+    "tmdb_id": 1506560,
+    "portada": "https://image.tmdb.org/t/p/original/7zgvtsSPFH4rnV4UEXt9aqNKzIB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hDwl0YMxwGhNe7u8wgHHk2Hyw3W.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39293&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Paramount"
+    ],
+    "plan": "basico"
   }
 ]
