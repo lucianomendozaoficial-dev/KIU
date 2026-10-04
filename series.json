@@ -90,10 +90,11 @@
     "id": 3,
     "nombre": "Estamos Muertos",
     "generos": [
-      "Action & adventure",
       "Drama",
       "Ciencia Ficción",
-      "Fantasía"
+      "Fantasía",
+      "Acción",
+      "Aventura"
     ],
     "descripcion": "Luego de que un virus zombi se propaga por su escuela, un grupo de jóvenes atrapados debe encontrar una salida o acabar infectado.",
     "año": 2022,
@@ -320,8 +321,9 @@
     "nombre": "Las aventuras de Tintín",
     "generos": [
       "Animación",
-      "Action & adventure",
-      "Misterio"
+      "Misterio",
+      "Acción",
+      "Aventura"
     ],
     "descripcion": "Tintín, eterno adolescente sin familia conocida, es reportero que en realidad actúa más como aventurero o detective. Viaja por todo el mundo acompañado de su inseparable perro Milú con el propósito de enfrentarse a las fuerzas del mal para proteger a los débiles y a los oprimidos y saciar su inagotable sed de aventuras.",
     "año": 1991,
