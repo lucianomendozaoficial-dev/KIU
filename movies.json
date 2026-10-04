@@ -6965,5 +6965,29 @@
       "Anime"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 275,
+    "nombre": "Evil Dead: En llamas",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "Tras la muerte de su esposo, una mujer busca consuelo en sus suegros. A medida que uno a uno se transforman en muertos vivientes, descubre que los votos que hizo en vida perduran incluso en la muerte.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-10-04T00:57:20.639Z",
+    "tmdb_id": 1212763,
+    "portada": "https://image.tmdb.org/t/p/original/p6Fe34oDVmyE4LYp6sRQr8lZ45N.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39076&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
