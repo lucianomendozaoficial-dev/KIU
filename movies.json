@@ -7502,5 +7502,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 296,
+    "nombre": "Los dueños de la calle",
+    "generos": [
+      "Drama",
+      "Crimen"
+    ],
+    "descripcion": "Sorprendente debut del jovencísimo John Singleton -nominado al Oscar al mejor director con sólo 24 años- en un drama que cuenta la historia de tres amigos de la infancia que viven en un peligroso barrio de Los Ángeles. Los tres deberán enfrentarse a difíciles dilemas para abrirse camino en la vida.",
+    "año": 1991,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-10-04T01:25:33.107Z",
+    "tmdb_id": 650,
+    "portada": "https://image.tmdb.org/t/p/original/757k4xyphK1cH4JF4sVUfzzZDIc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ojzo9tMl8ZLrQgdGApZJFLuS331.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38905&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
