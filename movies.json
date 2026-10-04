@@ -6648,5 +6648,30 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 263,
+    "nombre": "Mayday",
+    "generos": [
+      "Acción",
+      "Comedia"
+    ],
+    "descripcion": "Cuando un piloto naval estadounidense queda atrapado tras líneas enemigas en una misión secreta durante la Guerra Fría, su única oportunidad de sobrevivir es formar una alianza con un excéntrico exagente de la KGB.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8,
+    "rating_updated": "2026-10-04T00:20:20.303Z",
+    "tmdb_id": 1137844,
+    "portada": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39217&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
