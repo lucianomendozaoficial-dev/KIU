@@ -7581,5 +7581,30 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 299,
+    "nombre": "Culpa Tuya: Londres",
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "descripcion": "Nick y Noah están empezando aventuras que les cambiarán la vida y que amenazan con separarlos: Nick en los negocios con su padre y Noah comenzando un nuevo capítulo en la Universidad de Oxford. Ahora viviendo vidas separadas y conociendo gente nueva, se ven envueltos en tentaciones, rivalidades y traiciones, y su vínculo se pone a prueba como nunca antes. A medida que los secretos se revelan y las tentaciones aumentan, deben luchar para mantenerse unidos o arriesgarse a perderlo todo.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-10-04T01:32:18.857Z",
+    "tmdb_id": 1477317,
+    "portada": "https://image.tmdb.org/t/p/original/oeOmayFaiGz6km5vShPpDBQnZf1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wQOhbCP6H8bO5ddlXDZT207orew.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38800&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
