@@ -6833,5 +6833,29 @@
       "Hbo"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 270,
+    "nombre": "Mi mejor amigo, su novia y yo",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Olli y Matze son dos mejores amigos que viven, trabajan y planean viajar por el mundo juntos…, hasta que el romance de Matze y Rebecca pone todo patas arriba.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.2,
+    "rating_updated": "2026-10-04T00:31:45.650Z",
+    "tmdb_id": 1589248,
+    "portada": "https://image.tmdb.org/t/p/original/slZ1c32UqVgl94XV3CMDFjiZdTZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39158&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
