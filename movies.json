@@ -7273,5 +7273,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 287,
+    "nombre": "¡Ayuda!",
+    "generos": [
+      "Terror",
+      "Suspenso",
+      "Comedia"
+    ],
+    "descripcion": "Después de que un accidente de avión deje varados en una isla remota a una capaz empleada y a su molesto jefe, ella deberá utilizar sus habilidades de supervivencia para mantenerlos a ambos con vida, a pesar de su difícil relación.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-04T01:10:04.258Z",
+    "tmdb_id": 1198994,
+    "portada": "https://image.tmdb.org/t/p/original/xzM7ixyJvqvW4le3SHYq8JsqGMK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hO2jx1H3XafR7Y8QbFgVH1sHTY9.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38947&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
