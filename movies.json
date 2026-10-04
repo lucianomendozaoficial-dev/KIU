@@ -7224,5 +7224,30 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 285,
+    "nombre": "Buddies: Cazadores de Tesoros",
+    "generos": [
+      "Aventura",
+      "Familia"
+    ],
+    "descripcion": "",
+    "año": 2012,
+    "duracion": "",
+    "rating": 6.1,
+    "rating_updated": "2026-10-04T01:08:16.835Z",
+    "tmdb_id": 78047,
+    "portada": "https://image.tmdb.org/t/p/original/1wNGZzH3gTmrf7k7CdQ2aQrAeOM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wEM5V7acuvIE0h2FtNCDCCX2U8C.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38950&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
