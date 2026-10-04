@@ -7555,5 +7555,31 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 298,
+    "nombre": "Mensajes de voz para Isabelle",
+    "generos": [
+      "Romance",
+      "Comedia",
+      "Drama"
+    ],
+    "descripcion": "Los entretenidos mensajes de voz que una joven mujer le deja a su hermana fallecida le llegan por azar a un desconocido, quien se enamora de ella sin siquiera verla.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8.3,
+    "rating_updated": "2026-10-04T01:31:25.749Z",
+    "tmdb_id": 614945,
+    "portada": "https://image.tmdb.org/t/p/original/3nY9BG8VjuxwLLRx5BGiiuj0M71.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38811&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
