@@ -7375,5 +7375,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 291,
+    "nombre": "Las ovejas detectives",
+    "generos": [
+      "Comedia",
+      "Familia",
+      "Misterio"
+    ],
+    "descripcion": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.9,
+    "rating_updated": "2026-10-04T01:14:49.326Z",
+    "tmdb_id": 1301421,
+    "portada": "https://image.tmdb.org/t/p/original/iryjE7zrVxML5UM5vCPJGtKYvWC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38916&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
