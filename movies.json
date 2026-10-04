@@ -7478,5 +7478,29 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 295,
+    "nombre": "Enemigos",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "¿Qué harías por tu enemigo? Esta es la historia de Chimo (Christian Checa) y El Rubio (Hugo Wetzel), dos adolescentes de barrio, víctima y verdugo, acosado y acosador, que han crecido siendo enemigos irreconciliables. Un día, Chimo tiene la oportunidad de vengarse y decide llevar a cabo su plan sin imaginarse las consecuencias que esto tendrá en las vidas de ambos.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-10-04T01:20:59.548Z",
+    "tmdb_id": 1285406,
+    "portada": "https://image.tmdb.org/t/p/original/931RWObebU1Y4EUS2fpwmZQRGPs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fem2Q5hHroXEYsGWHOC7VMpj1cK.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38907&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
