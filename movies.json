@@ -7093,5 +7093,30 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 280,
+    "nombre": "Snow Buddies: Cachorros en la nieve",
+    "generos": [
+      "Familia",
+      "Aventura"
+    ],
+    "descripcion": "Continuación de la saga \"Air Bud\". Un grupo de cachorros aventureros llega a Alaska donde conocen Shasta, un joven husky cuyo dueño no quiere más que hacerle caricias y al que ayudan a conseguir sus sueños. Los cachorros se ven envueltos en una carrera de trineos tirados por perros, pero tienen un grave problema: no conocen a nadie que les pueda enseñar a ser unos buenos perros de nieve. Por suerte Shasta encuentra a Talon y le convence para que les ayude.",
+    "año": 2008,
+    "duracion": "",
+    "rating": 6.1,
+    "rating_updated": "2026-10-04T01:03:54.308Z",
+    "tmdb_id": 14059,
+    "portada": "https://image.tmdb.org/t/p/original/7eOFi6eVxbbVmkDg0f1lYsUO4O2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AhlZZscvXIRigOtaSLCw9vSKH7J.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38955&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
