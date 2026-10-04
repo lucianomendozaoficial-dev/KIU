@@ -6857,5 +6857,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 271,
+    "nombre": "No se desea buena suerte",
+    "generos": [
+      "Comedia",
+      "Música",
+      "Drama"
+    ],
+    "descripcion": "Sophie Birenbaum está lista para ser el centro de atención como la protagonista del musical escolar, hasta que debe enfrentar más drama en casa que en el escenario.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-04T00:47:50.239Z",
+    "tmdb_id": 1504358,
+    "portada": "https://image.tmdb.org/t/p/original/eSHrRxvVxXH0JYdj2NdBD78FC6B.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39132&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
