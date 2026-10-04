@@ -385,30 +385,5 @@
         ]
       }
     ]
-  },
-  {
-    "id": 10,
-    "nombre": "Dragon Ball Daima",
-    "generos": [
-      "Animación",
-      "Action & adventure",
-      "Comedia",
-      "Sci-fi & fantasy"
-    ],
-    "descripcion": "Debido a una conspiración, Goku y sus amigos se vuelven pequeños. ¿Qué tipo de aventura les espera a Goku, al Supremo Kaio y a los nuevos personajes Glorio y Panzy en este mundo desconocido, el “Reino de los Demonios”?",
-    "año": 2024,
-    "duracion": "N/A",
-    "rating": 8.2,
-    "rating_updated": "2026-10-03T02:18:04.405Z",
-    "tmdb_id": 236994,
-    "portada": "https://image.tmdb.org/t/p/original/65WbqM4xMfslBxuY3zbztlrEb5t.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
-    "tipo": "serie",
-    "idioma": "Español (Latino)",
-    "edad": "+13",
-    "camara": false,
-    "especiales": [],
-    "plan": "basico",
-    "temporadas": []
   }
 ]
