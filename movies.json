@@ -7199,5 +7199,30 @@
       "Navidad"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 284,
+    "nombre": "Los Súper Buddies",
+    "generos": [
+      "Familia",
+      "Comedia"
+    ],
+    "descripcion": "Un día cualquiera en Fernfield Farms se convierte en extraordinario cuando Budderball, Mudbud, B-Dawg, Buda y Rosebud descubren misteriosos anillos que les otorgan, a cada uno, un súper poder único. Los cachorros dan rienda suelta a sus habilidades y se lanzan al rescate cuando un matón, que cambia de forma desde el espacio exterior, amenaza el planeta. Pero, ¿pueden conseguirlo con éxito, sin revelar sus nuevas identidades secretas?",
+    "año": 2013,
+    "duracion": "",
+    "rating": 5.9,
+    "rating_updated": "2026-10-04T01:07:29.676Z",
+    "tmdb_id": 149910,
+    "portada": "https://image.tmdb.org/t/p/original/u7sMtMLSe5CrsLqOPVnYseJj7wE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dbFmo9Xm1eGiM1Z3zi96B2qNdZ.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38951&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
