@@ -7452,5 +7452,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 294,
+    "nombre": "Enola Holmes 3",
+    "generos": [
+      "Aventura",
+      "Crimen",
+      "Misterio"
+    ],
+    "descripcion": "La aventura sigue a la detective Enola Holmes hasta Malta, donde sus planes de matrimonio se desmoronan cuando la desaparición de Sherlock la sumerge en un peligroso caso.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.7,
+    "rating_updated": "2026-10-04T01:18:29.076Z",
+    "tmdb_id": 1202033,
+    "portada": "https://image.tmdb.org/t/p/original/cepT0wSQPvynDDYAM8tHjxa1Quk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38908&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
