@@ -7145,5 +7145,32 @@
       "Navidad"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 282,
+    "nombre": "Santa Paws: En Busca de Santa Can",
+    "generos": [
+      "Familia",
+      "Aventura",
+      "Fantasía"
+    ],
+    "descripcion": "Cuando Santa y su nuevo amigo Paws descubren que las niñas y los niños del mundo han perdido el espíritu de la Navidad, juntos viajan a la ciudad de Nueva York. Pero cuando el Sr. Clauss pierde la memoria, Paws, una fiel huerfana llamada Quinn (Kaitlyn Maher), su reciente amiga Will (Madison Pettis) y un equipo de perritos parlantes deberán demostrar a todo el mundo cuál es el verdadero significado de la Navidad.",
+    "año": 2010,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-10-04T01:05:53.348Z",
+    "tmdb_id": 48844,
+    "portada": "https://image.tmdb.org/t/p/original/rYD4MLcQeG8aKhMQBKhzCcx4STD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ooOTWNkPcce0nsEAysy49gNYxp2.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38953&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney",
+      "Navidad"
+    ],
+    "plan": "basico"
   }
 ]
