@@ -7299,5 +7299,32 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 288,
+    "nombre": "Descendientes: Un malvado País de las Maravillas",
+    "generos": [
+      "Fantasía",
+      "Película de tv",
+      "Familia",
+      "Aventura"
+    ],
+    "descripcion": "Tras cambiar la historia y evitar que la Reina de Corazones se vuelva malvada, además de salvar a Cenicienta, todo parece perfecto para Red y Chloe. Pero alterar el pasado tiene consecuencias inesperadas. Cuando Maddox Sombrerero, un antiguo amigo de Red, surge como un nuevo villano y captura a la Reina, Red y Chloe deben volver por la madriguera del conejo. Allí, se unen a Pink, la hermana de Red; Luis, el hijo de Luisa Madrigal, y un equipo de villanos liderado por Max, el hijo de Maddox, para salvar a la Reina y a todo el País de las Maravillas.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.5,
+    "rating_updated": "2026-10-04T01:10:56.769Z",
+    "tmdb_id": 1318621,
+    "portada": "https://image.tmdb.org/t/p/original/5lpbVRg99l3VkYyXOiZraNgNlXv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38946&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
