@@ -7736,5 +7736,33 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 305,
+    "nombre": "Hoppers: Operación castor",
+    "generos": [
+      "Aventura",
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Mabel, una amante de los animales, utiliza una nueva e inteligente tecnología diseñada para \"transmitir\" la conciencia humana a animales robóticos realistas en un intento de comunicarse con los castores, descubriendo misterios dentro del mundo animal más allá de lo que pudiera haber imaginado.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8.1,
+    "rating_updated": "2026-10-04T01:42:08.796Z",
+    "tmdb_id": 1327819,
+    "portada": "https://image.tmdb.org/t/p/original/yONVGkDGZ07WGAR5Fq0GErzHUZ9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38703&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
