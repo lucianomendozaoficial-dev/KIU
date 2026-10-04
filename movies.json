@@ -6910,5 +6910,32 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 273,
+    "nombre": "Buena suerte, diviértete, no mueras",
+    "generos": [
+      "Ciencia Ficción",
+      "Acción",
+      "Comedia"
+    ],
+    "descripcion": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-10-04T00:54:04.876Z",
+    "tmdb_id": 1119449,
+    "portada": "https://image.tmdb.org/t/p/original/blfTYXDP1luoeku48pVkrZ6Zjwv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39111&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Apple",
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
