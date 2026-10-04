@@ -7920,5 +7920,30 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 312,
+    "nombre": "Obsesión",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Tras romper el misterioso \"Sauce de un Deseo\" para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8.2,
+    "rating_updated": "2026-10-04T01:50:32.863Z",
+    "tmdb_id": 1339713,
+    "portada": "https://image.tmdb.org/t/p/original/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38670&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
