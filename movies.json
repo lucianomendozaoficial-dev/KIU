@@ -7656,5 +7656,30 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 302,
+    "nombre": "Scary Movie: Terroríficamente incorrecta",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-10-04T01:37:57.557Z",
+    "tmdb_id": 1273221,
+    "portada": "https://image.tmdb.org/t/p/original/cAvdDPtiuVCauhjCwqK4EX2woHL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38727&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Paramount"
+    ],
+    "plan": "basico"
   }
 ]
