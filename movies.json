@@ -6440,5 +6440,30 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 255,
+    "nombre": "Moscas",
+    "generos": [
+      "Drama",
+      "Comedia"
+    ],
+    "descripcion": "Olga lleva una vida estrictamente controlada y sin ataduras en un enorme edificio de apartamentos. Cuando, por necesidad económica, alquila una habitación a un hombre que también introduce a escondidas a su hijo de nueve años, surge un vínculo inesperado.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-10-04T00:00:09.518Z",
+    "tmdb_id": 1437703,
+    "portada": "https://image.tmdb.org/t/p/original/zBwSaw3sEwqH9vSijiPbUdbHNQz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dlVvlYfvpD05KYbKFxEUvskvWWd.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39342&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
