@@ -6883,5 +6883,32 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 272,
+    "nombre": "Camp Rock 3",
+    "generos": [
+      "Música",
+      "Comedia",
+      "Drama",
+      "Película de tv"
+    ],
+    "descripcion": "En Camp Rock, los Connect 3 están buscando un nuevo grupo para abrir sus conciertos en la gira. Entre los campistas, como Sage, Desi, Rosie y otros, la competencia por ganar ese codiciado lugar desata rivalidades y romances, mientras todos luchan por destacar.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-10-04T00:49:13.902Z",
+    "tmdb_id": 1493400,
+    "portada": "https://image.tmdb.org/t/p/original/lUGn8nzz0wU0zoApaex8WmwaCpT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39113&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
