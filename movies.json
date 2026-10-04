@@ -7945,5 +7945,30 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 313,
+    "nombre": "La chica del perdón",
+    "generos": [
+      "Familia",
+      "Drama"
+    ],
+    "descripcion": "Una joven chica con parálisis cerebral encuentra una amiga inesperada en la recién llegada a la escuela, pero la crueldad de sus compañeros pone a prueba su vínculo.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 8.3,
+    "rating_updated": "2026-10-04T01:51:36.804Z",
+    "tmdb_id": 1587195,
+    "portada": "https://image.tmdb.org/t/p/original/3d5BPSr0TxLNJAvPsV0lXZiA0dZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/j1wJET8RWyFjI8u3Kpq0w0AL57V.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38669&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
