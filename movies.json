@@ -6700,5 +6700,34 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 265,
+    "nombre": "Monstruos vs Aliens",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Aventura",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "A Susan Murphy le cae encima un meteorito lleno de pringue espacial y crece rápidamente hasta los 15 metros de altura, la capturan y la encierran en una zona de contención secreta del gobierno. Susan se ve rodeada de otros monstruos encarcelados: el inteligente, aunque con cabeza de insecto, Dr. Cucaracha; el machote medio simio medio pez Eslabón; el gelatinoso e indestructible B.O.B.; y la larva de 100 metros llamada Insectosaurio...",
+    "año": 2009,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-10-04T00:24:02.261Z",
+    "tmdb_id": 15512,
+    "portada": "https://image.tmdb.org/t/p/original/t55T6IPGSzR3bnP0EJ5NkzGb9w1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fbxZeJEcyf76oEQIGmotlclwmiH.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39182&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Netflix",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
