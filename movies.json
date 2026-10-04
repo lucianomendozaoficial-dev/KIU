@@ -7326,5 +7326,29 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 289,
+    "nombre": "Hermanito",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Dos hermanos y un viaje inesperado que pone a prueba su vínculo La vida perfectamente organizada de Rudd, un exitoso agente inmobiliario, da un giro inesperado cuando Marcus, su excéntrico y problemático hermano menor, reaparece en su vida después de mucho tiempo. Obligados a emprender un caótico viaje por carretera, juntos deberán enfrentarse a viejos conflictos, recuerdos del pasado y diferencias que nunca lograron resolver.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-10-04T01:11:46.007Z",
+    "tmdb_id": 1397385,
+    "portada": "https://image.tmdb.org/t/p/original/s8mudAYQcHmVoFSamqyv1Ron527.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38945&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
