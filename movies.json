@@ -7764,5 +7764,30 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 306,
+    "nombre": "Gente que conocemos en vacaciones",
+    "generos": [
+      "Comedia",
+      "Romance"
+    ],
+    "descripcion": "Poppy es espontánea. Alex necesita un plan para todo. Tras años de viajar juntos, estos amigos muy distintos entre sí se preguntan si podrían ser la pareja perfecta.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-04T01:43:18.276Z",
+    "tmdb_id": 1034716,
+    "portada": "https://image.tmdb.org/t/p/original/lCbXqv2NOFoV8L0dYjcSz64zlUs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qa3oDSDZSJKSdIdBgQgEAxO0N88.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38702&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
