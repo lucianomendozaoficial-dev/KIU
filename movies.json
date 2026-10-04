@@ -7249,5 +7249,29 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 286,
+    "nombre": "23 000 vidas",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "Un grupo de jóvenes zarpa hacia el Mediterráneo para salvar las vidas de los refugiados, una misión que pondrá a prueba sus nociones sobre la ley y la justicia.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.1,
+    "rating_updated": "2026-10-04T01:09:03.369Z",
+    "tmdb_id": 1656220,
+    "portada": "https://image.tmdb.org/t/p/original/AnNQDqCXcdJrWknQtbBIlvMDboE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/q5L3aXchoCgwbZbwWl5FjhGmuYs.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38948&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
