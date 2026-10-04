@@ -17,8 +17,8 @@
     "dni": "",
     "nombreCompleto": "Diana",
     "fechaExpiracion": "2026-10-28",
-    "plan": "estandar",
-    "debePagar": "$2.500",
+    "plan": "basico",
+    "debePagar": "$3.000",
     "descripcion": ""
   },
   {
