@@ -11,7 +11,7 @@
     "id": 2,
     "nombre": "Neo Net Music",
     "genero": "Musica",
-    "plan": "estandar",
+    "plan": "basico",
     "logo": "https://cdn.m3u.cl/logo/1558_Neo_Net_Music.png",
     "embed": "https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?PlaylistM3UCL"
   }
