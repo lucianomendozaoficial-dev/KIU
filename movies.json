@@ -7606,5 +7606,29 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 300,
+    "nombre": "Doblemente feliz",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "El novio Tim debe organizar al mismo tiempo dos bodas perfectas en el mismo hotel de cinco estrellas para sus padres divorciados y distanciados, sin ser descubierto.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-10-04T01:33:26.751Z",
+    "tmdb_id": 1536559,
+    "portada": "https://image.tmdb.org/t/p/original/dCUWFwtE4cpcjncxImeXT7Bh9Yx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5wvi1AfmGubxjftZgVsNVmJ6tHU.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38765&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
