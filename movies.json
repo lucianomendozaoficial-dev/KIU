@@ -7630,5 +7630,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 301,
+    "nombre": "Sobre tu cadáver",
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Suspenso"
+    ],
+    "descripcion": "Una pareja con problemas se dirige a una cabaña remota supuestamente para reconectar, pero cada uno tiene planes secretos para matar al otro.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-10-04T01:35:52.125Z",
+    "tmdb_id": 1390300,
+    "portada": "https://image.tmdb.org/t/p/original/yf7PDJZmBWEztHSgkGEdJc0Ptdk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38728&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
