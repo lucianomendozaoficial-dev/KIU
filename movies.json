@@ -7066,5 +7066,32 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 279,
+    "nombre": "Space Buddies",
+    "generos": [
+      "Comedia",
+      "Aventura",
+      "Familia",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "",
+    "año": 2009,
+    "duracion": "",
+    "rating": 5.8,
+    "rating_updated": "2026-10-04T01:02:58.897Z",
+    "tmdb_id": 14749,
+    "portada": "https://image.tmdb.org/t/p/original/8C0u4EuisSRBa3Htr9kWUStkDnW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uRid6IoOpSklL6HYwx8IIrWANnH.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38956&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
