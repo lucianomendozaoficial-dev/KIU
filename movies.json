@@ -7118,5 +7118,32 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 281,
+    "nombre": "Santa Paws 2: los cachorros de Santa",
+    "generos": [
+      "Familia",
+      "Fantasía",
+      "Aventura"
+    ],
+    "descripcion": "Cuando los cachorritos de Santa empiezan a cumplir deseos felices a los niños de Pineville, algo sale mal: el espíritu de la Navidad empieza a desaparecer.",
+    "año": 2012,
+    "duracion": "",
+    "rating": 6.1,
+    "rating_updated": "2026-10-04T01:04:58.671Z",
+    "tmdb_id": 142308,
+    "portada": "https://image.tmdb.org/t/p/original/kJ19GpaefKxjMv3xIkfv2LFu1cD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lHBMMXazNtFFl3tYVefg0u7vaK.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38954&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney",
+      "Navidad"
+    ],
+    "plan": "basico"
   }
 ]
