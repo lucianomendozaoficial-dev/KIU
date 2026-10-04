@@ -6989,5 +6989,30 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 276,
+    "nombre": "Nunca debimos entrar",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Cinco amigos exploran el sistema de cuevas tailandés de la Boca del diablo para tener una última aventura antes de comenzar su vida en el mundo adulto. Sin embargo, pronto descubren que algo los acecha bajo el agua... rápido, silencioso y mortal. En la sofocante oscuridad, la confianza se erosiona, el pánico se extiende y cada giro se transforma en una lucha por la supervivencia.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-10-04T00:58:41.696Z",
+    "tmdb_id": 1481343,
+    "portada": "https://image.tmdb.org/t/p/original/f4UDphdrM9qwvI6VPKoqTeJd9Yz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pLyaH6k69OJHnONSmN3R7Peh6HE.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39041&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
