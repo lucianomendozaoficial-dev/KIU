@@ -7866,5 +7866,33 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 310,
+    "nombre": "Scream 7",
+    "generos": [
+      "Terror",
+      "Misterio",
+      "Crimen"
+    ],
+    "descripcion": "La tranquila y rehecha vida Sidney Prescott se cae a pedazos cuando Ghostface llega al pueblo. Sin embargo, sus peores temores se hacen realidad cuando su hija Tatum se convierte en la próxima víctima.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.2,
+    "rating_updated": "2026-10-04T01:48:41.633Z",
+    "tmdb_id": 1159559,
+    "portada": "https://image.tmdb.org/t/p/original/iUdLnidOSYJMals9AmOgCa0Qz6K.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38673&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Paramount",
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
