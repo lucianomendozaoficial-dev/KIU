@@ -28,8 +28,8 @@
     "dni": "",
     "nombreCompleto": "Elias Seville",
     "fechaExpiracion": "2026-10-30",
-    "plan": "estandar",
-    "debePagar": "$5.800",
+    "plan": "basico",
+    "debePagar": "$3.000",
     "descripcion": ""
   }
 ]
