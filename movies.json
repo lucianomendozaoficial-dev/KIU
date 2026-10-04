@@ -7350,5 +7350,30 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 290,
+    "nombre": "Heartstopper Forever",
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "descripcion": "El grupo de Truham y Higgs regresa a clases. La relación de Nick y Charlie se profundiza, pero sus pensamientos giran en torno a qué les depara el futuro al finalizar la escuela.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-10-04T01:12:36.251Z",
+    "tmdb_id": 1468683,
+    "portada": "https://image.tmdb.org/t/p/original/4rsI2lhFLBXPtVScJ3rBKHwIt5b.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38944&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
