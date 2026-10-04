@@ -6937,5 +6937,33 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 274,
+    "nombre": "La heroína del moño",
+    "generos": [
+      "Animación",
+      "Fantasía",
+      "Drama",
+      "Acción"
+    ],
+    "descripcion": "Cuando el Nergal destruye su reino, la princesa Sapphire despierta sus poderes como la heroína del moño y lucha para evitar que su nuevo hogar sufra el mismo destino.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-10-04T00:56:00.958Z",
+    "tmdb_id": 1679730,
+    "portada": "https://image.tmdb.org/t/p/original/s1O0nlq5JqwLbbCXpNEFzT2sxQh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39082&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix",
+      "Anime"
+    ],
+    "plan": "basico"
   }
 ]
