@@ -6673,5 +6673,32 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 264,
+    "nombre": "Una mirada extendida a Grand Theft Auto VI",
+    "generos": [
+      "Animación",
+      "Acción",
+      "Aventura",
+      "Crimen"
+    ],
+    "descripcion": "Descubre la nueva evolución de la revolucionaria saga de Grand Theft Auto.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8.8,
+    "rating_updated": "2026-10-04T00:22:29.327Z",
+    "tmdb_id": 1744462,
+    "portada": "https://image.tmdb.org/t/p/original/923Rlahei29QkKDFSKXoGAu6Uj7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/po0uFYwWNByHQzHLCVJ6FetkN4M.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39189&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
