@@ -6806,5 +6806,32 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 269,
+    "nombre": "El final de la Calle Oak",
+    "generos": [
+      "Ciencia Ficción",
+      "Misterio",
+      "Suspenso"
+    ],
+    "descripcion": "Tras un misterioso suceso cósmico que arranca Oak Street de sus suburbios y transporta su vecindario a un lugar desconocido, la familia Platt pronto se adaptarán a un entorno ahora irreconocible.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-04T00:30:17.473Z",
+    "tmdb_id": 1101383,
+    "portada": "https://image.tmdb.org/t/p/original/jPBfFTwmgco94oS9ikdt9tqHsxm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39162&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Apple",
+      "Hbo"
+    ],
+    "plan": "basico"
   }
 ]
