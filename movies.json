@@ -7840,5 +7840,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 309,
+    "nombre": "Los otros",
+    "generos": [
+      "Terror",
+      "Misterio",
+      "Suspenso"
+    ],
+    "descripcion": "Grace es una mujer religiosa que vive en una vieja casa mantenida oscura porque sus dos hijos, Anne y Nicholas, tienen una rara sensibilidad a la luz. Cuando la familia comienza a sospechar que la casa está embrujada, Grace lucha para proteger a sus hijos a cualquier costo ante los extraños acontecimientos y las visiones inquietantes.",
+    "año": 2001,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-10-04T01:47:01.054Z",
+    "tmdb_id": 1933,
+    "portada": "https://image.tmdb.org/t/p/original/u03kblxsv3zar3Uqt6sRfICU9L6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rbBe9WQ1OqCxzgwskOTnaY6JdUA.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38675&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
