@@ -31,5 +31,16 @@
     "plan": "basico",
     "debePagar": "$3.000",
     "descripcion": ""
+  },
+  {
+    "id": 4,
+    "nombre": "marisa@tuty.com",
+    "password": "2026",
+    "dni": "",
+    "nombreCompleto": "Marisa Sosa",
+    "fechaExpiracion": "2026-10-06",
+    "plan": "basico",
+    "debePagar": "$3.000",
+    "descripcion": "Prueba de 24hs"
   }
 ]
