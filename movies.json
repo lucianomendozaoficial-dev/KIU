@@ -7997,5 +7997,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 315,
+    "nombre": "Soulm8te",
+    "generos": [
+      "Terror",
+      "Ciencia Ficción",
+      "Suspenso"
+    ],
+    "descripcion": "Un hombre adquiere un androide con Inteligencia Artificial para hacer frente a la pérdida de su esposa recientemente fallecida. En un intento por crear una pareja verdaderamente sensible, sin darse cuenta convierte a un inofensivo robot del amor en un alma gemela mortal.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.5,
+    "rating_updated": "2026-10-05T01:41:59.425Z",
+    "tmdb_id": 1307118,
+    "portada": "https://image.tmdb.org/t/p/original/xeBFjbLFp3vvv49yD2q1Gg64zyb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39521&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
