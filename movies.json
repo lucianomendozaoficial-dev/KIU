@@ -8050,5 +8050,28 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 318,
+    "nombre": "La noche del demonio: Están entre nosotros",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Un trío de acosadores se infiltra en un tranquilo suburbio y obliga a una nueva familia a entrar en el plano astral, donde descubren una verdad aterradora: el Más Allá se está filtrando al mundo real.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-10-05T23:06:50.587Z",
+    "tmdb_id": 1291595,
+    "portada": "https://image.tmdb.org/t/p/original/icc5Tjg14CZH94b0CDBQ2PP8YjH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/w2xDGa1252imRPgCbiY48AbkRBn.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39532&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
   }
 ]
