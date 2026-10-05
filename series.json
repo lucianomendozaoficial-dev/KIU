@@ -449,7 +449,9 @@
     "idioma": "Español (Latino)",
     "edad": "+13",
     "camara": false,
-    "especiales": [],
+    "especiales": [
+      "Netflix"
+    ],
     "plan": "basico",
     "temporadas": [
       {
