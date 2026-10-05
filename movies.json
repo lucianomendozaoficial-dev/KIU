@@ -8023,5 +8023,29 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 316,
+    "nombre": "La casa en el árbol",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "",
+    "año": 2025,
+    "duracion": "",
+    "rating": 3.6,
+    "rating_updated": "2026-10-05T01:44:10.925Z",
+    "tmdb_id": 1450404,
+    "portada": "https://image.tmdb.org/t/p/original/gogohugn7XWmDoaUewGh0H7ipG9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3ORuox9SGz3MmxJ49drUQvE2EUv.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39525&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
