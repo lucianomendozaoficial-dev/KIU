@@ -429,5 +429,42 @@
         ]
       }
     ]
+  },
+  {
+    "id": 11,
+    "nombre": "#Amor",
+    "generos": [
+      "Drama",
+      "Comedia"
+    ],
+    "descripcion": "La fundadora de una aplicación de citas y su aventurado competidor ponen a prueba sus teorías opuestas sobre el amor con un reto de 60 días para encontrar a la pareja ideal.",
+    "año": 2026,
+    "duracion": "N/A",
+    "rating": 10,
+    "rating_updated": "2026-10-05T01:46:58.612Z",
+    "tmdb_id": 302882,
+    "portada": "https://image.tmdb.org/t/p/original/cyJKP6Fsg8ds4O4g1Q1SCOKJQdn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xrm5XNKMuAnvnG9sokNYlaAng2G.jpg",
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://reypelis.net/?trembed=0&trid=181390&trtype=2"
+          },
+          {
+            "nombre": "C2",
+            "embed": "https://reypelis.net/?trembed=0&trid=181391&trtype=2"
+          }
+        ]
+      }
+    ]
   }
 ]
