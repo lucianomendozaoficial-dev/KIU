@@ -8047,5 +8047,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 317,
+    "nombre": "El Drama",
+    "generos": [
+      "Romance",
+      "Comedia",
+      "Drama"
+    ],
+    "descripcion": "Cuenta la historia de una pareja cuyo romance cambia radicalmente antes de su gran día.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-05T01:59:48.384Z",
+    "tmdb_id": 1325734,
+    "portada": "https://image.tmdb.org/t/p/original/oEdNEIO7641g6ZXJEe6zhQC4Jsj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38655&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
