@@ -8483,5 +8483,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 335,
+    "nombre": "Caminos del crimen",
+    "generos": [
+      "Crimen",
+      "Suspenso"
+    ],
+    "descripcion": "Un escurridizo ladrón ve la oportunidad de hacer el golpe de su vida con la esperanza de que sea su último trabajo. En su camino se cruza con una desilusionada corredora de seguros y también un implacable detective se acerca a la operación, lo que aumenta aún más lo que está en juego . A medida que se acerca el robo multimillonario, la línea entre cazador y presa comienza a difuminarse, y los tres se ven obligados a afrontar el coste de sus decisiones y darse cuenta de que no hay vuelta atrás.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-06T02:04:48.022Z",
+    "tmdb_id": 1171145,
+    "portada": "https://image.tmdb.org/t/p/original/2EI8HmeQgbryWw5clWYc4vYj1tU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38468&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
