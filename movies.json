@@ -8098,5 +8098,30 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 320,
+    "nombre": "Jack Ryan de Tom Clancy: Guerra fantasma",
+    "generos": [
+      "Acción",
+      "Suspenso"
+    ],
+    "descripcion": "En esta nueva película, Jack Ryan vuelve a regañadientes al espionaje cuando una misión encubierta internacional destapa una conspiración mortal. En una carrera contra el tiempo, se une a sus aliados de la CIA Mike November y James Greer y a la astuta oficial del MI6 Emma Marlowe para enfrentarse a una unidad renegada de operaciones encubiertas en una pelea muy personal y con mucho en juego.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-06T01:41:01.869Z",
+    "tmdb_id": 1380291,
+    "portada": "https://image.tmdb.org/t/p/original/r7qAQ7bhhD3phlU3dJ7bGJA1xCr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38661&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
