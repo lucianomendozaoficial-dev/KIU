@@ -8173,5 +8173,30 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 323,
+    "nombre": "Una loca película de vampiros",
+    "generos": [
+      "Comedia",
+      "Fantasía"
+    ],
+    "descripcion": "'Vampires Suck' es una comedia sobre la ansiedad adolescente. Becca es una adolescente no vampiro que se debate entre dos chicos. Antes de que pueda elegir, Becca debe sortear a su padre, quien avergüenza a su hija por tratarla como si fuera una niña. Mientras tanto, los amigos de Becca deberán lidiar con sus propios problemas amorosos, chocando todos ellos en el baile de graduación. Parodia de la creciente moda de las películas vampíricas, tomando \"Crepúsculo\" como eje.",
+    "año": 2010,
+    "duracion": "",
+    "rating": 4.4,
+    "rating_updated": "2026-10-06T01:45:47.918Z",
+    "tmdb_id": 40264,
+    "portada": "https://image.tmdb.org/t/p/original/p5Z472f15cwmRXYtGRnofT5F2Fv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uACr2UntrZNqlFpQYFlqbVAb1eW.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38645&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
