@@ -8198,5 +8198,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 324,
+    "nombre": "Proyecto Fin del Mundo",
+    "generos": [
+      "Ciencia Ficción",
+      "Aventura"
+    ],
+    "descripcion": "El profesor de ciencias Ryland Grace despierta en una nave espacial a años luz de su hogar sin recordar quién es ni cómo llegó allí. A medida que recupera la memoria, comienza a descubrir su misión: resolver el enigma de la misteriosa sustancia que está causando la extinción del sol.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8.6,
+    "rating_updated": "2026-10-06T01:47:30.472Z",
+    "tmdb_id": 687163,
+    "portada": "https://image.tmdb.org/t/p/original/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38604&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
