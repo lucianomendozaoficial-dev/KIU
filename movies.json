@@ -8432,5 +8432,30 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 333,
+    "nombre": "El sonido de la muerte",
+    "generos": [
+      "Terror",
+      "Misterio"
+    ],
+    "descripcion": "Un grupo de estudiantes inadaptados encuentra por accidente un objeto maldito: un antiguo silbato de la muerte azteca. Al soplarlo, descubren que el terrorífico sonido que produce invoca a sus propias muertes futuras para perseguirlos. Mientras las víctimas aumentan, los amigos intentan descubrir el origen del artefacto y detener la terrible cadena de sucesos que han provocado.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-10-06T02:01:53.687Z",
+    "tmdb_id": 1193501,
+    "portada": "https://image.tmdb.org/t/p/original/5H6F0xICMYHkRp9RzZZdXeLXpRq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/finq0JnC6tIMkKczzyxLJjgWFfT.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38487&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
