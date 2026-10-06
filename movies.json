@@ -8123,5 +8123,30 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 321,
+    "nombre": "Las damas primero",
+    "generos": [
+      "Comedia",
+      "Fantasía"
+    ],
+    "descripcion": "Un arrogante y carismático seductor disfruta de una vida de lujo, poder y amoríos casuales, pero todo cambia cuando despierta en un mundo paralelo dominado por mujeres.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 5.9,
+    "rating_updated": "2026-10-06T01:43:18.162Z",
+    "tmdb_id": 1368881,
+    "portada": "https://image.tmdb.org/t/p/original/DP6nB3O96NToxLAR3V26DErgCX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/z1hekwU7a7FUP6XvqDwJjxAbrXJ.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38648&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
