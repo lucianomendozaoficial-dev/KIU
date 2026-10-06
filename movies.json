@@ -8457,5 +8457,31 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 334,
+    "nombre": "Bolas arriba",
+    "generos": [
+      "Comedia",
+      "Acción",
+      "Aventura"
+    ],
+    "descripcion": "Dos ejecutivos de marketing estadounidenses son despedidos por desaprovechar una oportunidad de patrocinio con un cliente y deciden usar sus entradas gratis para un importante partido de fútbol. Su desenfreno bajo los efectos del alcohol los convierte en perseguidos por todo el país.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 5.8,
+    "rating_updated": "2026-10-06T02:03:25.975Z",
+    "tmdb_id": 1084577,
+    "portada": "https://image.tmdb.org/t/p/original/uVybc3pLqHSoMC73kElu93oJBRQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qE0FswzjACs2kvAycYVS2zcmgec.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38469&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
