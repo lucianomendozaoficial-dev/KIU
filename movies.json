@@ -8073,5 +8073,30 @@
     "camara": false,
     "especiales": [],
     "plan": "basico"
+  },
+  {
+    "id": 319,
+    "nombre": "La casaca de Dios",
+    "generos": [
+      "Comedia",
+      "Drama"
+    ],
+    "descripcion": "En México 1986, una camiseta azul quedó en la historia cuando Maradona marcó ante Inglaterra dos goles inolvidables. Décadas después, al saber que será subastada, Tití Malvestiti, un humilde utilero que estuvo junto a la selección argentina en México 86 y quedó marcado por la pérdida, emprende un último viaje para enfrentar su pasado y reconstruir la relación con su hija.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.1,
+    "rating_updated": "2026-10-06T01:38:43.286Z",
+    "tmdb_id": 1487604,
+    "portada": "https://image.tmdb.org/t/p/original/jzhMm3R8slLP806k0xx4izuGENW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ewUVE6exfcs1dqC6PGWApTV3oVl.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38662&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
