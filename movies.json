@@ -8637,5 +8637,29 @@
       "Paramount"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 341,
+    "nombre": "El último gigante",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "Cuando un guía turístico se reencuentra con su padre ausente, los dos deberán abrir viejas heridas y enfrentar una decisión imposible que definirá el futuro de ambos.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-06T02:16:43.649Z",
+    "tmdb_id": 1487320,
+    "portada": "https://image.tmdb.org/t/p/original/B1T4YXBS4B5TR2fVFOomCKXRuc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2VMkpRFGCupBmAJlZiDzlAjxYL1.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38385&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
