@@ -8224,5 +8224,31 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 325,
+    "nombre": "Toy Story 2",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "Cuando Woody es robado por un coleccionista de juguetes, Buzz y sus amigos emprenden una misión de rescate para salvar a Woody antes de que se convierta en una propiedad de un museo de juguetes con su pandilla de redadas Jessie, el oloroso Pete y Tiro al blanco.",
+    "año": 1999,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-10-06T01:48:37.748Z",
+    "tmdb_id": 863,
+    "portada": "https://image.tmdb.org/t/p/original/ig04sol7lYflNuEsoAjKGjf5hIL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
+    "embed": "https://reypelis.net/?trembed=1&trid=38596&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
