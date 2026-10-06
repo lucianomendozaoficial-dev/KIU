@@ -8560,5 +8560,29 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 338,
+    "nombre": "Compañeras de cuarto",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Devon, una tímida universitaria, le pide a Celeste, la chica popular, que sea su compañera de cuarto, sin imaginar que su amistad se convertirá en una guerra pasivo-agresiva.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-10-06T02:09:56.126Z",
+    "tmdb_id": 1511057,
+    "portada": "https://image.tmdb.org/t/p/original/hHOBxFzUK2CHmQ5djuOneyHkptS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uYVxuLVZsxnJfXK03YgZSzqiWiQ.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38455&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
