@@ -8276,5 +8276,32 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 327,
+    "nombre": "Intercambiados",
+    "generos": [
+      "Aventura",
+      "Animación",
+      "Familia",
+      "Fantasía"
+    ],
+    "descripcion": "Una pequeña criatura del bosque y un ave majestuosa intercambian cuerpos. Ahora, deben aliarse para sobrevivir a la aventura más salvaje de sus vidas.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8.9,
+    "rating_updated": "2026-10-06T01:50:48.702Z",
+    "tmdb_id": 1007757,
+    "portada": "https://image.tmdb.org/t/p/original/cFMqLI43ybVFyarJTnfV9YO9KUC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38571&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
