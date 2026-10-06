@@ -8250,5 +8250,31 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 326,
+    "nombre": "La posesión de la momia",
+    "generos": [
+      "Terror",
+      "Misterio"
+    ],
+    "descripcion": "La joven hija de un periodista desaparece en el desierto sin dejar rastro. Ocho años después, la familia rota se sorprende cuando ella regresa con ellos, mientras lo que debería ser una reunión alegre se convierte en una pesadilla viviente.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-10-06T01:49:42.473Z",
+    "tmdb_id": 1304313,
+    "portada": "https://image.tmdb.org/t/p/original/5RhY8eHWzvjw32449pHdUkOeDCN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38589&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Hbo",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
