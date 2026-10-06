@@ -8661,5 +8661,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 342,
+    "nombre": "Sobran las palabras",
+    "generos": [
+      "Música",
+      "Drama",
+      "Comedia"
+    ],
+    "descripcion": "Una chica, la única oyente de una familia sorda, descubre su don para cantar, pero enfrenta un dilema: cumplir con su deber o seguir su propio camino.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-06T02:17:54.265Z",
+    "tmdb_id": 1620551,
+    "portada": "https://image.tmdb.org/t/p/original/cBlmBP31u9BTjQNQ0UR1uNZf8ff.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/Ary1sG0AHn4V1DFrwV7g72Fomq0.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38370&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
