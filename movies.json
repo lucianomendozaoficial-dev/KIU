@@ -8610,5 +8610,32 @@
       "Hbo"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 340,
+    "nombre": "Avatar: Aang, El último Maestro Aire",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Fantasía",
+      "Acción"
+    ],
+    "descripcion": "Avatar Aang, el último Maestro Aire del mundo, se entera de un antiguo poder que podría salvar a su cultura de la extinción. Con la ayuda de sus amigos, se embarca en una búsqueda global para encontrarlo antes de que caiga en las manos equivocadas y amenace con deshacer la paz por la que lo sacrificaron todo.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 9.1,
+    "rating_updated": "2026-10-06T02:12:57.580Z",
+    "tmdb_id": 980431,
+    "portada": "https://image.tmdb.org/t/p/original/iMsORWhD8MawINagL6kvpDVAtS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38432&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+7",
+    "camara": false,
+    "especiales": [
+      "Paramount"
+    ],
+    "plan": "basico"
   }
 ]
