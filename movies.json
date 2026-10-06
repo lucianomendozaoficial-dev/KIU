@@ -8148,5 +8148,30 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 322,
+    "nombre": "Duro de casar",
+    "generos": [
+      "Acción",
+      "Comedia"
+    ],
+    "descripcion": "Cuando un grupo de mercenarios toma como rehén a los invitados de una lujosa boda, no tienen idea de lo que les espera, ya que la Dama de Honor es en realidad una agente secreta lista para hacer llover fuego del infierno sobre cualquiera que arruine la boda de su mejor amiga.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 5.5,
+    "rating_updated": "2026-10-06T01:44:35.068Z",
+    "tmdb_id": 1124619,
+    "portada": "https://image.tmdb.org/t/p/original/2pm4WcCbknqtuQpoXuLn8QA7TbU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2DcD4Hh80SW7YVpwckkiEFRZX06.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38647&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
