@@ -8381,5 +8381,31 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 331,
+    "nombre": "Instinto implacable",
+    "generos": [
+      "Acción",
+      "Suspenso"
+    ],
+    "descripcion": "La vida pacífica de Nikki, ex heroína de guerra, se ve destrozada cuando su hija es secuestrada por una red siniestra de tráfico sexual. Inmersa en el submundo criminal, mientras es perseguida por la policía y el ejército, ella debe luchar por cualquier medio posible para rescatar a su hija.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8.4,
+    "rating_updated": "2026-10-06T01:58:27.628Z",
+    "tmdb_id": 1383731,
+    "portada": "https://image.tmdb.org/t/p/original/9upArxjNadtS4pCmooHGDI35ZNQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vpuPY4UziUCxv7gYYoaZQ3LX7to.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38490&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Apple",
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
