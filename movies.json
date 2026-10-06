@@ -8584,5 +8584,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 339,
+    "nombre": "Exterminio: El templo de huesos",
+    "generos": [
+      "Terror",
+      "Suspenso",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "El Dr. Kelson se encuentra en una nueva relación impactante, con consecuencias que podrían cambiar el mundo tal como lo conocen, y el encuentro de Spike con Jimmy Crystal se convierte en una pesadilla de la que no puede escapar.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-10-06T02:11:22.742Z",
+    "tmdb_id": 1272837,
+    "portada": "https://image.tmdb.org/t/p/original/6yUxfwcDYR0RRfbxwGA7rhwreWU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38440&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
   }
 ]
