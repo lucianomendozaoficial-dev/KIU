@@ -8303,5 +8303,32 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 328,
+    "nombre": "The Punisher: La última muerte",
+    "generos": [
+      "Acción",
+      "Drama",
+      "Crimen"
+    ],
+    "descripcion": "Mientras Frank Castle busca propósito más allá de la venganza, una fuerza inesperada lo arrastra de nuevo a la lucha.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8.3,
+    "rating_updated": "2026-10-06T01:53:09.147Z",
+    "tmdb_id": 1439930,
+    "portada": "https://image.tmdb.org/t/p/original/ehzOlaPVTyHnGNhcvfzgXPFNY31.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38570&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
