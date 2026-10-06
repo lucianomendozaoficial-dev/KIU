@@ -8407,5 +8407,30 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 332,
+    "nombre": "Ápex",
+    "generos": [
+      "Acción",
+      "Suspenso"
+    ],
+    "descripcion": "Una mujer en duelo que busca poner a prueba sus límites en la naturaleza australiana queda atrapada en un retorcido juego mortal con un asesino que la considera su presa.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-06T01:59:54.880Z",
+    "tmdb_id": 1318447,
+    "portada": "https://image.tmdb.org/t/p/original/e4P0lkcHgsBJgWSvLV3ezGZYDUU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38488&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
