@@ -8509,5 +8509,31 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 336,
+    "nombre": "¿Quieres ser mi novia?",
+    "generos": [
+      "Comedia",
+      "Romance"
+    ],
+    "descripcion": "La relación de Javi y Lu enfrenta pruebas cuando surgen tentaciones: una joven con quien Javi tiene química, y un hombre maduro que persigue a Lu. Entre humor y enredos, su amor es puesto a prueba",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8.6,
+    "rating_updated": "2026-10-06T02:05:47.443Z",
+    "tmdb_id": 1601797,
+    "portada": "https://image.tmdb.org/t/p/original/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1ZruuRXztqC3QQybbgbVxVrdNjv.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38467&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Vix"
+    ],
+    "plan": "basico"
   }
 ]
