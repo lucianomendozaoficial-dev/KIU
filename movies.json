@@ -9233,5 +9233,32 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 365,
+    "nombre": "Şımarık",
+    "generos": [
+      "Comedia",
+      "Romance",
+      "Acción"
+    ],
+    "descripcion": "Esta es la historia de Mete, el hijo mimado de un rico hombre de negocios cuyo padre le hace creer que se ha reencarnado en un sirviente en una ciudad otomana del siglo XVI.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 5.6,
+    "rating_updated": "2026-10-07T23:37:35.804Z",
+    "tmdb_id": 1285660,
+    "portada": "https://image.tmdb.org/t/p/original/gt91UcViANbPWU8hztA7vP7BdIC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/f0vnkxDdPoBiM66WJVrwBshTT3y.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38075&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
