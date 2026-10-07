@@ -8815,5 +8815,33 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 348,
+    "nombre": "Sin piedad",
+    "generos": [
+      "Ciencia Ficción",
+      "Suspenso",
+      "Crimen",
+      "Misterio"
+    ],
+    "descripcion": "En un futuro cercano, un detective es juzgado por el asesinato de su esposa. Tiene noventa minutos para demostrar su inocencia ante el Juez de Inteligencia Artificial que una vez defendió, antes de que este determine su destino.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-10-07T01:04:31.736Z",
+    "tmdb_id": 1236153,
+    "portada": "https://image.tmdb.org/t/p/original/mgqAZeEI5hnAgeVZ0kAdYiPy1Rs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gIClklFGYBe0uiOoiP2vtocJbss.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38265&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
