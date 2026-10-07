@@ -9124,5 +9124,33 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 360,
+    "nombre": "La laguna azul: El despertar",
+    "generos": [
+      "Drama",
+      "Aventura",
+      "Romance",
+      "Película de tv"
+    ],
+    "descripcion": "Remake del film de 1980 \"La laguna azul\". Dos adolescentes acaban en una isla, después de un accidente durante un viaje escolar a Trinidad. Dean, un vago solitario en la escuela secundaria, y Emma, una estudiante perfecta, exploran y aprenden no sólo el uno del otro, sino que también aprenden sobre sí mismos.",
+    "año": 2012,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-10-07T02:20:21.376Z",
+    "tmdb_id": 115290,
+    "portada": "https://image.tmdb.org/t/p/original/9BMj0t392ow7MXWraPpW19kpk2X.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7VSh4KRB38gs4t4Dlub8GwXNUub.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38106&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
