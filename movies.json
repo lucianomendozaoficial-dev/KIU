@@ -8711,5 +8711,30 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 344,
+    "nombre": "Peaky Blinders: El hombre inmortal",
+    "generos": [
+      "Crimen",
+      "Drama"
+    ],
+    "descripcion": "Cuando su hijo se ve envuelto en una conspiración nazi, Tommy Shelby debe salir de su autoexilio y regresar a Birmingham para salvar a su familia y su país.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-10-07T00:52:06.603Z",
+    "tmdb_id": 875828,
+    "portada": "https://image.tmdb.org/t/p/original/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38386&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
