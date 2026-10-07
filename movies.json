@@ -8868,5 +8868,29 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 350,
+    "nombre": "La celda de los milagros",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "Tras ser acusado falsamente de un crimen terrible, Héctor, un hombre con discapacidad neurológica, va a una prisión secreta. Su bondad conquista a los presos, que planean probar su inocencia.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 8.1,
+    "rating_updated": "2026-10-07T01:08:58.298Z",
+    "tmdb_id": 1600028,
+    "portada": "https://image.tmdb.org/t/p/original/d9i9EZHpjwqAP9byTJDAuXgSdZP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fIuuYkIjF9Q7W26YbIeKX5OWwiL.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38224&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
