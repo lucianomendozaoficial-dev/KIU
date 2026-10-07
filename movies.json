@@ -9021,5 +9021,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 356,
+    "nombre": "Sugar & Spice",
+    "generos": [
+      "Crimen",
+      "Comedia",
+      "Drama"
+    ],
+    "descripcion": "",
+    "año": 2001,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-10-07T01:19:53.559Z",
+    "tmdb_id": 16723,
+    "portada": "https://image.tmdb.org/t/p/original/hW5W9AGM5hN7x8JNvnDAOBXh1p2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/r61qpgtIUEuRHGh3VdQpgcxN8zN.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38146&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
