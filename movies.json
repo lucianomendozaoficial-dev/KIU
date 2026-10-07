@@ -9047,5 +9047,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 357,
+    "nombre": "Susurros mortales 3",
+    "generos": [
+      "Terror",
+      "Acción",
+      "Suspenso"
+    ],
+    "descripcion": "Fuerzas malévolas y un espíritu vengativo atacan a una colegiala, y obligan a su hermano a adentrarse en un bosque retorcido para salvarla de una secta maldita.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-10-07T01:22:46.307Z",
+    "tmdb_id": 1410399,
+    "portada": "https://image.tmdb.org/t/p/original/65aZR6AjwLEQo0eXvxgcUhBfzlO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4r7onhOb1exn1d3wTWr6bx5JCsQ.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38145&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
