@@ -9125,5 +9125,32 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 361,
+    "nombre": "Spider-Man: Un nuevo día",
+    "generos": [
+      "Ciencia Ficción",
+      "Acción",
+      "Aventura"
+    ],
+    "descripcion": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8.2,
+    "rating_updated": "2026-10-07T02:24:41.542Z",
+    "tmdb_id": 969681,
+    "portada": "https://image.tmdb.org/t/p/original/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eSvYccJm5ejJXFtJTqM2dIqrhK7.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39020&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
