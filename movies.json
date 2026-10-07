@@ -8687,5 +8687,29 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 343,
+    "nombre": "Me vuelves loca",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Carolina tiene una vida perfecta: vive en una lujosa casa, trabaja en una revista de moda y está casada con un exitoso publicista. Un día todo se va a la basura: descubre que es estéril, el mismo día que su esposo la deja por su mejor amiga, quien, además, está embarazada de éste. Tras el impacto de estas noticias, Carolina tiene una crisis, bebe de mas, se tropieza y cae desde el segundo piso de su casa, hecho que es interpretado como un intento de suicidio. Carolina es internada contra su voluntad, en el exclusivo centro psiquiátrico Edén. En ese lugar ella conocerá a un grupo de “locos” que la ayudarán a sanar y a vislumbrar que su vida anterior no era tan perfecta. Así mismo descubre que quizá los mas locos, son los que están fuera del psiquiátrico.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 8.4,
+    "rating_updated": "2026-10-07T00:40:24.587Z",
+    "tmdb_id": 1175306,
+    "portada": "https://image.tmdb.org/t/p/original/pQeyfqLEDdY6x4P4Fl5r6jcstN4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jR12T1oZbLCsZJwp0SKVHqSgc8X.jpg",
+    "embed": "",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
