@@ -9178,5 +9178,33 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 363,
+    "nombre": "Equipo Demolición",
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Crimen",
+      "Misterio"
+    ],
+    "descripcion": "Un improbable dúo de hermanastros, uno un impulsivo detective y el otro un disciplinado, se ven atraídos por el asesinato de su padre en Hawai, lo que les lleva a un peligroso viaje para desenmascarar una conspiración de largo alcance.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-10-07T23:34:10.507Z",
+    "tmdb_id": 1168190,
+    "portada": "https://image.tmdb.org/t/p/original/pG39vgTEhHeYIlcPJtHpxNLdPPM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38105&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
