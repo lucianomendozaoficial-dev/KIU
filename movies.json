@@ -8945,5 +8945,29 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 353,
+    "nombre": "La masacre de Texas",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
+    "año": 1974,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-07T01:15:09.606Z",
+    "tmdb_id": 30497,
+    "portada": "https://image.tmdb.org/t/p/original/fOqMcW2TYN0WReTDpds93rkAYpR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38152&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
