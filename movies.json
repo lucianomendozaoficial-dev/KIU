@@ -9152,5 +9152,31 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 362,
+    "nombre": "Cuando el cielo se equivoca",
+    "generos": [
+      "Comedia",
+      "Fantasía"
+    ],
+    "descripcion": "Un ángel bien intencionado pero bastante inepto llamado Gabriel se entromete en las vidas de un trabajador independiente con dificultades y de un rico capitalista.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-07T23:31:40.914Z",
+    "tmdb_id": 1114967,
+    "portada": "https://image.tmdb.org/t/p/original/kDLQP1bbaFBTpOSM2fuPu3yBqxA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nkxtuK4alXlGC87FRNDfAZJIFiB.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=39538&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
