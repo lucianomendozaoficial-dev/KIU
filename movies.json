@@ -9099,5 +9099,30 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 359,
+    "nombre": "Sigue mi voz",
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "descripcion": "Trata sobre Klara, una joven que, tras una crisis de salud mental, se encierra en casa y encuentra consuelo escuchando el programa de radio nocturno \"Sigue mi voz\", presentado por el misterioso Kang, de quien se enamora platónicamente por su voz; la trama se centra en su lucha por superar sus miedos, sanar y encontrar el coraje para enfrentar el mundo, especialmente cuando descubre que Kang podría ser uno de sus nuevos compañeros en el instituto, explorando temas como el amor propio, la autoestima y la salud mental.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-07T02:18:00.828Z",
+    "tmdb_id": 1144443,
+    "portada": "https://image.tmdb.org/t/p/original/saNidIuqNyFSkCoW60cybQg3tL3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vcrwsAYYYmVLX0c7iFqlV1pZRdT.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38143&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
