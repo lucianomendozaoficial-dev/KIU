@@ -8788,5 +8788,32 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 347,
+    "nombre": "Rambo: Last Blood",
+    "generos": [
+      "Acción",
+      "Suspenso",
+      "Drama"
+    ],
+    "descripcion": "Después de luchar contra sus demonios durante décadas, John Rambo vive ahora en paz en su rancho familiar en Arizona, pero su descanso se ve interrumpido cuando Gabriela, la nieta de su ama de llaves María, desaparece después de cruzar la frontera con México con el propósito de conocer a su padre biológico. Rambo, que con los años se ha convertido para Gabriela en una verdadera figura paterna, emprende un desesperado y peligroso viaje para encontrarla.",
+    "año": 2019,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-10-07T01:00:47.911Z",
+    "tmdb_id": 522938,
+    "portada": "https://image.tmdb.org/t/p/original/8U26HBfh6h3bS377U5vfMJjCSgp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38294&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
