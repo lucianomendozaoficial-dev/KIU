@@ -9073,5 +9073,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 358,
+    "nombre": "Patriotismo",
+    "generos": [
+      "Acción",
+      "Crimen",
+      "Suspenso"
+    ],
+    "descripcion": "A principios de los 2000, un operativo encubierto se infiltra en el submundo de Karachi para desmantelar una violenta red criminal.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-07T01:24:25.356Z",
+    "tmdb_id": 1291608,
+    "portada": "https://image.tmdb.org/t/p/original/kOLkpkS2T4HAdA6J7uq4eipNTup.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/snYOXem8pUGOffnLbbGq4aB1pg4.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38144&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
