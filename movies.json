@@ -8892,5 +8892,30 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 351,
+    "nombre": "Dìdi (弟弟)",
+    "generos": [
+      "Comedia",
+      "Drama"
+    ],
+    "descripcion": "Un niño taiwanés-estadounidense de 13 años descubre el patinaje, el flirteo y la verdadera esencia del amor maternal más allá de las enseñanzas de su familia.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-10-07T01:09:55.096Z",
+    "tmdb_id": 1158915,
+    "portada": "https://image.tmdb.org/t/p/original/jC5mlMIi3eA2lpKtiw4Hz0179q7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jD1oLRnLSKiLhutjiZ6OzgCgBsr.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38183&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
