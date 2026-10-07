@@ -8969,5 +8969,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 354,
+    "nombre": "Me has robado el corazón",
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Romance"
+    ],
+    "descripcion": "Eric, un joven ingeniero, tras conocer a Vera en una app de citas, la engaña para que sea su conductora. Huyen hacia Galicia, después de robar un banco en Madrid, mientras la policía les persigue.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-07T01:16:18.857Z",
+    "tmdb_id": 1544991,
+    "portada": "https://image.tmdb.org/t/p/original/4ngFzT8Mrlj3Aw0hZa3PI8La47n.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oBaCA8TDnBTyXkXcY5v13wovi5Z.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38228&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Castellano",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
