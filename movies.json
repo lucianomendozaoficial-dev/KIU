@@ -9260,5 +9260,31 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 366,
+    "nombre": "Thi Yot 2 - Susurros Mortales 2",
+    "generos": [
+      "Terror",
+      "Suspenso",
+      "Acción"
+    ],
+    "descripcion": "En un mundo envuelto por la oscuridad, una fuerza implacable busca venganza, sin dejarse intimidar por ningún límite conocido.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-07T23:39:14.924Z",
+    "tmdb_id": 1247019,
+    "portada": "https://image.tmdb.org/t/p/original/qhf5wLyWLRtDV2P9MKgzYrO6xYb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38067&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
