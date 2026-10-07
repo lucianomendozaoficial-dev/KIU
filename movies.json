@@ -8736,5 +8736,32 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 345,
+    "nombre": "“Cumbres Borrascosas”",
+    "generos": [
+      "Romance",
+      "Drama",
+      "Historia"
+    ],
+    "descripcion": "La tragedia golpea cuando Heathcliff se enamora de Catherine Earnshaw, una mujer de una familia adinerada de la Inglaterra del siglo XVIII",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-07T00:56:13.310Z",
+    "tmdb_id": 1316092,
+    "portada": "https://image.tmdb.org/t/p/original/kCb3QJNLi0alrk7i5aCphkkuoFl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nHKscpZcAPkh97OsJJjyE5yaVE0.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38354&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Hbo",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
