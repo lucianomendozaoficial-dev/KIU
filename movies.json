@@ -8843,5 +8843,30 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 349,
+    "nombre": "El mono",
+    "generos": [
+      "Terror",
+      "Comedia"
+    ],
+    "descripcion": "Cuando los gemelos Hal y Bill descubren el antiguo mono de juguete de su padre en el ático, una serie de truculentas muertes comienzan a ocurrir a su alrededor. Los hermanos deciden tirar el mono y continuar con sus vidas, distanciándose con el paso de los años. Pero cuando las misteriosas muertes vuelven a sucederse, los hermanos deberán reunirse para destruir el mono antes de que acabe con las vidas de todos a su alrededor.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6,
+    "rating_updated": "2026-10-07T01:06:06.328Z",
+    "tmdb_id": 1124620,
+    "portada": "https://image.tmdb.org/t/p/original/aPAzmD8YAErjz5GzQ1tgkTlv28S.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cjZ7No0DX2L3ielLSoUOMYPw7C.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38229&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
