@@ -8995,5 +8995,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 355,
+    "nombre": "Psychokinesis",
+    "generos": [
+      "Fantasía",
+      "Acción",
+      "Comedia"
+    ],
+    "descripcion": "Con sus recién adquiridos poderes sobrehumanos, un padre se dispone a ayudar a su hija, quien está a punto de perder todo lo que le da sentido a su vida.",
+    "año": 2018,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-10-07T01:18:43.123Z",
+    "tmdb_id": 452015,
+    "portada": "https://image.tmdb.org/t/p/original/5LRL9cvVQl0Mne8CZslb5VNwY6v.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/53rHETjQOfCSajPki5HGfd3FQtG.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38148&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
