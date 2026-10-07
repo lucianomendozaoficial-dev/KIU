@@ -9286,5 +9286,30 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 367,
+    "nombre": "Thi Yot - Susurros Mortales",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Cuando un espíritu sediento de sangre posee a una niña en una aldea remota, su hermano mayor lidera la lucha para exorcizarla... antes de que el mal la consuma por completo.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-10-07T23:40:10.724Z",
+    "tmdb_id": 1134433,
+    "portada": "https://image.tmdb.org/t/p/original/mpt4btkF7YzSM9kldSdBvnAFHCB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/55hRgXkbvHoc9dL58S9HAGyxmZt.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38066&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
