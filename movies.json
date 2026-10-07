@@ -5967,33 +5967,6 @@
     "plan": "basico"
   },
   {
-    "id": 237,
-    "nombre": "Spider-Man: Un nuevo día",
-    "generos": [
-      "Ciencia Ficción",
-      "Acción",
-      "Aventura"
-    ],
-    "descripcion": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado.",
-    "año": 2026,
-    "duracion": "",
-    "rating": 8.2,
-    "rating_updated": "2026-10-07T00:38:32.136Z",
-    "tmdb_id": 969681,
-    "portada": "https://image.tmdb.org/t/p/original/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-    "embed": "https://hugh.cdn.rumble.cloud/video/fww1/1b/s8/2/c/D/T/L/cDTLA.aaa.mp4",
-    "tipo": "pelicula",
-    "idioma": "Español (Latino)",
-    "edad": "+13",
-    "camara": true,
-    "especiales": [
-      "Marvel",
-      "Disney"
-    ],
-    "plan": "basico"
-  },
-  {
     "id": 238,
     "nombre": "Turbo",
     "generos": [
