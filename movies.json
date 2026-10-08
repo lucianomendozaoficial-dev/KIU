@@ -9358,5 +9358,32 @@
     "camara": false,
     "especiales": [],
     "plan": "basico"
+  },
+  {
+    "id": 370,
+    "nombre": "Diario de una pasión",
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "descripcion": "En una residencia de ancianos, un hombre mayor lee a una mujer una historia de amor escrita en su viejo libro de notas. El libro cuenta la vida en los años 40 de Noah Calhoun y Allie Nelson, dos jóvenes adolescentes de Carolina del Norte que, a pesar de vivir en dos ambientes sociales muy diferentes, pasaron un verano idílico juntos y profundamente enamorados, antes de ser separados, primero por sus padres, y más tarde por la Segunda Guerra Mundial.",
+    "año": 2004,
+    "duracion": "",
+    "rating": 7.9,
+    "rating_updated": "2026-10-08T02:02:18.455Z",
+    "tmdb_id": 11036,
+    "portada": "https://image.tmdb.org/t/p/original/kdJNpBcLJH0nDis8cjQHGjaAbRl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zdXnJqBaGFVtLoPNuMeKfEYUViZ.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38062&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Hbo",
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
