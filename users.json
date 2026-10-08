@@ -22,17 +22,6 @@
     "descripcion": "Se le otorgo 1 mes gratis por ser familiar de Luciano."
   },
   {
-    "id": 3,
-    "nombre": "Elias",
-    "password": "2026",
-    "dni": "",
-    "nombreCompleto": "Elias Seville",
-    "fechaExpiracion": "2026-10-30",
-    "plan": "basico",
-    "debePagar": "$3.000",
-    "descripcion": "Se le dio cuenta gratis durante 1 mes. No quiso renovar."
-  },
-  {
     "id": 4,
     "nombre": "marisa@tuty.com",
     "password": "2026",
