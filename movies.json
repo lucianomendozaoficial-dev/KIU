@@ -2429,14 +2429,15 @@
     "tmdb_id": 569094,
     "portada": "https://image.tmdb.org/t/p/original/rXhgHQmtjTIQOEDU8E2TbUFMjWM.jpg",
     "banner": "https://image.tmdb.org/t/p/original/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
-    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/L/b/p/b/Lbpbu.caa.mp4",
+    "embed": "https://fastream.to/embed-t5xsvmo943pu.html",
     "tipo": "pelicula",
     "idioma": "Español (Latino)",
     "edad": "+16",
-    "camara": true,
+    "camara": false,
     "especiales": [
       "Netflix",
-      "Marvel"
+      "Marvel",
+      "Apple"
     ],
     "plan": "basico"
   },
