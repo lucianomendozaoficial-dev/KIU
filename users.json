@@ -42,5 +42,16 @@
     "plan": "basico",
     "debePagar": "$3.000",
     "descripcion": ""
+  },
+  {
+    "id": 5,
+    "nombre": "Erika@tuty.com",
+    "password": "2026",
+    "dni": "",
+    "nombreCompleto": "Erika Flores",
+    "fechaExpiracion": "2026-10-09",
+    "plan": "basico",
+    "debePagar": "24hs",
+    "descripcion": "Prueba gratis de 24hs"
   }
 ]
