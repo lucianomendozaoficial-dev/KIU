@@ -9385,5 +9385,31 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 371,
+    "nombre": "Enredados",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Aventura"
+    ],
+    "descripcion": "La mágica Rapunzel de pelo largo ha pasado toda su vida en una torre, pero ahora que un ladrón fugitivo se ha topado con ella, está a punto de descubrir el mundo por primera vez, y quién es realmente.",
+    "año": 2010,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-10-08T02:03:13.904Z",
+    "tmdb_id": 38757,
+    "portada": "https://image.tmdb.org/t/p/original/z5kvXWek4smCyeWBDJQkT5sLc9T.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38061&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
