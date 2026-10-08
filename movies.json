@@ -9546,5 +9546,31 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 377,
+    "nombre": "Otro amor fuera de tiempo",
+    "generos": [
+      "Romance",
+      "Comedia"
+    ],
+    "descripcion": "El mariscal de campo estrella Drayton y el bailarín Dallas enfrentan desafíos en su relación en medio de su recuperación de un revés y dudas sobre su futuro. Su vínculo se tensa conforme lidian con la distancia y los cambios personales.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-10-08T23:34:42.072Z",
+    "tmdb_id": 1429520,
+    "portada": "https://image.tmdb.org/t/p/original/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tYT4DdVw1utDPE4QIsBHxlKHai8.jpg",
+    "embed": "https://fastream.to/embed-9zsm7ig5uxyb.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
