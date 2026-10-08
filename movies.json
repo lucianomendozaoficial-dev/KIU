@@ -9335,5 +9335,28 @@
     "camara": false,
     "especiales": [],
     "plan": "basico"
+  },
+  {
+    "id": 369,
+    "nombre": "El juego perfecto",
+    "generos": [
+      "Drama",
+      "Familia"
+    ],
+    "descripcion": "En 1957 pasó lo inesperado, México derrotó a Estados Unidos en el juego inventado por ellos mismos: el béisbol. Unos pequeños niños de Monterrey que llegaron a Estados Unidos en una época cuando el racismo predominaba en la frontera, y los equipos de Estados Unidos se creían merecedores de triunfar en la Liga Mundial Infantil. Ángel Macías, al frente de un equipo de nueve jóvenes estrellas, lanzó un juego perfecto, único en su clase y jamás repetido hasta le fecha. Esto convirtió a los 9 pequeños, tanto en México como en EEUU, en héroes reconocidos por sus amigos, su gente e incluso los mandatarios de ambos países; se ganaron el cariño y respeto de grandes estrellas profesionales de baseball de aquella época y se quedaron en la memoria y el corazón de miles de personas.",
+    "año": 2009,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-08T01:57:38.838Z",
+    "tmdb_id": 56601,
+    "portada": "https://image.tmdb.org/t/p/original/oCSj0KhRCKcCcO2UD5WoiQ4lHrS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7bfV7f4G6s1oVj06m6ztXPK4YzP.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38063&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
   }
 ]
