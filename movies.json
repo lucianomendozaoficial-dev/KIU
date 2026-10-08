@@ -9521,5 +9521,30 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 376,
+    "nombre": "El juego de la fortuna",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "Billy Beane (Brad Pitt) es el gerente general del equipo de béisbol Atléticos de Oakland, que acaba de perder otra temporada más. Decidido a relanzar el equipo, y con la ayuda del joven economista Peter Brand (Jonah Hill), utilizará las estadísticas de éste para fichar a los jugadores que cree más oportunos. Un método que no es compartido por sus compañeros, ni por el entrenador del equipo Art Howe (Philip Seymour Hoffman).",
+    "año": 2011,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-08T23:33:31.553Z",
+    "tmdb_id": 60308,
+    "portada": "https://image.tmdb.org/t/p/original/zZLOUh3Kvf3pNfr6DkO2Bft0swZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kYlBNDkB5qFdpTDpnlQdH0CdK3T.jpg",
+    "embed": "https://fastream.to/embed-8qpfnwg7fkks.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
