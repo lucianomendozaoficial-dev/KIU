@@ -9496,5 +9496,30 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 375,
+    "nombre": "Primate",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "De vuelta de la universidad, Lucy se reúne con su familia, incluyendo a su mascota, el chimpancé Ben. Sin embargo, Ben contrae rabia durante una fiesta en la piscina y se vuelve agresivo.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-10-08T23:31:58.520Z",
+    "tmdb_id": 1315303,
+    "portada": "https://image.tmdb.org/t/p/original/sx1OuafE2h0ADOX4gKRA02ki1li.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg",
+    "embed": "https://fastream.to/embed-5tiu9aei4ghf.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": true,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
