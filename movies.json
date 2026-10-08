@@ -9629,5 +9629,31 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 380,
+    "nombre": "Notas perfectas",
+    "generos": [
+      "Comedia",
+      "Música",
+      "Romance"
+    ],
+    "descripcion": "Beca (Anna Kendrick) es de esas chicas que prefiere escuchar lo que sale de sus cascos a lo que pueda decirle alguien. Al llegar a la universidad, no tiene cabida en ningún grupo, pero la obligan a unirse a uno que jamás habría escogido, formado por chicas malas, chicas buenas y chicas raras que solo comparten una cosa: lo bien que suenan cuando están juntas cantando a coro. Beca quiere que el grupo de canto acústico salga del tradicional mundo musical y llegue a alcanzar armonías nuevas y sorprendentes. Las chicas deciden escalar puestos en el despiadado mundo del canto a cappella universitario. Su intento puede acabar siendo lo mejor que han hecho, o quizá su mayor locura. Probablemente sea una mezcla de las dos cosas.",
+    "año": 2012,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-08T23:40:14.519Z",
+    "tmdb_id": 114150,
+    "portada": "https://image.tmdb.org/t/p/original/rQ7k0iWoobl0NMl7wwDlUMI2DL5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2sE6hrwfn9IV7eDlMvpIb9q1EWy.jpg",
+    "embed": "https://fastream.to/embed-p85vzdxz8nmx.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
   }
 ]
