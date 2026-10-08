@@ -9755,5 +9755,30 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 385,
+    "nombre": "Quiero una cita con Billy Walsh",
+    "generos": [
+      "Romance",
+      "Comedia"
+    ],
+    "descripcion": "Archie y Amelia, mejores amigos de la infancia, están enamorados. Desafortunadamente, no entre ellos. Archie ama a Amelia, pero ella solo tiene ojos para el nuevo estudiante estadounidense, Billy Walsh. En lugar de confesar finalmente su amor por ella, Archie se ve presionado para ayudarla a conquistar al hombre de sus sueños: ¡Billy “Pedazo de Idiota” Walsh!",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-10-08T23:47:21.419Z",
+    "tmdb_id": 1017633,
+    "portada": "https://image.tmdb.org/t/p/original/dEf5XMzfDjTrwlOHkIGQdya6D1z.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xHhDA63HYklr4FMdxAd05FqhhhF.jpg",
+    "embed": "https://fastream.to/embed-rl3mguglspld.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
