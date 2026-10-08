@@ -9411,5 +9411,35 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 372,
+    "nombre": "Tierras Perdidas",
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Western",
+      "Aventura",
+      "Terror"
+    ],
+    "descripcion": "Una reina, desesperada por obtener el don de cambiar de forma, hace una jugada audaz: contrata a la hechicera Gray Alys, una mujer tan temida como poderosa. Enviada al desierto fantasmal de las Tierras Perdidas, Alys y su guía, el vagabundo Boyce, deben burlar y luchar contra el hombre y el demonio en una fábula que explora la naturaleza del bien y el mal, la deuda y la satisfacción, el amor y la pérdida.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-10-08T02:04:03.995Z",
+    "tmdb_id": 324544,
+    "portada": "https://image.tmdb.org/t/p/original/sLDxndoqFWwJEq7iEdYQBzPjUDQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oI5uHu7lrQ0mBBH1c8OHCAkCq4x.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38060&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Hbo",
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
