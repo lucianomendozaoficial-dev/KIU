@@ -9780,5 +9780,32 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 386,
+    "nombre": "Chainsaw Man – La película: Arco de Reze",
+    "generos": [
+      "Animación",
+      "Acción",
+      "Romance",
+      "Fantasía"
+    ],
+    "descripcion": "En una brutal guerra entre demonios, cazadores y enemigos secretos, una misteriosa chica llamada Reze ha entrado en el mundo de Denji, y él enfrenta su batalla más mortal hasta ahora, impulsado por el amor en un mundo donde la supervivencia no conoce reglas.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 8.5,
+    "rating_updated": "2026-10-08T23:48:09.160Z",
+    "tmdb_id": 1218925,
+    "portada": "https://image.tmdb.org/t/p/original/mkU7l5MHNlzVQuCfOKcY2f1NFgy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
+    "embed": "https://fastream.to/embed-ggis7ezbcnbc.html",
+    "tipo": "pelicula",
+    "idioma": "Castellano",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Anime"
+    ],
+    "plan": "basico"
   }
 ]
