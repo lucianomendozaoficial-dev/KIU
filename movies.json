@@ -9468,5 +9468,32 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 374,
+    "nombre": "Milagros Inesperados",
+    "generos": [
+      "Fantasía",
+      "Drama",
+      "Crimen"
+    ],
+    "descripcion": "Las vidas de los guardias del corredor de la muerte se ven afectadas por uno de sus cargos: un hombre negro acusado de asesinato y violación de niños, pero que tiene un misterioso don.",
+    "año": 1999,
+    "duracion": "",
+    "rating": 8.5,
+    "rating_updated": "2026-10-08T02:05:57.064Z",
+    "tmdb_id": 497,
+    "portada": "https://image.tmdb.org/t/p/original/7ezlnHDn6clFku58TmFmpKUQUqf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
+    "embed": "https://fastream.to/embed-rzd5gy1ih0os.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Hbo",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
