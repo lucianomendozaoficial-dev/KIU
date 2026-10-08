@@ -9311,5 +9311,29 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 368,
+    "nombre": "El jardín secreto",
+    "generos": [
+      "Drama",
+      "Familia",
+      "Fantasía"
+    ],
+    "descripcion": "Tras la muerte de sus padres, Mary, una niña británica nacida en la India, es enviada a Inglaterra a vivir con un tío suyo. Se trata de un personaje huraño y distante que vive en una gran mansión gótica, gobernada por una estricta ama de llaves, la señora Medlock. Mary descubre un gran jardín, cerrado y abandonado durante años, que se convertirá en un mágico refugio para ella y sus dos nuevos amigos: Colin, un inválido caprichoso, y Dickon, ingenuo y lleno de bondad. Mientras disfrutan del jardín, se establece entre ellos una sólida y especial relación que cambiará su destino para siempre.",
+    "año": 1993,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-10-08T01:54:41.775Z",
+    "tmdb_id": 11236,
+    "portada": "https://image.tmdb.org/t/p/original/ku9JHB6c59UKUXjxV8lPoU89f6N.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8s7FJ9dHXgeFZdvxfjPmrrJh6EC.jpg",
+    "embed": "https://reypelis.net/?trembed=0&trid=38064&trtype=1",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
   }
 ]
