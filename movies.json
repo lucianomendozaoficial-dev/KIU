@@ -9703,5 +9703,33 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 383,
+    "nombre": "Cruzada",
+    "generos": [
+      "Drama",
+      "Acción",
+      "Aventura",
+      "Historia",
+      "Bélica"
+    ],
+    "descripcion": "Balian de Ibelin, un herrero francés se convierte en caballero durante las Cruzadas. En Tierra Santa, lucha por la paz y la justicia en medio del conflicto entre cristianos y musulmanes por el control de Jerusalén. Una historia épica de coraje, redención y sacrificio en medio del caos de la guerra.",
+    "año": 2005,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-10-08T23:44:32.307Z",
+    "tmdb_id": 1495,
+    "portada": "https://image.tmdb.org/t/p/original/9RAdZn1pfRkeVSDwngvIQKsZd2Z.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8itHQecANtOevcCdr3AhVxFCYkw.jpg",
+    "embed": "https://fastream.to/embed-pr94ajfewd0d.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
