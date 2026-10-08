@@ -9572,5 +9572,35 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 378,
+    "nombre": "Pokémon Blanco: Victini y Zekrom",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Aventura",
+      "Drama",
+      "Fantasía"
+    ],
+    "descripcion": "El Reino del Pueblo del Valle una vez gobernó sobre la tierra, pero ahora todo lo que queda es la Espada del Valle. En la ciudad de Eindoak. Ash, Iris y Cilan llegan a Eindoak durante el Torneo de Pokémon del festival de la cosecha y conocen al legendario Pokémon Victini que desea compartir sus poderes de victoria con alguien. En otra parte de la ciudad ha llegado un descendiente del Pueblo del Valle llamado Damon que busca resucitar el poder del reino con la Espada del Valle, devolviéndolos al poder sobre la tierra, y Ash y sus amigos deben detenerlo antes de que él Destruye la tierra junto con Victini.",
+    "año": 2011,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-10-08T23:37:38.242Z",
+    "tmdb_id": 88557,
+    "portada": "https://image.tmdb.org/t/p/original/5oe2b4AdpfXqIGhtsZzzEmgwzu5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zpD9VRmZ1Zv7ZMsrNmutRrt0LZU.jpg",
+    "embed": "https://fastream.to/embed-pt1b7cxpmzw7.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Apple",
+      "Netflix",
+      "Anime"
+    ],
+    "plan": "basico"
   }
 ]
