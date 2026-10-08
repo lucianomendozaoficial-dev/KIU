@@ -9655,5 +9655,29 @@
       "Hbo"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 381,
+    "nombre": "El Médico",
+    "generos": [
+      "Aventura",
+      "Drama",
+      "Historia"
+    ],
+    "descripcion": "Adaptación de la novela histórica homónima de Noah Gordon que se convirtió en un best-seller en 1986. Ambientada en Inglaterra, en el siglo XI, narra la historia de Rob Cole (Tom Payne), un joven que se queda huérfano al morir su madre víctima de una extraña enfermedad. Esta circunstancia lo anima a irse a Persia a estudiar medicina bajo la tutela del sabio doctor Ibn Sina (Ben Kingsley).",
+    "año": 2013,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-08T23:42:29.934Z",
+    "tmdb_id": 169881,
+    "portada": "https://image.tmdb.org/t/p/original/QHzDzBdXQinLn1Az63aYaohUgV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5VuOmxGfqu7yf05q8Q6SUKOh7oe.jpg",
+    "embed": "https://fastream.to/embed-jkvoe22jadf4.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
   }
 ]
