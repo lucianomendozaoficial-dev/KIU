@@ -10019,5 +10019,29 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 395,
+    "nombre": "Ricky Stanicky: El Impostor",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Cuando tres mejores amigos de la infancia hacen una broma que sale mal, inventan al Ricky Stanicky imaginario para sacarlos del problema. Veinte años después, el trío todavía utiliza al inexistente Ricky como una coartada útil para su comportamiento inmaduro. Pero cuando sus cónyuges y parejas sospechan y exigen conocer finalmente al legendario Sr. Stanicky, el trío culpable decide contratar a un actor acabado y un imitador de celebridad obsceno para darle vida.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-10-09T02:05:34.906Z",
+    "tmdb_id": 1022690,
+    "portada": "https://image.tmdb.org/t/p/original/eMJPQmvTC39ctlnWlFLJbXqrbSP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wfdHCilp8cNPK7tK4jLgdUT7703.jpg",
+    "embed": "https://fastream.to/embed-iqjhr7e7pblr.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": true,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
