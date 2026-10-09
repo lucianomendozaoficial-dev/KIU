@@ -10123,5 +10123,32 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 399,
+    "nombre": "La Dama y el Vagabundo II: Las aventuras de Scamp",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Romance",
+      "Aventura"
+    ],
+    "descripcion": "La dama y el vagabundo II: Las aventuras de Scamp es una película de animación lanzada originalmente el 27 de febrero de 2001 directo a video, continuación de la película La dama y el vagabundo de 1955.",
+    "año": 2001,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-10-09T02:11:46.835Z",
+    "tmdb_id": 18269,
+    "portada": "https://image.tmdb.org/t/p/original/csshpN1PkCExRI7Xz2BtCk7U5k4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rPIVGon9dNpgMvlGKqG2tvIG8vo.jpg",
+    "embed": "https://fastream.to/embed-c6sfrzs1sydz.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
