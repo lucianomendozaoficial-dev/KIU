@@ -9885,5 +9885,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 390,
+    "nombre": "Trol 2",
+    "generos": [
+      "Acción",
+      "Fantasía",
+      "Suspenso"
+    ],
+    "descripcion": "Cuando otro despiadado trol desata una ola de destrucción en su país, Nora, Andreas y el comandante Kris se embarcan en la misión más peligrosa de sus vidas.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-10-09T01:59:49.886Z",
+    "tmdb_id": 1180831,
+    "portada": "https://image.tmdb.org/t/p/original/AisyKEN1zLKRcAPpeJ5G5DaBhyw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
+    "embed": "https://fastream.to/embed-2j6r99y4s5wc.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
