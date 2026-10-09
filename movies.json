@@ -10043,5 +10043,30 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 396,
+    "nombre": "La octava cláusula",
+    "generos": [
+      "Drama",
+      "Suspenso"
+    ],
+    "descripcion": "Kat y Borja aparentan ser una pareja perfecta, pero como en todo matrimonio guardan secretos, mentiras e infidelidades que saldrán a la luz la noche que llega una visita inesperada.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 4.3,
+    "rating_updated": "2026-10-09T02:06:43.515Z",
+    "tmdb_id": 841524,
+    "portada": "https://image.tmdb.org/t/p/original/5CbVMeLvaGn87gx05waiIJ0JySr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uA0nUh1JerC4TkNiTzwS4B5kjTN.jpg",
+    "embed": "https://fastream.to/embed-ffytw8rtum6n.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
