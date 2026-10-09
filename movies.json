@@ -9993,5 +9993,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 394,
+    "nombre": "Refugio mortal",
+    "generos": [
+      "Acción",
+      "Crimen",
+      "Suspenso"
+    ],
+    "descripcion": "Un agente de la DEA y su compañero persiguen un peculiar grupo de ladrones: sus propios hijos adolescentes rebeldes, que han empezado a robar a un peligroso cártel, utilizando para ello las tácticas de sus padres y la información de alto secreto.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-09T02:04:41.094Z",
+    "tmdb_id": 628847,
+    "portada": "https://image.tmdb.org/t/p/original/tgSoSwFOa0THezjVHC9gaXqSHf2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
+    "embed": "https://fastream.to/embed-xn1dbo1yk3jr.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
