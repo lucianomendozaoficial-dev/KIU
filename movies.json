@@ -10096,5 +10096,32 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 398,
+    "nombre": "Un buen ladrón",
+    "generos": [
+      "Crimen",
+      "Comedia",
+      "Drama"
+    ],
+    "descripcion": "Después de escapar de prisión, el exsoldado y ladrón profesional Jeffrey Manchester encuentra refugio en una tienda Toys \"R\" Us, donde logra sobrevivir durante meses sin ser descubierto mientras planea su próximo movimiento. Sin embargo, cuando se enamora de una madre divorciada, su doble vida comienza a desmoronarse.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-09T02:11:02.753Z",
+    "tmdb_id": 1242419,
+    "portada": "https://image.tmdb.org/t/p/original/yoc4yqlsqnJ6Y4SrbouE54jRuRq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/E7hhuSZ1U5xymN2Olg2EOr4N4P.jpg",
+    "embed": "https://fastream.to/embed-7w1mhqw747vp.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
