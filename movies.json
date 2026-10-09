@@ -9911,5 +9911,36 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 391,
+    "nombre": "Gato con Botas",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "\"Gato con botas\" se sitúa en el tiempo como la precuela de Shrek 2. Mucho tiempo antes de conocer a Shrek, el Gato con Botas emprendió un viaje aliándose con el ingenioso Humpty Dumpty y con la avispada Kitty Softpaws para robar el famoso ganso de los huevos de oro.",
+    "año": 2011,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-09T02:01:42.689Z",
+    "tmdb_id": 417859,
+    "portada": "https://image.tmdb.org/t/p/original/1VmrC82zY4U33l9UHlZTWDB1asN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/c5MCkebYhFuhmi32x760HfcvLIO.jpg",
+    "embed": "https://fastream.to/embed-4dmqy4e0ya6o.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney",
+      "Hbo",
+      "Netflix",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
