@@ -9833,5 +9833,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 388,
+    "nombre": "El botín",
+    "generos": [
+      "Acción",
+      "Suspenso",
+      "Crimen"
+    ],
+    "descripcion": "La confianza tambalea cuando un grupo de policías de Miami descubre millones de dólares en efectivo en una casa de seguridad abandonada. Ya nada ―ni nadie― queda fuera de sospecha.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-10-09T01:56:57.775Z",
+    "tmdb_id": 1306368,
+    "portada": "https://image.tmdb.org/t/p/original/3dQVnkDyTq0NCbRCUZc5tdztVbd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kwNIQW7egAmI66sb0zIugMbpCfU.jpg",
+    "embed": "https://fastream.to/embed-0rjxi0p6kvrm.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
