@@ -10232,5 +10232,31 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 403,
+    "nombre": "Avatar: Fuego y ceniza",
+    "generos": [
+      "Ciencia Ficción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "descripcion": "Devastados por la guerra contra la RDA y la perdida de su hijo mayor, Jake Sully y Neytiri se enfrentan a una nueva amenaza en Pandora: el pueblo de la ceniza, una violenta tribu Na'vi ávida de poder liderada por los despiadados Varang.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-10-09T02:15:44.844Z",
+    "tmdb_id": 83533,
+    "portada": "https://image.tmdb.org/t/p/original/coJkkPBDeBsYecxoqMnZm8TKlBL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+    "embed": "https://fastream.to/embed-6jshnaign0ye.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
