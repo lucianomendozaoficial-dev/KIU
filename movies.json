@@ -10150,5 +10150,33 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 400,
+    "nombre": "La dama y el vagabundo",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Romance",
+      "Aventura",
+      "Comedia"
+    ],
+    "descripcion": "La romántica historia de una perrita Cocker Spaniel de la alta sociedad y un callejero Mutt del centro de la ciudad.",
+    "año": 1955,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-10-09T02:12:32.874Z",
+    "tmdb_id": 10340,
+    "portada": "https://image.tmdb.org/t/p/original/vHbizQYlkL8MwtOdsdWaPuR5N5w.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yGgEg4yimYQJLZrZg3Qhogp2raQ.jpg",
+    "embed": "https://fastream.to/embed-m49oszswi1us.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
