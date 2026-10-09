@@ -9967,5 +9967,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 393,
+    "nombre": "Tiger: Tanque de guerra",
+    "generos": [
+      "Bélica",
+      "Acción",
+      "Drama"
+    ],
+    "descripcion": "Frente oriental, 1943: la tripulación de un tanque Tiger alemán es enviada a una misión peligrosa muy lejos de las reñidas líneas del frente. Conforme viajan a través de la mortífera tierra de nadie, deben enfrentar tanto al enemigo como a sus propios demonios internos.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-10-09T02:03:47.933Z",
+    "tmdb_id": 1252037,
+    "portada": "https://image.tmdb.org/t/p/original/iqPUwI03NVnyrXmd0hiN4Au93hv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vMxOmgmBGegjVObjlb8ugsjGgkD.jpg",
+    "embed": "https://fastream.to/embed-sxi5093c3wcm.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
