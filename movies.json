@@ -9942,5 +9942,30 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 392,
+    "nombre": "A rienda suelta: Feliz San Valentín",
+    "generos": [
+      "Romance",
+      "Familia"
+    ],
+    "descripcion": "",
+    "año": 2019,
+    "duracion": "",
+    "rating": 7.5,
+    "rating_updated": "2026-10-09T02:03:01.313Z",
+    "tmdb_id": 579450,
+    "portada": "https://image.tmdb.org/t/p/original/uRAWwdGqnhoi8eFCiHuipymELJR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vtllxzsZBwWTc91VMiLNSC35AKD.jpg",
+    "embed": "https://fastream.to/embed-olgrbtq7im8h.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
