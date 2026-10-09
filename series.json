@@ -564,5 +564,42 @@
         ]
       }
     ]
+  },
+  {
+    "id": 14,
+    "nombre": "The Walking Dead",
+    "generos": [
+      "Action & adventure",
+      "Drama",
+      "Sci-fi & fantasy"
+    ],
+    "descripcion": "El oficial Rick Grimes se despierta del coma para descubrir que el mundo está en ruinas y debe guiar a un grupo de sobrevivientes para permanecer con vida.",
+    "año": 2010,
+    "duracion": "N/A",
+    "rating": 8.1,
+    "rating_updated": "2026-10-09T02:18:29.135Z",
+    "tmdb_id": 1402,
+    "portada": "https://image.tmdb.org/t/p/original/kuPOrTbvqJisGskhYIZyUOHrS3J.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Disney",
+      "Netflix"
+    ],
+    "plan": "basico",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://fastream.to/embed-nkztf1memuca.html"
+          }
+        ]
+      }
+    ]
   }
 ]
