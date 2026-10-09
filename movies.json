@@ -10204,5 +10204,33 @@
       "Hbo"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 402,
+    "nombre": "Zootopia 2",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Misterio",
+      "Familia"
+    ],
+    "descripcion": "Tras resolver el caso más importante de la historia de Zootopia, los policías novatos Judy Hopps y Nick Wilde se encuentran en la sinuosa pista de un gran misterio cuando Gary De'Snake llega y revoluciona la metrópolis animal.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 7.7,
+    "rating_updated": "2026-10-09T02:15:03.389Z",
+    "tmdb_id": 1084242,
+    "portada": "https://image.tmdb.org/t/p/original/LrMBxFwnsMgXTnaWqHYinn3vDN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+    "embed": "https://fastream.to/embed-08w99ld7m4uc.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
