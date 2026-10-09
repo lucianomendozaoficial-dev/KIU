@@ -10068,5 +10068,33 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 397,
+    "nombre": "Watchmen, los vigilantes",
+    "generos": [
+      "Misterio",
+      "Acción",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "En 1985, donde existen antiguos superhéroes, el asesinato de un colega empuja al vigilante activo Rorschach a realizar su propia investigación, descubriendo algo que podría cambiar por completo el curso de la historia tal y como la conocemos.",
+    "año": 2009,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-10-09T02:08:30.229Z",
+    "tmdb_id": 13183,
+    "portada": "https://image.tmdb.org/t/p/original/l0v7bgWK5M85mcuMNO5AtkP1XVn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dH7ia3vtkYCa3CBvDnvVjqm9uiQ.jpg",
+    "embed": "https://fastream.to/embed-l08t44dcsicf.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Apple",
+      "Netflix",
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
