@@ -9859,5 +9859,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 389,
+    "nombre": "Wake Up Dead Man: Un misterio de Knives Out",
+    "generos": [
+      "Suspenso",
+      "Misterio",
+      "Comedia"
+    ],
+    "descripcion": "En una iglesia de pueblo con un oscuro pasado, el detective Benoit Blanc se une a un sacerdote joven y honesto para investigar un crimen que de tan perfecto parece imposible.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-10-09T01:58:12.257Z",
+    "tmdb_id": 812583,
+    "portada": "https://image.tmdb.org/t/p/original/vFoQEqAftUCQUlFupsWl41fanYc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fiRDzpcJe7qz3yIR43hdXIE3NHv.jpg",
+    "embed": "https://fastream.to/embed-mgxhun2d1xsx.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
