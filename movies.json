@@ -10258,5 +10258,32 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 404,
+    "nombre": "Mientras estés conmigo",
+    "generos": [
+      "Música",
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "Cuenta la historia real de la estrella de música cristiana Jeremy Camp, profundizando en su aventura de amor y pérdida, demostrando así que siempre hay esperanza.",
+    "año": 2020,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-10-10T01:38:11.458Z",
+    "tmdb_id": 585244,
+    "portada": "https://image.tmdb.org/t/p/original/y6Vuu6XZim23JT6pxnKmHh0GaL1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bcXDN63bikg2KzqtOIjaj9qUiaj.jpg",
+    "embed": "https://fastream.to/embed-ecy5lvia0m3j.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
