@@ -18,10 +18,10 @@
     "dni": "",
     "nombreCompleto": "Diana",
     "fechaExpiracion": "2026-10-28",
-    "plan": "basico",
+    "plan": "estandar",
     "debePagar": "$3.000",
     "descripcion": "Se le otorgo 1 mes gratis por ser familiar de Luciano.",
-    "renueva": true
+    "renueva": false
   },
   {
     "id": 4,
@@ -30,7 +30,7 @@
     "dni": "",
     "nombreCompleto": "Marisa Sosa",
     "fechaExpiracion": "2026-11-06",
-    "plan": "basico",
+    "plan": "estandar",
     "debePagar": "$3.000",
     "descripcion": "",
     "renueva": true
