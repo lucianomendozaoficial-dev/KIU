@@ -60,9 +60,9 @@
     "orden": 3,
     "recomendado": false,
     "color": "#e0b34a",
-    "descripcion": "Lo mejor de KIU: catálogo completo, 4K y más perfiles.",
-    "calidad": "4K Ultra HD",
-    "pantallas": 4,
+    "descripcion": "Lo mejor de KIU: catálogo completo y más perfiles.",
+    "calidad": "Full HD",
+    "pantallas": 5,
     "perfiles": 5,
     "beneficios": [
       "Sin anuncios",
@@ -70,9 +70,8 @@
       "Todas las series",
       "Canales de TV en vivo",
       "Contenido exclusivo Premium",
-      "Calidad 4K Ultra HD",
+      "Calidad Full HD",
       "5 perfiles",
-      "4 dispositivos a la vez",
       "Estrenos antes que nadie"
     ],
     "noIncluye": []
