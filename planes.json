@@ -35,7 +35,7 @@
     "recomendado": true,
     "color": "#4a3ad9",
     "descripcion": "Todo el catálogo: películas, series y TV en vivo.",
-    "calidad": "Full HD 1080p",
+    "calidad": "Full HD",
     "pantallas": 2,
     "perfiles": 2,
     "beneficios": [
@@ -43,13 +43,12 @@
       "Catálogo completo de películas",
       "Todas las series",
       "Canales de TV en vivo",
-      "Calidad Full HD 1080p",
-      "2 perfiles",
-      "2 dispositivos a la vez"
+      "Calidad Full HD",
+      "2 perfiles"
     ],
     "noIncluye": [
       "Contenido exclusivo Premium",
-      "Calidad 4K"
+      "Calidad HD"
     ]
   },
   {
