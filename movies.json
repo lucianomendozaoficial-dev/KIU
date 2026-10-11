@@ -10469,5 +10469,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 412,
+    "nombre": "Teléfono negro 2",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "A sus 17 años, Finney Blake lucha por su vida tras su cautiverio. Sin embargo, su hermana Gwen empieza a recibir llamadas de un teléfono negro en sus sueños y visiones inquietantes qué los conduce a ambos en un campamento de invierno.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-11T02:05:06.584Z",
+    "tmdb_id": 1197137,
+    "portada": "https://image.tmdb.org/t/p/original/A6QNBDV1u3oaq3guBHGKcEJkYkX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
+    "embed": "https://fastream.to/embed-w9p7s8eta892.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Hbo",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
