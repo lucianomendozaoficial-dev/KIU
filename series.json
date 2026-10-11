@@ -425,7 +425,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico",
+    "plan": "estandar",
     "temporadas": [
       {
         "numero": 1,
@@ -464,7 +464,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico",
+    "plan": "estandar",
     "temporadas": [
       {
         "numero": 1,
@@ -510,7 +510,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico",
+    "plan": "estandar",
     "temporadas": [
       {
         "numero": 1,
@@ -548,7 +548,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico",
+    "plan": "estandar",
     "temporadas": [
       {
         "numero": 1,
