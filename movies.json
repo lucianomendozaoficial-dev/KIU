@@ -10363,5 +10363,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 408,
+    "nombre": "Cuando acecha la maldad",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Los vecinos de un pequeño pueblo rural descubren que un demonio está a punto de nacer entre ellos. Intentan desesperadamente escapar antes de que nazca el mal, pero puede que sea demasiado tarde.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-10-11T01:56:52.449Z",
+    "tmdb_id": 744857,
+    "portada": "https://image.tmdb.org/t/p/original/9Ly4S99McgnhO50XikTGguPFNvo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cavK9ox37pxDg11RvJINMH63onU.jpg",
+    "embed": "https://fastream.to/embed-3f2h4duh4wgx.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Netflix",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
