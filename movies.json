@@ -10312,5 +10312,32 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 406,
+    "nombre": "Matchbox: La película",
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Aventura"
+    ],
+    "descripcion": "Cuando un grupo de antiguos amigos de la infancia reconecta, su reunión da un giro inesperado al descubrir un complot internacional y darse cuenta de que deben salvar al mundo.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-10-11T01:51:53.441Z",
+    "tmdb_id": 1148365,
+    "portada": "https://image.tmdb.org/t/p/original/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+    "embed": "https://fastream.to/embed-buvjwzxm4rt3.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Apple",
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
