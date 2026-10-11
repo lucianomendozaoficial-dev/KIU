@@ -8,16 +8,15 @@
     "orden": 1,
     "recomendado": false,
     "color": "#4a77d9",
-    "descripcion": "Entrá gratis, sin crear cuenta. Películas seleccionadas y sin anuncios.",
-    "calidad": "HD 720p",
+    "descripcion": "Entrá gratis, sin crear cuenta. Películas seleccionadas, sin series, 1 perfil y sin anuncios.",
+    "calidad": "HD",
     "pantallas": 1,
     "perfiles": 1,
     "beneficios": [
       "Sin anuncios",
       "Catálogo de películas seleccionadas",
-      "Calidad HD 720p",
+      "Calidad HD",
       "1 perfil",
-      "1 dispositivo a la vez",
       "No necesita cuenta ni registro"
     ],
     "noIncluye": [
