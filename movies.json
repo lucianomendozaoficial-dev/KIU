@@ -10285,5 +10285,32 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 405,
+    "nombre": "Hasta el Último Hombre",
+    "generos": [
+      "Drama",
+      "Historia",
+      "Bélica"
+    ],
+    "descripcion": "La historia de Desmond T. Doss, quien, debido a que se lo prohibía su fe, combatió en la Segunda Guerra Mundial sin portar un arma. No disparó ni una bala, pero salvó a 75 personas de la muerte en la batalla de la isla de Okinawa.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 8.2,
+    "rating_updated": "2026-10-11T01:23:18.497Z",
+    "tmdb_id": 324786,
+    "portada": "https://image.tmdb.org/t/p/original/dFMXilx9gYUtZ6GkbuxKErc6Iv3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+    "embed": "https://fastream.to/embed-k6f0lro45fbe.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
