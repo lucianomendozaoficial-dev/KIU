@@ -1,32 +1,82 @@
-{
-"Basico": {
-    "precio": 3000,
+[
+  {
+    "id": "basico",
+    "nombre": "Básico",
+    "precio": 0,
+    "moneda": "$",
+    "periodo": "gratis",
+    "orden": 1,
+    "recomendado": false,
+    "color": "#4a77d9",
+    "descripcion": "Entrá gratis, sin crear cuenta. Películas seleccionadas y sin anuncios.",
+    "calidad": "HD 720p",
+    "pantallas": 1,
+    "perfiles": 1,
     "beneficios": [
-      "Con Anuncios",
-      "1 Perfil",
-      "Contenido Limitado",
-      "Maxima calidad"  
+      "Sin anuncios",
+      "Catálogo de películas seleccionadas",
+      "Calidad HD 720p",
+      "1 perfil",
+      "1 dispositivo a la vez",
+      "No necesita cuenta ni registro"
+    ],
+    "noIncluye": [
+      "Series",
+      "Canales de TV en vivo",
+      "Estrenos y contenido premium"
     ]
   },
   {
-"Estandar": {
-    "precio": 3500,
+    "id": "estandar",
+    "nombre": "Estándar",
+    "precio": 3000,
+    "moneda": "$",
+    "periodo": "mes",
+    "orden": 2,
+    "recomendado": true,
+    "color": "#4a3ad9",
+    "descripcion": "Todo el catálogo: películas, series y TV en vivo.",
+    "calidad": "Full HD 1080p",
+    "pantallas": 2,
+    "perfiles": 2,
     "beneficios": [
-      "Sin Anuncios",
-      "2 Perfiles",
-      "Contenido Extendido",
-      "Maxima calidad",
-      "Canales"  
+      "Sin anuncios",
+      "Catálogo completo de películas",
+      "Todas las series",
+      "Canales de TV en vivo",
+      "Calidad Full HD 1080p",
+      "2 perfiles",
+      "2 dispositivos a la vez"
+    ],
+    "noIncluye": [
+      "Contenido exclusivo Premium",
+      "Calidad 4K"
     ]
-  },  
-  "Premium": {
-    "precio": 5500,
+  },
+  {
+    "id": "premium",
+    "nombre": "Premium",
+    "precio": 4500,
+    "moneda": "$",
+    "periodo": "mes",
+    "orden": 3,
+    "recomendado": false,
+    "color": "#e0b34a",
+    "descripcion": "Lo mejor de KIU: catálogo completo, 4K y más perfiles.",
+    "calidad": "4K Ultra HD",
+    "pantallas": 4,
+    "perfiles": 5,
     "beneficios": [
-      "Sin Anuncios",
-      "5 Perfiles",
-      "Contenido Completo",
-      "Canales",
-      "Contenido Extra"  
-    ]
+      "Sin anuncios",
+      "Catálogo completo de películas",
+      "Todas las series",
+      "Canales de TV en vivo",
+      "Contenido exclusivo Premium",
+      "Calidad 4K Ultra HD",
+      "5 perfiles",
+      "4 dispositivos a la vez",
+      "Estrenos antes que nadie"
+    ],
+    "noIncluye": []
   }
-}
+]
