@@ -10339,5 +10339,29 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 407,
+    "nombre": "El juego bonito",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "Un grupo de futbolistas ingleses viaja a Roma para competir en la Copa Mundial de Fútbol Callejero, donde su nuevo delantero deberá aprender a superar el pasado y jugar en equipo.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-10-11T01:53:58.996Z",
+    "tmdb_id": 857655,
+    "portada": "https://image.tmdb.org/t/p/original/7MfqsfCA4Z1ppTAQ2DB9qWlh9VD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/el8IsSzuHcwQeDgsCoEdTPgKxQ0.jpg",
+    "embed": "https://fastream.to/embed-eh0qdm67sf9x.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
