@@ -8,7 +8,8 @@
     "fechaExpiracion": "2026-12-15",
     "plan": "basico",
     "debePagar": "$3.000",
-    "descripcion": "Cuenta del dueño de KIU Play."
+    "descripcion": "Cuenta del dueño de KIU Play.",
+    "renueva": true
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "fechaExpiracion": "2026-10-28",
     "plan": "basico",
     "debePagar": "$3.000",
-    "descripcion": "Se le otorgo 1 mes gratis por ser familiar de Luciano."
+    "descripcion": "Se le otorgo 1 mes gratis por ser familiar de Luciano.",
+    "renueva": true
   },
   {
     "id": 4,
@@ -30,7 +32,8 @@
     "fechaExpiracion": "2026-11-06",
     "plan": "basico",
     "debePagar": "$3.000",
-    "descripcion": ""
+    "descripcion": "",
+    "renueva": true
   },
   {
     "id": 5,
@@ -41,6 +44,7 @@
     "fechaExpiracion": "2026-10-09",
     "plan": "basico",
     "debePagar": "24hs",
-    "descripcion": "Prueba gratis de 24hs"
+    "descripcion": "Prueba gratis de 24hs",
+    "renueva": true
   }
 ]
