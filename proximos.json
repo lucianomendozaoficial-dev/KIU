@@ -14,14 +14,16 @@
   },
   {
     "id": "prox-2",
-    "nombre": "Otro estreno",
-    "portada": "https://image.tmdb.org/t/p/original/yyyyyyyyyyyyyyyyyyyy.jpg",
-    "estreno": "2026-11-14",
-    "tipo": "serie",
-    "descripcion": "Temporada nueva de una serie.",
+    "nombre": "Avengers: Doomsday",
+    "portada": "https://image.tmdb.org/t/p/original/3A4IzhQHCzX5nuQParZp07F5rCT.jpg",
+    "estreno": "2026-12-18",
+    "tipo": "pelicula",
+    "descripcion": "Héroes amados de tres universos distintos están en rumbo a una colisión letal y enfrentan una amenaza existencial como ninguna otra que hayan conocido.",
     "generos": [
-      "Drama"
+      "Ciencia Ficción",
+      "Acción",
+      "Aventura"
     ],
-    "trailer": "https://youtu.be/dQw4w9WgXcQ"
+    "trailer": "https://www.youtube.com/watch?v=lAr_uspgHm8"
   }
 ]
