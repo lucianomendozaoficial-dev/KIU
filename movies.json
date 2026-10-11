@@ -10468,7 +10468,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 412,
@@ -10494,7 +10494,7 @@
       "Hbo",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 413,
