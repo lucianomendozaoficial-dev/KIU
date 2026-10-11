@@ -109,7 +109,7 @@
     "edad": "+16",
     "camara": false,
     "especiales": [],
-    "plan": "basico",
+    "plan": "estandar",
     "temporadas": [
       {
         "numero": 1,
@@ -156,7 +156,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico",
+    "plan": "estandar",
     "temporadas": [
       {
         "numero": 1,
@@ -248,7 +248,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico",
+    "plan": "estandar",
     "temporadas": [
       {
         "numero": 1,
@@ -307,7 +307,7 @@
       "Disney",
       "Marvel"
     ],
-    "plan": "basico",
+    "plan": "estandar",
     "temporadas": [
       {
         "numero": 1,
@@ -383,7 +383,7 @@
     "edad": "+13",
     "camara": false,
     "especiales": [],
-    "plan": "basico",
+    "plan": "estandar",
     "temporadas": [
       {
         "numero": 1,
