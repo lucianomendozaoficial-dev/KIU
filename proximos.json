@@ -6,7 +6,10 @@
     "estreno": "2026-12-25",
     "tipo": "pelicula",
     "descripcion": "Una descripción corta de qué trata. Se muestra debajo del tráiler.",
-    "generos": ["Acción", "Aventura"],
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
     "trailer": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   {
@@ -16,7 +19,9 @@
     "estreno": "2026-11-14",
     "tipo": "serie",
     "descripcion": "Temporada nueva de una serie.",
-    "generos": ["Drama"],
+    "generos": [
+      "Drama"
+    ],
     "trailer": "https://youtu.be/dQw4w9WgXcQ"
   }
 ]
