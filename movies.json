@@ -10495,5 +10495,27 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 413,
+    "nombre": "Vértigo 2: Punto muerto",
+    "generos": [
+      "Suspenso"
+    ],
+    "descripcion": "Tras sobrevivir a una experiencia extrema, un nuevo grupo de jóvenes se enfrenta a un desafío aún más peligroso en un entorno remoto en Tailandia. A cientos de metros de altura, sin escapatoria y con condiciones impredecibles, deberán luchar contra el miedo, el tiempo y sus propios límites para sobrevivir.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-11T17:49:21.825Z",
+    "tmdb_id": 1101412,
+    "portada": "https://image.tmdb.org/t/p/original/xQlESgkDM7rczAWySdB0WBomh39.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+    "embed": "https://fastream.to/embed-ghdjuje2sp7d.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
   }
 ]
