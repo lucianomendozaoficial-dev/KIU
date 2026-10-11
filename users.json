@@ -42,9 +42,9 @@
     "dni": "",
     "nombreCompleto": "Erika Flores",
     "fechaExpiracion": "2026-10-09",
-    "plan": "basico",
+    "plan": "estandar",
     "debePagar": "24hs",
     "descripcion": "Prueba gratis de 24hs",
-    "renueva": true
+    "renueva": false
   }
 ]
