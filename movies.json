@@ -10389,5 +10389,33 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 409,
+    "nombre": "La Nueva Cenicienta",
+    "generos": [
+      "Comedia",
+      "Familia",
+      "Romance"
+    ],
+    "descripcion": "Adaptación moderna del famoso cuento de \"La Cenicienta\". La adolescente Sam Montgomery vive a disposición de su egocéntrica madrastra Fiona y de sus odiosas hermanastras, quienes la tratan más como una sirvienta que como un miembro de la familia. Sam sueña con ingresar en Princeton, pero de pronto su vida social se complica cuando conoce a su Príncipe Azul en Internet. Pero cuando su amigo de la red termina siendo el chico más popular de la escuela, Austin Ames, Sam despierta a la realidad olvidando su móvil cuando suena la medianoche. Temiendo ser rechazada si él supiera quien es ella en realidad, Sam hace todo lo posible para que Austin no descubra quién es su princesa. Aunque Austin tiene un plan para encontrarla...",
+    "año": 2004,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-11T01:57:55.066Z",
+    "tmdb_id": 11247,
+    "portada": "https://image.tmdb.org/t/p/original/uNUvr2hPN6ZXvo8N7Cljqna7PmM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cxj7Fi2r1fjE8iM2jynhx4YF1Jb.jpg",
+    "embed": "https://fastream.to/embed-ww7t8ei4xg73.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Hbo",
+      "Netflix",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
