@@ -10417,5 +10417,32 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 410,
+    "nombre": "Atrapado robando",
+    "generos": [
+      "Crimen",
+      "Suspenso",
+      "Comedia"
+    ],
+    "descripcion": "Nueva York, años 90. El ex jugador de béisbol Hank Thompson se ve inesperadamente envuelto en una peligrosa lucha por la supervivencia en medio de un submundo criminal peligroso.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-10-11T01:58:45.460Z",
+    "tmdb_id": 1245993,
+    "portada": "https://image.tmdb.org/t/p/original/krbq2GxQOwAE0gBO8FxKVmKWMld.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/41043LV7mfluH8iXEUPVseCDAv5.jpg",
+    "embed": "https://fastream.to/embed-e6jk67ok3uxc.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Hbo",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
