@@ -1,16 +1,15 @@
 [
   {
     "id": "prox-1",
-    "nombre": "Título de ejemplo",
-    "portada": "https://image.tmdb.org/t/p/original/xxxxxxxxxxxxxxxxxxxx.jpg",
-    "estreno": "2026-12-25",
+    "nombre": "The Chosen: Crucifixion",
+    "portada": "https://image.tmdb.org/t/p/original/qgJzrvYmpVBH6GYwnFT8N5sWhsB.jpg",
+    "estreno": "2027-03-11",
     "tipo": "pelicula",
-    "descripcion": "Una descripción corta de qué trata. Se muestra debajo del tráiler.",
+    "descripcion": "",
     "generos": [
-      "Acción",
-      "Aventura"
+      "Drama"
     ],
-    "trailer": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    "trailer": "https://www.youtube.com/embed/u433XFiq3mE?si=X0vt261GfgYg0c1q"
   },
   {
     "id": "prox-2",
