@@ -605,5 +605,44 @@
         ]
       }
     ]
+  },
+  {
+    "id": 15,
+    "nombre": "Dragon Ball Super: Beerus",
+    "generos": [
+      "Animación",
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Fantasía"
+    ],
+    "descripcion": "",
+    "año": 2026,
+    "duracion": "N/A",
+    "rating": "",
+    "rating_updated": "",
+    "tmdb_id": 312359,
+    "portada": "https://image.tmdb.org/t/p/original/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8QA5wsfCIBKzXA9SLZyhWfThKjy.jpg",
+    "tipo": "serie",
+    "idioma": "Subtitulado",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Anime",
+      "Netflix"
+    ],
+    "plan": "basico",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://fastream.to/embed-h6ahc3vzojao.html"
+          }
+        ]
+      }
+    ]
   }
 ]
