@@ -10444,5 +10444,30 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 411,
+    "nombre": "El hilo rojo",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "Abril, una azafata rebelde y audaz, y Manuel, un tímido y tradicional empresario, se conocen en un avión y sienten instantáneamente una atracción innegable.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 7.9,
+    "rating_updated": "2026-10-11T02:01:57.281Z",
+    "tmdb_id": 1433593,
+    "portada": "https://image.tmdb.org/t/p/original/y7cqcjztLFbrN4PUmSJYJjiDOwg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2pn7qTvwB47KAjRnj20g6oriARz.jpg",
+    "embed": "https://fastream.to/embed-ljbnzz93k8zb.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
