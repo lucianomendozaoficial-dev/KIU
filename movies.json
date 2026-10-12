@@ -10567,5 +10567,32 @@
     "camara": false,
     "especiales": [],
     "plan": "basico"
+  },
+  {
+    "id": 416,
+    "nombre": "Wicked: Por siempre",
+    "generos": [
+      "Fantasía",
+      "Aventura",
+      "Romance"
+    ],
+    "descripcion": "Mientras una turba enfurecida se levanta contra la Malvada Bruja, Glinda y Elphaba deberán reunirse por última vez. Con su singular amistad como el eje de su destino, deberán verse realmente, con honestidad y empatía, si quieren cambiarse a sí mismas… y cambiar Oz por siempre.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-12T22:22:01.300Z",
+    "tmdb_id": 967941,
+    "portada": "https://image.tmdb.org/t/p/original/nyGp2Aysk951mmkSPrSEjRxW72X.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cGbPBHKSFO7hSIjxkb3KOaGdOep.jpg",
+    "embed": "https://fastream.to/embed-vb25rctr4y66.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Hbo",
+      "Apple"
+    ],
+    "plan": "estandar"
   }
 ]
