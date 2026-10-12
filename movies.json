@@ -10517,5 +10517,31 @@
     "camara": false,
     "especiales": [],
     "plan": "estandar"
+  },
+  {
+    "id": 414,
+    "nombre": "La isla olvidada",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Fantasía",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "Jo y Raissa se encuentran varadas en el fantástico mundo de la isla olvidada de Nakali. Descubren que su única forma de volver a casa podría ser a costa de toda una vida de recuerdos y emociones.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8.1,
+    "rating_updated": "2026-10-12T20:30:49.787Z",
+    "tmdb_id": 1465063,
+    "portada": "https://image.tmdb.org/t/p/original/clw1EmN6OA0AtogU6iFCwBZSCp1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/8b/s8/2/6/K/e/3/6Ke3A.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": true,
+    "especiales": [],
+    "plan": "basico"
   }
 ]
