@@ -70,5 +70,17 @@
     "debePagar": "$3.000",
     "descripcion": "",
     "renueva": false
+  },
+  {
+    "id": 8,
+    "nombre": "Hector@kiu.com",
+    "password": "2026",
+    "dni": "",
+    "nombreCompleto": "Hector jose",
+    "fechaExpiracion": "2026-10-12",
+    "plan": "estandar",
+    "debePagar": "$3.000",
+    "descripcion": "",
+    "renueva": false
   }
 ]
