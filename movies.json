@@ -10976,5 +10976,27 @@
       "Netflix"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 432,
+    "nombre": "Look into My Eyes",
+    "generos": [
+      "Documental"
+    ],
+    "descripcion": "Film que documenta una serie de sesiones íntimas con videntes y sus clientes, gente interesada en conectar con seres que ya no están. La película no trata de desenmascarar ni de dar crédito a los médiums, simplemente se limita a mostrar las sesiones y el impacto que tienen en los videntes y en sus terapias con sus clientes.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 5.4,
+    "rating_updated": "2026-10-12T22:56:56.094Z",
+    "tmdb_id": 951029,
+    "portada": "https://image.tmdb.org/t/p/original/mp1UYL6Z8A5aMbQQKxyWPWwNJkU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/crF6INgzwVsbuFqzszjntvCP3TC.jpg",
+    "embed": "https://fastream.to/embed-b2vv3tbyhxnb.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [],
+    "plan": "estandar"
   }
 ]
