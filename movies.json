@@ -10850,5 +10850,32 @@
       "Apple"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 427,
+    "nombre": "SOLO LEVELING -segundo despertar-",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Animación"
+    ],
+    "descripcion": "Conocido como el cazador más débil de toda la humanidad, la contribución del cazador de rango E Jinwoo Sung a las incursiones equivale a intentar que no lo maten. Cuando surge una oportunidad para obtener un pago mayor, la aprovecha... ¡sólo para encontrarse cara a cara con un ser cuyo poder supera cualquier cosa que haya visto jamás!",
+    "año": 2024,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-10-12T22:46:47.985Z",
+    "tmdb_id": 1357633,
+    "portada": "https://image.tmdb.org/t/p/original/diPEcLFEb1uuUpApol1Bit6ck3l.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+    "embed": "https://fastream.to/embed-eirbdaldro8j.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": true,
+    "especiales": [
+      "Anime"
+    ],
+    "plan": "basico"
   }
 ]
