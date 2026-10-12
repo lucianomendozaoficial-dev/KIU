@@ -9806,7 +9806,7 @@
     "especiales": [
       "Anime"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 387,
@@ -9941,7 +9941,7 @@
       "Netflix",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 392,
@@ -10095,7 +10095,7 @@
       "Netflix",
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 398,
@@ -10149,7 +10149,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 400,
@@ -10177,7 +10177,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 401,
@@ -10311,7 +10311,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 406,
@@ -10338,7 +10338,7 @@
       "Apple",
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 407,
