@@ -26,7 +26,7 @@
       "Hbo",
       "Netflix"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 2,
@@ -135,7 +135,7 @@
       "Marvel",
       "Disney"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 6,
@@ -1419,7 +1419,7 @@
       "Hbo",
       "Prime Video"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 56,
@@ -1595,7 +1595,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 63,
