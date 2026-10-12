@@ -10622,5 +10622,28 @@
       "Prime Video"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 418,
+    "nombre": "La Empleada",
+    "generos": [
+      "Misterio",
+      "Suspenso"
+    ],
+    "descripcion": "Una mujer que atraviesa un momento difícil encuentra una nueva oportunidad al empezar de nuevo como criada para una pareja adinerada.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-12T22:28:50.502Z",
+    "tmdb_id": 1368166,
+    "portada": "https://image.tmdb.org/t/p/original/x8ygUQ4YNd8iy0oEusS1bHI08A6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
+    "embed": "https://fastream.to/embed-bygsqnij8qco.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": true,
+    "especiales": [],
+    "plan": "basico"
   }
 ]
