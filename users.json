@@ -94,5 +94,17 @@
     "debePagar": "$3.000",
     "descripcion": "+54 9 11 4948-3203",
     "renueva": false
+  },
+  {
+    "id": 10,
+    "nombre": "Ivan@kiu.com",
+    "password": "2026",
+    "dni": "",
+    "nombreCompleto": "Ivan",
+    "fechaExpiracion": "2026-10-12",
+    "plan": "estandar",
+    "debePagar": "$3.000",
+    "descripcion": "Ivan Tio",
+    "renueva": false
   }
 ]
