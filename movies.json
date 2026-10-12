@@ -9385,7 +9385,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 371,
@@ -9495,7 +9495,7 @@
       "Hbo",
       "Apple"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 375,
@@ -9678,7 +9678,7 @@
     "edad": "+13",
     "camara": false,
     "especiales": [],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 382,
@@ -9730,7 +9730,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 384,
