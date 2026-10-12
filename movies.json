@@ -669,10 +669,10 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "plan": "estandar",
     "especiales": [
       "Disney"
-    ]
+    ],
+    "plan": "basico"
   },
   {
     "id": 27,
@@ -1262,7 +1262,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 50,
@@ -9311,7 +9311,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 368,
