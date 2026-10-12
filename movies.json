@@ -10922,5 +10922,31 @@
     "camara": false,
     "especiales": [],
     "plan": "estandar"
+  },
+  {
+    "id": 430,
+    "nombre": "El Eterno Fin",
+    "generos": [
+      "Ciencia Ficción",
+      "Drama"
+    ],
+    "descripcion": "Una mujer de Miami, Florida, decide hacer realidad los viajes en el tiempo para volver atrás y ser la persona que siempre quiso ser.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6,
+    "rating_updated": "2026-10-12T22:52:42.593Z",
+    "tmdb_id": 1143128,
+    "portada": "https://image.tmdb.org/t/p/original/eKfoBh5rJo422YrUdEXSugWQ2Tu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dSRFLFbykiSndcPzweMcD2ToohT.jpg",
+    "embed": "https://fastream.to/embed-1q74zowd4obo.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "estandar"
   }
 ]
