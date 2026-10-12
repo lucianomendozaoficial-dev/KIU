@@ -10948,5 +10948,33 @@
       "Apple"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 431,
+    "nombre": "María Callas",
+    "generos": [
+      "Historia",
+      "Drama",
+      "Música"
+    ],
+    "descripcion": "La tumultuosa, bella y trágica historia de la vida de la cantante de ópera más importante del mundo, revivida y reimaginada durante sus últimos días en el París de los años setenta.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-10-12T22:55:27.202Z",
+    "tmdb_id": 1038263,
+    "portada": "https://image.tmdb.org/t/p/original/pk0wxkrZatW33u5NM3Ix45EqSSZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9iw4a6AQkxUO3EuRn59Vgrqf0zO.jpg",
+    "embed": "https://fastream.to/embed-nuaxk21agljt.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple",
+      "Netflix"
+    ],
+    "plan": "estandar"
   }
 ]
