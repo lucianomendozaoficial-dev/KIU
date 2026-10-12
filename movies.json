@@ -10643,7 +10643,9 @@
     "idioma": "Español (Latino)",
     "edad": "+16",
     "camara": true,
-    "especiales": [],
+    "especiales": [
+      "Apple"
+    ],
     "plan": "basico"
   }
 ]
