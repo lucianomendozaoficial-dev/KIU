@@ -11024,5 +11024,29 @@
       "Netflix"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 434,
+    "nombre": "Azrael",
+    "generos": [
+      "Acción",
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "En un mundo del que nadie habla, una devota persigue a una joven que ha escapado de su encierro. Recapturada por sus despiadados líderes, Azrael debe ser sacrificada para apaciguar un antiguo mal en lo más profundo de las tierras salvajes que la rodean.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 5.8,
+    "rating_updated": "2026-10-12T23:00:04.880Z",
+    "tmdb_id": 1029235,
+    "portada": "https://image.tmdb.org/t/p/original/ugYHoMd7XMMTpOA9P9ZMUosivf6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/np58LPJkwC3THsKBkBscDKSlQPz.jpg",
+    "embed": "https://fastream.to/embed-nrcb9shzshsb.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [],
+    "plan": "estandar"
   }
 ]
