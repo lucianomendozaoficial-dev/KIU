@@ -10752,5 +10752,30 @@
       "Apple"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 423,
+    "nombre": "A Very Jonas Christmas Movie",
+    "generos": [
+      "Comedia",
+      "Música"
+    ],
+    "descripcion": "Los Hermanos Jonas luchan por llegar a casa para pasar Navidad con sus familias.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6.2,
+    "rating_updated": "2026-10-12T22:38:45.654Z",
+    "tmdb_id": 1425122,
+    "portada": "https://image.tmdb.org/t/p/original/rQp9P3CigiN3bgNm0NkYoSl3bMv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ajYw16ISz3qsdYTg4zy5rob1iAQ.jpg",
+    "embed": "https://fastream.to/embed-rq6suk8t7qxp.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "estandar"
   }
 ]
