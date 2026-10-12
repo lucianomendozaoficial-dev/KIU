@@ -10877,5 +10877,27 @@
       "Anime"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 428,
+    "nombre": "Piglet",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "En lo profundo de las remotas colinas de los Apalaches, vive de forma solitaria Piglet, hijo de un carnicero otrora trabajador y marcado por la tragedia, cuya tranquilidad se ve truncada cuando unos millennials hambrientos de fama invaden sus tierras. En un absurdo intento de explotación, uno de ellos mata al querido cerdo de Piglet. Lo que no saben es que acaban de provocar la ira de un asesino vengativo. Indignado, Piglet despacha brutalmente a los intrusos uno a uno.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6.1,
+    "rating_updated": "2026-10-12T22:50:26.284Z",
+    "tmdb_id": 1352774,
+    "portada": "https://image.tmdb.org/t/p/original/d3rGCISyJqlOr5ZyY461BzNhfTP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tehewlwOPFDDf4syutyopaY23AY.jpg",
+    "embed": "https://fastream.to/embed-ayzbjksqmxhc.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [],
+    "plan": "estandar"
   }
 ]
