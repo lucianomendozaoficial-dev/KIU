@@ -708,5 +708,45 @@
         ]
       }
     ]
+  },
+  {
+    "id": 17,
+    "nombre": "Delirio Mortal",
+    "generos": [
+      "Crimen",
+      "Misterio",
+      "Drama"
+    ],
+    "descripcion": "Una profesora de un pueblo pequeño (Wan) intenta probar la inocencia de su padre (Narong), quien se convierte en el principal sospechoso de un asesinato mientras lidia con demencia y oscuros rumores sobre la leyenda local del \"Phii Pong\".",
+    "año": 2026,
+    "duracion": "N/A",
+    "rating": 7.4,
+    "rating_updated": "2026-10-12T21:51:29.387Z",
+    "tmdb_id": 331979,
+    "portada": "https://image.tmdb.org/t/p/original/aJboceWct3FYptVPavlhUOjiiSe.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cae4gjklRHnzQTmVCxpZnOdPw71.jpg",
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "estandar",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://fastream.to/embed-ner366qmbhiy.html"
+          },
+          {
+            "nombre": "C2",
+            "embed": "https://fastream.to/embed-n21nu7tpnptu.html"
+          }
+        ]
+      }
+    ]
   }
 ]
