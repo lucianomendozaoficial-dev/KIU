@@ -52,5 +52,19 @@
       "Familia"
     ],
     "trailer": "https://www.youtube.com/watch?v=-pdCvr2sQw4"
+  },
+  {
+    "id": "prox-5",
+    "nombre": "Hora de Aventura: Misiones Secundarias",
+    "portada": "https://image.tmdb.org/t/p/original/cRJjadzYF43HLPZlw4Vr3UeU9vB.jpg",
+    "estreno": "2026-06-29",
+    "tipo": "serie",
+    "descripcion": "",
+    "generos": [
+      "Animación",
+      "Action & adventure",
+      "Sci-fi & fantasy"
+    ],
+    "trailer": "https://www.youtube.com/embed/WFf20q1V96k?si=yRIsMmZC_md3zZ17"
   }
 ]
