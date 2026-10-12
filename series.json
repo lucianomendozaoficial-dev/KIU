@@ -655,7 +655,7 @@
     ],
     "descripcion": "",
     "año": 2026,
-    "duracion": "",
+    "duracion": "N/A",
     "rating": "",
     "rating_updated": "",
     "tmdb_id": null,
@@ -665,8 +665,48 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "especiales": [],
-    "plan": "basico",
-    "temporadas": []
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "estandar",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://fastream.to/embed-z6kx19g1g0gf.html"
+          },
+          {
+            "nombre": "C2",
+            "embed": "https://fastream.to/embed-stubkff3smx9.html"
+          },
+          {
+            "nombre": "C3",
+            "embed": "https://fastream.to/embed-mxarlcr4xrn8.html"
+          },
+          {
+            "nombre": "C4",
+            "embed": "https://fastream.to/embed-eemg9z6ysrc0.html"
+          },
+          {
+            "nombre": "C5",
+            "embed": "https://fastream.to/embed-7ckb0xr0bowz.html"
+          },
+          {
+            "nombre": "C6",
+            "embed": "https://fastream.to/embed-8vruxb3d9c5w.html"
+          },
+          {
+            "nombre": "C7",
+            "embed": "https://fastream.to/embed-i9a5l4pw2n6f.html"
+          },
+          {
+            "nombre": "C8",
+            "embed": "https://fastream.to/embed-kvv6cfpnro3e.html"
+          }
+        ]
+      }
+    ]
   }
 ]
