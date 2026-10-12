@@ -2927,7 +2927,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 116,
@@ -3027,7 +3027,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 120,
@@ -3147,7 +3147,7 @@
     "edad": "+16",
     "camara": true,
     "especiales": [],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 125,
@@ -3279,7 +3279,7 @@
     "especiales": [
       "Anime"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 130,
@@ -3716,7 +3716,7 @@
     "edad": "TP",
     "camara": true,
     "especiales": [],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 148,
@@ -4509,7 +4509,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 180,
@@ -4611,7 +4611,7 @@
       "Marvel",
       "Disney"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 184,
