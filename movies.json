@@ -10700,5 +10700,31 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 421,
+    "nombre": "Five Nights at Freddy's 2",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Un año después de los sucesos de Freddy Fazbear's Pizza, y con la llegada de un nuevo Faszfest al pueblo. Abby se escapa para reencontrarse con Freddy, Bonnie, Chica y Foxy con oscuros secretos revelándose.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-12T22:36:05.054Z",
+    "tmdb_id": 1228246,
+    "portada": "https://image.tmdb.org/t/p/original/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+    "embed": "https://fastream.to/embed-q2shway8ycwt.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Hbo",
+      "Apple"
+    ],
+    "plan": "estandar"
   }
 ]
