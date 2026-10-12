@@ -10998,5 +10998,31 @@
     "camara": false,
     "especiales": [],
     "plan": "estandar"
+  },
+  {
+    "id": 433,
+    "nombre": "Frankenstein",
+    "generos": [
+      "Drama",
+      "Fantasía",
+      "Terror"
+    ],
+    "descripcion": "El Dr. Victor Frankenstein, un científico brillante pero egoísta, da vida a una criatura en un monstruoso experimento que finalmente conduce a la ruina tanto del creador como de su trágica creación.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-10-12T22:57:49.472Z",
+    "tmdb_id": 1062722,
+    "portada": "https://image.tmdb.org/t/p/original/hTj8x0ElKldJyAjTYvaqxkQNxxN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+    "embed": "https://fastream.to/embed-omfo231r2h3f.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "estandar"
   }
 ]
