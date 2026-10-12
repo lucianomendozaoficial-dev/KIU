@@ -10674,5 +10674,31 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 420,
+    "nombre": "Shuffle of Love: A Descendants Short Story",
+    "generos": [
+      "Fantasía",
+      "Música",
+      "Familia"
+    ],
+    "descripcion": "",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-12T22:33:40.341Z",
+    "tmdb_id": 1420763,
+    "portada": "https://image.tmdb.org/t/p/original/qmwlCXNdSww6pkX0JDqGadpypoJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2CG1Y98tgwkgSpqKbeSS4dk73mE.jpg",
+    "embed": "https://fastream.to/embed-glm8kbtejulb.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
