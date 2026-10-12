@@ -11073,5 +11073,31 @@
       "Apple"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 436,
+    "nombre": "Hermanos",
+    "generos": [
+      "Drama",
+      "Suspenso",
+      "Bélica"
+    ],
+    "descripcion": "Remake del film danés de Susanne Bier, \"Brothers\" (2004). El condecorado capitán Sam Cahill es enviado a combatir en Afganistán. Unos meses después, el gobierno lo da por muerto o desaparecido. Tras conocer la noticia, su hermano Tommy se queda en Estados Unidos, cuidando de su cuñada y sus sobrinos. Con el tiempo, Tommy se gana su cariño y llega a sustituir a su hermano como marido y como padre. Pero un día reciben una noticia inesperada que perturbará sus vidas.",
+    "año": 2009,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-12T23:04:01.365Z",
+    "tmdb_id": 7445,
+    "portada": "https://image.tmdb.org/t/p/original/p9Vj7RQes8g1ruBz92vF1PVr4JC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xERofiEyzGekTNi3oIppQvdLDZB.jpg",
+    "embed": "https://fastream.to/embed-xh6tix4tvxw9.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "estandar"
   }
 ]
