@@ -82,5 +82,17 @@
     "debePagar": "$3.000",
     "descripcion": "",
     "renueva": false
+  },
+  {
+    "id": 9,
+    "nombre": "Cristian@kiu.com",
+    "password": "2026",
+    "dni": "",
+    "nombreCompleto": "Cristian vidal",
+    "fechaExpiracion": "2026-10-12",
+    "plan": "estandar",
+    "debePagar": "$3.000",
+    "descripcion": "+54 9 11 4948-3203",
+    "renueva": false
   }
 ]
