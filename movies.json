@@ -10543,5 +10543,29 @@
     "camara": true,
     "especiales": [],
     "plan": "basico"
+  },
+  {
+    "id": 415,
+    "nombre": "Amsterdamned II",
+    "generos": [
+      "Acción",
+      "Suspenso",
+      "Terror"
+    ],
+    "descripcion": "",
+    "año": 2025,
+    "duracion": "",
+    "rating": 5.3,
+    "rating_updated": "2026-10-12T21:33:08.247Z",
+    "tmdb_id": 1179684,
+    "portada": "https://image.tmdb.org/t/p/original/n2khdqaemwJhhu8tDdaxbSIex6T.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qV3NFmHbLiYYNBiPaG2v2iZWGM.jpg",
+    "embed": "https://fastream.to/embed-uwacqjr2t63k.html",
+    "tipo": "pelicula",
+    "idioma": "Castellano",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
   }
 ]
