@@ -58,5 +58,17 @@
     "debePagar": "Gratis",
     "descripcion": "",
     "renueva": false
+  },
+  {
+    "id": 7,
+    "nombre": "Jorgelopez@kiu.com",
+    "password": "2026",
+    "dni": "",
+    "nombreCompleto": "Jorge lopez",
+    "fechaExpiracion": "2026-10-12",
+    "plan": "estandar",
+    "debePagar": "Prueba",
+    "descripcion": "",
+    "renueva": false
   }
 ]
