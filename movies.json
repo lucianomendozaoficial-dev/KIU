@@ -9754,7 +9754,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 385,
@@ -9806,7 +9806,7 @@
     "especiales": [
       "Anime"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 387,
@@ -9941,7 +9941,7 @@
       "Netflix",
       "Apple"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 392,
@@ -10149,7 +10149,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "estandar"
+    "plan": "basico"
   },
   {
     "id": 400,
