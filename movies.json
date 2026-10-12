@@ -26,7 +26,7 @@
       "Hbo",
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 2,
@@ -54,7 +54,7 @@
       "Marvel",
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 3,
@@ -82,7 +82,7 @@
       "Marvel",
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 4,
@@ -108,7 +108,7 @@
       "Prime Video",
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 5,
@@ -135,7 +135,7 @@
       "Marvel",
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 6,
@@ -162,7 +162,7 @@
       "Marvel",
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 7,
@@ -186,7 +186,7 @@
     "edad": "+13",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 8,
@@ -213,7 +213,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 9,
@@ -234,7 +234,7 @@
     "tmdb_id": 523139,
     "rating": 5.6,
     "rating_updated": "2026-10-11T18:01:57.629Z",
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Netflix"
     ]
@@ -260,7 +260,7 @@
     "tmdb_id": 962232,
     "rating": 7.9,
     "rating_updated": "2026-10-11T18:01:57.851Z",
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Netflix"
     ]
@@ -285,7 +285,7 @@
     "tmdb_id": 318846,
     "rating": 7.4,
     "rating_updated": "2026-10-11T18:01:58.160Z",
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Paramount"
     ]
@@ -315,7 +315,7 @@
       "Marvel",
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 13,
@@ -337,7 +337,7 @@
     "tmdb_id": 291805,
     "rating": 6.8,
     "rating_updated": "2026-10-11T18:01:58.628Z",
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": []
   },
   {
@@ -360,7 +360,7 @@
     "tmdb_id": 671,
     "rating": 7.9,
     "rating_updated": "2026-10-11T18:01:58.857Z",
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Hbo"
     ]
@@ -386,7 +386,7 @@
     "idioma": "Español (Latino)",
     "edad": "+13",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Disney"
     ]
@@ -411,7 +411,7 @@
     "idioma": "Español (Latino)",
     "edad": "+13",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Netflix"
     ]
@@ -437,7 +437,7 @@
     "idioma": "Español (Latino)",
     "edad": "+16",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Disney"
     ]
@@ -463,7 +463,7 @@
     "idioma": "Español (Latino)",
     "edad": "+13",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Prime Video"
     ]
@@ -487,7 +487,7 @@
     "idioma": "Español (Latino)",
     "edad": "TP",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Prime Video"
     ]
@@ -515,7 +515,7 @@
     "idioma": "Español (Latino)",
     "edad": "TP",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Prime Video"
     ]
@@ -542,7 +542,7 @@
     "idioma": "Español (Latino)",
     "edad": "TP",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Netflix"
     ]
@@ -567,7 +567,7 @@
     "idioma": "Español (Latino)",
     "edad": "+13",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": []
   },
   {
@@ -591,7 +591,7 @@
     "idioma": "Español (Latino)",
     "edad": "+16",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Prime Video"
     ]
@@ -617,7 +617,7 @@
     "idioma": "Español (Latino)",
     "edad": "+16",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": []
   },
   {
@@ -641,7 +641,7 @@
     "idioma": "Español (Latino)",
     "edad": "+18",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Prime Video"
     ]
@@ -669,7 +669,7 @@
     "idioma": "Español (Latino)",
     "edad": "",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Disney"
     ]
@@ -695,7 +695,7 @@
     "idioma": "Español (Latino)",
     "edad": "+18",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Netflix"
     ]
@@ -721,7 +721,7 @@
     "idioma": "Español (Latino)",
     "edad": "TP",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": []
   },
   {
@@ -746,7 +746,7 @@
     "idioma": "Español (Latino)",
     "edad": "+18",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Hbo"
     ]
@@ -775,7 +775,7 @@
     "idioma": "Español (Latino)",
     "edad": "TP",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Hbo"
     ]
@@ -800,7 +800,7 @@
     "idioma": "Español (Latino)",
     "edad": "+18",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Prime Video"
     ]
@@ -827,7 +827,7 @@
     "idioma": "Español (Latino)",
     "edad": "+18",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Hbo"
     ]
@@ -854,7 +854,7 @@
     "idioma": "Español (Latino)",
     "edad": "TP",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Disney"
     ]
@@ -880,7 +880,7 @@
     "idioma": "Español (Latino)",
     "edad": "+13",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": []
   },
   {
@@ -904,7 +904,7 @@
     "idioma": "Español (Latino)",
     "edad": "+13",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": []
   },
   {
@@ -928,7 +928,7 @@
     "idioma": "Español (Latino)",
     "edad": "+16",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": []
   },
   {
@@ -952,7 +952,7 @@
     "idioma": "Español (Latino)",
     "edad": "+13",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": []
   },
   {
@@ -975,7 +975,7 @@
     "idioma": "Español (Latino)",
     "edad": "+16",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": [
       "Hbo"
     ]
@@ -1002,7 +1002,7 @@
     "idioma": "Español (Latino)",
     "edad": "+13",
     "camara": false,
-    "plan": "basico",
+    "plan": "estandar",
     "especiales": []
   },
   {
@@ -1029,7 +1029,7 @@
       "Marvel",
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 41,
@@ -1055,7 +1055,7 @@
       "Netflix",
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 42,
@@ -1079,7 +1079,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 43,
@@ -1103,7 +1103,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 44,
@@ -1127,7 +1127,7 @@
     "edad": "+13",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 45,
@@ -1154,7 +1154,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 46,
@@ -1181,7 +1181,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 47,
@@ -1208,7 +1208,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 48,
@@ -1234,7 +1234,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 49,
@@ -1262,7 +1262,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 50,
@@ -1288,7 +1288,7 @@
       "Hbo",
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 51,
@@ -1314,7 +1314,7 @@
       "Hbo",
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 52,
@@ -1340,7 +1340,7 @@
       "Hbo",
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 53,
@@ -1366,7 +1366,7 @@
       "Hbo",
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 54,
@@ -1392,7 +1392,7 @@
       "Netflix",
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 55,
@@ -1419,7 +1419,7 @@
       "Hbo",
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 56,
@@ -1442,7 +1442,7 @@
     "edad": "TP",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 57,
@@ -1467,7 +1467,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 58,
@@ -1492,7 +1492,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 59,
@@ -1517,7 +1517,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 60,
@@ -1544,7 +1544,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 61,
@@ -1569,7 +1569,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 62,
@@ -1595,7 +1595,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 63,
@@ -1620,7 +1620,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 64,
@@ -1647,7 +1647,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 65,
@@ -1673,7 +1673,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 66,
@@ -1700,7 +1700,7 @@
       "Marvel",
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 67,
@@ -1722,7 +1722,7 @@
     "edad": "",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 68,
@@ -1747,7 +1747,7 @@
     "especiales": [
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 69,
@@ -1773,7 +1773,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 70,
@@ -1799,7 +1799,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 71,
@@ -1823,7 +1823,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 72,
@@ -1849,7 +1849,7 @@
       "Netflix",
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 73,
@@ -1876,7 +1876,7 @@
       "Prime Video",
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 74,
@@ -1901,7 +1901,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 75,
@@ -1926,7 +1926,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 76,
@@ -1953,7 +1953,7 @@
       "Disney",
       "Marvel"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 77,
@@ -1980,7 +1980,7 @@
       "Marvel",
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 78,
@@ -2008,7 +2008,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 79,
@@ -2033,7 +2033,7 @@
       "Prime Video",
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 80,
@@ -2059,7 +2059,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 81,
@@ -2085,7 +2085,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 82,
@@ -2111,7 +2111,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 83,
@@ -2136,7 +2136,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 84,
@@ -2159,7 +2159,7 @@
     "edad": "",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 85,
@@ -2183,7 +2183,7 @@
     "edad": "+13",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 86,
@@ -2208,7 +2208,7 @@
       "Netflix",
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 87,
@@ -2233,7 +2233,7 @@
       "Netflix",
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 88,
@@ -2258,7 +2258,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 89,
@@ -2284,7 +2284,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 90,
@@ -2310,7 +2310,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 92,
@@ -2335,7 +2335,7 @@
     "edad": "TP",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 93,
@@ -2358,7 +2358,7 @@
     "edad": "+7",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 94,
@@ -2384,7 +2384,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 95,
@@ -2410,7 +2410,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 96,
@@ -2439,7 +2439,7 @@
       "Marvel",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 97,
@@ -2467,7 +2467,7 @@
       "Prime Video",
       "Marvel"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 98,
@@ -2490,7 +2490,7 @@
     "edad": "TP",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 99,
@@ -2516,7 +2516,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 100,
@@ -2541,7 +2541,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 101,
@@ -2566,7 +2566,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 102,
@@ -2592,7 +2592,7 @@
     "edad": "TP",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 103,
@@ -2619,7 +2619,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 104,
@@ -2646,7 +2646,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 105,
@@ -2673,7 +2673,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 106,
@@ -2699,7 +2699,7 @@
     "especiales": [
       "Paramount"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 107,
@@ -2723,7 +2723,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 108,
@@ -2749,7 +2749,7 @@
       "Apple",
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 109,
@@ -2775,7 +2775,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 110,
@@ -2801,7 +2801,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 111,
@@ -2826,7 +2826,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 112,
@@ -2851,7 +2851,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 113,
@@ -2876,7 +2876,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 114,
@@ -2901,7 +2901,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 115,
@@ -2927,7 +2927,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 116,
@@ -2951,7 +2951,7 @@
     "especiales": [
       "Vix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 117,
@@ -2977,7 +2977,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 118,
@@ -3002,7 +3002,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 119,
@@ -3027,7 +3027,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 120,
@@ -3050,7 +3050,7 @@
     "edad": "+16",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 121,
@@ -3075,7 +3075,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 122,
@@ -3097,7 +3097,7 @@
     "edad": "+16",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 123,
@@ -3123,7 +3123,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 124,
@@ -3147,7 +3147,7 @@
     "edad": "+16",
     "camara": true,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 125,
@@ -3173,7 +3173,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 126,
@@ -3198,7 +3198,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 127,
@@ -3226,7 +3226,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 128,
@@ -3252,7 +3252,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 129,
@@ -3279,7 +3279,7 @@
     "especiales": [
       "Anime"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 130,
@@ -3303,7 +3303,7 @@
     "edad": "TP",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 131,
@@ -3326,7 +3326,7 @@
     "edad": "+13",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 132,
@@ -3352,7 +3352,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 133,
@@ -3380,7 +3380,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 134,
@@ -3406,7 +3406,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 135,
@@ -3432,7 +3432,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 136,
@@ -3457,7 +3457,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 137,
@@ -3483,7 +3483,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 138,
@@ -3509,7 +3509,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 139,
@@ -3537,7 +3537,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 140,
@@ -3563,7 +3563,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 141,
@@ -3586,7 +3586,7 @@
     "edad": "+13",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 142,
@@ -3613,7 +3613,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 143,
@@ -3639,7 +3639,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 144,
@@ -3664,7 +3664,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 145,
@@ -3690,7 +3690,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 147,
@@ -3716,7 +3716,7 @@
     "edad": "TP",
     "camara": true,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 148,
@@ -3743,7 +3743,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 150,
@@ -3768,7 +3768,7 @@
     "edad": "+16",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 151,
@@ -3794,7 +3794,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 152,
@@ -3821,7 +3821,7 @@
       "Prime Video",
       "Marvel"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 153,
@@ -3845,7 +3845,7 @@
     "edad": "+18",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 154,
@@ -3867,7 +3867,7 @@
     "edad": "+16",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 155,
@@ -3893,7 +3893,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 156,
@@ -3921,7 +3921,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 157,
@@ -3946,7 +3946,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 158,
@@ -3972,7 +3972,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 159,
@@ -3999,7 +3999,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 160,
@@ -4022,7 +4022,7 @@
     "edad": "+13",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 161,
@@ -4048,7 +4048,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 162,
@@ -4075,7 +4075,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 163,
@@ -4103,7 +4103,7 @@
       "Netflix",
       "Anime"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 164,
@@ -4129,7 +4129,7 @@
     "especiales": [
       "Navidad"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 165,
@@ -4155,7 +4155,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 166,
@@ -4181,7 +4181,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 167,
@@ -4209,7 +4209,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 168,
@@ -4233,7 +4233,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 169,
@@ -4260,7 +4260,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 170,
@@ -4284,7 +4284,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 171,
@@ -4308,7 +4308,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 172,
@@ -4330,7 +4330,7 @@
     "edad": "+16",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 173,
@@ -4356,7 +4356,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 174,
@@ -4382,7 +4382,7 @@
     "especiales": [
       "Paramount"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 175,
@@ -4407,7 +4407,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 176,
@@ -4430,7 +4430,7 @@
     "edad": "+13",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 177,
@@ -4455,7 +4455,7 @@
       "Netflix",
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 178,
@@ -4481,7 +4481,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 179,
@@ -4509,7 +4509,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 180,
@@ -4536,7 +4536,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 181,
@@ -4560,7 +4560,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 182,
@@ -4584,7 +4584,7 @@
     "edad": "+13",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 183,
@@ -4611,7 +4611,7 @@
       "Marvel",
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 184,
@@ -4634,7 +4634,7 @@
     "edad": "+16",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 185,
@@ -4657,7 +4657,7 @@
     "edad": "+16",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 186,
@@ -4683,7 +4683,7 @@
     "especiales": [
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 187,
@@ -4708,7 +4708,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 188,
@@ -4735,7 +4735,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 189,
@@ -4762,7 +4762,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 190,
@@ -4786,7 +4786,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 191,
@@ -4811,7 +4811,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 192,
@@ -4836,7 +4836,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 193,
@@ -4861,7 +4861,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 194,
@@ -4884,7 +4884,7 @@
     "edad": "+13",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 195,
@@ -4912,7 +4912,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 196,
@@ -4940,7 +4940,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 197,
@@ -4968,7 +4968,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 198,
@@ -4993,7 +4993,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 199,
@@ -5019,7 +5019,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 200,
@@ -5045,7 +5045,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 201,
@@ -5069,7 +5069,7 @@
     "especiales": [
       "Paramount"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 202,
@@ -5093,7 +5093,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 203,
@@ -5119,7 +5119,7 @@
       "Prime Video",
       "Navidad"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 204,
@@ -5144,7 +5144,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 205,
@@ -5170,7 +5170,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 206,
@@ -5194,7 +5194,7 @@
     "edad": "+13",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 207,
@@ -5220,7 +5220,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 208,
@@ -5243,7 +5243,7 @@
     "edad": "+16",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 209,
@@ -5267,7 +5267,7 @@
     "edad": "+7",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 210,
@@ -5292,7 +5292,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 211,
@@ -5319,7 +5319,7 @@
       "Marvel",
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 212,
@@ -5344,7 +5344,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 213,
@@ -5370,7 +5370,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 214,
@@ -5396,7 +5396,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 215,
@@ -5420,7 +5420,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 216,
@@ -5445,7 +5445,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 217,
@@ -5470,7 +5470,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 218,
@@ -5495,7 +5495,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 219,
@@ -5522,7 +5522,7 @@
     "especiales": [
       "Anime"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 220,
@@ -5548,7 +5548,7 @@
     "edad": "TP",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 221,
@@ -5574,7 +5574,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 222,
@@ -5598,7 +5598,7 @@
     "edad": "+13",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 223,
@@ -5622,7 +5622,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 224,
@@ -5646,7 +5646,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 225,
@@ -5672,7 +5672,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 226,
@@ -5697,7 +5697,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 227,
@@ -5724,7 +5724,7 @@
       "Marvel",
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 228,
@@ -5749,7 +5749,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 229,
@@ -5776,7 +5776,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 230,
@@ -5804,7 +5804,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 231,
@@ -5831,7 +5831,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 232,
@@ -5858,7 +5858,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 233,
@@ -5885,7 +5885,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 234,
@@ -5912,7 +5912,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 235,
@@ -5940,7 +5940,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 236,
@@ -5965,7 +5965,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 238,
@@ -5988,7 +5988,7 @@
     "edad": "+13",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 239,
@@ -6014,7 +6014,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 240,
@@ -6040,7 +6040,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 241,
@@ -6065,7 +6065,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 242,
@@ -6091,7 +6091,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 243,
@@ -6114,7 +6114,7 @@
     "edad": "+16",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 244,
@@ -6141,7 +6141,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 245,
@@ -6167,7 +6167,7 @@
       "Disney",
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 246,
@@ -6191,7 +6191,7 @@
     "especiales": [
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 247,
@@ -6216,7 +6216,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 248,
@@ -6241,7 +6241,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 249,
@@ -6266,7 +6266,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 250,
@@ -6292,7 +6292,7 @@
     "edad": "+16",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 251,
@@ -6317,7 +6317,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 252,
@@ -6339,7 +6339,7 @@
     "edad": "",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 253,
@@ -6364,7 +6364,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 254,
@@ -6390,7 +6390,7 @@
     "especiales": [
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 255,
@@ -6415,7 +6415,7 @@
     "especiales": [
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 256,
@@ -6439,7 +6439,7 @@
     "edad": "+16",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 257,
@@ -6466,7 +6466,7 @@
       "Apple",
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 258,
@@ -6494,7 +6494,7 @@
       "Apple",
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 259,
@@ -6521,7 +6521,7 @@
     "especiales": [
       "Paramount"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 260,
@@ -6548,7 +6548,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 261,
@@ -6573,7 +6573,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 262,
@@ -6598,7 +6598,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 263,
@@ -6623,7 +6623,7 @@
     "especiales": [
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 264,
@@ -6650,7 +6650,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 265,
@@ -6679,7 +6679,7 @@
       "Netflix",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 266,
@@ -6705,7 +6705,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 267,
@@ -6730,7 +6730,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 268,
@@ -6756,7 +6756,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 269,
@@ -6783,7 +6783,7 @@
       "Apple",
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 270,
@@ -6807,7 +6807,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 271,
@@ -6833,7 +6833,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 272,
@@ -6860,7 +6860,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 273,
@@ -6887,7 +6887,7 @@
       "Apple",
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 274,
@@ -6915,7 +6915,7 @@
       "Netflix",
       "Anime"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 275,
@@ -6939,7 +6939,7 @@
     "especiales": [
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 276,
@@ -6964,7 +6964,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 277,
@@ -6989,7 +6989,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 278,
@@ -7016,7 +7016,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 279,
@@ -7043,7 +7043,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 280,
@@ -7068,7 +7068,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 281,
@@ -7095,7 +7095,7 @@
       "Disney",
       "Navidad"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 282,
@@ -7122,7 +7122,7 @@
       "Disney",
       "Navidad"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 283,
@@ -7149,7 +7149,7 @@
       "Disney",
       "Navidad"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 284,
@@ -7174,7 +7174,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 285,
@@ -7199,7 +7199,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 286,
@@ -7223,7 +7223,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 287,
@@ -7249,7 +7249,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 288,
@@ -7276,7 +7276,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 289,
@@ -7300,7 +7300,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 290,
@@ -7325,7 +7325,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 291,
@@ -7351,7 +7351,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 292,
@@ -7376,7 +7376,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 293,
@@ -7402,7 +7402,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 294,
@@ -7428,7 +7428,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 295,
@@ -7452,7 +7452,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 296,
@@ -7478,7 +7478,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 297,
@@ -7505,7 +7505,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 298,
@@ -7531,7 +7531,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 299,
@@ -7556,7 +7556,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 300,
@@ -7580,7 +7580,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 301,
@@ -7606,7 +7606,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 302,
@@ -7631,7 +7631,7 @@
       "Prime Video",
       "Paramount"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 303,
@@ -7660,7 +7660,7 @@
       "Apple",
       "Anime"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 304,
@@ -7686,7 +7686,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 305,
@@ -7714,7 +7714,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 306,
@@ -7739,7 +7739,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 307,
@@ -7764,7 +7764,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 308,
@@ -7790,7 +7790,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 309,
@@ -7816,7 +7816,7 @@
     "especiales": [
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 310,
@@ -7844,7 +7844,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 311,
@@ -7870,7 +7870,7 @@
     "especiales": [
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 312,
@@ -7895,7 +7895,7 @@
     "especiales": [
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 313,
@@ -7920,7 +7920,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 314,
@@ -7947,7 +7947,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 315,
@@ -7973,7 +7973,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 316,
@@ -7997,7 +7997,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 317,
@@ -8023,7 +8023,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 318,
@@ -8046,7 +8046,7 @@
     "edad": "+13",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 319,
@@ -8071,7 +8071,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 320,
@@ -8096,7 +8096,7 @@
     "especiales": [
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 321,
@@ -8121,7 +8121,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 322,
@@ -8146,7 +8146,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 323,
@@ -8171,7 +8171,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 324,
@@ -8197,7 +8197,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 325,
@@ -8223,7 +8223,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 326,
@@ -8249,7 +8249,7 @@
       "Hbo",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 327,
@@ -8276,7 +8276,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 328,
@@ -8303,7 +8303,7 @@
       "Marvel",
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 329,
@@ -8328,7 +8328,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 330,
@@ -8354,7 +8354,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 331,
@@ -8380,7 +8380,7 @@
       "Apple",
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 332,
@@ -8405,7 +8405,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 333,
@@ -8430,7 +8430,7 @@
     "especiales": [
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 334,
@@ -8456,7 +8456,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 335,
@@ -8482,7 +8482,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 336,
@@ -8508,7 +8508,7 @@
       "Prime Video",
       "Vix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 337,
@@ -8533,7 +8533,7 @@
     "especiales": [
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 338,
@@ -8557,7 +8557,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 339,
@@ -8583,7 +8583,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 340,
@@ -8610,7 +8610,7 @@
     "especiales": [
       "Paramount"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 341,
@@ -8634,7 +8634,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 342,
@@ -8660,7 +8660,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 343,
@@ -8684,7 +8684,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 344,
@@ -8709,7 +8709,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 345,
@@ -8736,7 +8736,7 @@
       "Hbo",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 346,
@@ -8761,7 +8761,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 347,
@@ -8788,7 +8788,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 348,
@@ -8816,7 +8816,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 349,
@@ -8841,7 +8841,7 @@
     "especiales": [
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 350,
@@ -8865,7 +8865,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 351,
@@ -8890,7 +8890,7 @@
     "especiales": [
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 352,
@@ -8918,7 +8918,7 @@
       "Apple",
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 353,
@@ -8942,7 +8942,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 354,
@@ -8968,7 +8968,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 355,
@@ -8994,7 +8994,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 356,
@@ -9020,7 +9020,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 357,
@@ -9046,7 +9046,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 358,
@@ -9072,7 +9072,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 359,
@@ -9097,7 +9097,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 360,
@@ -9125,7 +9125,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 361,
@@ -9152,7 +9152,7 @@
       "Marvel",
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 362,
@@ -9178,7 +9178,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 363,
@@ -9206,7 +9206,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 364,
@@ -9233,7 +9233,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 365,
@@ -9260,7 +9260,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 366,
@@ -9286,7 +9286,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 367,
@@ -9311,7 +9311,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 368,
@@ -9335,7 +9335,7 @@
     "edad": "TP",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 369,
@@ -9358,7 +9358,7 @@
     "edad": "+13",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 370,
@@ -9385,7 +9385,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 371,
@@ -9411,7 +9411,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 372,
@@ -9441,7 +9441,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 373,
@@ -9468,7 +9468,7 @@
       "Hbo",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 374,
@@ -9495,7 +9495,7 @@
       "Hbo",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 375,
@@ -9520,7 +9520,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 376,
@@ -9545,7 +9545,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 377,
@@ -9571,7 +9571,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 378,
@@ -9601,7 +9601,7 @@
       "Netflix",
       "Anime"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 379,
@@ -9628,7 +9628,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 380,
@@ -9654,7 +9654,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 381,
@@ -9678,7 +9678,7 @@
     "edad": "+13",
     "camara": false,
     "especiales": [],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 382,
@@ -9702,7 +9702,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 383,
@@ -9730,7 +9730,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 384,
@@ -9754,7 +9754,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 385,
@@ -9779,7 +9779,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 386,
@@ -9806,7 +9806,7 @@
     "especiales": [
       "Anime"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 387,
@@ -9832,7 +9832,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 388,
@@ -9858,7 +9858,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 389,
@@ -9884,7 +9884,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 390,
@@ -9910,7 +9910,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 391,
@@ -9941,7 +9941,7 @@
       "Netflix",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 392,
@@ -9966,7 +9966,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 393,
@@ -9992,7 +9992,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 394,
@@ -10018,7 +10018,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 395,
@@ -10042,7 +10042,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 396,
@@ -10067,7 +10067,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 397,
@@ -10095,7 +10095,7 @@
       "Netflix",
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 398,
@@ -10122,7 +10122,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 399,
@@ -10149,7 +10149,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 400,
@@ -10177,7 +10177,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 401,
@@ -10203,7 +10203,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 402,
@@ -10231,7 +10231,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 403,
@@ -10257,7 +10257,7 @@
     "especiales": [
       "Disney"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 404,
@@ -10284,7 +10284,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 405,
@@ -10311,7 +10311,7 @@
       "Prime Video",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 406,
@@ -10338,7 +10338,7 @@
       "Apple",
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 407,
@@ -10362,7 +10362,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 408,
@@ -10388,7 +10388,7 @@
       "Netflix",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 409,
@@ -10416,7 +10416,7 @@
       "Netflix",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "estandar"
   },
   {
     "id": 410,
