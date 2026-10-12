@@ -644,5 +644,29 @@
         ]
       }
     ]
+  },
+  {
+    "id": 16,
+    "nombre": "Hora de Aventura: Misiones Secundarias",
+    "generos": [
+      "Animación",
+      "Action & adventure",
+      "Sci-fi & fantasy"
+    ],
+    "descripcion": "",
+    "año": 2026,
+    "duracion": "",
+    "rating": "",
+    "rating_updated": "",
+    "tmdb_id": null,
+    "portada": "https://image.tmdb.org/t/p/original/cRJjadzYF43HLPZlw4Vr3UeU9vB.jpg",
+    "banner": "",
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico",
+    "temporadas": []
   }
 ]
