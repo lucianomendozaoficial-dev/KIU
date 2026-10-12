@@ -46,5 +46,17 @@
     "debePagar": "24hs",
     "descripcion": "Prueba gratis de 24hs",
     "renueva": false
+  },
+  {
+    "id": 6,
+    "nombre": "Mariomartos@kiu.com",
+    "password": "2026",
+    "dni": "",
+    "nombreCompleto": "Mario martos",
+    "fechaExpiracion": "2026-10-12",
+    "plan": "estandar",
+    "debePagar": "24HS",
+    "descripcion": "+54 9 3876 34-4386 | Prueba de 24hs",
+    "renueva": false
   }
 ]
