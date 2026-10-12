@@ -10594,5 +10594,33 @@
       "Apple"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 417,
+    "nombre": "Operación Sombra",
+    "generos": [
+      "Acción",
+      "Crimen",
+      "Drama",
+      "Suspenso"
+    ],
+    "descripcion": "Unos astutos y traicioneros ladrones desafian a la Policía Judicial de Macao. La Policía, que se encontraba en una dura batalla, invita de nuevo al experto en rastreo Huang De Zhong, retirado desde hace muchos años, a unir fuerzas con la joven élite del Departamento de Investigación Criminal de la Policía Judicial. Bajo la colisión de las técnicas tradicionales de rastreo y la alta tecnología, la policía y los criminales luchan con ingenio y valentía, y se lanzan a un duelo entre el bien y el mal parecido al juego del gato y el ratón.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 8.3,
+    "rating_updated": "2026-10-12T22:27:19.697Z",
+    "tmdb_id": 1419406,
+    "portada": "https://image.tmdb.org/t/p/original/wjlVzxQ0qKgrwm66nc6nRnxWJ3J.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+    "embed": "https://fastream.to/embed-t23oq65mxm54.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Apple",
+      "Prime Video"
+    ],
+    "plan": "estandar"
   }
 ]
