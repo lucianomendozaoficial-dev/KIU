@@ -10777,5 +10777,29 @@
       "Disney"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 424,
+    "nombre": "Especial Belleza Fatal",
+    "generos": [
+      "Documental"
+    ],
+    "descripcion": "Las estrellas de Belleza Fatal se reúnen en la mansión Argento por primera vez tras el final de la telenovela para revivir momentos inolvidables.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 10,
+    "rating_updated": "2026-10-12T22:40:05.444Z",
+    "tmdb_id": 1598778,
+    "portada": "https://image.tmdb.org/t/p/original/nXlmi60bayyqqJY85Fx9nKkRogp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eVAqRHbLnRD03xyVgG7wtNJY9RW.jpg",
+    "embed": "https://fastream.to/embed-rvh7ba3kjo70.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "estandar"
   }
 ]
