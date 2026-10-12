@@ -10823,5 +10823,32 @@
     "camara": false,
     "especiales": [],
     "plan": "estandar"
+  },
+  {
+    "id": 426,
+    "nombre": "El Aprendiz",
+    "generos": [
+      "Historia",
+      "Drama",
+      "Comedia"
+    ],
+    "descripcion": "Un joven Donald Trump, ansioso por hacerse un nombre como heredero hambriento de una familia adinerada en la Nueva York de los años 70, cae bajo el hechizo de Roy Cohn, el abogado despiadado que ayudaría a crear al Donald Trump que conocemos hoy.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-10-12T22:42:07.721Z",
+    "tmdb_id": 1182047,
+    "portada": "https://image.tmdb.org/t/p/original/iza8xVlP2apUdHxaioFWICV8hiV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kv9xVrxfLpudBLyYf1QvLCpUQuy.jpg",
+    "embed": "https://fastream.to/embed-g1aulw3w3jsi.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "estandar"
   }
 ]
