@@ -10899,5 +10899,28 @@
     "camara": false,
     "especiales": [],
     "plan": "estandar"
+  },
+  {
+    "id": 429,
+    "nombre": "Operación Panda: Misión rescate",
+    "generos": [
+      "Acción",
+      "Comedia"
+    ],
+    "descripcion": "Poco después de que la legendaria estrella del kung fu Jackie Chan sea invitada a adoptar a un querido panda del zoo llamado Hu Hu, un famoso sindicato del crimen internacional pone sus ojos en el famoso oso y ofrece una enorme recompensa por su captura. Ante esta repentina crisis, Jackie Chan recurre a la ayuda de su agente y del feroz cuidador de Hu Hu, y el trío se embarca en una aventura en la que intentarán ser más listos que los malos en todo momento.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-12T22:51:20.024Z",
+    "tmdb_id": 1160956,
+    "portada": "https://image.tmdb.org/t/p/original/bnfnruEYFhANxt4O5WD8yxjaAPP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8cc4AypHsnqcCQeIIpNoh6Wrc5B.jpg",
+    "embed": "https://fastream.to/embed-y5kkaihfp9a6.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [],
+    "plan": "estandar"
   }
 ]
