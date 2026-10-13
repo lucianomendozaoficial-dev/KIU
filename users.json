@@ -106,5 +106,17 @@
     "debePagar": "$3.000",
     "descripcion": "Ivan Tio",
     "renueva": false
+  },
+  {
+    "id": 11,
+    "nombre": "Pedro@kiu.com",
+    "password": "2026",
+    "dni": "",
+    "nombreCompleto": "Pedro Lezcano",
+    "fechaExpiracion": "2026-10-13",
+    "plan": "estandar",
+    "debePagar": "$3.000",
+    "descripcion": "+54 9 1130203526",
+    "renueva": false
   }
 ]
