@@ -813,5 +813,51 @@
         ]
       }
     ]
+  },
+  {
+    "id": 19,
+    "nombre": "Avatar: Los Siete Refugios",
+    "generos": [
+      "Animación",
+      "Action & adventure",
+      "Sci-fi & fantasy",
+      "Familia"
+    ],
+    "descripcion": "Tras un cataclismo global una niña descubre que es el nuevo Avatar - ahora señalada como la Destructora, no una salvadora. Cazada por humanos y espíritus, ella y su gemela perdida deben descubrir sus orígenes y salvar a la humanidad del colapso.",
+    "año": 2026,
+    "duracion": "N/A",
+    "rating": 8.8,
+    "rating_updated": "2026-10-13T23:35:21.553Z",
+    "tmdb_id": 284833,
+    "portada": "https://image.tmdb.org/t/p/original/iMs2rnOGZm37pdGkWGbEtNewvJv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "TP",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Anime"
+    ],
+    "plan": "estandar",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://fastream.to/embed-lqmbzt7ryjvq.html"
+          },
+          {
+            "nombre": "C2",
+            "embed": "https://fastream.to/embed-6ig3l5fxh1rb.html"
+          },
+          {
+            "nombre": "C3",
+            "embed": "https://fastream.to/embed-asu329ce5fiv.html"
+          }
+        ]
+      }
+    ]
   }
 ]
