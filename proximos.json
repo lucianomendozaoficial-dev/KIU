@@ -66,5 +66,33 @@
       "Sci-fi & fantasy"
     ],
     "trailer": ""
+  },
+  {
+    "id": "prox-6",
+    "nombre": "Dragon Ball Super",
+    "portada": "https://image.tmdb.org/t/p/original/ruLBbIX15HrECgLJ3uZPo6X3YCN.jpg",
+    "estreno": "2015-07-05",
+    "tipo": "serie",
+    "descripcion": "La trama de la serie tiene lugar después de la batalla contra Pequeño Buu en medio del período de 10 años hacia el Torneo Mundial de las Artes Marciales 28. Está enlazada con las películas Dragon Ball Z: La Batalla de los Dioses y Dragon Ball Z: La Resurrección de F. La historia comienza a finales del Año 774, seis meses después de la derrota de Buu. La actual saga de Trunks del Futuro Alternativo ocurre el Año 780.",
+    "generos": [
+      "Animación",
+      "Action & adventure",
+      "Sci-fi & fantasy"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=zXmcLpH6Ulc"
+  },
+  {
+    "id": "prox-7",
+    "nombre": "El juego del calamar",
+    "portada": "https://image.tmdb.org/t/p/original/xx3Zurg2mVep7UhXAjeYuetOvsB.jpg",
+    "estreno": "2021-09-17",
+    "tipo": "serie",
+    "descripcion": "Cientos de jugadores cortos de dinero aceptan una extraña invitación a competir en juegos infantiles. Adentro les espera un premio irresistible... con un riesgo mortal.",
+    "generos": [
+      "Action & adventure",
+      "Misterio",
+      "Drama"
+    ],
+    "trailer": ""
   }
 ]
