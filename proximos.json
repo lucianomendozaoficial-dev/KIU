@@ -52,5 +52,19 @@
       "Familia"
     ],
     "trailer": "https://www.youtube.com/watch?v=-pdCvr2sQw4"
+  },
+  {
+    "id": "prox-5",
+    "nombre": "Dragon Ball Heroes",
+    "portada": "https://image.tmdb.org/t/p/original/79C1S70I2nR4o0WpVETIezT3jyG.jpg",
+    "estreno": "2018-07-01",
+    "tipo": "serie",
+    "descripcion": "Trunks regresa del futuro para entrenar con Goku y Vegeta. Sin embargo, desaparece sin previo aviso. Entonces el misterioso Fu irrumpe, diciéndoles que Trunks ha sido encarcelado en el Prison Planet, un misterioso complejo en un lugar desconocido en los universos. El grupo busca las bolas de dragón para liberar a Trunks, ¡pero les espera una batalla sin fin! ¿Goku y los demás rescatarán a Trunks y escaparán del Prison Planet?",
+    "generos": [
+      "Animación",
+      "Action & adventure",
+      "Sci-fi & fantasy"
+    ],
+    "trailer": ""
   }
 ]
