@@ -934,5 +934,61 @@
         ]
       }
     ]
+  },
+  {
+    "id": 20,
+    "nombre": "The Walking Dead: Sobrevivientes",
+    "generos": [
+      "Drama",
+      "Ciencia Ficción",
+      "Fantasía"
+    ],
+    "descripcion": "La historia de amor de Rick Grimes y Michonne cambia gracias a un mundo cambiado. Separados por la distancia. Por un poder imparable. ¿Podrán encontrarse y descubrir quiénes eran en una situación diferente a cualquier otra que hayan conocido?",
+    "año": 2024,
+    "duracion": "N/A",
+    "rating": 8,
+    "rating_updated": "2026-10-13T23:57:05.113Z",
+    "tmdb_id": 206586,
+    "portada": "https://image.tmdb.org/t/p/original/kEAhWIsNEm3Xrbom5RZfUiPSOOq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5PCKxpFcCTDFT3b1olJGPaAIM9e.jpg",
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "estandar",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://fastream.to/embed-w4tqk3ch6sa6.html"
+          },
+          {
+            "nombre": "C2",
+            "embed": "https://fastream.to/embed-2gwr8xqpaao9.html"
+          },
+          {
+            "nombre": "C3",
+            "embed": "https://fastream.to/embed-3ck7rd9qkre4.html"
+          },
+          {
+            "nombre": "C4",
+            "embed": "https://fastream.to/embed-xhyol7a3slrd.html"
+          },
+          {
+            "nombre": "C5",
+            "embed": "https://fastream.to/embed-9bv4bcc63x20.html"
+          },
+          {
+            "nombre": "C6",
+            "embed": "https://fastream.to/embed-2da55bhuff5m.html"
+          }
+        ]
+      }
+    ]
   }
 ]
