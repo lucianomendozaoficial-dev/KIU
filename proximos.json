@@ -94,5 +94,17 @@
       "Drama"
     ],
     "trailer": ""
+  },
+  {
+    "id": "prox-8",
+    "nombre": "El juego del calamar: El desafío",
+    "portada": "https://image.tmdb.org/t/p/original/AvOcYB2lcqRFvhq3ybJlcXgpRRu.jpg",
+    "estreno": "2023-11-22",
+    "tipo": "serie",
+    "descripcion": "En este reality de competencia inspirado en «El juego del calamar», 456 jugadores llevan al límite sus habilidades para ganar un premio increíble de 4.56 millones de dólares.",
+    "generos": [
+      "Reality"
+    ],
+    "trailer": ""
   }
 ]
