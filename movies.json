@@ -11155,5 +11155,29 @@
       "Apple"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 439,
+    "nombre": "Antes que sea tarde",
+    "generos": [
+      "Documental"
+    ],
+    "descripcion": "Una mirada a los efectos del cambio climático en nuestro entorno y cómo la sociedad puede prevenirlos, incluyendo la salvación de especies en peligros de extinción. Producido por Martin Scorsese y Leonardo DiCaprio, que además entrevista a numerosas personalidades y sirve de narrador, la filmación de \"Before The Flood\" se prolongó durante tres años y el guión lo firma Mark Monroe, responsable del aclamado documental \"The Cove\".",
+    "año": 2016,
+    "duracion": "",
+    "rating": 7.7,
+    "rating_updated": "2026-10-14T00:06:58.454Z",
+    "tmdb_id": 410718,
+    "portada": "https://image.tmdb.org/t/p/original/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mGBmiWmi7JqeTWnrPicRbkXcsuO.jpg",
+    "embed": "https://fastream.to/embed-xkd8nr0uqhad.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+7",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
