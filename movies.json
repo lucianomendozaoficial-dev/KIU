@@ -11234,5 +11234,28 @@
       "Apple"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 442,
+    "nombre": "Mi prima Rachel",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "El joven huérfano Phillip Ambrose planea vengarse de una hermosa mujer que ha asesinado a su tutor.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 5.7,
+    "rating_updated": "2026-10-14T00:10:57.835Z",
+    "tmdb_id": 413998,
+    "portada": "https://image.tmdb.org/t/p/original/v3145GM0eLkCLGYeliDhbR7rrGo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gD9JOmzP5jGbb273Abp9ZVG2lnt.jpg",
+    "embed": "https://fastream.to/embed-ugzaw1y1c3vw.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [],
+    "plan": "basico"
   }
 ]
