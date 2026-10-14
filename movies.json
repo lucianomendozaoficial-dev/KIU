@@ -11282,5 +11282,30 @@
       "Apple"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 444,
+    "nombre": "Pequeño demonio",
+    "generos": [
+      "Terror",
+      "Comedia"
+    ],
+    "descripcion": "Gary, que acaba de casarse con Samantha, la mujer de sus sueños, descubre que su hijastro de 6 años podría ser el Anticristo.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 5.6,
+    "rating_updated": "2026-10-14T00:13:05.262Z",
+    "tmdb_id": 346671,
+    "portada": "https://image.tmdb.org/t/p/original/a7uovTeP1c6OmNvhxWzKqBF4ohE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8ufJoW3aI2VSFRNr7y1F4ntw21B.jpg",
+    "embed": "https://fastream.to/embed-kg7yu9l64nv5.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
