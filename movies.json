@@ -11412,5 +11412,30 @@
       "Disney"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 449,
+    "nombre": "Solo di que sí",
+    "generos": [
+      "Comedia",
+      "Romance"
+    ],
+    "descripcion": "Lotte (Yolanthe Cabau) es una romántica empedernida. Durante toda su vida ha soñado con casarse y planear la boda perfecta, sin embargo, todos sus planes se van al traste cuando su prometido la deja antes de llegar al altar. Para colmo, la heraman de Lotte acaba de comprometerse y se convertirá en el centro de atención de la familia.",
+    "año": 2021,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-10-14T00:21:01.895Z",
+    "tmdb_id": 802504,
+    "portada": "https://image.tmdb.org/t/p/original/80CVQssUAbU2Q5w9jApzKEmtoLy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jw0849O7WLarbYKJkA9WpRLeGKG.jpg",
+    "embed": "https://fastream.to/embed-oel7vltlxrat.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "estandar"
   }
 ]
