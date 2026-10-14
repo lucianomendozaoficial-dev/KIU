@@ -11488,5 +11488,30 @@
       "Prime Video"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 452,
+    "nombre": "El mapa que me lleva a ti",
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "descripcion": "Heather es una joven que viaja con sus amigas por Europa antes de comenzar una vida perfectamente planificada. Por casualidad, se encuentra con Jack, lo que da comienzo a un romance inesperado que la lleva a descubrir sus sentimientos más profundos. Secretos y decisiones ponen a prueba su vínculo, y su futuro cambia para siempre.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6.7,
+    "rating_updated": "2026-10-14T00:29:18.621Z",
+    "tmdb_id": 1312946,
+    "portada": "https://image.tmdb.org/t/p/original/8gzmyWZX6C29aKNLr5ol17n03nN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5QKddKk1qEe8CwWYpklmKq68uyo.jpg",
+    "embed": "https://fastream.to/embed-waghrcjqo35h.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "estandar"
   }
 ]
