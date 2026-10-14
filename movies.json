@@ -11363,5 +11363,28 @@
       "Apple"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 447,
+    "nombre": "Decadencia",
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "descripcion": "Anabel Bolio es una hermosa y joven mujer trabajadora. Oskar Pratz es un guapo y brillante empresario. Una chíspa de atracción mutua es inevitable, y sobreviene un tórrido romance. Pero lo que tenía mimbres de ser la perfecta historia de amor entra en una decadente espiral de peligrosos juegos sexuales que, inevitablemente, conducen rápidamente a la tragedia.",
+    "año": 2015,
+    "duracion": "",
+    "rating": 3.6,
+    "rating_updated": "2026-10-14T00:17:55.177Z",
+    "tmdb_id": 360028,
+    "portada": "https://image.tmdb.org/t/p/original/68aiHQF3wl8XdqnCcYXM3h25pKz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/p1F0xiJ0TNx3h7ECOj9qsDLF8Ku.jpg",
+    "embed": "https://fastream.to/embed-a1ksnq8us3ju.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+18",
+    "camara": false,
+    "especiales": [],
+    "plan": "estandar"
   }
 ]
