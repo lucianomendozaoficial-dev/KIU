@@ -11513,5 +11513,29 @@
       "Prime Video"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 453,
+    "nombre": "Un amor inquebrantable",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "Cuando tenía 14 años, Smith se ahogó en el lago Sainte Louis y estuvo muerto durante casi una hora. Según los informes en el momento, la RCP se realizó 27 minutos en vano. Luego, la madre del joven, Joyce Smith, entró en la habitación, rezando en voz alta. De repente, hubo un pulso, y Smith dio la vuelta.",
+    "año": 2019,
+    "duracion": "",
+    "rating": 7.7,
+    "rating_updated": "2026-10-14T00:30:33.496Z",
+    "tmdb_id": 514439,
+    "portada": "https://image.tmdb.org/t/p/original/fNMHKpqpr5rrKLYlOhRfzZCa0wv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fYuWuPZyXSc3s0iPIZ4ZWpEremy.jpg",
+    "embed": "https://fastream.to/embed-9dnby4gxrp6i.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+7",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "estandar"
   }
 ]
