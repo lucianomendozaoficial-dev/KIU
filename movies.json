@@ -11257,5 +11257,30 @@
     "camara": false,
     "especiales": [],
     "plan": "basico"
+  },
+  {
+    "id": 443,
+    "nombre": "Escala Obligada",
+    "generos": [
+      "Comedia",
+      "Romance"
+    ],
+    "descripcion": "Brutal y picante, Vacaciones inesperadas es la comedia del año. Meg (Kate Upton - ¡Mujeres al ataque!), soltera y sin trabajo, y Kate (Alexandra Daddario -- Baywatch, Terremoto: La Falla de San Andrés) están pasando por un mal momento. Desesperadas por escaparse, reservan un vuelo de último momento, pero sus planes para descansar y relajarse se desbaratan cuando una tormenta hace que su vuelo se desvíe a St. Louis. Atrapadas en un hotel aburrido mientras esperan que la tormenta se despeje, para divertirse, se hacen amigas de un pasajero, Ryan, un bombero rubio y alto. De repente, las vacaciones se convierten en una competencia despiadada por su atención. El vuelo se canceló, ¡pero la batalla recién empieza!",
+    "año": 2017,
+    "duracion": "",
+    "rating": 5.4,
+    "rating_updated": "2026-10-14T00:12:02.457Z",
+    "tmdb_id": 339404,
+    "portada": "https://image.tmdb.org/t/p/original/ggTHv04fG1tluctSdv6VRotoptB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ab9RFSA8ZBFl2MWe3g0YFkqgeNe.jpg",
+    "embed": "https://fastream.to/embed-c6np0jcjedrm.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+16",
+    "camara": false,
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "estandar"
   }
 ]
