@@ -11386,5 +11386,31 @@
     "camara": false,
     "especiales": [],
     "plan": "estandar"
+  },
+  {
+    "id": 448,
+    "nombre": "Misión Rescate",
+    "generos": [
+      "Ciencia Ficción",
+      "Drama",
+      "Aventura"
+    ],
+    "descripcion": "Durante una misión a Marte de la nave tripulada Ares III, una fuerte tormenta se desata dando por desaparecido y muerto al astronauta Mark Watney (Matt Damon), sus compañeros toman la decisión de irse pero él ha sobrevivido. Está solo y sin apenas recursos en el planeta. Con muy pocos medios deberá recurrir a sus conocimientos, su sentido del humor y un gran instinto de supervivencia para lograr sobrevivir y comunicar a la Tierra que todavía está vivo esperando que acudan en su rescate.",
+    "año": 2015,
+    "duracion": "",
+    "rating": 7.7,
+    "rating_updated": "2026-10-14T00:18:42.334Z",
+    "tmdb_id": 286217,
+    "portada": "https://image.tmdb.org/t/p/original/vexteY4Hy79hT11d8mwI7Fe6OuB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lzMS0CI3FLQYC5EgJoWeIaEt0lm.jpg",
+    "embed": "https://fastream.to/embed-l1b5zquhe2vy.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "estandar"
   }
 ]
