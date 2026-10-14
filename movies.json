@@ -11463,5 +11463,30 @@
       "Netflix"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 451,
+    "nombre": "Amor de Medianoche",
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "descripcion": "Una adolescente que moriría si se expusiera a la luz vive un romance de verano con el chico del que lleva años enamorada. A medida que su relación se afianza, ella busca maneras de ocultarle la enfermedad que padece.",
+    "año": 2018,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-10-14T00:28:24.760Z",
+    "tmdb_id": 419478,
+    "portada": "https://image.tmdb.org/t/p/original/jDNSClwYEVwmXfJgYDERvuALlXT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9T8sj5io4SGCBTHsk5H8LGcfKVe.jpg",
+    "embed": "https://fastream.to/embed-fltw349tlkuv.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "estandar"
   }
 ]
