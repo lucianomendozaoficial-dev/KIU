@@ -118,5 +118,17 @@
     "debePagar": "$3.000",
     "descripcion": "+54 9 1130203526",
     "renueva": false
+  },
+  {
+    "id": 12,
+    "nombre": "Caro@kiu.com",
+    "password": "2026",
+    "dni": "",
+    "nombreCompleto": "Carolina Jimenez",
+    "fechaExpiracion": "2026-10-14",
+    "plan": "estandar",
+    "debePagar": "$3.000",
+    "descripcion": "+54 11 3256 8112",
+    "renueva": false
   }
 ]
