@@ -11208,5 +11208,31 @@
       "Prime Video"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 441,
+    "nombre": "Todo, todo",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "Madeline, una adolescente que vive completamente aislada del mundo exterior porque es alérgica a todo, se enamora de Olly, su vecino de la puerta de al lado.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-10-14T00:09:57.843Z",
+    "tmdb_id": 417678,
+    "portada": "https://image.tmdb.org/t/p/original/otDv3BdUoMPl1h6qmAvFucVcefP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hTLydq9rAuO0Eus1WWqab1tpyGg.jpg",
+    "embed": "https://fastream.to/embed-mqpb8wux8vbb.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "estandar"
   }
 ]
