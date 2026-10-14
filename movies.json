@@ -11437,5 +11437,31 @@
       "Netflix"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 450,
+    "nombre": "Mi lista de deseos",
+    "generos": [
+      "Romance",
+      "Comedia",
+      "Drama"
+    ],
+    "descripcion": "A pedido de su madre, una mujer se dispone a cumplir los deseos de su adolescencia. En el camino, desentraña secretos familiares, encuentra el amor y se redescubre a sí misma.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-14T00:27:19.660Z",
+    "tmdb_id": 1254786,
+    "portada": "https://image.tmdb.org/t/p/original/r6K6spYEWf7aDGsY4EdkScZW1Hl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sulUXRukzh7WSK34y8mnaUcHo3y.jpg",
+    "embed": "https://fastream.to/embed-mexsfqr94w2v.html",
+    "tipo": "pelicula",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "estandar"
   }
 ]
