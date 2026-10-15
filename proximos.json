@@ -110,5 +110,15 @@
       "Aventura"
     ],
     "trailer": "https://www.youtube.com/watch?v=H2Gf5fWQw2s"
+  },
+  {
+    "id": "prox-9",
+    "nombre": "Las Perrerías de Mike",
+    "portada": "https://image.tmdb.org/t/p/original/5g7uhKWTufvCIm3MwqwOnduorRs.jpg",
+    "estreno": "2020-04-12",
+    "tipo": "serie",
+    "descripcion": "",
+    "generos": [],
+    "trailer": ""
   }
 ]
