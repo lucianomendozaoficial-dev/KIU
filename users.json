@@ -130,5 +130,17 @@
     "debePagar": "$3.000",
     "descripcion": "+54 11 3256 8112",
     "renueva": false
+  },
+  {
+    "id": 13,
+    "nombre": "Maria@kiu.com",
+    "password": "2211",
+    "dni": "",
+    "nombreCompleto": "Maria Jimenez",
+    "fechaExpiracion": "2026-10-14",
+    "plan": "estandar",
+    "debePagar": "$3.000",
+    "descripcion": "+54 1171790722",
+    "renueva": false
   }
 ]
