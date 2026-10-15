@@ -142,5 +142,17 @@
     "debePagar": "$3.000",
     "descripcion": "+54 1171790722",
     "renueva": false
+  },
+  {
+    "id": 14,
+    "nombre": "Lorena@kiu.com",
+    "password": "2026",
+    "dni": "",
+    "nombreCompleto": "Lorena",
+    "fechaExpiracion": "2026-10-15",
+    "plan": "estandar",
+    "debePagar": "24hs",
+    "descripcion": "",
+    "renueva": false
   }
 ]
