@@ -5,11 +5,11 @@
     "password": "2378",
     "dni": "47.258.027",
     "nombreCompleto": "Luciano Mendoza",
-    "fechaExpiracion": "2026-12-15",
+    "fechaExpiracion": "",
     "plan": "estandar",
     "debePagar": "$3.000",
     "descripcion": "Cuenta del dueño de KIU Play.",
-    "renueva": true
+    "renueva": false
   },
   {
     "id": 2,
