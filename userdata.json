@@ -1,0 +1,72 @@
+{
+  "_nota": "COPIA DE REFERENCIA. Subí este archivo a la raíz de tu repositorio KIU con el nombre userdata.json. Ahí se guardan 'Mi Lista' y las reproducciones de cada usuario y cada perfil. La app lo lee y lo escribe sola: no hace falta tocarlo a mano. Los datos de abajo son un EJEMPLO — podés borrarlos y dejarlo vacío con { \"version\": 1, \"usuarios\": {} }.",
+
+  "version": 1,
+  "actualizado": "2025-01-15T20:30:00.000Z",
+
+  "usuarios": {
+
+    "luciano": {
+      "perfiles": {
+
+        "p_abc123": {
+          "favoritos": {
+            "12": 1712345678901,
+            "45": 1712345678999,
+            "88": 1712345685000
+          },
+          "continuar": {
+            "12": { "t": 1830, "d": 7200, "ts": 1712345600000 },
+            "77-0-2": { "t": 640, "d": 2700, "ts": 1712345650000 }
+          },
+          "historial": [
+            { "id": 88, "timestamp": 1712345685000 },
+            { "id": 12, "timestamp": 1712345600000 }
+          ],
+          "vistos": ["77-0-0", "77-0-1", "77-0-2"],
+          "busquedas": ["navidad", "dragon ball", "comedia"]
+        },
+
+        "p_def456": {
+          "favoritos": {
+            "103": 1712345700000
+          },
+          "continuar": {},
+          "historial": [],
+          "vistos": [],
+          "busquedas": ["anime"]
+        }
+
+      }
+    },
+
+    "invitado": {
+      "perfiles": {
+        "invitado-xyz789": {
+          "favoritos": {
+            "5": 1712345750000
+          },
+          "continuar": {
+            "5": { "t": 900, "d": 5400, "ts": 1712345750000 }
+          },
+          "historial": [],
+          "vistos": [],
+          "busquedas": []
+        }
+      }
+    }
+
+  },
+
+  "_como_funciona": {
+    "usuarios": "Una entrada por nombre de usuario. El nombre tiene que ser IGUAL al de users.json para que se encuentren.",
+    "perfiles": "Dentro de cada usuario, una entrada por perfil. Cada perfil guarda sus propios datos, así dos perfiles del mismo plan no se mezclan.",
+    "favoritos": "Mapa de id de título → fecha en milisegundos en que se agregó. Es un mapa y no una lista porque al mezclar dos dispositivos hace falta saber CUÁNDO se agregó cada uno; si no, abrir la app en el celular borraría lo que agregaste en la TV.",
+    "continuar": "Mapa de clave → { t: segundo donde quedó, d: duración total, ts: cuándo }. La clave es el id solo para películas, o id-temporada-capítulo para series.",
+    "historial": "Lista de los últimos títulos abiertos, del más nuevo al más viejo.",
+    "vistos": "Lista de capítulos ya vistos, con el formato id-temporada-capítulo.",
+    "busquedas": "Últimas búsquedas escritas por el usuario.",
+    "actualizado": "Fecha del último cambio. Es informativo: la app no lo usa para decidir nada.",
+    "version": "Versión del formato. Sirve para poder cambiar la estructura más adelante sin romper lo que ya está guardado."
+  }
+}
