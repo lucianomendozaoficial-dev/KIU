@@ -120,5 +120,19 @@
     "descripcion": "",
     "generos": [],
     "trailer": ""
+  },
+  {
+    "id": "prox-10",
+    "nombre": "Los Juegos del Hambre: Amanecer en la cosecha",
+    "portada": "https://image.tmdb.org/t/p/original/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+    "estreno": "2026-11-18",
+    "tipo": "pelicula",
+    "descripcion": "Ambientada décadas antes de los eventos liderados por Katniss y Peeta, la historia sigue a Haymitch Abernathy, el enigmático ganador del 50° Torneo de Los juegos del hambre, en una versión más brutal y decisiva de la competencia. La película también mostrará la primera aparición televisiva de Caesar Flickerman, cuya cobertura transformará para siempre la forma en que Panem vive los Juegos.",
+    "generos": [
+      "Ciencia Ficción",
+      "Acción",
+      "Aventura"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=Mk-IAUhX4IQ"
   }
 ]
