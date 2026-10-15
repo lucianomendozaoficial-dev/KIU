@@ -134,5 +134,21 @@
       "Aventura"
     ],
     "trailer": "https://www.youtube.com/watch?v=Mk-IAUhX4IQ"
+  },
+  {
+    "id": "prox-11",
+    "nombre": "El gato con sombrero",
+    "portada": "https://image.tmdb.org/t/p/original/5rS3PbnARmbbL3LiLhEX3Tr0l6k.jpg",
+    "estreno": "2026-11-04",
+    "tipo": "pelicula",
+    "descripcion": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Aventura",
+      "Fantasía",
+      "Familia"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=O64eGC9l9Ig"
   }
 ]
