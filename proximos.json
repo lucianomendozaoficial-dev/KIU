@@ -94,5 +94,21 @@
       "Drama"
     ],
     "trailer": ""
+  },
+  {
+    "id": "prox-8",
+    "nombre": "Harry Potter",
+    "portada": "https://image.tmdb.org/t/p/original/hTgRoh6lbxQixu0t2gx5tMk4Wc0.jpg",
+    "estreno": "2026-12-25",
+    "tipo": "serie",
+    "descripcion": "Harry Potter no tiene nada de especial, al menos eso es lo que siempre dice su tía Petunia. El día que cumple 11 años, una carta de admisión en el Colegio Hogwarts de Magia y Hechicería le abre a Harry un mundo oculto: un mundo de diversión, amistad y magia. Pero esta nueva aventura conlleva un gran riesgo, ya que Harry se ve obligado a enfrentarse a un peligroso enemigo de su pasado.",
+    "generos": [
+      "Familia",
+      "Ciencia Ficción",
+      "Fantasía",
+      "Acción",
+      "Aventura"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=H2Gf5fWQw2s"
   }
 ]
