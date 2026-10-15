@@ -1002,5 +1002,46 @@
         ]
       }
     ]
+  },
+  {
+    "id": 21,
+    "nombre": "VisionQuest",
+    "generos": [
+      "Drama",
+      "Ciencia Ficción",
+      "Fantasía"
+    ],
+    "descripcion": "Luego de ser reiniciado y de escapar de aquellos que pretendían usarlo como un arma, Visión ha estado viviendo oculto. Para encontrar un nuevo propósito, consulta a las personalidades de IA integradas en su programación, que incluyen a Viernes, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza lo obliga a huir junto con Shepard, un joven misterioso que podría ser la reencarnación del hijo de Visión. Mientras intenta evadir su captura, Visión debe afrontar su propia naturaleza, resistir la influencia de Ultrón y desentrañar el enigma que representa su joven compañero si quiere sobrevivir.",
+    "año": 2026,
+    "duracion": "N/A",
+    "rating": 9.1,
+    "rating_updated": "2026-10-15T01:21:25.397Z",
+    "tmdb_id": 213375,
+    "portada": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "tipo": "serie",
+    "idioma": "Español (Latino)",
+    "edad": "+13",
+    "camara": false,
+    "especiales": [
+      "Disney",
+      "Marvel"
+    ],
+    "plan": "estandar",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://fastream.to/embed-oo909h3bv4mq.html"
+          },
+          {
+            "nombre": "C2",
+            "embed": "https://fastream.to/embed-88ytvq6otea5.html"
+          }
+        ]
+      }
+    ]
   }
 ]
