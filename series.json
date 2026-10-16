@@ -105,9 +105,9 @@
     "portada": "https://image.tmdb.org/t/p/original/8jClvC5U756Uhd8zDYek50ihO49.jpg",
     "banner": "https://image.tmdb.org/t/p/original/8hp2CuGnw1iP5dLBVMAPUv23swx.jpg",
     "tipo": "serie",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+16",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Netflix"
     ],
@@ -151,6 +151,10 @@
           {
             "nombre": "C9",
             "embed": "https://1a-1791.com/video/fww1/58/s8/2/w/j/D/u/wjDuy.caa.mp4"
+          },
+          {
+            "nombre": "C10",
+            "embed": "https://1a-1791.com/video/fww1/d4/s8/2/A/k/D/u/AkDuy.caa.mp4"
           }
         ]
       }
