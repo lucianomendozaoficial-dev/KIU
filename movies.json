@@ -11640,5 +11640,30 @@
       "Apple"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 458,
+    "nombre": "El verano que vivimos",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "Año 1998. Isabel, estudiante de periodismo, se ve obligada a realizar sus prácticas en el periódico de una pequeña localidad costera gallega para poder terminar la carrera. Cuando llega, quiere empezar a investigar cuanto antes, para demostrar todo lo que ha aprendido para convertirse en una auténtica periodista. Pero el puesto que le asignan es el último que esperaba: la redacción y gestión de los obituarios que llegan a la redacción. Pero esto, que en un principio puede parecer aburrido, se convierte en la puerta a una investigación que la llevará por diferentes puntos de la geografía española en busca de una historia de amor imposible.",
+    "año": 2020,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-10-16T00:23:14.533Z",
+    "tmdb_id": 588656,
+    "portada": "https://image.tmdb.org/t/p/original/oxbnkrC2GWEVbkUPzwFi1QX1qbP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/h21mgybU4q3qkaw25g44LDgh1Zw.jpg",
+    "embed": "https://fastream.to/embed-04gscwzl9tof.html",
+    "tipo": "pelicula",
+    "idioma": "Castellano",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "estandar"
   }
 ]
