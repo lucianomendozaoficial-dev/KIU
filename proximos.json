@@ -164,5 +164,19 @@
       "Drama"
     ],
     "trailer": "https://www.youtube.com/watch?v=IGvWiDWZaWo"
+  },
+  {
+    "id": "prox-13",
+    "nombre": "Narnia: El sobrino del mago",
+    "portada": "https://image.tmdb.org/t/p/original/yrqR0qquy4JOfqZCsFJV7vJoOSh.jpg",
+    "estreno": "2027-02-10",
+    "tipo": "pelicula",
+    "descripcion": "",
+    "generos": [
+      "Fantasía",
+      "Aventura",
+      "Familia"
+    ],
+    "trailer": ""
   }
 ]
