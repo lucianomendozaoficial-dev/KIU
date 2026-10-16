@@ -11866,5 +11866,30 @@
       "Hbo"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 467,
+    "nombre": "Fatale: Juego Fatal",
+    "generos": [
+      "Drama",
+      "Suspenso"
+    ],
+    "descripcion": "Darren, un exitoso agente deportivo y hombre casado, se adentra en un mundo de pesadilla cuando comienza a ser manipulado por una detective con la que ha tenido una noche de pasión. La pregunta es: ¿hasta dónde estará dispuesto a llegar para salvar su matrimonio del error que ha cometido?",
+    "año": 2020,
+    "duracion": "",
+    "rating": 6,
+    "rating_updated": "2026-10-16T00:34:44.884Z",
+    "tmdb_id": 549514,
+    "portada": "https://image.tmdb.org/t/p/original/iP8TZ5lJLWYcq8LnaRoQcO4AckN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tljkeU2y1dCvT51Sv4ciNf0VfmV.jpg",
+    "embed": "https://fastream.to/embed-k2j5bfw40t1l.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "estandar"
   }
 ]
