@@ -700,9 +700,9 @@
     "portada": "https://image.tmdb.org/t/p/original/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
     "banner": "https://image.tmdb.org/t/p/original/8QA5wsfCIBKzXA9SLZyhWfThKjy.jpg",
     "tipo": "serie",
-    "idioma": "Subtitulado",
+    "idioma": "Sub",
     "edad": "+13",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Anime",
       "Netflix"
@@ -714,7 +714,7 @@
         "capitulos": [
           {
             "nombre": "C1",
-            "embed": "https://fastream.to/embed-h6ahc3vzojao.html"
+            "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/0c/s8/2/u/f/Y/6/ufY6A.gaa.mp4"
           }
         ]
       }
