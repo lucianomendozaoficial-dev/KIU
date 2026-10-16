@@ -11690,5 +11690,32 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 460,
+    "nombre": "Terror en Siria",
+    "generos": [
+      "Bélica",
+      "Acción",
+      "Drama",
+      "Suspenso"
+    ],
+    "descripcion": "",
+    "año": 2018,
+    "duracion": "",
+    "rating": 5.8,
+    "rating_updated": "2026-10-16T00:27:00.326Z",
+    "tmdb_id": 504198,
+    "portada": "https://image.tmdb.org/t/p/original/ntGDedcwfRUwFcGcvRLFvJJx2fr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yYtz7dTtoC3BNq2wFXFdyZogaW7.jpg",
+    "embed": "https://fastream.to/embed-isgvowhq2h76.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "estandar"
   }
 ]
