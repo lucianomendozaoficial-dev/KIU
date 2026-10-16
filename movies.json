@@ -11891,5 +11891,31 @@
       "Prime Video"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 468,
+    "nombre": "La Fuerza De La Naturaleza",
+    "generos": [
+      "Acción",
+      "Crimen",
+      "Suspenso"
+    ],
+    "descripcion": "Una banda de ladrones planea un atraco durante un huracán y se encuentra con problemas cuando un ex policía venido a menos intenta obligar a todos en el edificio a evacuar.",
+    "año": 2020,
+    "duracion": "",
+    "rating": 5.1,
+    "rating_updated": "2026-10-16T00:35:37.762Z",
+    "tmdb_id": 619592,
+    "portada": "https://image.tmdb.org/t/p/original/2dOGUaeSCXyy84TII8c1rlCIFZP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5pfk7bITD5nBqYGJE2slHn4nx3l.jpg",
+    "embed": "https://fastream.to/embed-olpu26a57zg2.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "estandar"
   }
 ]
