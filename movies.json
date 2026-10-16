@@ -11788,5 +11788,33 @@
     "calidad": "calidad",
     "especiales": [],
     "plan": "estandar"
+  },
+  {
+    "id": 464,
+    "nombre": "Difícil de Matar",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Suspenso"
+    ],
+    "descripcion": "El trabajo del multimillonario Donovan Chalmers es tan valioso que contrata a mercenarios para protegerlo. Pese a ello, un grupo terrorista logra secuestrar a su hija para conseguir acercarse a él.",
+    "año": 2020,
+    "duracion": "",
+    "rating": 4.9,
+    "rating_updated": "2026-10-16T00:31:46.316Z",
+    "tmdb_id": 724989,
+    "portada": "https://image.tmdb.org/t/p/original/x7Dc6FTBYOfwMDEHSGW6EOitidk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/86L8wqGMDbwURPni2t7FQ0nDjsH.jpg",
+    "embed": "https://fastream.to/embed-ljcsn2csqqac.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix",
+      "Apple",
+      "Prime Video"
+    ],
+    "plan": "estandar"
   }
 ]
