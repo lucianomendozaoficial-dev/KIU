@@ -10870,9 +10870,9 @@
     "banner": "https://image.tmdb.org/t/p/original/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
     "embed": "https://fastream.to/embed-eirbdaldro8j.html",
     "tipo": "pelicula",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+16",
-    "camara": true,
+    "calidad": "interrupcion",
     "especiales": [
       "Anime"
     ],
