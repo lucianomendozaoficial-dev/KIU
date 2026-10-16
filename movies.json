@@ -11740,5 +11740,30 @@
     "calidad": "calidad",
     "especiales": [],
     "plan": "estandar"
+  },
+  {
+    "id": 462,
+    "nombre": "10 Horas para o Natal",
+    "generos": [
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "",
+    "año": 2020,
+    "duracion": "",
+    "rating": 7.9,
+    "rating_updated": "2026-10-16T00:29:25.812Z",
+    "tmdb_id": 714511,
+    "portada": "https://image.tmdb.org/t/p/original/zQF84E6xXSPur1gEbyKJ2P1BECp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jEjDPISst5slKJVtVydWEZkMEfl.jpg",
+    "embed": "https://fastream.to/embed-gxn51ch99pfr.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Navidad"
+    ],
+    "plan": "basico"
   }
 ]
