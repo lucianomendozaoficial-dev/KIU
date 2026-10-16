@@ -11717,5 +11717,28 @@
       "Apple"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 461,
+    "nombre": "Embrión",
+    "generos": [
+      "Terror",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Kevin y su novia Evelyn son una pareja de campistas que son secuestrados por extraterrestres que embarazan a esta última. A medida que la entidad dentro de ella comienza a crecer, Evelyn descubre que sus antojos solo pueden ser satisfechos por la carne y la sangre humanas.",
+    "año": 2020,
+    "duracion": "",
+    "rating": 5.8,
+    "rating_updated": "2026-10-16T00:28:12.829Z",
+    "tmdb_id": 749051,
+    "portada": "https://image.tmdb.org/t/p/original/dxbI3kT9mvlc6Yh14xCKFbd0RvE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ePjHFqQzS1K8KM0trKe98kTVfiX.jpg",
+    "embed": "https://fastream.to/embed-rwzro9vkpdbj.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "estandar"
   }
 ]
