@@ -11816,5 +11816,29 @@
       "Prime Video"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 465,
+    "nombre": "La chica en el sótano",
+    "generos": [
+      "Suspenso",
+      "Crimen",
+      "Película de tv"
+    ],
+    "descripcion": "Sara es una adolescente que está deseando que cumpla 18 años para alejarse de su padre controlador Don. Pero antes de que pudiera apagar las velas, Don la aprisiona en el sótano de su casa.",
+    "año": 2021,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-10-16T00:32:48.584Z",
+    "tmdb_id": 801335,
+    "portada": "https://image.tmdb.org/t/p/original/4p6uMC8PxEHSY5hJR0KJkOt3wPk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vDR2h5uQNgWyx3fsEVnEOcNFibZ.jpg",
+    "embed": "https://fastream.to/embed-qp33fi2sf5yp.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "estandar"
   }
 ]
