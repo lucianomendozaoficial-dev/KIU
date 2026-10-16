@@ -11665,5 +11665,30 @@
       "Hbo"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 459,
+    "nombre": "Impetigore: Herencia maldita",
+    "generos": [
+      "Terror",
+      "Misterio"
+    ],
+    "descripcion": "Maya (Tara Basro) con su mejor amiga, Dini (Marissa Anita), intentan sobrevivir en una ciudad sin familia. Un día, Maya descubre que ha heredado una gran fortuna, por lo que decide regresar a su pueblo natal junto a su única amiga. Sin embargo, allí les espera una realidad aterradora.",
+    "año": 2019,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-16T00:24:14.251Z",
+    "tmdb_id": 572468,
+    "portada": "https://image.tmdb.org/t/p/original/bYEhvqtNaphr2vS3uut6YxGCnT0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4JOCooFc5M8w4EoSn3o8hZcKdyO.jpg",
+    "embed": "https://fastream.to/embed-xi4siitqyoq0.html",
+    "tipo": "pelicula",
+    "idioma": "Castellano",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
