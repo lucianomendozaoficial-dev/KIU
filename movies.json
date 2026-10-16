@@ -11840,5 +11840,31 @@
     "calidad": "calidad",
     "especiales": [],
     "plan": "estandar"
+  },
+  {
+    "id": 466,
+    "nombre": "Godzilla vs Kong",
+    "generos": [
+      "Acción",
+      "Ciencia Ficción",
+      "Aventura"
+    ],
+    "descripcion": "En un momento en que los monstruos caminan por la Tierra, la lucha de la humanidad por su futuro coloca a Godzilla y Kong en un curso de colisión que verá a las dos fuerzas más poderosas de la naturaleza en el planeta enfrentarse en una batalla espectacular para las edades. Mientras Monarch se embarca en una peligrosa misión en un terreno inexplorado y descubre pistas sobre los orígenes de los Titanes, una conspiración humana amenaza con borrar a las criaturas, tanto buenas como malas, de la faz de la tierra para siempre.",
+    "año": 2021,
+    "duracion": "",
+    "rating": 7.5,
+    "rating_updated": "2026-10-16T00:33:57.568Z",
+    "tmdb_id": 399566,
+    "portada": "https://image.tmdb.org/t/p/original/yJTk4eqQd9Yo5REpFbTSOMkbSgn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wWqTMWkEw6HouLd1zPZbZWxtAPr.jpg",
+    "embed": "https://fastream.to/embed-3202k813aol1.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "estandar"
   }
 ]
