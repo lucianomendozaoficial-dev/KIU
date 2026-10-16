@@ -11917,5 +11917,30 @@
       "Prime Video"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 469,
+    "nombre": "Juegos entre amigos",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Después de que seis amigos de toda la vida se peleen durante cinco años, \"El Padrino\" reúne a sus amigos para los Juegos de los Compañeros, una competición loca de absurdos retos físicos y mentales con la posibilidad de ganar un bote de 150.000 dólares. Ahora todas las apuestas están abiertas, ya que los decididos amigos luchan, arañan y festejan por el gran dinero.",
+    "año": 2019,
+    "duracion": "",
+    "rating": 5.2,
+    "rating_updated": "2026-10-16T00:36:42.841Z",
+    "tmdb_id": 472815,
+    "portada": "https://image.tmdb.org/t/p/original/g6M3vG0XBBgEhVlk5CGclDpLl5y.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/z1VcsfkSHhByeqloNnu7m0YRB9v.jpg",
+    "embed": "https://fastream.to/embed-pe9art06j70c.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Apple",
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
