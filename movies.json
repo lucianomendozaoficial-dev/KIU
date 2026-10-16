@@ -11615,5 +11615,30 @@
       "Prime Video"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 457,
+    "nombre": "Amor rebelde",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "Yendo a la deriva durante su año del hueco con sus puestos de interno y proyectos de viajes, Jack siempre ha sospechado que había más a la vida que esto. Un encuentro accidental con Evelyn hermoso y etéreo tuerce su vida radicalmente del curso.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 5.7,
+    "rating_updated": "2026-10-16T00:21:44.526Z",
+    "tmdb_id": 396557,
+    "portada": "https://image.tmdb.org/t/p/original/5ua4rxPI2KLlVA6TowSgyRzpfLH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iLzJg2Awh3OBazimfbPC1ZDqP05.jpg",
+    "embed": "https://fastream.to/embed-mjvtgww0rv1i.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "estandar"
   }
 ]
