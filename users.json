@@ -6,11 +6,11 @@
     "dni": "47.258.027",
     "contacto": "",
     "nombreCompleto": "Luciano Mendoza",
-    "fechaExpiracion": "2026-10-15 21:20",
+    "fechaExpiracion": "2026-11-06 18:05",
     "plan": "estandar",
     "debePagar": "$3.000",
-    "descripcion": "Cuenta del dueño de KIU Play.",
-    "renueva": false
+    "descripcion": "",
+    "renueva": true
   },
   {
     "id": 2,
