@@ -11942,5 +11942,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 470,
+    "nombre": "Noche en el paraíso",
+    "generos": [
+      "Crimen",
+      "Suspenso",
+      "Acción"
+    ],
+    "descripcion": "Tae Goo es un miembro destacado de una banda criminal. Tiene una hermana menor y un sobrino. Su hermana menor está enferma. Tae Goo decide dejar la banda criminal por su hermana menor y su sobrino, pero otra banda criminal tiene como objetivo a Tae Goo. Su hermana menor y su sobrino mueren en la explosión de un automóvil causada por la otra banda criminal. Tae Goo se venga de la persona que cree que es responsable. Tae Goo luego huye a la isla de Jeju. Allí, conoce a Jae Yeon, a quien no le queda mucho tiempo de vida. Ambos sienten simpatía el uno por el otro.",
+    "año": 2020,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-16T00:38:55.910Z",
+    "tmdb_id": 606523,
+    "portada": "https://image.tmdb.org/t/p/original/rX4kciBwdTQgSXMeSj5ZnLnlerq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/MocpW8Wrp8uireBg6bT6Y6TKWC.jpg",
+    "embed": "https://fastream.to/embed-m15w1qgcp094.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "estandar"
   }
 ]
