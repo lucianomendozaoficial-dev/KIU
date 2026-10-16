@@ -11590,5 +11590,30 @@
       "Prime Video"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 456,
+    "nombre": "El buen católico",
+    "generos": [
+      "Drama",
+      "Comedia"
+    ],
+    "descripcion": "Un joven sacerdote idealista se dedica a su llamamiento hasta que conoce a una mujer en la confesión. Después de la reunión, busca la guía de sus compañeros sacerdotes.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 5.5,
+    "rating_updated": "2026-10-16T00:19:43.523Z",
+    "tmdb_id": 458836,
+    "portada": "https://image.tmdb.org/t/p/original/9eOH72c0CFdeLrm0mLjIWCugBYO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hnGqs9R16AZbYCfqeBtW51IguQs.jpg",
+    "embed": "https://fastream.to/embed-e05ho3kc3meb.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "estandar"
   }
 ]
