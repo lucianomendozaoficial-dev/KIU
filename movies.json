@@ -11765,5 +11765,28 @@
       "Navidad"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 463,
+    "nombre": "El amigo",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "Después de enterarse de que a su esposa le quedan seis meses de vida debido a una enfermedad terminal, un hombre recibe el apoyo de su mejor amigo que se muda a su casa para ayudarle. El impacto de esta situación para toda la familia será mucho mayor de lo que nadie podría haber imaginado.",
+    "año": 2019,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-10-16T00:30:44.536Z",
+    "tmdb_id": 583903,
+    "portada": "https://image.tmdb.org/t/p/original/7iRgbSyqSvSYWFdiCC5I8qIngE5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tlnu7qpEeyh4mgS7w2BIH6daPsA.jpg",
+    "embed": "https://fastream.to/embed-jtk3e5z410h0.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "estandar"
   }
 ]
