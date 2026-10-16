@@ -1047,5 +1047,40 @@
         ]
       }
     ]
+  },
+  {
+    "id": 22,
+    "nombre": "El círculo",
+    "generos": [
+      "Misterio",
+      "Crimen"
+    ],
+    "descripcion": "El asesinato de una famosa actriz que destapa una red de secretos, espionaje y corrupción política que pone en peligro a cuatro amigos de la infancia.",
+    "año": 2026,
+    "duracion": "N/A",
+    "rating": 6,
+    "rating_updated": "2026-10-16T00:40:09.758Z",
+    "tmdb_id": 290233,
+    "portada": "https://image.tmdb.org/t/p/original/hkZ8ID4k0nGOdGJa1ynjj8nTmiW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mnxeCdKE3mtVT8mB9lWs4JY3Mla.jpg",
+    "tipo": "serie",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "estandar",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://fastream.to/embed-x450bumix986.html"
+          }
+        ]
+      }
+    ]
   }
 ]
