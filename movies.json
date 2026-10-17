@@ -11968,5 +11968,30 @@
       "Netflix"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 471,
+    "nombre": "La revolución de Jesús",
+    "generos": [
+      "Drama",
+      "Historia"
+    ],
+    "descripcion": "La verdadera historia de un despertar espiritual nacional a principios de la década de 1970 y sus orígenes dentro de una comunidad de adolescentes hippies en el sur de California.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-17T00:53:07.528Z",
+    "tmdb_id": 719256,
+    "portada": "https://image.tmdb.org/t/p/original/ajQaw8mMCU30OR3y2eeHrLLxzpr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/m42PtAhEtEqbNV8Cs8TsXcTN4ha.jpg",
+    "embed": "https://fastream.to/embed-d9z06rab6dip.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "estandar"
   }
 ]
