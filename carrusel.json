@@ -30,6 +30,16 @@
           "tipo": "pelicula"
         }
       ]
+    },
+    {
+      "id": "camino-a-doomdays",
+      "titulo": "Camino a DoomDays",
+      "items": [
+        {
+          "id": 473,
+          "tipo": "pelicula"
+        }
+      ]
     }
   ]
 }
