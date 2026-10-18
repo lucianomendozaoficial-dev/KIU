@@ -12019,5 +12019,31 @@
       "Anime"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 473,
+    "nombre": "X-Men 2",
+    "generos": [
+      "Aventura",
+      "Acción",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Cuando el coronel antimutante William Stryker secuestra al profesor X y ataca su escuela, los X-Men deben aliarse con su archienemigo Magneto para detenerlo.",
+    "año": 2003,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-18T00:50:01.554Z",
+    "tmdb_id": 36658,
+    "portada": "https://image.tmdb.org/t/p/original/qSg21BrjdUXOpHzHkHxvRhiqHTQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7TYITrR804tLITNur3b8VLCK6tw.jpg",
+    "embed": "https://fastream.to/embed-d694gtpzm0yp.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Marvel"
+    ],
+    "plan": "estandar"
   }
 ]
