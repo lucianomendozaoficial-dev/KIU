@@ -12459,5 +12459,28 @@
       "Disney"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 490,
+    "nombre": "Time Trap",
+    "generos": [
+      "Ciencia Ficción",
+      "Aventura"
+    ],
+    "descripcion": "Un grupo de estudiantes se aventura en las cuevas de una remota ubicación de Texas para encontrar a su profesor favorito de arqueología, que ha desaparecido sin dejar rastro mientras buscaba la Fuente de la Vida. Sin saberlo, se introducen en un lugar en el que cambia el sentido de la noción del espacio/tiempo, lo que les obliga a adentrarse cada vez más en la cueva para averiguar qué oscuro secreto les aguarda en ella.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-10-18T14:15:52.386Z",
+    "tmdb_id": 455839,
+    "portada": "https://image.tmdb.org/t/p/original/583rpyMn8UL8F2oH26Sz6WoKDDe.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/b99d8ye8eT5k0inDHhdqINkiFrd.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/-/d/0/u/-d0uq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "estandar"
   }
 ]
