@@ -664,6 +664,15 @@
             "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/8/F/w/q/8Fwqu.aaa.mp4"
           }
         ]
+      },
+      {
+        "numero": 2,
+        "capitulos": [
+          {
+            "nombre": "C1",
+            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/E/w/Y/s/EwYsu.aaa.mp4"
+          }
+        ]
       }
     ]
   },
