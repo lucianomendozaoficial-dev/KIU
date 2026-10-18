@@ -12151,5 +12151,32 @@
       "Disney"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 478,
+    "nombre": "Doctor Strange en el multiverso de la locura",
+    "generos": [
+      "Fantasía",
+      "Acción",
+      "Aventura"
+    ],
+    "descripcion": "Doctor Strange, además de recibir ayuda de aliados místicos nuevos y otros ya conocidos, atraviesa las alucinantes y peligrosas realidades alternativas del Multiverso para enfrentarse a un nuevo y misterioso adversario.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-10-18T00:59:26.944Z",
+    "tmdb_id": 453395,
+    "portada": "https://image.tmdb.org/t/p/original/PnF6nvTRGLWOiLpUYnJSYGOZHx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lv3TXqhpaIxkclIHbhN2MRMOemQ.jpg",
+    "embed": "https://fastream.to/embed-tbevgqi88god.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "estandar"
   }
 ]
