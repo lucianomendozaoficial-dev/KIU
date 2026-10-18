@@ -12362,5 +12362,29 @@
       "Anime"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 486,
+    "nombre": "Loco México Mágico",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Un alcalde excéntrico obsesionado con convertir Alvarado, Veracruz en destino turístico decide filmar una película estilo Hollywood. Reúne un equipo improvisado de lugareños sin experiencia, liderado por un camarógrafo de XV años.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.9,
+    "rating_updated": "2026-10-18T14:10:04.349Z",
+    "tmdb_id": 1700680,
+    "portada": "https://image.tmdb.org/t/p/original/eCUYoQP0tB5mfwVUT3NidnoQCI3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8gg1n99c3LC0SEq99FLIDDXVSa.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fww1/26/s8/2/Y/d/Y/6/YdY6A.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1679973376-1680037103",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "estandar"
   }
 ]
