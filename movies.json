@@ -12071,5 +12071,32 @@
       "Marvel"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 475,
+    "nombre": "Shang-Chi y la leyenda de los Diez Anillos",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "descripcion": "Shang-Chi debe enfrentarse al pasado que pensó que había dejado atrás cuando se ve atraído por la red de la misteriosa organización de los Diez Anillos.",
+    "año": 2021,
+    "duracion": "",
+    "rating": 7.5,
+    "rating_updated": "2026-10-18T00:56:11.684Z",
+    "tmdb_id": 566525,
+    "portada": "https://image.tmdb.org/t/p/original/2ctCl1XhcC6r3MP7A3oFSe6iTCD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/r7K6Xt0RX4Mw0cAbZVw5cyb1Tux.jpg",
+    "embed": "https://fastream.to/embed-wa5qq4nev7ot.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "estandar"
   }
 ]
