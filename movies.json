@@ -1414,7 +1414,7 @@
     "tipo": "pelicula",
     "idioma": "Latino",
     "edad": "+13",
-    "calidad": "camara",
+    "calidad": "interrupcion",
     "especiales": [
       "Hbo",
       "Prime Video"
