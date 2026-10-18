@@ -1412,9 +1412,9 @@
     "banner": "https://image.tmdb.org/t/p/original/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
     "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/e5/s8/2/8/U/W/A/8UWAA.aaa.mp4",
     "tipo": "pelicula",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+13",
-    "camara": true,
+    "calidad": "camara",
     "especiales": [
       "Hbo",
       "Prime Video"
