@@ -573,7 +573,8 @@
     "id": 13,
     "nombre": "Cassandra",
     "generos": [
-      "Sci-fi & fantasy"
+      "Ciencia Ficción",
+      "Fantasía"
     ],
     "descripcion": "Una familia se muda a una casa inteligente retro y descubre que quien manda en el lugar es una asistente virtual dispuesta a todo para mantenerlos allí.",
     "año": 2025,
@@ -584,9 +585,9 @@
     "portada": "https://image.tmdb.org/t/p/original/qQYmYtk6GqbNiujYfWzxgeIi1A9.jpg",
     "banner": "https://image.tmdb.org/t/p/original/4GAmr9BWRfVjZ3GAntm7yjVf82i.jpg",
     "tipo": "serie",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+18",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Netflix"
     ],
