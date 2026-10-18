@@ -8,5 +8,24 @@
     "5. Si un id no existe, se saltea solo (te avisa en la consola del navegador).",
     "6. Para ordenar los carruseles, cambiá el orden de esta lista."
   ],
-  "carruseles": []
+  "carruseles": [
+    {
+      "id": "camino-a-navidad",
+      "titulo": "Camino a Navidad",
+      "items": [
+        {
+          "id": 203,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 462,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 86,
+          "tipo": "pelicula"
+        }
+      ]
+    }
+  ]
 }
