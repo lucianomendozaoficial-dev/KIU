@@ -12286,5 +12286,29 @@
       "Disney"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 483,
+    "nombre": "El hombre que desafió al rey",
+    "generos": [
+      "Acción",
+      "Drama",
+      "Historia"
+    ],
+    "descripcion": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8,
+    "rating_updated": "2026-10-18T14:02:12.008Z",
+    "tmdb_id": 977942,
+    "portada": "https://image.tmdb.org/t/p/original/f2qc3mE7V8R7yAXBBB822mVZblo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+    "embed": "https://fastream.to/embed-s6a8nphqaomr.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "estandar"
   }
 ]
