@@ -10,28 +10,6 @@
   ],
   "carruseles": [
     {
-      "id": "camino-a-navidad",
-      "titulo": "Camino a Navidad",
-      "items": [
-        {
-          "id": 203,
-          "tipo": "pelicula"
-        },
-        {
-          "id": 462,
-          "tipo": "pelicula"
-        },
-        {
-          "id": 86,
-          "tipo": "pelicula"
-        },
-        {
-          "id": 455,
-          "tipo": "pelicula"
-        }
-      ]
-    },
-    {
       "id": "camino-a-doomdays",
       "titulo": "Camino a DoomDays",
       "items": [
