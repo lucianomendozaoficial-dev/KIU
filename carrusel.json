@@ -54,6 +54,10 @@
         {
           "id": 3,
           "tipo": "pelicula"
+        },
+        {
+          "id": 2,
+          "tipo": "serie"
         }
       ]
     }
