@@ -1,1 +1,12 @@
-
+{
+  "_nota": "KIU Play · Carruseles propios. Subí este archivo a la raíz de tu repositorio, al lado de movies.json y series.json. Los carruseles que pongas acá aparecen DEBAJO de todos los que ya trae la app. Si el archivo no existe, la página se ve igual que siempre.",
+  "_como_funciona": [
+    "1. Escribí el título del carrusel en 'titulo'. Podés usar emojis.",
+    "2. En 'items' poné los títulos con el 'id' que tienen en movies.json o series.json.",
+    "3. El 'tipo' es OPCIONAL: sirve para desambiguar si una película y una serie comparten id.",
+    "4. Se muestran en el orden en que los escribas.",
+    "5. Si un id no existe, se saltea solo (te avisa en la consola del navegador).",
+    "6. Para ordenar los carruseles, cambiá el orden de esta lista."
+  ],
+  "carruseles": []
+}
