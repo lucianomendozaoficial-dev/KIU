@@ -12336,5 +12336,31 @@
       "Netflix"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 485,
+    "nombre": "One Piece: Heroines",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Acción"
+    ],
+    "descripcion": "Luego de que un par de zapatos de mala calidad le lastiman los pies, Nami regresa a la tienda. El diseñador Lebno se ofrece a rehacerlos... si ella acepta modelar en su pasarela.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-18T14:08:03.634Z",
+    "tmdb_id": 1659389,
+    "portada": "https://image.tmdb.org/t/p/original/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/a5/s8/2/i/c/Y/6/icY6A.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=371900928-371914915",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Anime"
+    ],
+    "plan": "basico"
   }
 ]
