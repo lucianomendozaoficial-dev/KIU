@@ -12178,5 +12178,32 @@
       "Disney"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 479,
+    "nombre": "Capitán América: Un nuevo mundo",
+    "generos": [
+      "Acción",
+      "Suspenso",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Tras reunirse con el recientemente electo presidente de los Estados Unidos Thaddeus Ross, Sam se encuentra en medio de un conflicto internacional. Debe descubrir la razón de un nefasto complot mundial antes de que el verdadero artífice detrás del mismo haga que el mundo entero entre en caos.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6,
+    "rating_updated": "2026-10-18T01:00:33.221Z",
+    "tmdb_id": 822119,
+    "portada": "https://image.tmdb.org/t/p/original/pVMSRyAiye7gZ8NtuCt1qgbspY9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ce3prrjh9ZehEl5JinNqr4jIeaB.jpg",
+    "embed": "https://fastream.to/embed-286outwlwd3j.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "estandar"
   }
 ]
