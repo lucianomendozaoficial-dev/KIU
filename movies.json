@@ -12045,5 +12045,31 @@
       "Marvel"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 474,
+    "nombre": "Capitán América: El Primer Vengador",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Steve Rogers, un soldado militar rechazado, se transforma en el Capitán América después de tomar una dosis de un «suero de Súper-Soldado». Pero ser el Capitán América tiene un precio cuando intenta acabar con un belicista y una organización terrorista.",
+    "año": 2011,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-18T00:52:54.317Z",
+    "tmdb_id": 1771,
+    "portada": "https://image.tmdb.org/t/p/original/82ucHZ4ioVGiweT1XMl1mUZaodq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+    "embed": "https://fastream.to/embed-0771n0mlwmmd.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Marvel"
+    ],
+    "plan": "estandar"
   }
 ]
