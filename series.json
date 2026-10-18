@@ -611,9 +611,11 @@
     "id": 14,
     "nombre": "The Walking Dead",
     "generos": [
-      "Action & adventure",
       "Drama",
-      "Sci-fi & fantasy"
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Fantasía"
     ],
     "descripcion": "El oficial Rick Grimes se despierta del coma para descubrir que el mundo está en ruinas y debe guiar a un grupo de sobrevivientes para permanecer con vida.",
     "año": 2010,
@@ -624,9 +626,9 @@
     "portada": "https://image.tmdb.org/t/p/original/kuPOrTbvqJisGskhYIZyUOHrS3J.jpg",
     "banner": "https://image.tmdb.org/t/p/original/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
     "tipo": "serie",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+16",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Disney",
       "Netflix"
@@ -737,8 +739,10 @@
     "nombre": "Hora de Aventura: Misiones Secundarias",
     "generos": [
       "Animación",
-      "Action & adventure",
-      "Sci-fi & fantasy"
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Fantasía"
     ],
     "descripcion": "",
     "año": 2026,
@@ -749,9 +753,9 @@
     "portada": "https://image.tmdb.org/t/p/original/cRJjadzYF43HLPZlw4Vr3UeU9vB.jpg",
     "banner": "https://image.tmdb.org/t/p/original/l75H7ymGd96jPWdIjvOXW0qvEM4.jpg",
     "tipo": "serie",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+7",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Hbo"
     ],
