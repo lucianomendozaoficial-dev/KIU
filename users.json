@@ -39,19 +39,6 @@
     "renueva": true
   },
   {
-    "id": 5,
-    "nombre": "Erika@tuty.com",
-    "password": "2026",
-    "dni": "",
-    "contacto": "",
-    "nombreCompleto": "Erika Flores",
-    "fechaExpiracion": "2026-10-09",
-    "plan": "estandar",
-    "debePagar": "24hs",
-    "descripcion": "Prueba gratis de 24hs",
-    "renueva": false
-  },
-  {
     "id": 6,
     "nombre": "More@kiu.com",
     "password": "2026",
