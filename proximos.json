@@ -178,5 +178,22 @@
       "Familia"
     ],
     "trailer": ""
+  },
+  {
+    "id": "prox-14",
+    "nombre": "Dragon Ball Daima",
+    "portada": "https://image.tmdb.org/t/p/original/65WbqM4xMfslBxuY3zbztlrEb5t.jpg",
+    "estreno": "2024-10-11",
+    "tipo": "serie",
+    "descripcion": "Debido a una conspiración, Goku y sus amigos se vuelven pequeños. ¿Qué tipo de aventura les espera a Goku, al Supremo Kaio y a los nuevos personajes Glorio y Panzy en este mundo desconocido, el “Reino de los Demonios”?",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Fantasía"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=_f8aqbnda3E"
   }
 ]
