@@ -12124,5 +12124,32 @@
       "Marvel"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 477,
+    "nombre": "Pantera Negra: Wakanda por siempre",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "La reina Ramonda, Shuri, M'Baku, Okoye y las Dora Milaje luchan por proteger a su nación de las potencias mundiales que intervienen tras la muerte del Rey T'Challa. Mientras los habitantes de Wakanda se esfuerzan por embarcarse en un nuevo capítulo, los héroes deben unirse con la ayuda de Nakia y Everett Ross y forjar un nuevo camino para el reino de Wakanda.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-18T00:58:11.940Z",
+    "tmdb_id": 505642,
+    "portada": "https://image.tmdb.org/t/p/original/iQ4ydo7nSxIlFyq8sZcu0rCK6AN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/83H0C66AcvkwpG2738VCTHMY9uv.jpg",
+    "embed": "https://fastream.to/embed-l2s0qflw2m0w.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "estandar"
   }
 ]
