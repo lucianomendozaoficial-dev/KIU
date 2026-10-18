@@ -12408,5 +12408,30 @@
     "calidad": "calidad",
     "especiales": [],
     "plan": "estandar"
+  },
+  {
+    "id": 488,
+    "nombre": "Chucky: el muñeco diabólico 2",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "Mientras la madre de Andy es ingresada en un hospital psiquiátrico, el joven es colocado en una casa de acogida, y Chucky, decidido a reclamar el alma de Andy, no se queda atrás.",
+    "año": 1990,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-10-18T14:13:01.504Z",
+    "tmdb_id": 11186,
+    "portada": "https://image.tmdb.org/t/p/original/1No0Wlc92zSwqQqbp6w4octiHpP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fNkt4S5iXgBD4ea5bP9MZRHO8su.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/O/K/0/H/OK0Hq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
