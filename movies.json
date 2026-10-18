@@ -12590,5 +12590,30 @@
       "Disney"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 495,
+    "nombre": "La luz del diablo",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Una joven monja, la hermana Ann (Jacqueline Byers), se prepara para un exorcismo y se enfrenta a una fuerza demoniaca que está misteriosamente relacionada con su pasado.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-10-18T23:10:15.252Z",
+    "tmdb_id": 676547,
+    "portada": "https://image.tmdb.org/t/p/original/hbtJK32km46jTmlvBXgR8SunfAp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7dm64SW5L5CCg47kAEAcdCGaq5i.jpg",
+    "embed": "https://vimeos.net/embed-1brbswhps4py.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "estandar"
   }
 ]
