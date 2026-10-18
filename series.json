@@ -922,9 +922,11 @@
     "nombre": "Avatar: Los Siete Refugios",
     "generos": [
       "Animación",
-      "Action & adventure",
-      "Sci-fi & fantasy",
-      "Familia"
+      "Familia",
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Fantasía"
     ],
     "descripcion": "Tras un cataclismo global una niña descubre que es el nuevo Avatar - ahora señalada como la Destructora, no una salvadora. Cazada por humanos y espíritus, ella y su gemela perdida deben descubrir sus orígenes y salvar a la humanidad del colapso.",
     "año": 2026,
@@ -935,9 +937,9 @@
     "portada": "https://image.tmdb.org/t/p/original/iMs2rnOGZm37pdGkWGbEtNewvJv.jpg",
     "banner": "https://image.tmdb.org/t/p/original/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
     "tipo": "serie",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "TP",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Prime Video",
       "Anime"
