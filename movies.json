@@ -12259,5 +12259,32 @@
       "Marvel"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 482,
+    "nombre": "Deadpool & Wolverine",
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Un Wade Wilson apático se esfuerza en la vida civil. Sus días como el mercenario moralmente flexible Deadpool quedaron atrás. Cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe, a regañadientes, volver a la acción junto a un reacio Wolverine.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-10-18T01:05:07.690Z",
+    "tmdb_id": 533535,
+    "portada": "https://image.tmdb.org/t/p/original/6aY3OzCIdxoBMYdiH5s17rWFFFA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+    "embed": "https://fastream.to/embed-i0ixgi9fi8ya.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "estandar"
   }
 ]
