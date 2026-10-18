@@ -12482,5 +12482,32 @@
     "calidad": "calidad",
     "especiales": [],
     "plan": "estandar"
+  },
+  {
+    "id": 491,
+    "nombre": "Valiente",
+    "generos": [
+      "Aventura",
+      "Animación",
+      "Familia",
+      "Fantasía"
+    ],
+    "descripcion": "Decidida a labrarse su propio camino en la vida, la princesa Mérida desafía una costumbre que siembra el caos en su reino. Al concedérsele un deseo, Mérida deberá confiar en su valentía y en su destreza con el arco para romper una bestial maldición.",
+    "año": 2012,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-18T14:20:58.292Z",
+    "tmdb_id": 62177,
+    "portada": "https://image.tmdb.org/t/p/original/cTouCa0ObuGD1P2nKOQ7A21wm9p.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qx9ts2hBYJrkIQxhryitxnLlm2u.jpg",
+    "embed": "https://1a-1791.com/video/s8/2/S/y/9/T/Sy9Tt.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "estandar"
   }
 ]
