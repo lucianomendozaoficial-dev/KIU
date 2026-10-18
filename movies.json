@@ -12433,5 +12433,31 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 489,
+    "nombre": "Jugando con el destino",
+    "generos": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "Una adolescente se rebela contra el tradicionalismo de sus padres y se une a un equipo de futbol.",
+    "año": 2002,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-10-18T14:14:37.824Z",
+    "tmdb_id": 455,
+    "portada": "https://image.tmdb.org/t/p/original/2fjTH8W40bR6GqdYM1fbXmO4e9k.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vUe5v3l6ul7coxMv2oLwINeVgFi.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/M/m/8/H/Mm8Hq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "estandar"
   }
 ]
