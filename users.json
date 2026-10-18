@@ -167,5 +167,18 @@
     "debePagar": "24hs",
     "descripcion": "",
     "renueva": false
+  },
+  {
+    "id": 15,
+    "nombre": "Mendozita@kiu.com",
+    "password": "2004",
+    "dni": "",
+    "contacto": "",
+    "nombreCompleto": "Lautaro Mendoza",
+    "fechaExpiracion": "2026-10-24 21:01",
+    "plan": "estandar",
+    "debePagar": "1 Semana",
+    "descripcion": "",
+    "renueva": false
   }
 ]
