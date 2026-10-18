@@ -58,6 +58,22 @@
         {
           "id": 2,
           "tipo": "serie"
+        },
+        {
+          "id": 475,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 476,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 477,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 478,
+          "tipo": "pelicula"
         }
       ]
     }
