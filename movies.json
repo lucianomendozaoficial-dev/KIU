@@ -12310,5 +12310,31 @@
     "calidad": "calidad",
     "especiales": [],
     "plan": "estandar"
+  },
+  {
+    "id": 484,
+    "nombre": "UNABOMBER",
+    "generos": [
+      "Suspenso",
+      "Drama",
+      "Crimen"
+    ],
+    "descripcion": "En este drama inspirado en hechos reales, el FBI le da caza a Ted Kaczynski, prodigio de Harvard y víctima de un experimento, que se ha convertido en el Unabomber.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-18T14:03:57.241Z",
+    "tmdb_id": 1492640,
+    "portada": "https://image.tmdb.org/t/p/original/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+    "embed": "https://fastream.to/embed-e8vq7y5wh1h5.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "estandar"
   }
 ]
