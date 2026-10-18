@@ -12509,5 +12509,34 @@
       "Disney"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 492,
+    "nombre": "El dragón de la tetera",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Comedia",
+      "Fantasía",
+      "Romance",
+      "Aventura"
+    ],
+    "descripcion": "El perseverante adolescente Din anhela recuperar a su mejor amiga de la infancia cuando conoce a un dragón de los deseos que le muestra la magia de lo posible.",
+    "año": 2021,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-10-18T18:42:43.335Z",
+    "tmdb_id": 550205,
+    "portada": "https://image.tmdb.org/t/p/original/3GmQHSoEbuoWKqJPmeZOhF0pTlt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4kIRrW1AlHP5Idne8CPHeQt8nR5.jpg",
+    "embed": "https://1a-1791.com/video/fwe2/d1/s8/2/j/1/Y/c/j1Ycw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "estandar"
   }
 ]
