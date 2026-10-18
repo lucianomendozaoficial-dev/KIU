@@ -12205,5 +12205,32 @@
       "Disney"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 480,
+    "nombre": "Thunderbolts*",
+    "generos": [
+      "Acción",
+      "Ciencia Ficción",
+      "Aventura"
+    ],
+    "descripcion": "Un grupo de supervillanos poco convencional es reclutado para hacer misiones para el gobierno: Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster y John Walker. Después de verse atrapados en una trampa mortal urdida por Valentina Allegra de Fontaine, estos marginados deben embarcarse en una peligrosa misión que les obligará a enfrentarse a los recovecos más oscuros de su pasado.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-18T01:01:53.547Z",
+    "tmdb_id": 986056,
+    "portada": "https://image.tmdb.org/t/p/original/yDWU8YyFkPnlVY627QXPvct8bz9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+    "embed": "https://fastream.to/embed-mpfpu94o72i5.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Marvel",
+      "Disney"
+    ],
+    "plan": "estandar"
   }
 ]
