@@ -12386,5 +12386,27 @@
       "Apple"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 487,
+    "nombre": "Ninfomanía: primera parte",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "Después de ser recogida por un hombre llamado Seligman, Joe le cuenta su vida y sus experiencias sexuales con cientos de hombres desde su adolescencia.",
+    "año": 2013,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-10-18T14:11:11.748Z",
+    "tmdb_id": 258216,
+    "portada": "https://image.tmdb.org/t/p/original/5fIYqH2iz3DyVlb7muULsSokgv7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8tDhIbueuM4PK9b1q0Rshzgovee.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/m/i/Z/u/miZuq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "estandar"
   }
 ]
