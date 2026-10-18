@@ -10223,11 +10223,11 @@
     "tmdb_id": 1084242,
     "portada": "https://image.tmdb.org/t/p/original/LrMBxFwnsMgXTnaWqHYinn3vDN.jpg",
     "banner": "https://image.tmdb.org/t/p/original/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
-    "embed": "https://fastream.to/embed-08w99ld7m4uc.html",
+    "embed": "https://rumble.com/hls-vod/77zcfe/playlist.m3u8",
     "tipo": "pelicula",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "TP",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Disney"
     ],
