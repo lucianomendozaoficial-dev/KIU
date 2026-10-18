@@ -18,9 +18,9 @@
     "banner": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
     "embed": "https://rumble.com/hls-vod/78jie0/playlist.m3u8",
     "tipo": "pelicula",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+13",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Prime Video",
       "Hbo",
