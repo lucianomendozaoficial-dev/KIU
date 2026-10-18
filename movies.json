@@ -11993,5 +11993,31 @@
       "Netflix"
     ],
     "plan": "estandar"
+  },
+  {
+    "id": 472,
+    "nombre": "Dragon Ball Super: Broly",
+    "generos": [
+      "Acción",
+      "Ciencia Ficción",
+      "Animación"
+    ],
+    "descripcion": "La Tierra se encuentra en paz luego de disputarse el Torneo del Poder. Al darse cuenta de que en el universo aún hay personas extremadamente fuertes, Goku pasa los días entrenando para alcanzar un nivel superior. Pero un día, Goku y Vegeta son confrontados por un misterioso Saiyajin llamado Broly. La raza Saiyajin debería haberse extinguido por completo tras la destrucción del Planeta Vegeta, pero entonces, ¿qué está haciendo en la Tierra? Freezer, que ha regresado del infierno, está involucrado nuevamente y el encuentro entre estos tres Saiyajins, que han tenido un destino totalmente diferente, se convertirá en una batalla feroz.",
+    "año": 2018,
+    "duracion": "",
+    "rating": 8,
+    "rating_updated": "2026-10-18T00:19:46.874Z",
+    "tmdb_id": 503314,
+    "portada": "https://image.tmdb.org/t/p/original/ylSduoEUU750sTT7De088flcymS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6OTRuxpwUUGbmCX3MKP25dOmo59.jpg",
+    "embed": "https://fastream.to/embed-0wzhgfgs2mxc.html",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Anime"
+    ],
+    "plan": "estandar"
   }
 ]
