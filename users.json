@@ -149,9 +149,9 @@
     "dni": "",
     "contacto": "",
     "nombreCompleto": "Lorena",
-    "fechaExpiracion": "2026-10-15",
+    "fechaExpiracion": "2026-10-18 20:00",
     "plan": "estandar",
-    "debePagar": "24hs",
+    "debePagar": "2hs",
     "descripcion": "",
     "renueva": false
   },
