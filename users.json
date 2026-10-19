@@ -14,17 +14,15 @@
     "slots": [
       {
         "n": 1,
-        "estado": "ocupado"
+        "estado": "vacio"
       },
       {
         "n": 2,
-        "estado": "ocupado"
+        "estado": "vacio"
       },
       {
         "n": 3,
-        "estado": "ocupado",
-        "dispositivo": "dev-mveiur9g-0a455e9j",
-        "desde": 1792373896111
+        "estado": "vacio"
       }
     ]
   },
