@@ -14,9 +14,7 @@
     "slots": [
       {
         "n": 1,
-        "estado": "ocupado",
-        "dispositivo": "dev-mveiur9g-0a455e9j",
-        "desde": 1792374368959
+        "estado": "ocupado"
       },
       {
         "n": 2,
