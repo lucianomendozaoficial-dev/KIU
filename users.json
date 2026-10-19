@@ -27,29 +27,6 @@
     ]
   },
   {
-    "id": 2,
-    "nombre": "Day",
-    "password": "2030",
-    "dni": "",
-    "contacto": "",
-    "nombreCompleto": "Diana",
-    "fechaExpiracion": "2026-10-28",
-    "plan": "estandar",
-    "debePagar": "$3.000",
-    "descripcion": "Se le otorgo 1 mes gratis por ser familiar de Luciano.",
-    "renueva": false,
-    "slots": [
-      {
-        "n": 1,
-        "estado": "vacio"
-      },
-      {
-        "n": 2,
-        "estado": "vacio"
-      }
-    ]
-  },
-  {
     "id": 4,
     "nombre": "marisa@tuty.com",
     "password": "2020",
