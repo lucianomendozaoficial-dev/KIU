@@ -10,10 +10,30 @@
     "plan": "estandar",
     "debePagar": "$3.000",
     "descripcion": "",
-    "renueva": true,
+    "renueva": false,
     "slots": [
       {
         "n": 1,
+        "estado": "ocupado"
+      },
+      {
+        "n": 2,
+        "estado": "ocupado"
+      },
+      {
+        "n": 3,
+        "estado": "ocupado"
+      },
+      {
+        "n": 4,
+        "estado": "ocupado"
+      },
+      {
+        "n": 5,
+        "estado": "ocupado"
+      },
+      {
+        "n": 6,
         "estado": "ocupado"
       }
     ]
