@@ -11,8 +11,20 @@
     "debePagar": "$3.000",
     "descripcion": "",
     "renueva": true,
-    "slots": 3,
-    "liberarSlots": 0
+    "slots": [
+      {
+        "n": 1,
+        "estado": "vacio"
+      },
+      {
+        "n": 2,
+        "estado": "vacio"
+      },
+      {
+        "n": 3,
+        "estado": "vacio"
+      }
+    ]
   },
   {
     "id": 2,
@@ -26,8 +38,16 @@
     "debePagar": "$3.000",
     "descripcion": "Se le otorgo 1 mes gratis por ser familiar de Luciano.",
     "renueva": false,
-    "slots": 2,
-    "liberarSlots": 0
+    "slots": [
+      {
+        "n": 1,
+        "estado": "vacio"
+      },
+      {
+        "n": 2,
+        "estado": "vacio"
+      }
+    ]
   },
   {
     "id": 4,
@@ -41,8 +61,16 @@
     "debePagar": "$3.000",
     "descripcion": "",
     "renueva": true,
-    "slots": 2,
-    "liberarSlots": 0
+    "slots": [
+      {
+        "n": 1,
+        "estado": "vacio"
+      },
+      {
+        "n": 2,
+        "estado": "vacio"
+      }
+    ]
   },
   {
     "id": 6,
@@ -56,8 +84,12 @@
     "debePagar": "Gratis",
     "descripcion": "",
     "renueva": false,
-    "slots": 1,
-    "liberarSlots": 0
+    "slots": [
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
+    ]
   },
   {
     "id": 7,
@@ -71,8 +103,12 @@
     "debePagar": "$3.000",
     "descripcion": "+54 9 11 2280-8205",
     "renueva": false,
-    "slots": 1,
-    "liberarSlots": 0
+    "slots": [
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
+    ]
   },
   {
     "id": 8,
@@ -86,8 +122,12 @@
     "debePagar": "$3.000",
     "descripcion": "+54 9 2984 12-2414",
     "renueva": false,
-    "slots": 1,
-    "liberarSlots": 0
+    "slots": [
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
+    ]
   },
   {
     "id": 9,
@@ -101,8 +141,12 @@
     "debePagar": "$3.000",
     "descripcion": "+54 9 11 4948-3203",
     "renueva": false,
-    "slots": 1,
-    "liberarSlots": 0
+    "slots": [
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
+    ]
   },
   {
     "id": 10,
@@ -116,8 +160,12 @@
     "debePagar": "$3.000",
     "descripcion": "Ivan Tio",
     "renueva": false,
-    "slots": 1,
-    "liberarSlots": 0
+    "slots": [
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
+    ]
   },
   {
     "id": 11,
@@ -131,8 +179,12 @@
     "debePagar": "$3.000",
     "descripcion": "+54 9 1130203526",
     "renueva": false,
-    "slots": 1,
-    "liberarSlots": 0
+    "slots": [
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
+    ]
   },
   {
     "id": 12,
@@ -146,8 +198,12 @@
     "debePagar": "$3.000",
     "descripcion": "+54 11 3256 8112",
     "renueva": false,
-    "slots": 1,
-    "liberarSlots": 0
+    "slots": [
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
+    ]
   },
   {
     "id": 13,
@@ -161,8 +217,12 @@
     "debePagar": "$3.000",
     "descripcion": "+54 1171790722",
     "renueva": false,
-    "slots": 1,
-    "liberarSlots": 0
+    "slots": [
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
+    ]
   },
   {
     "id": 14,
@@ -176,8 +236,12 @@
     "debePagar": "2hs",
     "descripcion": "",
     "renueva": false,
-    "slots": 1,
-    "liberarSlots": 0
+    "slots": [
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
+    ]
   },
   {
     "id": 15,
@@ -191,7 +255,11 @@
     "debePagar": "1 Semana",
     "descripcion": "",
     "renueva": false,
-    "slots": 1,
-    "liberarSlots": 0
+    "slots": [
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
+    ]
   }
 ]
