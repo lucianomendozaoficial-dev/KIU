@@ -10,7 +10,9 @@
     "plan": "estandar",
     "debePagar": "$3.000",
     "descripcion": "",
-    "renueva": true
+    "renueva": true,
+    "slots": 3,
+    "liberarSlots": 0
   },
   {
     "id": 2,
@@ -23,7 +25,9 @@
     "plan": "estandar",
     "debePagar": "$3.000",
     "descripcion": "Se le otorgo 1 mes gratis por ser familiar de Luciano.",
-    "renueva": false
+    "renueva": false,
+    "slots": 2,
+    "liberarSlots": 0
   },
   {
     "id": 4,
@@ -36,7 +40,9 @@
     "plan": "estandar",
     "debePagar": "$3.000",
     "descripcion": "",
-    "renueva": true
+    "renueva": true,
+    "slots": 2,
+    "liberarSlots": 0
   },
   {
     "id": 6,
@@ -49,7 +55,9 @@
     "plan": "estandar",
     "debePagar": "Gratis",
     "descripcion": "",
-    "renueva": false
+    "renueva": false,
+    "slots": 1,
+    "liberarSlots": 0
   },
   {
     "id": 7,
@@ -62,7 +70,9 @@
     "plan": "estandar",
     "debePagar": "$3.000",
     "descripcion": "+54 9 11 2280-8205",
-    "renueva": false
+    "renueva": false,
+    "slots": 1,
+    "liberarSlots": 0
   },
   {
     "id": 8,
@@ -75,7 +85,9 @@
     "plan": "estandar",
     "debePagar": "$3.000",
     "descripcion": "+54 9 2984 12-2414",
-    "renueva": false
+    "renueva": false,
+    "slots": 1,
+    "liberarSlots": 0
   },
   {
     "id": 9,
@@ -88,7 +100,9 @@
     "plan": "estandar",
     "debePagar": "$3.000",
     "descripcion": "+54 9 11 4948-3203",
-    "renueva": false
+    "renueva": false,
+    "slots": 1,
+    "liberarSlots": 0
   },
   {
     "id": 10,
@@ -101,7 +115,9 @@
     "plan": "estandar",
     "debePagar": "$3.000",
     "descripcion": "Ivan Tio",
-    "renueva": false
+    "renueva": false,
+    "slots": 1,
+    "liberarSlots": 0
   },
   {
     "id": 11,
@@ -114,7 +130,9 @@
     "plan": "estandar",
     "debePagar": "$3.000",
     "descripcion": "+54 9 1130203526",
-    "renueva": false
+    "renueva": false,
+    "slots": 1,
+    "liberarSlots": 0
   },
   {
     "id": 12,
@@ -127,7 +145,9 @@
     "plan": "estandar",
     "debePagar": "$3.000",
     "descripcion": "+54 11 3256 8112",
-    "renueva": false
+    "renueva": false,
+    "slots": 1,
+    "liberarSlots": 0
   },
   {
     "id": 13,
@@ -140,7 +160,9 @@
     "plan": "estandar",
     "debePagar": "$3.000",
     "descripcion": "+54 1171790722",
-    "renueva": false
+    "renueva": false,
+    "slots": 1,
+    "liberarSlots": 0
   },
   {
     "id": 14,
@@ -153,7 +175,9 @@
     "plan": "estandar",
     "debePagar": "2hs",
     "descripcion": "",
-    "renueva": false
+    "renueva": false,
+    "slots": 1,
+    "liberarSlots": 0
   },
   {
     "id": 15,
@@ -166,6 +190,8 @@
     "plan": "estandar",
     "debePagar": "1 Semana",
     "descripcion": "",
-    "renueva": false
+    "renueva": false,
+    "slots": 1,
+    "liberarSlots": 0
   }
 ]
