@@ -52,11 +52,11 @@
   {
     "id": 4,
     "nombre": "marisa@tuty.com",
-    "password": "2026",
+    "password": "2020",
     "dni": "",
     "contacto": "",
     "nombreCompleto": "Marisa Sosa",
-    "fechaExpiracion": "2026-11-06",
+    "fechaExpiracion": "2026-11-06 17:32",
     "plan": "estandar",
     "debePagar": "$3.000",
     "descripcion": "",
@@ -64,7 +64,7 @@
     "slots": [
       {
         "n": 1,
-        "estado": "vacio"
+        "estado": "ocupado"
       },
       {
         "n": 2,
