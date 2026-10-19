@@ -13,10 +13,10 @@
     "renueva": false,
     "slots": [
       {
-        "n": 1,
-        "estado": "ocupado",
         "dispositivo": "dev-mvene7ut-jgc7jv4y",
-        "desde": 1792377967049
+        "desde": 1792377967049,
+        "n": 1,
+        "estado": "ocupado"
       },
       {
         "n": 2,
