@@ -14,17 +14,21 @@
     "slots": [
       {
         "n": 1,
-        "estado": "ocupado"
+        "estado": "ocupado",
+        "dispositivo": "dev-prueba-1",
+        "desde": 1792374139066
       },
       {
         "n": 2,
-        "estado": "ocupado"
+        "estado": "ocupado",
+        "dispositivo": "dev-prueba-2",
+        "desde": 1792374139066
       },
       {
         "n": 3,
         "estado": "ocupado",
-        "dispositivo": "dev-mveiur9g-0a455e9j",
-        "desde": 1792373896111
+        "dispositivo": "dev-prueba-3",
+        "desde": 1792374139066
       }
     ]
   },
