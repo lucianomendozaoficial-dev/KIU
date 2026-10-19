@@ -34,19 +34,23 @@
     "orden": 2,
     "recomendado": true,
     "color": "#4a3ad9",
-    "descripcion": "Todo el catálogo: películas, series y TV en vivo.",
+    "descripcion": "Todo el catálogo completo de películas y series.",
     "calidad": "Max",
     "pantallas": 2,
     "perfiles": 2,
     "beneficios": [
       "Sin anuncios",
-      "Catálogo completo de películas",
-      "Todas las series",
-      "Canales de TV en vivo",
+      "Catálogo completo de películas y series",
       "2 perfiles"
     ],
     "noIncluye": [
-      "Contenido exclusivo Premium"
+      "Contenido exclusivo Premium",
+      "5 perfiles",
+      "Canales de TV",
+      "Modo kids",
+      "Limitacion de edades",
+      "Control parental",
+      "Nuevos avatares"
     ]
   },
   {
