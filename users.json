@@ -185,7 +185,10 @@
     "slots": [
       {
         "n": 1,
-        "estado": "vacio"
+        "estado": "ocupado",
+        "dispositivo": "dev-mvgvjcnt-maliczc8",
+        "nombre": "Android · Chrome (czc8)",
+        "desde": 1792512292314
       }
     ]
   }
