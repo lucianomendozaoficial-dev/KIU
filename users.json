@@ -13,18 +13,20 @@
     "renueva": false,
     "slots": [
       {
-        "dispositivo": "dev-mveo5m0k-oz7l7h65",
-        "desde": 1792378969935,
         "n": 1,
-        "estado": "vacio"
+        "estado": "ocupado",
+        "quemado": 1792457783416
       },
       {
         "n": 2,
-        "estado": "vacio"
+        "estado": "ocupado",
+        "quemado": 1792457783416
       },
       {
         "n": 3,
-        "estado": "vacio"
+        "estado": "ocupado",
+        "dispositivo": "dev-mveiur9g-0a455e9j",
+        "desde": 1792457782929
       }
     ]
   },
