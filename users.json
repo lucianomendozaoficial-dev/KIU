@@ -14,10 +14,7 @@
     "slots": [
       {
         "n": 1,
-        "estado": "ocupado",
-        "dispositivo": "dev-sesion-vieja",
-        "nombre": "Android TV · Chrome (ieja)",
-        "desde": 1792459995341
+        "estado": "vacio"
       },
       {
         "n": 2,
