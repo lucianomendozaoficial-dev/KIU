@@ -22,7 +22,10 @@
       },
       {
         "n": 3,
-        "estado": "vacio"
+        "estado": "ocupado",
+        "dispositivo": "dev-mveo5m0k-oz7l7h65",
+        "nombre": "Android · Chrome (7h65)",
+        "desde": 1792464138741
       }
     ]
   },
