@@ -7,21 +7,21 @@
     "contacto": "",
     "nombreCompleto": "Luciano Mendoza",
     "fechaExpiracion": "2026-11-06 18:05",
-    "plan": "estandar",
+    "plan": "premium",
     "debePagar": "$3.000",
     "descripcion": "",
     "renueva": false,
     "slots": [
       {
-        "n": 1,
-        "estado": "ocupado",
         "dispositivo": "dev-mveiur9g-0a455e9j",
         "nombre": "Windows · Edge (5e9j)",
-        "desde": 1792539760190
+        "desde": 1792539682969,
+        "n": 1,
+        "estado": "ocupado"
       },
       {
-        "n": 2,
         "liberado": 0,
+        "n": 2,
         "estado": "ocupado"
       },
       {
