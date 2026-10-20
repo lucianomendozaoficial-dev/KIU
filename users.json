@@ -14,7 +14,10 @@
     "slots": [
       {
         "n": 1,
-        "estado": "vacio"
+        "estado": "ocupado",
+        "dispositivo": "dev-mveiur9g-0a455e9j",
+        "nombre": "Windows · Edge (5e9j)",
+        "desde": 1792462184439
       }
     ]
   },
