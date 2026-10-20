@@ -17,9 +17,6 @@
         "estado": "ocupado"
       },
       {
-        "dispositivo": "dev-mvene7ut-jgc7jv4y",
-        "nombre": "Android · Chrome (jv4y)",
-        "desde": 1792464297587,
         "n": 2,
         "estado": "ocupado"
       },
@@ -29,7 +26,10 @@
       },
       {
         "n": 4,
-        "estado": "vacio"
+        "estado": "ocupado",
+        "dispositivo": "dev-mvg2y2l2-808a49gp",
+        "nombre": "iPhone · Safari (49gp)",
+        "desde": 1792464475247
       }
     ]
   },
