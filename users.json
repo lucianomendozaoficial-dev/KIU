@@ -22,14 +22,14 @@
       },
       {
         "n": 3,
-        "estado": "ocupado"
+        "estado": "ocupado",
+        "dispositivo": "dev-mveo5m0k-oz7l7h65",
+        "nombre": "Android · Chrome (7h65)",
+        "desde": 1792537583833
       },
       {
         "n": 4,
-        "estado": "ocupado",
-        "dispositivo": "dev-mvg2y2l2-808a49gp",
-        "nombre": "iPhone · Safari (49gp)",
-        "desde": 1792521928613
+        "estado": "ocupado"
       }
     ]
   },
