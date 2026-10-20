@@ -18,6 +18,14 @@
         "desde": 1792463418146,
         "n": 1,
         "estado": "ocupado"
+      },
+      {
+        "n": 2,
+        "estado": "vacio"
+      },
+      {
+        "n": 3,
+        "estado": "vacio"
       }
     ]
   },
