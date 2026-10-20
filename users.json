@@ -17,11 +17,11 @@
         "estado": "ocupado"
       },
       {
-        "n": 2,
-        "estado": "ocupado",
         "dispositivo": "dev-mvene7ut-jgc7jv4y",
         "nombre": "Android · Chrome (jv4y)",
-        "desde": 1792464327587
+        "desde": 1792464297587,
+        "n": 2,
+        "estado": "ocupado"
       },
       {
         "n": 3,
