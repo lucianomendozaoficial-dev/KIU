@@ -14,18 +14,7 @@
     "slots": [
       {
         "n": 1,
-        "estado": "ocupado"
-      },
-      {
-        "n": 2,
-        "estado": "ocupado",
-        "dispositivo": "dev-el-mio",
-        "nombre": "Android TV · Chrome (-mio)",
-        "desde": 1792460625366
-      },
-      {
-        "n": 3,
-        "estado": "ocupado"
+        "estado": "vacio"
       }
     ]
   },
