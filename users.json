@@ -14,10 +14,7 @@
     "slots": [
       {
         "n": 1,
-        "estado": "ocupado",
-        "dispositivo": "dev-tele-living",
-        "nombre": "Sony Bravia · Chrome (ving)",
-        "desde": 1792458439544
+        "estado": "vacio"
       }
     ]
   },
