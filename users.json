@@ -13,7 +13,19 @@
     "renueva": false,
     "slots": [
       {
+        "quemado": 1792457783416,
         "n": 1,
+        "estado": "vacio"
+      },
+      {
+        "quemado": 1792457783416,
+        "n": 2,
+        "estado": "vacio"
+      },
+      {
+        "dispositivo": "dev-mveiur9g-0a455e9j",
+        "desde": 1792457782929,
+        "n": 3,
         "estado": "vacio"
       }
     ]
