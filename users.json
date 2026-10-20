@@ -14,22 +14,22 @@
     "slots": [
       {
         "n": 1,
-        "estado": "ocupado"
+        "estado": "ocupado",
+        "dispositivo": "dev-mveiur9g-0a455e9j",
+        "nombre": "Windows · Edge (5e9j)",
+        "desde": 1792537857005
       },
       {
         "n": 2,
-        "estado": "ocupado"
+        "estado": "vacio"
       },
       {
-        "dispositivo": "dev-mveo5m0k-oz7l7h65",
-        "nombre": "Android · Chrome (7h65)",
-        "desde": 1792537583833,
         "n": 3,
-        "estado": "ocupado"
+        "estado": "vacio"
       },
       {
         "n": 4,
-        "estado": "ocupado"
+        "estado": "vacio"
       },
       {
         "n": 5,
