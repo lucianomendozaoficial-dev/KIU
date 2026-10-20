@@ -30,6 +30,10 @@
       {
         "n": 4,
         "estado": "ocupado"
+      },
+      {
+        "n": 5,
+        "estado": "vacio"
       }
     ]
   },
