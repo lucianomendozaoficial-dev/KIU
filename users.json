@@ -14,11 +14,15 @@
     "slots": [
       {
         "n": 1,
-        "estado": "vacio"
+        "estado": "ocupado",
+        "dispositivo": "dev-a",
+        "nombre": "TV A"
       },
       {
         "n": 2,
-        "estado": "vacio"
+        "estado": "ocupado",
+        "dispositivo": "dev-b",
+        "nombre": "TV B"
       }
     ]
   },
