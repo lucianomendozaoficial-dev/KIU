@@ -14,7 +14,21 @@
     "slots": [
       {
         "n": 1,
-        "estado": "vacio"
+        "estado": "ocupado",
+        "dispositivo": "dev-otro-1",
+        "nombre": "TV Cocina"
+      },
+      {
+        "n": 2,
+        "estado": "ocupado",
+        "dispositivo": "dev-otro-2",
+        "nombre": "TV Cuarto"
+      },
+      {
+        "n": 3,
+        "estado": "ocupado",
+        "dispositivo": "dev-otro-3",
+        "nombre": "PC"
       }
     ]
   },
