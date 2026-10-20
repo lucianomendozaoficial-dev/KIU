@@ -18,16 +18,16 @@
       },
       {
         "n": 2,
-        "estado": "ocupado",
-        "dispositivo": "dev-mvene7ut-jgc7jv4y",
-        "nombre": "Android · Chrome (jv4y)",
-        "desde": 1792464567596
+        "estado": "ocupado"
       },
       {
         "n": 3,
         "estado": "ocupado"
       },
       {
+        "dispositivo": "dev-mvg2y2l2-808a49gp",
+        "nombre": "iPhone · Safari (49gp)",
+        "desde": 1792464489774,
         "n": 4,
         "estado": "ocupado"
       }
@@ -86,25 +86,6 @@
     "plan": "estandar",
     "debePagar": "$3.000",
     "descripcion": "+54 9 11 2280-8205",
-    "renueva": false,
-    "slots": [
-      {
-        "n": 1,
-        "estado": "vacio"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "nombre": "Hector@kiu.com",
-    "password": "2026",
-    "dni": "",
-    "contacto": "",
-    "nombreCompleto": "Hector jose",
-    "fechaExpiracion": "2026-10-12",
-    "plan": "estandar",
-    "debePagar": "$3.000",
-    "descripcion": "+54 9 2984 12-2414",
     "renueva": false,
     "slots": [
       {
