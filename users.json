@@ -13,11 +13,11 @@
     "renueva": false,
     "slots": [
       {
-        "n": 1,
-        "estado": "ocupado",
         "dispositivo": "dev-mveiur9g-0a455e9j",
         "nombre": "Windows · Edge (5e9j)",
-        "desde": 1792461616011
+        "desde": 1792461616011,
+        "n": 1,
+        "estado": "ocupado"
       }
     ]
   },
