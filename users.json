@@ -12,9 +12,21 @@
     "descripcion": "",
     "renueva": false,
     "slots": [
-      { "n": 1, "estado": "vacio" },
-      { "n": 2, "estado": "vacio" },
-      { "n": 3, "estado": "vacio" }
+      {
+        "n": 1,
+        "estado": "ocupado",
+        "dispositivo": "dev-mveiur9g-0a455e9j",
+        "nombre": "Windows · Edge (5e9j)",
+        "desde": 1792458951153
+      },
+      {
+        "n": 2,
+        "estado": "vacio"
+      },
+      {
+        "n": 3,
+        "estado": "vacio"
+      }
     ]
   },
   {
@@ -30,8 +42,14 @@
     "descripcion": "",
     "renueva": true,
     "slots": [
-      { "n": 1, "estado": "vacio" },
-      { "n": 2, "estado": "vacio" }
+      {
+        "n": 1,
+        "estado": "vacio"
+      },
+      {
+        "n": 2,
+        "estado": "vacio"
+      }
     ]
   },
   {
@@ -47,7 +65,10 @@
     "descripcion": "",
     "renueva": false,
     "slots": [
-      { "n": 1, "estado": "vacio" }
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
     ]
   },
   {
@@ -63,7 +84,10 @@
     "descripcion": "+54 9 11 2280-8205",
     "renueva": false,
     "slots": [
-      { "n": 1, "estado": "vacio" }
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
     ]
   },
   {
@@ -79,7 +103,10 @@
     "descripcion": "+54 9 2984 12-2414",
     "renueva": false,
     "slots": [
-      { "n": 1, "estado": "vacio" }
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
     ]
   },
   {
@@ -95,7 +122,10 @@
     "descripcion": "+54 9 11 4948-3203",
     "renueva": false,
     "slots": [
-      { "n": 1, "estado": "vacio" }
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
     ]
   },
   {
@@ -111,7 +141,10 @@
     "descripcion": "Ivan Tio",
     "renueva": false,
     "slots": [
-      { "n": 1, "estado": "vacio" }
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
     ]
   },
   {
@@ -127,7 +160,10 @@
     "descripcion": "+54 9 1130203526",
     "renueva": false,
     "slots": [
-      { "n": 1, "estado": "vacio" }
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
     ]
   },
   {
@@ -143,7 +179,10 @@
     "descripcion": "+54 11 3256 8112",
     "renueva": false,
     "slots": [
-      { "n": 1, "estado": "vacio" }
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
     ]
   },
   {
@@ -159,7 +198,10 @@
     "descripcion": "+54 1171790722",
     "renueva": false,
     "slots": [
-      { "n": 1, "estado": "vacio" }
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
     ]
   },
   {
@@ -175,7 +217,10 @@
     "descripcion": "",
     "renueva": false,
     "slots": [
-      { "n": 1, "estado": "vacio" }
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
     ]
   },
   {
@@ -191,7 +236,10 @@
     "descripcion": "",
     "renueva": false,
     "slots": [
-      { "n": 1, "estado": "vacio" }
+      {
+        "n": 1,
+        "estado": "vacio"
+      }
     ]
   }
 ]
