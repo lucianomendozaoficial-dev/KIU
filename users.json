@@ -18,16 +18,16 @@
       },
       {
         "n": 2,
-        "estado": "ocupado",
-        "dispositivo": "dev-mvene7ut-jgc7jv4y",
-        "nombre": "Android · Chrome (jv4y)",
-        "desde": 1792464597588
+        "estado": "ocupado"
       },
       {
         "n": 3,
         "estado": "ocupado"
       },
       {
+        "dispositivo": "dev-mvg2y2l2-808a49gp",
+        "nombre": "iPhone · Safari (49gp)",
+        "desde": 1792464489774,
         "n": 4,
         "estado": "ocupado"
       }
@@ -67,44 +67,6 @@
     "plan": "estandar",
     "debePagar": "Gratis",
     "descripcion": "",
-    "renueva": false,
-    "slots": [
-      {
-        "n": 1,
-        "estado": "vacio"
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "nombre": "Jorgelopez@kiu.com",
-    "password": "2026",
-    "dni": "",
-    "contacto": "",
-    "nombreCompleto": "Jorge lopez",
-    "fechaExpiracion": "2026-10-12",
-    "plan": "estandar",
-    "debePagar": "$3.000",
-    "descripcion": "+54 9 11 2280-8205",
-    "renueva": false,
-    "slots": [
-      {
-        "n": 1,
-        "estado": "vacio"
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "nombre": "Cristian@kiu.com",
-    "password": "2026",
-    "dni": "",
-    "contacto": "",
-    "nombreCompleto": "Cristian vidal",
-    "fechaExpiracion": "2026-10-12",
-    "plan": "estandar",
-    "debePagar": "$3.000",
-    "descripcion": "+54 9 11 4948-3203",
     "renueva": false,
     "slots": [
       {
