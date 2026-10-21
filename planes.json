@@ -62,7 +62,7 @@
   {
     "id": "premium",
     "nombre": "Premium",
-    "precio": 6000,
+    "precio": 7500,
     "moneda": "$",
     "periodo": "mes",
     "orden": 3,
@@ -70,19 +70,23 @@
     "color": "#e0b34a",
     "descripcion": "Lo mejor de KIU",
     "calidad": "Max",
-    "pantallas": 5,
-    "perfiles": 5,
+    "pantallas": 4,
+    "perfiles": 4,
     "beneficios": [
       "Todo lo del Estandar",
-      "Contenido exclusivo Premium",
-      "5 perfiles",
-      "Modo kids",
-      "Limitacion de edades",
+      "Sin anuncios",
+      "Contenido exclusivo",
       "Control parental",
-      "Nuevos avatares"
+      "4 Dispositivos",
+      "4 Perfil",
+      "Descargas",
+      "Avatares extras",
+      "YouTube"
     ],
     "noIncluye": [
-      "Kiu Tv Box"
+      "Tv Box Kiu",
+      "6 Dispositivos",
+      "5 Perfil"
     ]
   }
 ]
