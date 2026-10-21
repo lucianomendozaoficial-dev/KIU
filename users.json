@@ -14,10 +14,7 @@
     "slots": [
       {
         "n": 1,
-        "estado": "ocupado",
-        "dispositivo": "dev-mveo5m0k-oz7l7h65",
-        "nombre": "Android · Chrome (7h65)",
-        "desde": 1792626729262
+        "estado": "vacio"
       },
       {
         "n": 2,
@@ -41,7 +38,7 @@
     "contacto": "",
     "nombreCompleto": "Marisa Sosa",
     "fechaExpiracion": "2026-11-06 17:32",
-    "plan": "estandar",
+    "plan": "basico",
     "debePagar": "$3.000",
     "descripcion": "",
     "renueva": true,
@@ -52,10 +49,6 @@
         "desde": 1792614469056,
         "n": 1,
         "estado": "ocupado"
-      },
-      {
-        "n": 2,
-        "estado": "vacio"
       }
     ]
   },
@@ -67,13 +60,25 @@
     "contacto": "",
     "nombreCompleto": "Morena Mendoza",
     "fechaExpiracion": "",
-    "plan": "estandar",
+    "plan": "premium",
     "debePagar": "Gratis",
     "descripcion": "",
     "renueva": false,
     "slots": [
       {
         "n": 1,
+        "estado": "vacio"
+      },
+      {
+        "n": 2,
+        "estado": "vacio"
+      },
+      {
+        "n": 3,
+        "estado": "vacio"
+      },
+      {
+        "n": 4,
         "estado": "vacio"
       }
     ]
@@ -162,7 +167,7 @@
     "contacto": "",
     "nombreCompleto": "Lorena",
     "fechaExpiracion": "2026-10-18 20:00",
-    "plan": "estandar",
+    "plan": "basico",
     "debePagar": "2hs",
     "descripcion": "",
     "renueva": false,
@@ -203,7 +208,7 @@
     "contacto": "",
     "nombreCompleto": "Elias Seville",
     "fechaExpiracion": "",
-    "plan": "estandar",
+    "plan": "basico",
     "debePagar": "Amigo Fiel",
     "descripcion": "",
     "renueva": false,
@@ -214,10 +219,6 @@
         "desde": 1792544108777,
         "n": 1,
         "estado": "ocupado"
-      },
-      {
-        "n": 2,
-        "estado": "vacio"
       }
     ]
   }
