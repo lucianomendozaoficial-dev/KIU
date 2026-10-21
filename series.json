@@ -634,7 +634,7 @@
       "Disney",
       "Netflix"
     ],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
@@ -859,13 +859,13 @@
     "portada": "https://image.tmdb.org/t/p/original/aJboceWct3FYptVPavlhUOjiiSe.jpg",
     "banner": "https://image.tmdb.org/t/p/original/cae4gjklRHnzQTmVCxpZnOdPw71.jpg",
     "tipo": "serie",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+18",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Netflix"
     ],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
@@ -896,7 +896,8 @@
           }
         ]
       }
-    ]
+    ],
+    "camara": false
   },
   {
     "id": 18,
@@ -924,7 +925,7 @@
     "especiales": [
       "Prime Video"
     ],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
@@ -992,7 +993,7 @@
       "Prime Video",
       "Anime"
     ],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
@@ -1030,13 +1031,13 @@
     "portada": "https://image.tmdb.org/t/p/original/kEAhWIsNEm3Xrbom5RZfUiPSOOq.jpg",
     "banner": "https://image.tmdb.org/t/p/original/5PCKxpFcCTDFT3b1olJGPaAIM9e.jpg",
     "tipo": "serie",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+18",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Prime Video"
     ],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
@@ -1067,7 +1068,8 @@
           }
         ]
       }
-    ]
+    ],
+    "camara": false
   },
   {
     "id": 21,
@@ -1086,14 +1088,14 @@
     "portada": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
     "banner": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
     "tipo": "serie",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+13",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Disney",
       "Marvel"
     ],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
@@ -1108,7 +1110,8 @@
           }
         ]
       }
-    ]
+    ],
+    "camara": false
   },
   {
     "id": 22,
