@@ -4,25 +4,28 @@
     "nombre": "Básico",
     "precio": 3000,
     "moneda": "$",
-    "periodo": "gratis",
+    "periodo": "mes",
     "orden": 1,
     "recomendado": false,
     "color": "#4a77d9",
-    "descripcion": "Entrá gratis, sin crear cuenta. Películas seleccionadas, sin series, 1 perfil y sin anuncios.",
-    "calidad": "Seleccionados",
-    "pantallas": 1,
-    "perfiles": 1,
+    "descripcion": "Ideal para personas que quieran probar la app.",
+    "calidad": "Max",
+    "pantallas": 2,
+    "perfiles": 2,
     "beneficios": [
-      "Sin anuncios",
-      "Catálogo de películas seleccionadas",
-      "1 perfil",
-      "No necesita cuenta ni registro"
+      "Con anuncios",
+      "Peliculas y Series",
+      "Plataformas reducidas",
+      "1 Dispositivo",
+      "1 Perfil"
     ],
     "noIncluye": [
-      "Series",
-      "Canales de TV en vivo",
-      "Catalogo de peliculas completo",
-      "Estrenos y contenido premium"
+      "Contenido exclusivo",
+      "Modo kids",
+      "limite de edad",
+      "Mas dispositivos",
+      "Sin anuncios",
+      "Descargas"
     ]
   },
   {
