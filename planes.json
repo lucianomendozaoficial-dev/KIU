@@ -31,29 +31,32 @@
   {
     "id": "estandar",
     "nombre": "Estándar",
-    "precio": 3000,
+    "precio": 5000,
     "moneda": "$",
     "periodo": "mes",
     "orden": 2,
     "recomendado": true,
     "color": "#4a3ad9",
-    "descripcion": "Todo el catálogo completo de películas y series.",
+    "descripcion": "Catalogo completo de peliculas y series y sin anuncios.",
     "calidad": "Max",
     "pantallas": 2,
     "perfiles": 2,
     "beneficios": [
       "Sin anuncios",
-      "Catálogo completo de películas y series",
-      "2 perfiles"
+      "Peliculas y series",
+      "TV en vivo",
+      "2 Dispositivos",
+      "2 Perfil",
+      "Modo kids",
+      "Limite de edad"
     ],
     "noIncluye": [
-      "Contenido exclusivo Premium",
-      "5 perfiles",
-      "Canales de TV",
-      "Modo kids",
-      "Limitacion de edades",
-      "Control parental",
-      "Nuevos avatares"
+      "Contenido exclusivo",
+      "4 Dispositivos",
+      "4 Perfil",
+      "Descargas",
+      "Avatares extras",
+      "YouTube"
     ]
   },
   {
