@@ -2,7 +2,7 @@
   {
     "id": "basico",
     "nombre": "Básico",
-    "precio": 0,
+    "precio": 3000,
     "moneda": "$",
     "periodo": "gratis",
     "orden": 1,
