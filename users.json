@@ -7,7 +7,7 @@
     "contacto": "",
     "nombreCompleto": "Luciano Mendoza",
     "fechaExpiracion": "2026-11-06 18:05",
-    "plan": "premium",
+    "plan": "basico",
     "debePagar": "$3.000",
     "descripcion": "",
     "renueva": false,
@@ -18,25 +18,6 @@
         "desde": 1792540241759,
         "n": 1,
         "estado": "ocupado"
-      },
-      {
-        "dispositivo": "dev-mveo5m0k-oz7l7h65",
-        "nombre": "Android · Chrome (7h65)",
-        "desde": 1792544246537,
-        "n": 2,
-        "estado": "ocupado"
-      },
-      {
-        "n": 3,
-        "estado": "vacio"
-      },
-      {
-        "n": 4,
-        "estado": "vacio"
-      },
-      {
-        "n": 5,
-        "estado": "vacio"
       }
     ]
   },
