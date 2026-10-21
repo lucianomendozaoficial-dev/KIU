@@ -6,18 +6,27 @@
     "dni": "47.258.027",
     "contacto": "",
     "nombreCompleto": "Luciano Mendoza",
-    "fechaExpiracion": "2026-11-06 18:05",
-    "plan": "basico",
+    "fechaExpiracion": "2026-10-23 23:10",
+    "plan": "premium",
     "debePagar": "$3.000",
     "descripcion": "",
     "renueva": false,
     "slots": [
       {
-        "dispositivo": "dev-mveiur9g-0a455e9j",
-        "nombre": "Windows · Edge (5e9j)",
-        "desde": 1792540241759,
         "n": 1,
-        "estado": "ocupado"
+        "estado": "vacio"
+      },
+      {
+        "n": 2,
+        "estado": "vacio"
+      },
+      {
+        "n": 3,
+        "estado": "vacio"
+      },
+      {
+        "n": 4,
+        "estado": "vacio"
       }
     ]
   },
