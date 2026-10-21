@@ -175,11 +175,11 @@
     "renueva": false,
     "slots": [
       {
-        "n": 1,
-        "estado": "ocupado",
         "dispositivo": "dev-mvgvjcnt-maliczc8",
         "nombre": "Android · Chrome (czc8)",
-        "desde": 1792515906092
+        "desde": 1792515906092,
+        "n": 1,
+        "estado": "ocupado"
       }
     ]
   },
