@@ -17,14 +17,14 @@
     "portada": "https://image.tmdb.org/t/p/original/vCk6wy6WQHwARR4jewbxhhmESs7.jpg",
     "banner": "https://image.tmdb.org/t/p/original/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
     "tipo": "serie",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+13",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Marvel",
       "Disney"
     ],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
@@ -84,7 +84,8 @@
           }
         ]
       }
-    ]
+    ],
+    "camara": false
   },
   {
     "id": 3,
@@ -111,7 +112,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
@@ -184,13 +185,13 @@
     "portada": "https://image.tmdb.org/t/p/original/yGoQugW6v16jdK32JNhMpHl1aCo.jpg",
     "banner": "https://image.tmdb.org/t/p/original/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
     "tipo": "serie",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+18",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Netflix"
     ],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
@@ -213,7 +214,8 @@
           }
         ]
       }
-    ]
+    ],
+    "camara": false
   },
   {
     "id": 5,
@@ -276,13 +278,13 @@
     "portada": "https://image.tmdb.org/t/p/original/upEU30dtEqx80DSQSaEjeXLcKRI.jpg",
     "banner": "https://image.tmdb.org/t/p/original/i92vV0MMeXZKs9zsYFOpjYYt2s2.jpg",
     "tipo": "serie",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+18",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Netflix"
     ],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
@@ -313,7 +315,8 @@
           }
         ]
       }
-    ]
+    ],
+    "camara": false
   },
   {
     "id": 7,
@@ -334,14 +337,14 @@
     "portada": "https://image.tmdb.org/t/p/original/3KzoEdclGwXQH2t2oYZZlw46TvW.jpg",
     "banner": "https://image.tmdb.org/t/p/original/mfcLUWASJghU8MTNK38eYktfE83.jpg",
     "tipo": "serie",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+13",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Disney",
       "Marvel"
     ],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
@@ -360,7 +363,8 @@
           }
         ]
       }
-    ]
+    ],
+    "camara": false
   },
   {
     "id": 8,
@@ -413,11 +417,11 @@
     "portada": "https://image.tmdb.org/t/p/original/nOSDJNtN9JZxikBiRAfyQ8K91dH.jpg",
     "banner": "https://image.tmdb.org/t/p/original/eSB0fD6CbNW3LT8Z55V07fmYFpo.jpg",
     "tipo": "serie",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+13",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
@@ -432,7 +436,8 @@
           }
         ]
       }
-    ]
+    ],
+    "camara": false
   },
   {
     "id": 10,
@@ -453,13 +458,13 @@
     "portada": "https://image.tmdb.org/t/p/original/1e6y2MiGL7KCTJfpqa3cNHLDpF3.jpg",
     "banner": "https://image.tmdb.org/t/p/original/fkeVnvxVx4x2PdDOOzSblFUGTVt.jpg",
     "tipo": "serie",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+18",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Prime Video"
     ],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
@@ -482,7 +487,8 @@
           }
         ]
       }
-    ]
+    ],
+    "camara": false
   },
   {
     "id": 11,
@@ -500,13 +506,13 @@
     "portada": "https://image.tmdb.org/t/p/original/cyJKP6Fsg8ds4O4g1Q1SCOKJQdn.jpg",
     "banner": "https://image.tmdb.org/t/p/original/xrm5XNKMuAnvnG9sokNYlaAng2G.jpg",
     "tipo": "serie",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+13",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Netflix"
     ],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
@@ -529,7 +535,8 @@
           }
         ]
       }
-    ]
+    ],
+    "camara": false
   },
   {
     "id": 12,
@@ -546,13 +553,13 @@
     "portada": "https://image.tmdb.org/t/p/original/jsH4AeGZn5Q6h314A3OTUHKxHhR.jpg",
     "banner": "https://image.tmdb.org/t/p/original/9hfA9zMsyckwZ8WLMVQYKG8YSwY.jpg",
     "tipo": "serie",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+13",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Disney"
     ],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
@@ -567,7 +574,8 @@
           }
         ]
       }
-    ]
+    ],
+    "camara": false
   },
   {
     "id": 13,
@@ -591,7 +599,7 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
@@ -759,7 +767,7 @@
       "Anime",
       "Netflix"
     ],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
@@ -801,7 +809,7 @@
     "especiales": [
       "Hbo"
     ],
-    "plan": "estandar",
+    "plan": "basico",
     "temporadas": [
       {
         "numero": 1,
