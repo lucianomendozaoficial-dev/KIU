@@ -212,7 +212,10 @@
     "slots": [
       {
         "n": 1,
-        "estado": "vacio"
+        "estado": "ocupado",
+        "dispositivo": "dev-mvhehaeh-xlhakle7",
+        "nombre": "Android · Chrome (kle7)",
+        "desde": 1792544108777
       },
       {
         "n": 2,
