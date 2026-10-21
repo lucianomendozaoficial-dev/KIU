@@ -196,5 +196,28 @@
         "estado": "ocupado"
       }
     ]
+  },
+  {
+    "id": 16,
+    "nombre": "Elias@kiu.com",
+    "password": "2378",
+    "dni": "",
+    "contacto": "",
+    "nombreCompleto": "Elias Seville",
+    "fechaExpiracion": "",
+    "plan": "estandar",
+    "debePagar": "Amigo Fiel",
+    "descripcion": "",
+    "renueva": false,
+    "slots": [
+      {
+        "n": 1,
+        "estado": "vacio"
+      },
+      {
+        "n": 2,
+        "estado": "vacio"
+      }
+    ]
   }
 ]
