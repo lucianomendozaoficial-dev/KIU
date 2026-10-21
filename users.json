@@ -13,18 +13,18 @@
     "renueva": false,
     "slots": [
       {
+        "n": 1,
+        "estado": "ocupado",
         "dispositivo": "dev-mveiur9g-0a455e9j",
         "nombre": "Windows · Edge (5e9j)",
-        "desde": 1792540241759,
-        "n": 1,
-        "estado": "ocupado"
+        "desde": 1792540241759
       },
       {
-        "dispositivo": "dev-mvene7ut-jgc7jv4y",
-        "nombre": "Android · Chrome (jv4y)",
-        "desde": 1792544246537,
         "n": 2,
-        "estado": "ocupado"
+        "estado": "ocupado",
+        "dispositivo": "dev-mveo5m0k-oz7l7h65",
+        "nombre": "Android · Chrome (7h65)",
+        "desde": 1792544246537
       },
       {
         "n": 3,
