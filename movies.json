@@ -12615,5 +12615,30 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 496,
+    "nombre": "La melodía del diablo",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "Una joven compositora se encuentra frente a la oportunidad de su vida cuando recibe el encargo de terminar el concierto final de su difunto mentor, que quedó incompleto tras su muerte. Sin embargo, pronto descubrirá que tocar esas notas tiene repercusiones mortales, lo que la llevará a desenmascarar los orígenes perturbadores de la melodía y la malvada fuerza que ésta despierta.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 5.2,
+    "rating_updated": "2026-10-21T23:55:56.387Z",
+    "tmdb_id": 845643,
+    "portada": "https://image.tmdb.org/t/p/original/21u5PfcWqJDna3a42QQNvlRJAgc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4DTAYsk9ZzJPQJDHieRjYwHzU8q.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/w/9/Z/V/w9ZVq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Castellano",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Apple",
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
