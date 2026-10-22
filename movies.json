@@ -12718,5 +12718,30 @@
       "Hbo"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 500,
+    "nombre": "Harry Potter y la orden del Fénix",
+    "generos": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "descripcion": "Inquietó por el regreso de Lord Voldemort, las palabras Harry Potter son ignoradas. Mientras la escuela Hogwarts sufre grandes cambios, Harry y sus amigos reúnen a un pequeño grupo de estudiantes para defenderse de las artes oscuras.",
+    "año": 2007,
+    "duracion": "",
+    "rating": 7.7,
+    "rating_updated": "2026-10-22T22:40:17.953Z",
+    "tmdb_id": 675,
+    "portada": "https://image.tmdb.org/t/p/original/5M1Lz8YFKaF9IsMeZtRrsg6R6fZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9svsJni0pNROt53QBEj9JqZMuEK.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/x/A/U/8/xAU8q.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
   }
 ]
