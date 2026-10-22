@@ -12665,5 +12665,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 498,
+    "nombre": "After: Almas Perdidas",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "Cuando Tessa toma la decisión más importante de su vida, todo cambia. Los secretos que salen a la luz sobre su familia, y también sobre la de Hardin, ponen en peligro su relación y su futuro juntos. La vida de Tessa empieza a desmoronarse, nada es como ella creía que sería. Nunca ha sentido algo así por nadie, pero empieza a cuestionarse si vale la pena. Antes el amor bastaba para mantenerlos juntos, pero ahora ya no está claro lo que dictan sus corazones...",
+    "año": 2021,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-22T00:00:52.149Z",
+    "tmdb_id": 744275,
+    "portada": "https://image.tmdb.org/t/p/original/cAvUp7ngPyuhx1nLjmCOTCBNo91.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mxdiaM2tsx8M6W3zLgiPwAkhQfq.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/6/p/h/W/6phWq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Hbo",
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
