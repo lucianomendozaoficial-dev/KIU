@@ -12842,5 +12842,28 @@
     "calidad": "calidad",
     "especiales": [],
     "plan": "basico"
+  },
+  {
+    "id": 505,
+    "nombre": "After: Amor Infinito",
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "descripcion": "Una pareja debe decidir si continuar con su relación, apasionada pero tóxica, o hacer cambios dramáticos en sus vidas.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-10-22T23:24:08.920Z",
+    "tmdb_id": 744276,
+    "portada": "https://image.tmdb.org/t/p/original/vcI9BD5kMmVI45Pzj5B1ZaGpFIR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rwgmDkIEv8VjAsWx25ottJrFvpO.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/w/0/K/N/w0KNq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico"
   }
 ]
