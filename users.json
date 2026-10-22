@@ -13,9 +13,12 @@
     "renueva": false,
     "slots": [
       {
-        "token": "kmvisv7ureqlv0v43",
         "n": 1,
-        "estado": "vacio"
+        "estado": "ocupado",
+        "dispositivo": "dev-mvene7ut-jgc7jv4y",
+        "nombre": "Android · Chrome (jv4y)",
+        "desde": 1792630315111,
+        "token": "kmvitt3n3wf08xlcc"
       },
       {
         "n": 2,
