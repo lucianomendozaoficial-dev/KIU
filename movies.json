@@ -12691,5 +12691,32 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 499,
+    "nombre": "It (Eso)",
+    "generos": [
+      "Terror",
+      "Suspenso",
+      "Drama"
+    ],
+    "descripcion": "En el verano de 1989, un grupo de niños maltratados se unieron para destruir a un monstruo cambia-formas, que se disfraza de payaso y se aprovecha de los niños de Derry, su pequeño pueblo de Maine.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-10-22T22:34:21.331Z",
+    "tmdb_id": 346364,
+    "portada": "https://image.tmdb.org/t/p/original/p77sfJRQyqxvTDy6ulGLnw0uAhh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qVGpxnjrGlHaSTCqTQI6viBDSfp.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/8/g/5/9/8g59q.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video",
+      "Hbo"
+    ],
+    "plan": "basico"
   }
 ]
