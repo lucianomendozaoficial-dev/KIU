@@ -12768,5 +12768,30 @@
       "Hbo"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 502,
+    "nombre": "Harry Potter y las reliquias de la muerte (1ª parte)",
+    "generos": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "descripcion": "Harry, Ron y Hermione abandonan su último año en Hogwarts para encontrar y destruir los Horrocruxes restantes, poniendo fin a la búsqueda de la inmortalidad de Voldemort.",
+    "año": 2010,
+    "duracion": "",
+    "rating": 7.7,
+    "rating_updated": "2026-10-22T22:49:39.969Z",
+    "tmdb_id": 12444,
+    "portada": "https://image.tmdb.org/t/p/original/bZYziROYpqXI1DeW4Xz3egMOqej.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5i2QAYnbN5vOZUUolLPYHTb9spe.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/b/b/2/e/bb2er.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
   }
 ]
