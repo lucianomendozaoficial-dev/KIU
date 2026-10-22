@@ -12891,5 +12891,32 @@
     "calidad": "calidad",
     "especiales": [],
     "plan": "basico"
+  },
+  {
+    "id": 507,
+    "nombre": "Bolt: Un perro fuera de serie",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Aventura",
+      "Comedia"
+    ],
+    "descripcion": "¡Que comience la acción! Prepárate para la aventura más absolutamente fabulosa de todos los tiempos cuando Bolt, el mejor héroe de todo el planeta, y yo, Rhino, su fiel compañero y leal hámster acompañante, ¡emprendemos una misión súper secreta! Como uno de los integrantes de este Dúo Dinámico, te contaré cuál es la acción. Un día, estaba viendo \"Bolt\", mi programa favorito de televisión, y al momento siguiente ¡ya estaba trabajando en modalidad \"stealth\", al lado de mi héroe favorito de todos los tiempos! Juntos tenemos que recorrer la distancia de Nueva York a Hollywood para derrotar a las fuerzas del mal y salvar a la adorable Miss Penney del máximo peligro. Pero no se preocupen – armado con el \"súper ladrido\" de Bolt y mi pelota de trueno – estamos preparados para todo.",
+    "año": 2008,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-22T23:26:13.309Z",
+    "tmdb_id": 13053,
+    "portada": "https://image.tmdb.org/t/p/original/hpunLKNEvjuzCLwLbuWJqzu3OE7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zWqxBc6pdSIjklqWfZ70l5ce28P.jpg",
+    "embed": "https://rumble.com/hls-vod/77vhwg/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
