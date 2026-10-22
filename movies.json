@@ -12793,5 +12793,31 @@
       "Hbo"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 503,
+    "nombre": "La Guerra Del Mañana",
+    "generos": [
+      "Acción",
+      "Ciencia Ficción",
+      "Aventura"
+    ],
+    "descripcion": "Unos viajeros llegan desde el año 2051 para dar un mensaje: 30 años en el futuro, la humanidad estará perdiendo la guerra contra unos alienígenas. La única esperanza para sobrevivir es que los soldados y civiles vayan al futuro y se sumen a la batalla. Decidido a salvar el mundo por su hija, Dan Forester se une a una científica brillante y su distante padre para reescribir el destino del planeta.",
+    "año": 2021,
+    "duracion": "",
+    "rating": 7.5,
+    "rating_updated": "2026-10-22T23:21:53.726Z",
+    "tmdb_id": 588228,
+    "portada": "https://image.tmdb.org/t/p/original/tzp6VzED2TBc02bkYoYnQa6r2OK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yizL4cEKsVvl17Wc1mGEIrQtM2F.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/z/G/x/2/zGx2q.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
