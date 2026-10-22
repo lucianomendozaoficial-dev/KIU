@@ -12743,5 +12743,30 @@
       "Hbo"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 501,
+    "nombre": "Harry Potter y las reliquias de la muerte: Parte 2",
+    "generos": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "descripcion": "Harry, Ron y Hermione continúan su búsqueda para derrotar al malvado Voldemort de una vez por todas. Sin embargo, Harry descubre tres objetos mágicos que le otorgan poderes que rivalizan con las formidables habilidades de Voldemort.",
+    "año": 2011,
+    "duracion": "",
+    "rating": 8.1,
+    "rating_updated": "2026-10-22T22:44:06.042Z",
+    "tmdb_id": 12445,
+    "portada": "https://image.tmdb.org/t/p/original/psbqSsfqcNE1YxHeyhZyRxPvASb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eKUk4oN4ucwnLJml7wRnjuB9AQH.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/d/5/1/e/d51er.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
   }
 ]
