@@ -12918,5 +12918,31 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 508,
+    "nombre": "Luca",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Fantasía",
+      "Drama",
+      "Comedia"
+    ],
+    "descripcion": "Un joven llamado Luca Paguro experimenta un verano inolvidable con su nuevo mejor amigo, Alberto Scorfano, en un hermoso pueblo al lado del mar en la Riviera, Italiana. Sin embargo, se verían amenazados si se revela su gran secreto: ambos son monstruos marinos.",
+    "año": 2021,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-10-22T23:27:20.939Z",
+    "tmdb_id": 508943,
+    "portada": "https://image.tmdb.org/t/p/original/nvILfxzIboLOq9deUK9m58Y8l8E.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/1b/s8/2/z/0/7/t/z07tx.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico"
   }
 ]
