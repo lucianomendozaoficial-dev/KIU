@@ -630,7 +630,7 @@
     "año": 2010,
     "duracion": "N/A",
     "rating": 8.1,
-    "rating_updated": "2026-10-22T22:59:00.391Z",
+    "rating_updated": "2026-10-21T22:47:31.902Z",
     "tmdb_id": 1402,
     "portada": "https://image.tmdb.org/t/p/original/kuPOrTbvqJisGskhYIZyUOHrS3J.jpg",
     "banner": "https://image.tmdb.org/t/p/original/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
@@ -744,6 +744,34 @@
           {
             "nombre": "C3",
             "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/9/v/w/w/9vwwu.aaa.mp4"
+          },
+          {
+            "nombre": "C4",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fww1/d6/s8/2/l/b/n/N/lbnNy.aaa.mp4"
+          },
+          {
+            "nombre": "C5",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fww1/32/s8/2/V/A/n/N/VAnNy.aaa.mp4"
+          },
+          {
+            "nombre": "C6",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fww1/0b/s8/2/T/F/n/N/TFnNy.aaa.mp4"
+          },
+          {
+            "nombre": "C7",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fww1/de/s8/2/L/J/n/N/LJnNy.aaa.mp4"
+          },
+          {
+            "nombre": "C8",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fww1/b2/s8/2/J/N/n/N/JNnNy.aaa.mp4"
+          },
+          {
+            "nombre": "C9",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fww1/db/s8/2/n/R/n/N/nRnNy.aaa.mp4"
+          },
+          {
+            "nombre": "C10",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fww1/55/s8/2/b/W/n/N/bWnNy.aaa.mp4"
           }
         ]
       }
