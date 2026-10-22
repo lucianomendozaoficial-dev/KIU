@@ -13,12 +13,12 @@
     "renueva": false,
     "slots": [
       {
-        "n": 1,
-        "estado": "ocupado",
         "dispositivo": "dev-mvene7ut-jgc7jv4y",
         "nombre": "Android · Chrome (jv4y)",
         "desde": 1792630315111,
-        "token": "kmvitt3n3wf08xlcc"
+        "token": "kmvitt3n3wf08xlcc",
+        "n": 1,
+        "estado": "ocupado"
       },
       {
         "n": 2,
@@ -218,12 +218,12 @@
     "renueva": false,
     "slots": [
       {
-        "n": 1,
-        "estado": "ocupado",
         "dispositivo": "dev-mvhehaeh-xlhakle7",
         "nombre": "Android · Chrome (kle7)",
         "desde": 1792544108777,
-        "token": "kmvjsat1aee04egy3"
+        "token": "kmvjsat1aee04egy3",
+        "n": 1,
+        "estado": "ocupado"
       }
     ]
   }
