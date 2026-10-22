@@ -13,12 +13,12 @@
     "renueva": false,
     "slots": [
       {
+        "n": 1,
+        "estado": "ocupado",
         "dispositivo": "dev-mveiur9g-0a455e9j",
         "nombre": "Windows · Edge (5e9j)",
         "desde": 1792628500754,
-        "token": "kmvisq48rftrkgzii",
-        "n": 1,
-        "estado": "ocupado"
+        "token": "kmvisq48rftrkgzii"
       },
       {
         "n": 2,
