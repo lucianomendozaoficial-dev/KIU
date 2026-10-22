@@ -12640,5 +12640,30 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 497,
+    "nombre": "Eres tú",
+    "generos": [
+      "Romance",
+      "Comedia"
+    ],
+    "descripcion": "Cuenta la historia de Javier, quien a los 16 años besó por primera vez a una chica y descubrió que tenía el don de la clarividencia, al menos de la clarividencia amorosa. Javier, con tan sólo un beso, es capaz de ver el futuro de esa relación. La historia se complica cuando en una noche de fiesta besa a Lucia, la novia de su mejor amigo.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 6.2,
+    "rating_updated": "2026-10-21T23:59:04.153Z",
+    "tmdb_id": 818648,
+    "portada": "https://image.tmdb.org/t/p/original/sKBWGgsUCjoc5x3zdQuJUvozqKh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/a1LBO2XQ9q2VI8r0jtfFBFkVH8A.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/P/Z/D/2/PZD2q.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Castellano",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
