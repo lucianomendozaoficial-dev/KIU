@@ -12819,5 +12819,28 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 504,
+    "nombre": "Desobediencia",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "Una mujer que se crió en una familia ortodoxa judía regresa a su hogar con motivo de la muerte de su padre rabino. La controversia no tardará en aparecer cuando ella comienza a mostrar interés por una vieja amiga del colegio.",
+    "año": 2018,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-22T23:23:05.529Z",
+    "tmdb_id": 419743,
+    "portada": "https://image.tmdb.org/t/p/original/zx1dOX2uNDJyIeEYzsFLmXJaOwA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uTT0yYYgD5S4cDpNOJxuvCITAeC.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/i/V/P/D/iVPDq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico"
   }
 ]
