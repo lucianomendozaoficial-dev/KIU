@@ -13056,5 +13056,35 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 513,
+    "nombre": "La Leyenda del Chupacabras",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Fantasía",
+      "Terror",
+      "Familia"
+    ],
+    "descripcion": "Como parte de la saga \"Las leyendas\" Ánima Estudio ahora nos trae “La Leyenda del Chupacabras” en donde Leo San Juan, Teodora, las calaveritas de azúcar, Alebrije y Evaristo regresan para enfrentarse a una de las leyendas mexicanas más temidas y peligrosas de todos los tiempos.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 7.5,
+    "rating_updated": "2026-10-23T23:42:00.151Z",
+    "tmdb_id": 388045,
+    "portada": "https://image.tmdb.org/t/p/original/tIKboNPAWRhTq9xA8WyRn7dTxWg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3fEHPnm0KTyPWiZT6yEA3neLVHA.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/45/s8/2/2/J/o/9/2Jo9A.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=137980416-138029502",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix",
+      "Vix",
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
