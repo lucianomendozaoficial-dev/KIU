@@ -70,6 +70,52 @@
           "tipo": "pelicula"
         }
       ]
+    },
+    {
+      "id": "mundo-anime",
+      "titulo": "Mundo Anime",
+      "items": [
+        {
+          "id": 129,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 163,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 219,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 274,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 303,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 378,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 386,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 427,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 472,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 485,
+          "tipo": "pelicula"
+        }
+      ]
     }
   ]
 }
