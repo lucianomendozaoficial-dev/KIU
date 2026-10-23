@@ -22,7 +22,11 @@
       },
       {
         "n": 2,
-        "estado": "vacio"
+        "estado": "ocupado",
+        "dispositivo": "dev-mvg2y2l2-808a49gp",
+        "nombre": "iPhone · Safari (49gp)",
+        "desde": 1792713804639,
+        "token": "kmvk7ihsz1iw1fjoo"
       },
       {
         "n": 3,
