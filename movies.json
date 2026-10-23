@@ -13116,5 +13116,34 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 515,
+    "nombre": "La Leyenda de la Llorona",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Fantasía",
+      "Terror"
+    ],
+    "descripcion": "Leo San Juan, a un año de haber derrotado al espíritu de La Nahuala, se enfrenta ahora a su primera gran misión: liberar a Xochimilco de La Llorona, el espíritu de una mujer que durante cientos de años ha asolado a la comunidad y ha secuestrado a decenas de niños. Con la ayuda de El Alebrije, Don Andrés y los niños Calaca, Leo planea vencerla. Sin embargo, el poder de ella hará que nuestro héroe y sus aliados se separen, enfrentando cada quien por su lado los peligros que aparecen en un Xochimilco embrujado por las lágrimas de La Llorona y las fuerzas obscuras que, desde la antigüedad, acechan detrás de este terrible monstruo.",
+    "año": 2011,
+    "duracion": "",
+    "rating": 7.9,
+    "rating_updated": "2026-10-23T23:43:46.069Z",
+    "tmdb_id": 116322,
+    "portada": "https://image.tmdb.org/t/p/original/vBiqoYfDIWKKzZTiQScqgCO09UD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uMyPeZ5WjouTHVEckilshhHULAg.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fww1/b5/s8/2/I/_/n/9/I_n9A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=593362432-593407715",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Vix",
+      "Netflix",
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
