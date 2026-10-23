@@ -13250,5 +13250,29 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 520,
+    "nombre": "El despertar del diablo 2",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "Lo que comenzó con la familia Carter, no llegó claramente a su fin. Como parte de una misión habitual, una unidad de soldados de la Guardia Nacional se detiene en una posición avanzada de Nuevo México para entregar equipo a un grupo de científicos atómicos. Sin embargo, al llegar al aislado campo de investigación, lo hallan misteriosamente desierto. Después de haber divisado una señal de socorro en una lejana cordillera, el equipo decide emprender una misión de búsqueda y rescate por las montañas con el fin de localizar a los científicos desaparecidos. No saben que éstas son las mismas montañas que la desventurada familia Carter visitó en una ocasión, y en las que acecha una tribu de mutantes antropófagos.",
+    "año": 2007,
+    "duracion": "",
+    "rating": 5.6,
+    "rating_updated": "2026-10-23T23:51:23.333Z",
+    "tmdb_id": 9793,
+    "portada": "https://image.tmdb.org/t/p/original/dgG1KpDjim36FUWT7RZuiU8aAlN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9V529yHwmYay2wmYo0YcgUijeJO.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/I/u/B/k/IuBkr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
