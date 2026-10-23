@@ -13298,5 +13298,30 @@
     "calidad": "calidad",
     "especiales": [],
     "plan": "basico"
+  },
+  {
+    "id": 522,
+    "nombre": "Ferrari",
+    "generos": [
+      "Historia",
+      "Drama"
+    ],
+    "descripcion": "Una película biográfica del magnate automovilístico Enzo Ferrari, cuya familia redefinió la idea del deportivo italiano de alta potencia y prácticamente generó el concepto de las carreras de Fórmula Uno.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-10-23T23:54:03.051Z",
+    "tmdb_id": 365620,
+    "portada": "https://image.tmdb.org/t/p/original/hRrg9hbdNEEpPXkgly77FxDYpoD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/du11oPPbEoDnUpiREO5tUg47rJd.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/K/4/l/a/K4lar.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
