@@ -12969,5 +12969,32 @@
       "Hbo"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 510,
+    "nombre": "La Leyenda de los Chaneques",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Terror"
+    ],
+    "descripcion": "Cinco años después de haber renunciado a sus poderes y haberse separado de sus amigos, Leo San Juan ha iniciado una nueva vida tratando de concentrarse en la familia y en la panadería, alejándose del peligro y de las aventuras. Sin embargo, Leo sabe que rara vez se cumplen sus planes y esta vez no es la excepción: estando de viaje con Nando en Veracruz, las cosas empiezan a ponerse raras, y es que desde lo más profundo de la selva de los Tuxtlas una antigua maldición ha regresado y sólo Leo puede enfrentarla.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 8.3,
+    "rating_updated": "2026-10-23T23:37:49.522Z",
+    "tmdb_id": 1150394,
+    "portada": "https://image.tmdb.org/t/p/original/4f9ghI3utknpeBZSAzNuIKKATOA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dMOcD7kAscK2UUeiv63ivtdWAlh.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fww1/eb/s8/2/g/M/o/9/gMo9A.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=450446848-450500364",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Vix"
+    ],
+    "plan": "basico"
   }
 ]
