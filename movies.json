@@ -13224,5 +13224,31 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 519,
+    "nombre": "Entre la vida y la muerte",
+    "generos": [
+      "Romance",
+      "Ciencia Ficción",
+      "Drama"
+    ],
+    "descripcion": "Después de sobrevivir a un accidente automovilístico que le quitó la vida a su novio, una adolescente cree que él está intentando reconectarse con ella desde el más allá.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-23T23:50:09.599Z",
+    "tmdb_id": 818750,
+    "portada": "https://image.tmdb.org/t/p/original/4LPgEgDdipSYSU4ABafINfyGWow.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/334KZ2yt18AjPN9VmJw68sEkc7U.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/t/y/H/m/tyHmr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
