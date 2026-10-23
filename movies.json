@@ -13145,5 +13145,33 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 516,
+    "nombre": "La Leyenda de la Nahuala",
+    "generos": [
+      "Familia",
+      "Fantasía",
+      "Animación",
+      "Terror"
+    ],
+    "descripcion": "Leo San Juan, un niño inseguro de nueve años de edad, vive eternamente asustado por las historias de terror que Nando le cuenta a su hermano mayor. Dentro de estas historias es \"La leyenda de Nahuala\", según la cual, una vieja casona abandonada es poseída por el alcohol de una bruja malvada conocida como el Nahuala.",
+    "año": 2007,
+    "duracion": "",
+    "rating": 8.1,
+    "rating_updated": "2026-10-23T23:44:38.650Z",
+    "tmdb_id": 29826,
+    "portada": "https://image.tmdb.org/t/p/original/dggo1MOieBZsJ18qqqaT4B4VdB4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/umAxZQoJ0I6YlwYB5NqLqD7NjdX.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fww1/71/s8/2/m/_/n/9/m_n9A.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=140573696-140623800",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Vix",
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
