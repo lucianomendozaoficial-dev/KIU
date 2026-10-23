@@ -226,12 +226,12 @@
     "renueva": false,
     "slots": [
       {
+        "n": 1,
+        "estado": "ocupado",
         "dispositivo": "dev-mvhehaeh-xlhakle7",
         "nombre": "Android · Chrome (kle7)",
         "desde": 1792544108777,
-        "token": "kmvjsat1aee04egy3",
-        "n": 1,
-        "estado": "ocupado"
+        "token": "kmvjsat1aee04egy3"
       }
     ]
   }
