@@ -13173,5 +13173,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 517,
+    "nombre": "Vuelo nocturno",
+    "generos": [
+      "Suspenso",
+      "Misterio"
+    ],
+    "descripcion": "Lisa Reisert (Rachel McAdams) vuela a Miami. Poco después del despegue, Jackson (Murphy), su compañero de asiento, le revela la razón de su presencia a bordo: él es el artífice de un complot para matar al Comisionado de Homeland Security, y Lisa es la clave para llevarlo a cabo. Si ella se niega a cooperar, Jackson ordenará que maten a su padre. Atrapada en el avión, Lisa buscará desesperadamente una forma de eludir a Jackson y evitar un asesinato inminente.",
+    "año": 2005,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-10-23T23:45:31.209Z",
+    "tmdb_id": 11460,
+    "portada": "https://image.tmdb.org/t/p/original/mJJXwUU43XwXbW0LTtycOkf7dlR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1uRkvEDPvZUIGtGnJz895ajvb7Y.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/y/d/j/p/ydjpr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Apple",
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
