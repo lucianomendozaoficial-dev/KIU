@@ -13323,5 +13323,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 523,
+    "nombre": "Marsupilami",
+    "generos": [
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "Narra la historia de David, un empleado que acepta una arriesgada misión para salvar su empleo en un zoológico: viajar a América del Sur para recuperar y transportar un misterioso paquete.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-10-23T23:55:06.359Z",
+    "tmdb_id": 1145899,
+    "portada": "https://image.tmdb.org/t/p/original/mfI37T2mbc7Zzv7ow8suQQlqMPy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qGPJ9AvOUpbpZjM6R7yqBDs4gsk.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/84/s8/2/q/t/2/7/qt27A.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1580665344-1580725313",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
