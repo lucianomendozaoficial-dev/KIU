@@ -13199,5 +13199,30 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 518,
+    "nombre": "Con todos menos contigo",
+    "generos": [
+      "Romance",
+      "Comedia"
+    ],
+    "descripcion": "Después de una primera cita increíble, la ardiente atracción de Bea y Ben se vuelve helada, hasta que se reencuentran inesperadamente en una boda en Australia. Entonces hacen lo que harían dos adultos maduros cualesquiera: pretender ser una pareja.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 6.7,
+    "rating_updated": "2026-10-23T23:46:49.831Z",
+    "tmdb_id": 1072790,
+    "portada": "https://image.tmdb.org/t/p/original/smIleWSSXhbBunnWkKmyGj9oVaj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/j9eOeLlTGoHoM8BNUJVNyWmIvCi.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/_/d/X/m/_dXmr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
