@@ -13274,5 +13274,29 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 521,
+    "nombre": "El aro 2",
+    "generos": [
+      "Drama",
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Seis meses después de los incidentes relacionados con una cinta de vídeo donde se aprecia la muerte de una joven a manos de sus padres, Rachel Keller decide mudarse con su hijo de Seattle a un lugar donde puedan sentirse más seguros y empezar una nueva vida. La cinta de vídeo un tanto siniestra que acabó misteriosamente con la vida de un niño no deja de preocupar a Rachel, que decide emprender una investigación sobre todos aquellos que desaparecieron y saber qué tipo de maldición esconde la cinta.",
+    "año": 2005,
+    "duracion": "",
+    "rating": 5.8,
+    "rating_updated": "2026-10-23T23:53:06.555Z",
+    "tmdb_id": 10320,
+    "portada": "https://image.tmdb.org/t/p/original/oeiX9tESCd5Dwp1yPnPKMFOE1rk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/A9myIvZ8Jvq0kP32ynx6bC1jZZp.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/i/i/g/j/iigjr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Castellano",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico"
   }
 ]
