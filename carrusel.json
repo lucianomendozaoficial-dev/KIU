@@ -116,6 +116,252 @@
           "tipo": "pelicula"
         }
       ]
+    },
+    {
+      "id": "migajas-de-apple-tv",
+      "titulo": "Migajas de Apple TV+",
+      "items": [
+        {
+          "id": 68,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 70,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 96,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 108,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 115,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 186,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 246,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 254,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 255,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 257,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 258,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 263,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 265,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 269,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 273,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 275,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 296,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 297,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 303,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 304,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 309,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 310,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 311,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 312,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 320,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 324,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 326,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 331,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 333,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 335,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 337,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 345,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 347,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 348,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 349,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 351,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 352,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 360,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 362,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 363,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 364,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 365,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 370,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 372,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 373,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 374,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 376,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 377,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 378,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 391,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 397,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 398,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 404,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 405,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 406,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 408,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 409,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 410,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 412,
+          "tipo": "pelicula"
+        },
+        {
+          "id": 416,
+          "tipo": "pelicula"
+        }
+      ]
     }
   ]
 }
