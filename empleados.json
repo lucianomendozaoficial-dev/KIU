@@ -1,1 +1,11 @@
-
+{
+  "_nota": "KIU Play · Cuentas del equipo del panel. Subí este archivo a la raíz del repositorio, al lado de users.json. La cuenta principal (dueño) NO va acá: está fija en el HTML. Los roles válidos son 'vendedor' (solo carga usuarios) y 'admin' (además carga películas y series, pero no puede borrar). Las contraseñas están en texto plano: usá claves que no reutilices en otro lado.",
+  "_como_funciona": [
+    "rol: 'vendedor' = solo la sección Usuarios, y únicamente para agregar.",
+    "rol: 'admin' = Usuarios + Películas + Series. No puede eliminar contenido ya cargado.",
+    "activo: false deja la cuenta bloqueada sin borrarla.",
+    "ultimoAcceso lo escribe el panel solo cuando alguien entra.",
+    "La cuenta principal se configura en CUENTA_PRINCIPAL dentro de index.html."
+  ],
+  "empleados": []
+}
