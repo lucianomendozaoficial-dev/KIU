@@ -13402,5 +13402,29 @@
       "Marvel"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 526,
+    "nombre": "La Favorita Del Rey",
+    "generos": [
+      "Drama",
+      "Historia",
+      "Romance"
+    ],
+    "descripcion": "La vida de Jeanne Bécu, que nació como hija ilegítima de una costurera empobrecida en 1743 y ascendió en la corte de Luis XV hasta convertirse en su última amante oficial.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-24T00:18:28.746Z",
+    "tmdb_id": 921452,
+    "portada": "https://image.tmdb.org/t/p/original/bB2gII3YgyzA9rEtHwDe4xbImuM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5BFpmELJKE5cZxtOpGJYAdIRybF.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/A/1/S/7/A1S7q.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Castellano",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico"
   }
 ]
