@@ -13426,5 +13426,30 @@
     "calidad": "calidad",
     "especiales": [],
     "plan": "basico"
+  },
+  {
+    "id": 527,
+    "nombre": "Harry Potter y el cáliz de fuego",
+    "generos": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "descripcion": "El Torneo de los Tres Magos llega a la escuela Hogwarts. Sin embargo, Harry Potter se convierte en un competidor, pero nunca presentó su nombre. A medida que avanza los juegos, poco a poco Harry descubre las intenciones detras de este torneo.",
+    "año": 2005,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-10-24T00:19:35.123Z",
+    "tmdb_id": 674,
+    "portada": "https://image.tmdb.org/t/p/original/gNWbmxWljihbirfdrVM71lLJLNN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cClWTo3ftVXvV1sF8vlLuWfnlph.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/k/a/0/4/ka04q.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
   }
 ]
