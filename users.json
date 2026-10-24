@@ -13,28 +13,28 @@
     "renueva": false,
     "slots": [
       {
-        "dispositivo": "dev-mvene7ut-jgc7jv4y",
-        "nombre": "Android · Chrome (jv4y)",
-        "desde": 1792630315111,
-        "token": "kmvitt3n3wf08xlcc",
         "n": 1,
-        "estado": "ocupado"
+        "estado": "ocupado",
+        "dispositivo": "dev-mveiur9g-0a455e9j",
+        "nombre": "Windows · Edge (5e9j)",
+        "desde": 1792630315111,
+        "token": "kmvitt3n3wf08xlcc"
       },
       {
+        "n": 2,
+        "estado": "ocupado",
         "dispositivo": "dev-mvg2y2l2-808a49gp",
         "nombre": "iPhone · Safari (49gp)",
         "desde": 1792713804639,
-        "token": "kmvk7ihsz1iw1fjoo",
-        "n": 2,
-        "estado": "ocupado"
+        "token": "kmvk7ihsz1iw1fjoo"
       },
       {
+        "n": 3,
+        "estado": "ocupado",
         "dispositivo": "dev-mvk83vfw-tla5snju",
         "nombre": "Android · Chrome (snju)",
         "desde": 1792714803698,
-        "token": "kmvk83w0u6acy5f6i",
-        "n": 3,
-        "estado": "ocupado"
+        "token": "kmvk83w0u6acy5f6i"
       },
       {
         "n": 4,
