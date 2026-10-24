@@ -13605,5 +13605,32 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 534,
+    "nombre": "Maravilloso desastre",
+    "generos": [
+      "Romance",
+      "Drama",
+      "Comedia"
+    ],
+    "descripcion": "Travis Maddox (Dylan Sprouse), sexy, musculoso y cubierto de tatuajes, es justamente lo que la sobresaliente estudiante universitaria Abby (Virginia Gardner) quiere y necesita… evitar.  Él dedica sus noches peleando en combates clandestinos de boxeo, y durante el día es el máximo galán del campus universitario.  Intrigado por la resistencia de Abby a sus encantos, Travis le propone una simple apuesta: si pierde su próxima pelea, debe permanecer libre de sexo durante un mes. Si gana, Abby debe vivir en su apartamento por la misma cantidad de tiempo…  Ninguno de los dos sabe qué sucederá pero sus destinos ya están en juego.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-24T00:25:58.140Z",
+    "tmdb_id": 1016121,
+    "portada": "https://image.tmdb.org/t/p/original/h7LkVs4eOFqU1fLhCQkdn7YRZhS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qOAH7SDZMjzNolkoLS0PPFPMm0L.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/7/e/s/b/7esbr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video",
+      "Hbo"
+    ],
+    "plan": "basico"
   }
 ]
