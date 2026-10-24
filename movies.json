@@ -13683,5 +13683,30 @@
       "Netflix"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 537,
+    "nombre": "Hijo de Dios",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "Juan, el último discípulo sobreviviente de Cristo, que vive en el exilio, cuenta su historia.  Jesús nace de una virgen (Leila Mimmack), y entonces tres hombres sabios lo visitan y declaran que va a ser el futuro rey. 33 años después, un adulto, Jesucristo (Diogo Morgado) viaja a Galilea y comienza a reclutar seguidores, a Santiago, a su hermano Juan, a Pedro el pescador, a Mateo, el recaudador de impuestos. Estos hombres se convertirían en sus discípulos.",
+    "año": 2014,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-10-24T00:28:15.493Z",
+    "tmdb_id": 235260,
+    "portada": "https://image.tmdb.org/t/p/original/pJ2qK5r3zqXhB0MQxkAmEPZSSXF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hONTXxtQVSYySKW5f3nRndKUfhc.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/2/8/G/P/28GPq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Apple",
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
