@@ -13554,5 +13554,30 @@
       "Hbo"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 532,
+    "nombre": "Antes de Partir",
+    "generos": [
+      "Drama",
+      "Comedia"
+    ],
+    "descripcion": "Una pareja de enfermos terminales de cáncer, de caracteres y mundos completamente opuestos, entablan amistad. Edward Cole es un engreído millonario mientras que Carter Chambers es un modesto mecánico. A pesar de todo, deciden emprender juntos un último viaje para poder hacer, antes de morir, todas las cosas que siempre han deseado.",
+    "año": 2007,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-10-24T00:24:10.493Z",
+    "tmdb_id": 7350,
+    "portada": "https://image.tmdb.org/t/p/original/bBgc1F5o6PMOxTPrOoZ3oIkP2KT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6OpluXPGIE8hfVrhpeygR7p4XwR.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/z/Y/X/d/zYXdr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico"
   }
 ]
