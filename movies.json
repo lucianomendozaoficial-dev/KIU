@@ -13375,5 +13375,32 @@
       "Paramount"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 525,
+    "nombre": "Spidey y Los Vengadores: ¡Superequipo Halloween!",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Fantasía",
+      "Familia"
+    ],
+    "descripcion": "",
+    "año": 2026,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-24T00:16:35.287Z",
+    "tmdb_id": 1750432,
+    "portada": "https://image.tmdb.org/t/p/original/nLhj8GhpL7njlalnIW4DIZyXyaa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aIiCdNCo889J2QaaOd8TXaGXoO2.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fww1/9c/s8/2/q/v/1/7/qv17A.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=458965504-458982721",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Marvel"
+    ],
+    "plan": "basico"
   }
 ]
