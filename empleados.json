@@ -7,5 +7,17 @@
     "ultimoAcceso lo escribe el panel solo cuando alguien entra.",
     "La cuenta principal se configura en CUENTA_PRINCIPAL dentro de index.html."
   ],
-  "empleados": []
+  "empleados": [
+    {
+      "id": 1,
+      "usuario": "morena",
+      "password": "2008",
+      "nombreCompleto": "Morena Mendoza",
+      "whatsapp": "11",
+      "rol": "vendedor",
+      "activo": true,
+      "creado": "2026-10-24",
+      "ultimoAcceso": ""
+    }
+  ]
 }
