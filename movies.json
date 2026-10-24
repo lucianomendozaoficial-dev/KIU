@@ -13658,5 +13658,30 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 536,
+    "nombre": "La Cita Perfecta",
+    "generos": [
+      "Romance",
+      "Comedia"
+    ],
+    "descripcion": "Brooks crea una aplicación de citas para conseguir dinero para la universidad en la que él es siempre el pretendiente. En cada cita actúa de manera diferente, dependiendo de las demandas de las interesadas. Sin embargo, siendo una persona distinta cada noche, descubre que el verdadero Brooks Rattigan no es quien creía que era, y sorprendentemente, encuentra a la chica de sus sueños.",
+    "año": 2019,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-10-24T00:27:27.839Z",
+    "tmdb_id": 543540,
+    "portada": "https://image.tmdb.org/t/p/original/v8P8AI9xfz1AnX9ojfbn3lTo1e.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tHUzzVwshwidhQxZXj0WzAdKdto.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/e/E/B/T/eEBTq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
