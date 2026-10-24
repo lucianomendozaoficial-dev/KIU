@@ -13579,5 +13579,31 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 533,
+    "nombre": "Y nadie más que tú",
+    "generos": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "Abbie y Sam, almas gemelas desde la edad de 8, se destinaron para estar juntos para siempre hasta que las complicaciones entren en el camino.",
+    "año": 2018,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-24T00:24:55.296Z",
+    "tmdb_id": 450489,
+    "portada": "https://image.tmdb.org/t/p/original/zEak97hxXEdgwm2Z22tUGoR4NlC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/A29oACLcWmIo8RDzNH7GNQziBbG.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/x/d/4/Z/xd4Zq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
