@@ -13529,5 +13529,30 @@
       "Disney"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 531,
+    "nombre": "Harry Potter y el prisionero de Azkaban",
+    "generos": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "descripcion": "Durante sus días en la escuela Hogwarts, nuevos peligros se le presentan a Harry y sus amigos. La llegada de los Dementores, seres que absorben el alma, un peligroso aliado acecha dentro de los muros del castillo y el temible mago Sirius Black escapa Azkaban.",
+    "año": 2004,
+    "duracion": "",
+    "rating": 8,
+    "rating_updated": "2026-10-24T00:23:25.240Z",
+    "tmdb_id": 673,
+    "portada": "https://image.tmdb.org/t/p/original/xBph7rrwtxUuDxyZVDQtbP2H0sM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/htmYEfH7TQgzsXHCnNXxmoYKQtL.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/I/y/M/4/IyM4q.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico"
   }
 ]
