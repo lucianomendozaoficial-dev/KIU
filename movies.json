@@ -13503,5 +13503,31 @@
       "Apple"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 530,
+    "nombre": "127 Horas",
+    "generos": [
+      "Aventura",
+      "Drama",
+      "Suspenso"
+    ],
+    "descripcion": "Basada en la historia real de Aron Ralston, un intrépido montañero norteamericano tristemente famoso porque en mayo de 2003, durante una escalada, en Utah, sufrió una caída. Tras varios días inmovilizado e incapaz de encontrar una solución, tuvo que tomar una dramática decisión.",
+    "año": 2010,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-10-24T00:22:22.733Z",
+    "tmdb_id": 44115,
+    "portada": "https://image.tmdb.org/t/p/original/kJdktpjBkhR8NjBXW9kruNpjnPt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/viBWzktrBmhzRw4ehmUIrrN4C0z.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/P/y/g/e/Pyger.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico"
   }
 ]
