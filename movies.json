@@ -13474,5 +13474,34 @@
     "calidad": "calidad",
     "especiales": [],
     "plan": "basico"
+  },
+  {
+    "id": 529,
+    "nombre": "Angry Birds 2: la película",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Acción"
+    ],
+    "descripcion": "Red, Chuck, Bomb y el resto de sus amigos emplumados se sorprenden cuando un cerdo verde les propone dejar de lado sus diferencias y unirse para combatir una amenaza común. Unos pájaros agresivos de una isla cubierta de hielo planean usar un arma sofisticada para destruir a las aves y los cerdos.",
+    "año": 2019,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-24T00:21:14.741Z",
+    "tmdb_id": 454640,
+    "portada": "https://image.tmdb.org/t/p/original/jUDA7p8rKlby7aBD1D0PxovKufZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tTVjF5q63fli9ecSg5L9ljHibKJ.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/B/O/0/c/BO0cr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video",
+      "Apple"
+    ],
+    "plan": "basico"
   }
 ]
