@@ -13708,5 +13708,30 @@
       "Prime Video"
     ],
     "plan": "basico"
+  },
+  {
+    "id": 538,
+    "nombre": "Diabólica tentación",
+    "generos": [
+      "Terror",
+      "Comedia"
+    ],
+    "descripcion": "Una sensual estudiante poseída comienza a asesinar a sus compañeros de clase. Jennifer Check (Megan Fox) es la nueva estrella de las cheerleaders de un instituto de Minnesota, en una zona rural y aparentemente tranquila. Pero Jennifer será poseída por unas fuerzas extrañas y malévolas que la impulsarán a asesinar a todos sus compañeros, principalmente a los chicos que quieren ligar con ella...",
+    "año": 2009,
+    "duracion": "",
+    "rating": 6,
+    "rating_updated": "2026-10-25T02:20:51.992Z",
+    "tmdb_id": 19994,
+    "portada": "https://image.tmdb.org/t/p/original/jLQCyq19VARKdT9PQ9CwvGRrjGA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rNvn89IcEJPqRKxIgwTAPXl9qjJ.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/n/F/s/q/nFsqr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico"
   }
 ]
