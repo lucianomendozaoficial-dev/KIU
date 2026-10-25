@@ -13791,5 +13791,34 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-25"
+  },
+  {
+    "id": 541,
+    "nombre": "El hombre araña",
+    "generos": [
+      "Acción",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Cuando es mordido por una araña genéticamente modificada, un estudiante de secundaria nerd, tímido y torpe, adquiere habilidades parecidas a las de una araña que eventualmente debe usar para luchar contra el mal como un superhéroe después de que la tragedia cae sobre su familia.",
+    "año": 2002,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-10-25T21:33:43.695Z",
+    "tmdb_id": 557,
+    "portada": "https://image.tmdb.org/t/p/original/8eTbNzpjK9VJGu1g60j268MmXzm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+    "embed": "https://1a-1791.com/video/fww1/6b/s8/2/A/N/Q/v/ANQvy.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Marvel",
+      "Prime Video",
+      "Hbo",
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-25"
   }
 ]
