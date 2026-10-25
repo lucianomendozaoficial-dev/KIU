@@ -13820,5 +13820,34 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-25"
+  },
+  {
+    "id": 542,
+    "nombre": "Mi villano favorito",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Crimen",
+      "Ciencia Ficción",
+      "Familia"
+    ],
+    "descripcion": "En una alegre urbanización con cuidados jardines rodeados por verjas de madera pintadas de blanco y llenos de rosales, sobresale una casa negra con el césped amarillento. Los vecinos ignoran que debajo de la vivienda hay un enorme escondite secreto. Allí está Gru, rodeado por un pequeño ejército de lacayos, planeando el mayor robo de toda la historia. ¡Va a robarse con la luna!",
+    "año": 2010,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-25T21:35:12.835Z",
+    "tmdb_id": 20352,
+    "portada": "https://image.tmdb.org/t/p/original/opIScoQb0ODZzatdwC9xcsjeXmz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fww1/1c/s8/2/4/N/P/9/4NP9A.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1519500288-1519557830",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-25"
   }
 ]
