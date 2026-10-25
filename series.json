@@ -775,10 +775,6 @@
           },
           {
             "nombre": "C11",
-            "embed": "https://hugh.cdn.rumble.cloud/video/fww1/b3/s8/2/B/T/t/N/BTtNy.aaa.mp4"
-          },
-          {
-            "nombre": "C12",
             "embed": "https://hugh.cdn.rumble.cloud/video/fww1/57/s8/2/n/X/t/N/nXtNy.aaa.mp4"
           },
           {
@@ -796,6 +792,10 @@
           {
             "nombre": "C16",
             "embed": "https://hugh.cdn.rumble.cloud/video/fww1/43/s8/2/n/b/u/N/nbuNy.aaa.mp4"
+          },
+          {
+            "nombre": "C12",
+            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/t/g/I/w/tgIwu.aaa.mp4"
           }
         ]
       }
