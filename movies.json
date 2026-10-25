@@ -13761,5 +13761,35 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-25"
+  },
+  {
+    "id": 540,
+    "nombre": "El hombre araña 2",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Peter Parker se ve acosado por problemas en su fallida vida personal mientras lucha contra un brillante científico llamado Doctor Otto Octavius.",
+    "año": 2004,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-25T21:31:37.902Z",
+    "tmdb_id": 558,
+    "portada": "https://image.tmdb.org/t/p/original/9vAx9vN27TpRv98fREN4aXIdhbp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+    "embed": "https://1a-1791.com/video/fww1/57/s8/2/w/Q/Q/v/wQQvy.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video",
+      "Disney",
+      "Marvel",
+      "Hbo"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-25"
   }
 ]
