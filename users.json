@@ -13,36 +13,36 @@
     "renueva": false,
     "slots": [
       {
-        "n": 1,
-        "estado": "ocupado",
         "dispositivo": "dev-mvene7ut-jgc7jv4y",
         "nombre": "Android · Chrome (jv4y)",
         "desde": 1792806207292,
-        "token": "kmvlqizaii194dp46"
+        "token": "kmvlqizaii194dp46",
+        "n": 1,
+        "estado": "ocupado"
       },
       {
-        "n": 2,
-        "estado": "ocupado",
         "dispositivo": "dev-mvhahhxn-vyw29bpo",
         "nombre": "Windows · Edge (9bpo)",
         "desde": 1792713804639,
-        "token": "kmvk7ihsz1iw1fjoo"
+        "token": "kmvk7ihsz1iw1fjoo",
+        "n": 2,
+        "estado": "ocupado"
       },
       {
-        "n": 3,
-        "estado": "ocupado",
         "dispositivo": "dev-mvk83vfw-tla5snju",
         "nombre": "Android · Chrome (snju)",
         "desde": 1792714803698,
-        "token": "kmvk83w0u6acy5f6i"
+        "token": "kmvk83w0u6acy5f6i",
+        "n": 3,
+        "estado": "ocupado"
       },
       {
-        "n": 4,
-        "estado": "ocupado",
         "dispositivo": "dev-mvn73r5w-cwcbs5tw",
         "nombre": "iPhone · Safari (s5tw)",
         "desde": 1792894517060,
-        "token": "kmvn73rmwiwcy3568"
+        "token": "kmvn73rmwiwcy3568",
+        "n": 4,
+        "estado": "ocupado"
       }
     ]
   },
