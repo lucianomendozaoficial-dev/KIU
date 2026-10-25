@@ -13877,5 +13877,32 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-25"
+  },
+  {
+    "id": 544,
+    "nombre": "El último maestro del aire",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "descripcion": "El último sucesor de los maestros del aire debe aprender a dominar los cuatro elementos. Solo así podrá enfrentarse a la Nación de Fuego... y restaurar la paz en su mundo.",
+    "año": 2010,
+    "duracion": "",
+    "rating": 4.6,
+    "rating_updated": "2026-10-25T21:40:59.075Z",
+    "tmdb_id": 10196,
+    "portada": "https://image.tmdb.org/t/p/original/a7ea4phxRGM7KAQNQTISvk8DIH1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gU5cR9LKtDD8YvzE7T7GvmzCEAA.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/df/s8/2/k/R/O/9/kRO9A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=825765376-825828414",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [
+      "Paramount"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-25"
   }
 ]
