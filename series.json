@@ -810,6 +810,11 @@
             "id": "cmvo7699cxs5v"
           },
           {
+            "nombre": "C12",
+            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/t/g/I/w/tgIwu.aaa.mp4",
+            "id": "cmvo7699c12qfs"
+          },
+          {
             "nombre": "C13",
             "embed": "https://hugh.cdn.rumble.cloud/video/fww1/2b/s8/2/h/1/t/N/h1tNy.aaa.mp4",
             "id": "cmvo7699cy7n5"
@@ -828,11 +833,6 @@
             "nombre": "C16",
             "embed": "https://hugh.cdn.rumble.cloud/video/fww1/43/s8/2/n/b/u/N/nbuNy.aaa.mp4",
             "id": "cmvo7699c11w3q"
-          },
-          {
-            "nombre": "C12",
-            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/t/g/I/w/tgIwu.aaa.mp4",
-            "id": "cmvo7699c12qfs"
           }
         ],
         "id": "tmvo7699cmhpb"
