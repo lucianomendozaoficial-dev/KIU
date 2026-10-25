@@ -13932,5 +13932,32 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-25"
+  },
+  {
+    "id": 546,
+    "nombre": "La Tierra errante",
+    "generos": [
+      "Ciencia Ficción",
+      "Acción",
+      "Drama"
+    ],
+    "descripcion": "Cuando el Sol comienza a expandirse de tal manera que inevitablemente engullirá y destruirá la Tierra en cien años, la humanidad unida encuentra una manera de evitar su extinción propulsando el planeta fuera del Sistema Solar usando motores gigantescos, moviéndolo a un nuevo hogar ubicado a cuatro años luz de distancia, un viaje épico que durará miles de años.",
+    "año": 2019,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-25T22:11:39.772Z",
+    "tmdb_id": 535167,
+    "portada": "https://image.tmdb.org/t/p/original/gBxyQTHMLJvODAQ4gB8FpGcujhp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wIrqeoJHYtZmneqIufPtcOHMjOg.jpg",
+    "embed": "https://stream-player.fasaterospro.workers.dev/m/1.MboS5_HH3kRNXDm6dhNBrKOTli5iikUP1v8zkBfCTmhenMWQ5gAD5qn-QRHhEMgkTxteH4AxryJQ1DTKE6PLmuYtnGs0zxgavTYmng546PeTMQXxTPe-HATb0WR6yKWZy3Ulw6j_JlLRHLiX_csqXFHjqrvFzDaXhrgdAL7mGuU3J3xw-WuT7wPpMNdU2B2aXpgwjHaXuFo4Vzv24dQ/v.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-25"
   }
 ]
