@@ -38,7 +38,11 @@
       },
       {
         "n": 4,
-        "estado": "vacio"
+        "estado": "ocupado",
+        "dispositivo": "dev-mvn73r5w-cwcbs5tw",
+        "nombre": "iPhone · Safari (s5tw)",
+        "desde": 1792894517060,
+        "token": "kmvn73rmwiwcy3568"
       }
     ]
   },
