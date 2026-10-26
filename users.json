@@ -62,18 +62,30 @@
     "contacto": "",
     "nombreCompleto": "Marisa Sosa",
     "fechaExpiracion": "2026-11-06 17:32",
-    "plan": "basico",
+    "plan": "premium",
     "debePagar": "$3.000",
     "descripcion": "",
     "renueva": true,
     "slots": [
       {
-        "n": 1,
-        "estado": "ocupado",
         "dispositivo": "dev-mvikb3oo-9hipsgeo",
         "nombre": "Android · Chrome (sgeo)",
         "desde": 1792614469056,
-        "token": "kmvps0xvl4wwxgiqg"
+        "token": "kmvps0xvl4wwxgiqg",
+        "n": 1,
+        "estado": "ocupado"
+      },
+      {
+        "n": 2,
+        "estado": "vacio"
+      },
+      {
+        "n": 3,
+        "estado": "vacio"
+      },
+      {
+        "n": 4,
+        "estado": "vacio"
       }
     ]
   },
