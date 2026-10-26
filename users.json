@@ -68,12 +68,12 @@
     "renueva": true,
     "slots": [
       {
+        "n": 1,
+        "estado": "ocupado",
         "dispositivo": "dev-mvikb3oo-9hipsgeo",
         "nombre": "Android · Chrome (sgeo)",
         "desde": 1792614469056,
-        "token": "kmvps0xvl4wwxgiqg",
-        "n": 1,
-        "estado": "ocupado"
+        "token": "kmvps0xvl4wwxgiqg"
       },
       {
         "n": 2,
