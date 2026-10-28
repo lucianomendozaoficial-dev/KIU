@@ -13987,30 +13987,5 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-27"
-  },
-  {
-    "id": 548,
-    "nombre": "La Dama de Negro",
-    "generos": [
-      "Drama",
-      "Terror",
-      "Suspenso"
-    ],
-    "descripcion": "Arthur Kipps es un joven abogado cuya empresa lo envía a un lugar remoto para vender la casa de un cliente que acaba de fallecer. La gestión, aparentemente rutinaria, tropieza con ciertas dificultades: los vecinos se muestran reacios a hablar sobre la casa o a acercarse a ella; además, nadie está dispuesto a admitir la existencia de una mujer de negro que él está seguro de haber visto.",
-    "año": 2012,
-    "duracion": "",
-    "rating": 6.1,
-    "rating_updated": "2026-10-28T01:07:22.034Z",
-    "tmdb_id": 65086,
-    "portada": "https://image.tmdb.org/t/p/original/A4Tvw1VHI6zAETyPvkiriNCJkAp.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jJ3yFKs6xeVGxtmm7GXZYQ3XAvz.jpg",
-    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/n/F/s/q/nFsqr.aaa.mp4",
-    "tipo": "pelicula",
-    "idioma": "Latino",
-    "edad": "+13",
-    "calidad": "calidad",
-    "especiales": [],
-    "plan": "basico",
-    "fechaAgregado": "2026-10-27"
   }
 ]
