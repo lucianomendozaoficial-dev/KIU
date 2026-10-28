@@ -836,6 +836,30 @@
           }
         ],
         "id": "tmvo7699cmhpb"
+      },
+      {
+        "id": "tmvrf4tuq13m0",
+        "numero": 4,
+        "capitulos": [
+          {
+            "id": "cmvrf4v5q298b",
+            "fechaAgregado": "2026-10-27",
+            "nombre": "C1",
+            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/n/U/r/D/nUrDu.aaa.mp4"
+          },
+          {
+            "id": "cmvrf8h2w4fng",
+            "fechaAgregado": "2026-10-27",
+            "nombre": "C2",
+            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/o/5/r/D/o5rDu.aaa.mp4"
+          },
+          {
+            "id": "cmvrf6w0p3qvk",
+            "fechaAgregado": "2026-10-27",
+            "nombre": "C3",
+            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/h/3/r/D/h3rDu.aaa.mp4"
+          }
+        ]
       }
     ]
   },
