@@ -13959,5 +13959,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-25"
+  },
+  {
+    "id": 547,
+    "nombre": "Mi novio es un zombie",
+    "generos": [
+      "Terror",
+      "Comedia",
+      "Romance",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "R, un zombi con problemas existenciales, entabla una extraña amistad con la novia de una de sus víctimas. Esta insólita relación provoca una reacción en cadena que cambia su vida, la de otros zombis y probablemente la de todo el planeta.",
+    "año": 2013,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-10-28T01:06:22.265Z",
+    "tmdb_id": 82654,
+    "portada": "https://image.tmdb.org/t/p/original/8XAX6KaqNGcLXcwoDwxyU0bxhxm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/faEe5nH1VP2xMmE8f9lgqjhsmYI.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/K/_/0/u/K_0ur.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-27"
   }
 ]
