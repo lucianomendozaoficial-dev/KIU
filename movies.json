@@ -15576,5 +15576,33 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 606,
+    "nombre": "Sing 2: ¡Ven y Canta de Nuevo!",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Música"
+    ],
+    "descripcion": "Buster Moon y su elenco de animales artistas se preparan para lanzar un deslumbrante espectáculo escénico en la capital mundial del entretenimiento. Solo hay un problema: debe convencer a la estrella de rock más solitaria del mundo de unirse a ellos.",
+    "año": 2021,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-10-29T18:14:32.424Z",
+    "tmdb_id": 438695,
+    "portada": "https://image.tmdb.org/t/p/original/1f7Ah1ZjkaChoo5NkSJRsRKxwVs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ztiFxuG0gC6wQ8y7JZFYbCQyN4Y.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/0b/s8/2/F/f/3/c/Ff3cw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
