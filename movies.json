@@ -14721,5 +14721,34 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 575,
+    "nombre": "El Origen De Los Guardianes",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Animación",
+      "Familia",
+      "Fantasía"
+    ],
+    "descripcion": "'El origen de los guardianes' es una aventura épica y mágica que cuenta la historia de Santa Claus, el Conejo de Pascua, el Hada de los Dientes y Jack Frost - personajes legendarios con desconocidas habilidades extraordinarias. Cuando un espíritu maligno, conocido como Sombra, decide inundar de miedo los corazones de los niños, los Guardianes inmortales unen sus fuerzas para proteger los deseos, las creencias y la imaginación de los niños.",
+    "año": 2012,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-10-29T17:12:03.474Z",
+    "tmdb_id": 81188,
+    "portada": "https://image.tmdb.org/t/p/original/deTVL9lgx1yegoN4JXSdRcrVr6m.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/46IGtYNjpIvQYRIQlb2X493Wh8x.jpg",
+    "embed": "https://1a-1791.com/video/fwe2/64/s8/2/Z/z/G/J/ZzGJx.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
