@@ -14067,5 +14067,32 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 551,
+    "nombre": "Ghostbusters: El Legado",
+    "generos": [
+      "Fantasía",
+      "Comedia",
+      "Aventura"
+    ],
+    "descripcion": "Cuando una madre soltera y dos niños llegan a un pequeño pueblo, ellos comienzan a descubrir la conexión entre los cazafantasmas originales y el legado secreto que dejó su abuelo.",
+    "año": 2021,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-29T15:48:19.578Z",
+    "tmdb_id": 425909,
+    "portada": "https://image.tmdb.org/t/p/original/1jy2R4irQMZEaHvGkKoyuaKJPJO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/EnDlndEvw6Ptpp8HIwmRcSSNKQ.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/p/Q/e/K/pQeKr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
