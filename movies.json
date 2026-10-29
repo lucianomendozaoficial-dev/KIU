@@ -15687,5 +15687,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 610,
+    "nombre": "Aviones",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Aventura",
+      "Comedia"
+    ],
+    "descripcion": "Dusty es el avión de un pueblo que sueña un día participar en competencia de gran velocidad. Sin embargo, el pobre Dusty tiene las probabilidades en su contra: Él no está construido para correr y le teme mucho a las alturas. Para conseguir su sueño, Dusty acude con el aviador naval Skipper. Skipper ayuda a Dusty a calificar a la Ripslinger, el circuito de carreras del campeón defensor. El coraje de Dusty enfrenta una gran prueba, al volar en alturas que nunca soñó que fueran posibles.",
+    "año": 2013,
+    "duracion": "",
+    "rating": 5.9,
+    "rating_updated": "2026-10-29T18:23:15.693Z",
+    "tmdb_id": 151960,
+    "portada": "https://image.tmdb.org/t/p/original/6S5JjRheyl3oyLmJVcxcQ8yqDU3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vxgnRbELXgcTSdby7bHR30XEE4f.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/f/N/u/N/fNuNs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
