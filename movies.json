@@ -14554,5 +14554,34 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 569,
+    "nombre": "Kung Fu Panda 3",
+    "generos": [
+      "Animación",
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "Mientras visita una aldea secreta de pandas con su padre, Po se ve obligado a improvisar un peculiar ejército para detener a un espíritu malvado que amenaza a toda China.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-29T16:57:09.272Z",
+    "tmdb_id": 140300,
+    "portada": "https://image.tmdb.org/t/p/original/t11f8palNbICK9Ip5QLrUfhLJYq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/s3FiHTdpQVpqIqdBxLLiy40wGut.jpg",
+    "embed": "https://1a-1791.com/video/fwe2/37/s8/2/g/I/S/g/gISgy.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
