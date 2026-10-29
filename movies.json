@@ -14094,5 +14094,30 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 552,
+    "nombre": "Mi soledad tiene alas",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "En un barrio humilde de las afueras de Barcelona, Dan y sus dos amigos, Vio y Reno, viven sin pensar en el mañana, entre fiestas y robos. Detrás de su apariencia de pequeño delincuente, Dan esconde un gran talento para el arte.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 5.6,
+    "rating_updated": "2026-10-29T15:52:01.719Z",
+    "tmdb_id": 1119355,
+    "portada": "https://image.tmdb.org/t/p/original/zj7UYU6PZQtWh4sznRH1LKJp945.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eZjpVJPJ40BQvHiiaZfbwdkLnab.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/-/B/b/v/-Bbvr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
