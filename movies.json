@@ -15934,5 +15934,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 619,
+    "nombre": "Wish: El poder de los deseos",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Fantasía",
+      "Aventura"
+    ],
+    "descripcion": "Asha y una pequeña bola de energía ilimitada llamada Star demuestran que cuando la voluntad de un ser humano valiente se conecta con la magia de las estrellas, pueden suceder cosas maravillosas.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 6.2,
+    "rating_updated": "2026-10-29T18:37:52.678Z",
+    "tmdb_id": 1022796,
+    "portada": "https://image.tmdb.org/t/p/original/1VXMrUioKfPAPSsezHKexx77Dbz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ehumsuIBbgAe1hg343oszCLrAfI.jpg",
+    "embed": "https://1a-1791.com/video/s8/2/t/c/Z/e/tcZeu.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
