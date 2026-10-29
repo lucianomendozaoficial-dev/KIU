@@ -16146,5 +16146,33 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 627,
+    "nombre": "Anastasia",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Fantasía",
+      "Aventura"
+    ],
+    "descripcion": "Cuando la sombra de la revolución se cierne sobre Rusia, Anastasia, la hija más joven de la familia real, apenas consigue escapar con vida. Años despúes conoce al joven Dimitri. Cuando se dirigen a París para reclamar los derechos del legado de Anastasia, se verán envueltos en una cruenta lucha contra el malvado monje Rasputín y su sicario, el murciélago Bartok.",
+    "año": 1997,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-10-29T18:55:12.855Z",
+    "tmdb_id": 9444,
+    "portada": "https://image.tmdb.org/t/p/original/bppGWGA8zq1sRvTdDJnUzVW9GcH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/h6VshReCGaGQoaGZwT2wqiqrcZW.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/0/V/E/x/0VExq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
