@@ -14525,5 +14525,34 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 568,
+    "nombre": "Luck",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Fantasía",
+      "Familia"
+    ],
+    "descripcion": "¡Sam Greenfield es la persona con menos suerte del mundo! De repente, llega a la nunca antes vista Tierra de la Suerte, y tendrá que unirse a las criaturas mágicas del lugar para cambiar su suerte.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-10-29T16:54:26.678Z",
+    "tmdb_id": 585511,
+    "portada": "https://image.tmdb.org/t/p/original/bwlHp4KsAyuEIAtbYs4mxCkrgyx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sKvQUSyqsFq8e1ts6oo3Xp3dPH2.jpg",
+    "embed": "https://1a-1791.com/video/fww1/f0/s8/2/5/Q/b/y/5Qbyy.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
