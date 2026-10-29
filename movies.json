@@ -14418,5 +14418,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 564,
+    "nombre": "Lightyear",
+    "generos": [
+      "Animación",
+      "Ciencia Ficción",
+      "Familia",
+      "Aventura"
+    ],
+    "descripcion": "Luego de un incidente en el que queda abandonado en un planeta hostil a 4.2 millones de años luz de la Tierra junto a su comandante y tripulación, Buzz intenta encontrar el camino de regreso a casa a través del espacio y el tiempo. Pero la misión se ve amenazada con la llegada de Zurg y su ejército de robots despiadados.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-29T16:42:40.971Z",
+    "tmdb_id": 718789,
+    "portada": "https://image.tmdb.org/t/p/original/bPIm1SXYp5RQ3c4wP91JQRewIb8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hwUxHPkuUleJeoick4uZsrKDXxF.jpg",
+    "embed": "https://rumble.com/hls-vod/780saa/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
