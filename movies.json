@@ -15221,5 +15221,31 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 593,
+    "nombre": "Spirit: El Indomable",
+    "generos": [
+      "Aventura",
+      "Animación",
+      "Familia",
+      "Western"
+    ],
+    "descripcion": "La vida de Lucky Prescott cambia para siempre cuando se muda de su casa en la gran ciudad a un pequeño pueblo fronterizo en el que entabla amistad con un caballo salvaje llamado Spirit.",
+    "año": 2021,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-10-29T17:49:03.823Z",
+    "tmdb_id": 637693,
+    "portada": "https://image.tmdb.org/t/p/original/bSkqrecf1g2d0h9z0oJlgxXVHwt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jtFy2m7CvOVTYoNTY9arN8DVHFi.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/08/s8/2/7/m/e/m/7memw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
