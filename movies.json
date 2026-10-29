@@ -15359,5 +15359,32 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 598,
+    "nombre": "Spirit: El corcel indomable",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Familia",
+      "Drama",
+      "Western"
+    ],
+    "descripcion": "Sigue las aventuras de un corcel salvaje e ingobernable que recorre la indómita frontera norteamericana. Cuando encuentra a un hombre por primera vez, un joven de la tribu de los Lakota llamado Little Creek, Spirit se niega a dejarse domar por él pero sí se hace amigo suyo. El valiente corcel también encuentra el amor con una hermosa yegua llamada Rain. Spirit se convertirá en uno de los grandes héroes anónimos del Viejo Oeste.",
+    "año": 2002,
+    "duracion": "",
+    "rating": 7.7,
+    "rating_updated": "2026-10-29T17:58:13.761Z",
+    "tmdb_id": 9023,
+    "portada": "https://image.tmdb.org/t/p/original/gNRQdU3KEsYTIl4y9Xte3onUSsx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/b8hPBW0NJmiIVzvQjT3CwIpAdzl.jpg",
+    "embed": "https://1a-1791.com/video/fwe2/0f/s8/2/S/K/-/l/SK-lw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
