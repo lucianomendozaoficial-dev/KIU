@@ -14750,5 +14750,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 576,
+    "nombre": "Red",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Comedia",
+      "Fantasía"
+    ],
+    "descripcion": "Mei Lee es una niña china-canadiense de trece años que se debate entre ser la hija obediente de su madre y el caos de la adolescencia. Y, por si los cambios en sus intereses, relaciones y cuerpo no fueran suficientes, cada vez que se emociona o estresa demasiado, se convierte en un panda rojo gigante.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-29T17:13:34.696Z",
+    "tmdb_id": 508947,
+    "portada": "https://image.tmdb.org/t/p/original/8Rou2JpeXyVh2KC2fzq4D5rQRek.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/d4/s8/2/l/y/F/J/lyFJx.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
