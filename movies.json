@@ -16202,5 +16202,28 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 629,
+    "nombre": "Speak",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "Melinda Sordino (Kristen Stewart), una adolescente traumatizada por un hecho que no quiere contar a nadie, ha dejado de hablar. Empecinada en su silencio, inicia otro año escolar, cerrada no sólo a quienes se burlan de su aislamiento, sino también a quienes quieren ayudarla.",
+    "año": 2004,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-10-29T18:57:51.107Z",
+    "tmdb_id": 15058,
+    "portada": "https://image.tmdb.org/t/p/original/oRjQJG2PziTl2bUvzUCFS16ncfj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9J759jTIcQhmeeiD5bDuXI7iOoC.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/s/N/I/w/sNIwq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
