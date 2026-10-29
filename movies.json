@@ -16225,5 +16225,32 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 630,
+    "nombre": "Éxodo: Dioses y Reyes",
+    "generos": [
+      "Aventura",
+      "Drama",
+      "Acción"
+    ],
+    "descripcion": "Narra la historia de Moisés (Christian Bale), un hombre de extraordinario valor que desafió al faraón Ramsés (Joel Edgerton) y liberó a 600.000 esclavos, que protagonizaron una épica y peligrosa huida a través de Egipto en busca de la Tierra Prometida.",
+    "año": 2014,
+    "duracion": "",
+    "rating": 5.9,
+    "rating_updated": "2026-10-29T18:58:56.987Z",
+    "tmdb_id": 147441,
+    "portada": "https://image.tmdb.org/t/p/original/1sWDPsYsWwyMx0rmtsIoyB8wC6s.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hJ1jUw8irCiWwQk7BElxF92BrlK.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/N/a/L/K/NaLKq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
