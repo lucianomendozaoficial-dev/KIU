@@ -16330,5 +16330,30 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 634,
+    "nombre": "Hechizo de amor: La magia continúa",
+    "generos": [
+      "Romance",
+      "Fantasía",
+      "Comedia"
+    ],
+    "descripcion": "En un mundo envuelto en travesuras a la luz de la luna y una poderosa magia ancestral, las hermanas Owens deberán enfrentar la oscura maldición que amenaza con destruir a su familia de una vez por todas.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-10-29T19:04:03.159Z",
+    "tmdb_id": 1302904,
+    "portada": "https://image.tmdb.org/t/p/original/eNdtnb2Ga4H9fl4hEGhOLrgdKqq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/0a/s8/2/o/C/G/7/oCG7A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1027638272-1027716696",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
