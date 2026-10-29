@@ -14778,5 +14778,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 577,
+    "nombre": "Los Croods",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Familia",
+      "Comedia"
+    ],
+    "descripcion": "Los Croods es una aventura de comedia prehistórica que sigue a la primera familia del mundo mientras se embarcan en un viaje de toda una vida cuando la cueva que siempre los ha protegido del peligro se destruye. Viajando a través de un paisaje espectacular, los Croods descubrir un nuevo mundo increíble lleno de criaturas fantásticas, y maravillosas aventuras,  haciendo que su perspectiva se cambie para siempre.",
+    "año": 2013,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-29T17:15:05.680Z",
+    "tmdb_id": 49519,
+    "portada": "https://image.tmdb.org/t/p/original/3X3qtBTgKt5mCB30RJwbIjgjzdw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wFN8llYh215M8i2fqWAcPV8CSyL.jpg",
+    "embed": "https://1a-1791.com/video/fwe2/c7/s8/2/S/f/D/J/SfDJx.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
