@@ -15771,5 +15771,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 613,
+    "nombre": "Cars",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "El aspirante campeón de carreras, Rayo McQueen, parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado. Sin embargo, Rayo cometió el error de desviar su destino y terminó llegando a un pequeño pueblo olvidado de la Ruta 66.",
+    "año": 2006,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-10-29T18:27:29.994Z",
+    "tmdb_id": 920,
+    "portada": "https://image.tmdb.org/t/p/original/oWNiWzEG8R94dXwXbYtm5YBqmRQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
+    "embed": "https://1a-1791.com/video/s8/2/i/P/J/3/iPJ3r.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
