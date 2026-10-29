@@ -15467,5 +15467,34 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 602,
+    "nombre": "Soul",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Drama",
+      "Música",
+      "Fantasía"
+    ],
+    "descripcion": "Joe Gardner, un maestro de música, le ofrecen una oportunidad para convertirse en un reconocido músico de jazz que tanto soñaba. Sin embargo, después de un pequeño accidente, termina en un lugar misterioso donde las nuevas almas reciben las personalidad, el carácter y los intereses antes de ir a la tierra.",
+    "año": 2020,
+    "duracion": "",
+    "rating": 8.1,
+    "rating_updated": "2026-10-29T18:06:38.482Z",
+    "tmdb_id": 508442,
+    "portada": "https://image.tmdb.org/t/p/original/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/e1/s8/2/V/6/G/h/V6Ghw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
