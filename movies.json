@@ -14639,5 +14639,32 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 572,
+    "nombre": "Hop Rebeldes sin Pascua",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "Cuenta la cómica historia de Fred, un desempleado que hiere accidentalmente al Conejito de Pascua. No le queda más remedio que albergarle mientras se recupera. Fred debe enfrentarse al peor invitado que jamás haya existido, y los dos acabarán descubriendo lo que se necesita para madurar.",
+    "año": 2011,
+    "duracion": "",
+    "rating": 5.8,
+    "rating_updated": "2026-10-29T17:03:27.386Z",
+    "tmdb_id": 50359,
+    "portada": "https://image.tmdb.org/t/p/original/oY6BhCR0YmVlnkcWkn28D45UYXp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/h217Zex0muVgQDfXoeQ7cQXwHzS.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/28/s8/2/T/c/7/t/Tc7tx.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
