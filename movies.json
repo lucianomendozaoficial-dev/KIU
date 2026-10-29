@@ -15877,5 +15877,34 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 617,
+    "nombre": "Hechizados",
+    "generos": [
+      "Animación",
+      "Fantasía",
+      "Familia",
+      "Aventura",
+      "Comedia"
+    ],
+    "descripcion": "Cuando un poderoso hechizo convierte a sus padres en monstruos, una princesa adolescente debe adentrarse en lo desconocido para revertir la maldición antes de que sea muy tarde.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-29T18:34:36.769Z",
+    "tmdb_id": 592983,
+    "portada": "https://image.tmdb.org/t/p/original/g4oArI4RmOnSDZzQbdbAm3yLNkC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iqL1ztNeXAXulsZzpJWmyiZdZWc.jpg",
+    "embed": "https://1a-1791.com/video/fw/s8/2/C/F/j/m/CFjmv.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
