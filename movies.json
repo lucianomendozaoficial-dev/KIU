@@ -14972,5 +14972,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 584,
+    "nombre": "El espanta tiburones",
+    "generos": [
+      "Animación",
+      "Acción",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "Cuando el hijo de un jefe gángster de los tiburones muere accidentalmente durante la caza, su presa potencial y su hermano vegetariano deciden utilizar el incidente en su propio beneficio.",
+    "año": 2004,
+    "duracion": "",
+    "rating": 6,
+    "rating_updated": "2026-10-29T17:27:45.668Z",
+    "tmdb_id": 10555,
+    "portada": "https://image.tmdb.org/t/p/original/3vI17Q3mfkIEpvwItomxMy5w1gw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7ZmZxar3bYORcl0TPA4oceyxcaE.jpg",
+    "embed": "https://1a-1791.com/video/fwe2/e2/s8/2/K/n/4/E/Kn4Ew.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
