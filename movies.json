@@ -15827,5 +15827,30 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 615,
+    "nombre": "Chucky: El muñeco diabólico",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "Una madre soltera regala a su hijo un codiciado muñeco para su cumpleaños, solo para descubrir que está poseído por el alma de un asesino en serie.",
+    "año": 1988,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-10-29T18:31:46.401Z",
+    "tmdb_id": 10585,
+    "portada": "https://image.tmdb.org/t/p/original/8R1AMYd4m31RpHXoyyjp7SfNWlq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/edghRD7vw1XgWEpMLpGt1VSGB5w.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/h/M/u/B/hMuBq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
