@@ -14888,5 +14888,32 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 581,
+    "nombre": "Buscando a Nemo",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Aventura"
+    ],
+    "descripcion": "El pececillo Nemo, que es hijo único, es muy querido y protegido por su padre. Pero después de ser capturado en un arrecife australiano va a parar a la pecera de la oficina de un dentista de Sidney, su tímido padre emprenderá una peligrosa aventura para rescatarlo.",
+    "año": 2003,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-10-29T17:22:40.762Z",
+    "tmdb_id": 12,
+    "portada": "https://image.tmdb.org/t/p/original/kffFhbSRF20sY7DiqWcFWAxi58K.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/6/n/L/k/6nLkr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
