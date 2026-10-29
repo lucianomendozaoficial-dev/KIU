@@ -15415,5 +15415,30 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 600,
+    "nombre": "Paddington",
+    "generos": [
+      "Comedia",
+      "Aventura",
+      "Familia"
+    ],
+    "descripcion": "Paddington es un oso que ha crecido en lo más profundo de la selva peruana con su tía Lucy. Sin embargo, un terremoto destruye su hogar, entonces Lucy esconde a su sobrino en un barco con destino a Inglaterra para que encuentre una vida mejor.",
+    "año": 2014,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-10-29T18:01:40.304Z",
+    "tmdb_id": 116149,
+    "portada": "https://image.tmdb.org/t/p/original/mJypxc7GFS98v4GvlS6Z8EcXc9F.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+    "embed": "https://1a-1791.com/video/fwe2/25/s8/2/l/E/S/l/lESlw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
