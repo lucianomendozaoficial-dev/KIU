@@ -15163,5 +15163,35 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 591,
+    "nombre": "Supercan",
+    "generos": [
+      "Familia",
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Fantasía",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Basada en la serie clásica de dibujos animados “Underdog”. Tras un accidente en el misterioso laboratorio del científico chiflado, el Dr. Simon Barsinister (Peter Dinklage), un perro de raza beagle descubre de repente que tiene unos poderes inimaginables además de la capacidad de hablar. Ataviado con un traje de superhéroe, Superdog (voz original de Jason Lee) jura proteger a los atormentados ciudadanos de Capitol City y, en especial, a una bonita spaniel llamada Polly Purebread (voz de Amy Adams). Cuando un siniestro plan de Barsinister y su secuaz Cad (Patrick Warburton) amenaza con destruir Capitol City, sólo Superdog puede arreglar las cosas...",
+    "año": 2007,
+    "duracion": "",
+    "rating": 5.6,
+    "rating_updated": "2026-10-29T17:45:16.442Z",
+    "tmdb_id": 6589,
+    "portada": "https://image.tmdb.org/t/p/original/kHlXtndIRk8k1pEmE6cQyRGvoU1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1BEuoA7UpCF51WpiIZ7rypAhxfs.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/35/s8/2/Q/n/Q/r/QnQrw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
