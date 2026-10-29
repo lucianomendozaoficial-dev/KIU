@@ -15110,5 +15110,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 589,
+    "nombre": "Hotel Transylvania",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "descripcion": "Cuando Mavis está a punto de cumplir 118 años, su padre, el conde Drácula, le prepara una fiesta a la que acuden los mejores amigos de la familia, Frankenstein, Hombre Invisible y la Momia; pero cuando un humano llamado Johnny, un tipo común y corriente, aparece en el hotel de monstruos... lo cambia todo.",
+    "año": 2012,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-29T17:41:23.035Z",
+    "tmdb_id": 76492,
+    "portada": "https://image.tmdb.org/t/p/original/zvWlwBGQWuJ0wog65q1uS37BApC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5rARlA8beRAVXPYzSaF2NoS8Ry5.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/36/s8/2/L/S/x/w/LSxww.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
