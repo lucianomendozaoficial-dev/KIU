@@ -16174,5 +16174,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 628,
+    "nombre": "Dinosaurio",
+    "generos": [
+      "Aventura",
+      "Animación",
+      "Drama",
+      "Familia"
+    ],
+    "descripcion": "Una colonia de lémures que vive tranquilamente en una isla paradisíaca, encuentra por azar un huevo de dinosaurio. Cuando el cascarón se abre, aparece un pequeño iguanodonte. Los lémures lo acogen y lo bautizan como Aladar, pasando a ser así, a pesar de la evidente diferencia de tamaño, un miembro más de la familia. Un día, un meteorito destruye la isla, obligándoos a todos a huir y buscar sobrevivir...",
+    "año": 2000,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-29T18:56:29.278Z",
+    "tmdb_id": 10567,
+    "portada": "https://image.tmdb.org/t/p/original/ilwycGvqymMw16Z9AOPWh5ihteZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/laeEtakR2pLKu3CeRwB2lU5Y53X.jpg",
+    "embed": "",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
