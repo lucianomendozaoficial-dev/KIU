@@ -14333,5 +14333,33 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 561,
+    "nombre": "Los Tipos Malos",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Animación",
+      "Comedia",
+      "Crimen",
+      "Familia"
+    ],
+    "descripcion": "Cuando los Bad Guys, un grupo de animales antropormóficos criminales, finalmente son capturados después de años de atracos y de ser los villanos más buscados del mundo, el Sr. Wolf negocia un trato para salvarlos a todos de la prisión.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 7.5,
+    "rating_updated": "2026-10-29T16:36:12.929Z",
+    "tmdb_id": 629542,
+    "portada": "https://image.tmdb.org/t/p/original/czxHSOXyKd6zEvIOvUTxAwqOjcK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/a8w3luV9uCjveB8v7grHfvXVOFJ.jpg",
+    "embed": "https://rumble.com/hls-vod/782h1a/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
