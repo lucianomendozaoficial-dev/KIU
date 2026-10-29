@@ -15989,5 +15989,34 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 621,
+    "nombre": "Mi villano favorito 4",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Acción",
+      "Ciencia Ficción",
+      "Familia"
+    ],
+    "descripcion": "Gru, Lucy y las niñas -Margo, Edith y Agnes- dan la bienvenida a un nuevo miembro en la familia: Gru Junior, que parece llegar con el propósito de ser un suplicio para su padre. Gru tendrá que enfrentarse en esta ocasión a su nueva némesis Maxime Le Mal y su sofisticada y malévola novia Valentina, lo que obligará a la familia a tener que darse a la fuga.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-29T18:42:37.885Z",
+    "tmdb_id": 519182,
+    "portada": "https://image.tmdb.org/t/p/original/iE9Pi1hkiLUm88uF7o9L9Yzl4lW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+    "embed": "https://1a-1791.com/video/s8/2/r/F/x/_/rFx_t.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
