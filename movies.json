@@ -14040,5 +14040,32 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 550,
+    "nombre": "El teléfono del señor Harrigan",
+    "generos": [
+      "Drama",
+      "Terror",
+      "Misterio"
+    ],
+    "descripcion": "Un niño y un anciano millonario tienen en común su amor por los libros... y sus primeros iPhone. Pero aunque la muerte parece separarlos, su misteriosa conexión se mantiene viva.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-10-29T15:23:05.882Z",
+    "tmdb_id": 723419,
+    "portada": "https://image.tmdb.org/t/p/original/aERrzPJyUYAhmbies50dMz21W4u.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jEdiZMbWkw8iWE8dBqLzyhwxAYd.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/y/d/j/p/ydjpr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
