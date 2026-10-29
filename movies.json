@@ -14446,5 +14446,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 565,
+    "nombre": "Zootopia",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Familia",
+      "Comedia"
+    ],
+    "descripcion": "Decidida a demostrar su valía, la oficial Judy Hopps, la primera conejita de la fuerza policial de Zootopia, aprovecha la oportunidad de resolver su primer caso, incluso si eso significa asociarse con el zorro estafador Nick Wilde para resolver el misterio.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-10-29T16:45:23.527Z",
+    "tmdb_id": 269149,
+    "portada": "https://image.tmdb.org/t/p/original/kyiEmCk6mOenJiL7s3LspVKkoZM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+    "embed": "https://rumble.com/hls-vod/77zcn8/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
