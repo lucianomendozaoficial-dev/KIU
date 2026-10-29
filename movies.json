@@ -15000,5 +15000,32 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 585,
+    "nombre": "El Libro de la Vida",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Fantasía"
+    ],
+    "descripcion": "La película cuenta el viaje de Manolo, un joven torero que se debate entre cumplir con las expectativas de su familia o seguir su corazón y dedicarse a su verdadera pasión: la música. Antes de escoger el camino que seguirá, emprende una aventura recorriendo tres mundos fantásticos, donde tendrá que superar sus peores miedos.",
+    "año": 2014,
+    "duracion": "",
+    "rating": 7.5,
+    "rating_updated": "2026-10-29T17:29:32.307Z",
+    "tmdb_id": 228326,
+    "portada": "https://image.tmdb.org/t/p/original/k669nOalwu7NKhW7aWNJKN7Nxvi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/b0XkgWgCBurkCZdNXp7kEZdgxEi.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/54/s8/2/F/h/B/w/FhBww.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
