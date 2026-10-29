@@ -15906,5 +15906,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 618,
+    "nombre": "Transformers Uno",
+    "generos": [
+      "Animación",
+      "Ciencia Ficción",
+      "Aventura",
+      "Familia"
+    ],
+    "descripcion": "La esperada historia del origen de cómo los personajes más icónicos del universo Transformers, Orion Pax y D-16, pasaron de ser hermanos de armas a convertirse en los enemigos jurados Optimus Prime y Megatron.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 8,
+    "rating_updated": "2026-10-29T18:36:31.333Z",
+    "tmdb_id": 698687,
+    "portada": "https://image.tmdb.org/t/p/original/ynqqkPy8RiawjGtWFIsF9pmYZtJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cMfokHWle5lfCreoV08cbmkKv6G.jpg",
+    "embed": "https://1a-1791.com/video/s8/2/W/z/p/1/Wzp1u.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Paramount"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
