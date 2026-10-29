@@ -14361,5 +14361,33 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 562,
+    "nombre": "Las guerreras k-pop",
+    "generos": [
+      "Fantasía",
+      "Música",
+      "Comedia",
+      "Animación"
+    ],
+    "descripcion": "Cuando no están llenando estadios, las superestrellas del k‑pop Rumi, Mira y Zoey usan sus superpoderes secretos para proteger a sus fans de amenazas sobrenaturales.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 8,
+    "rating_updated": "2026-10-29T16:38:29.235Z",
+    "tmdb_id": 803796,
+    "portada": "https://image.tmdb.org/t/p/original/6EQMqEmdG5HoGe2zT1WwWUMvVhv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+    "embed": "https://rumble.com/hls-vod/782gzy/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
