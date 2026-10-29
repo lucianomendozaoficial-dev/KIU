@@ -14915,5 +14915,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 582,
+    "nombre": "Enredados Por Siempre",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Acción",
+      "Familia"
+    ],
+    "descripcion": "Es el día de la boda de Rapunzel y Flynn, pero Pascal and Maximus pierden los anillos a mitad de la ceremonia, ellos deben recuperarlos.",
+    "año": 2012,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-10-29T17:24:24.819Z",
+    "tmdb_id": 82881,
+    "portada": "https://image.tmdb.org/t/p/original/2eTiPSDSN5CJXZbk99pb07QuN5K.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6qvKbLYkfXXKM82M38UmDz3IfBk.jpg",
+    "embed": "https://1a-1791.com/video/fwe2/56/s8/2/u/Y/K/C/uYKCx.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
