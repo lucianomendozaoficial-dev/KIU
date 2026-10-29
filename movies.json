@@ -14499,5 +14499,31 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 567,
+    "nombre": "Bailarina",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Comedia",
+      "Música"
+    ],
+    "descripcion": "Felicia es una niña que, tras perder a sus padres, vive en un orfanato en su Bretaña natal. Su pasión es la danza y sueña con convertirse en una bailarina profesional. Para conseguirlo se escapa con la ayuda de su amigo Víctor y viaja hasta el París de 1879. Allí se hará pasar por otra persona para conseguir entrar como alumna de la Grand Opera House y así luchar por tener la vida que desea.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-10-29T16:53:15.594Z",
+    "tmdb_id": 342473,
+    "portada": "https://image.tmdb.org/t/p/original/23te0GMY6yUWbh4wY3mVJyTI0e.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wlLdcK3Sm7zp0w1ZuVvnFlmcchM.jpg",
+    "embed": "https://rumble.com/hls-vod/6povvz/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
