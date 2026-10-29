@@ -14277,5 +14277,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 559,
+    "nombre": "Up: Una Aventura de Altura",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Aventura"
+    ],
+    "descripcion": "El vendedor de globos de 78 años, Carl Fredricksen, lleva a cabo el sueño de su vida al enganchar miles de globos a su casa y salir volando rumbo a Sudamérica. Sin embargo, descubre más tarde que no va solo, ya que también se ha embarcado en el viaje Russell, un optimista explorador de 8 años.",
+    "año": 2009,
+    "duracion": "",
+    "rating": 8,
+    "rating_updated": "2026-10-29T16:31:55.822Z",
+    "tmdb_id": 14160,
+    "portada": "https://image.tmdb.org/t/p/original/vSdpOU6rDK7IpmOD7iAvlZdMUCc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
+    "embed": "https://rumble.com/hls-vod/787b9c/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
