@@ -15276,5 +15276,34 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 595,
+    "nombre": "La Gran Aventura LEGO 2",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "\"La Gran Aventura LEGO 2\" reúne a los héroes de Bricksburg en una nueva aventura en la que tendrán que salvar su ciudad. Después de cinco años de tranquilidad aparece una nueva amenaza: invasores de LEGO DUPLO del espacio exterior que lo destrozan todo antes de que dé tiempo a reconstruirlo. Emmet, Lucy, Batman y sus amigos unirán fuerzas para librar una batalla que les llevará a mundos inexplorados.",
+    "año": 2019,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-29T17:52:49.317Z",
+    "tmdb_id": 280217,
+    "portada": "https://image.tmdb.org/t/p/original/8zUG6t87Ip6yFaHtNx9ICoG8FaB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2U2h8PpsaWn90jdtyG0tu9ZxttZ.jpg",
+    "embed": "https://1a-1791.com/video/fwe2/14/s8/2/X/R/k/m/XRkmw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
