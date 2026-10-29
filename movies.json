@@ -16099,5 +16099,29 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 625,
+    "nombre": "La designada ultra fea",
+    "generos": [
+      "Romance",
+      "Comedia"
+    ],
+    "descripcion": "Bianca (Mae Whitman) es una estudiante que descubre que entre la gente popular del instituto, tiene puesta la etiqueta de \"la D.U.F.F.\", siglas de la Designed Ugly Fat Friend, es decir, la más fea de un grupo de amigas. En un intento para que no cunda el caos en su último año como escolar, decide pedir la ayuda de su encantador vecino el deportista, Wesley (Robbie Amell), para poder reinventarse y desprenderse del despreciable calificativo, y poder conseguir una cita con Toby (Nick Eversman), su amor platónico.",
+    "año": 2015,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-10-29T18:51:56.762Z",
+    "tmdb_id": 272693,
+    "portada": "https://image.tmdb.org/t/p/original/cIbjBpEF0bHhkdbtGmxE3F49Sl4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/trL84LbzW4s0uhOtHkTWLFJhpYO.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/W/-/S/L/W-SLq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
