@@ -15247,5 +15247,34 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 594,
+    "nombre": "La Gran Aventura LEGO",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Aventura",
+      "Comedia",
+      "Fantasía"
+    ],
+    "descripcion": "Una mini figura ordinaria de Lego, erróneamente pensada para ser el extraordinario MasterBuilder, es reclutada para unirse a una búsqueda para detener a un tirano malvado de Lego de pegar el universo juntos.",
+    "año": 2014,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-10-29T17:51:12.942Z",
+    "tmdb_id": 137106,
+    "portada": "https://image.tmdb.org/t/p/original/oz91EtCWJARLi2mZeMgWFJoBdH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6gI1dAkOaUQ6659OdRPsTLlsem5.jpg",
+    "embed": "https://1a-1791.com/video/fwe2/04/s8/2/3/Z/c/m/3Zcmw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
