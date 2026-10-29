@@ -15604,5 +15604,34 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 607,
+    "nombre": "PAW Patrol: La súper película",
+    "generos": [
+      "Aventura",
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Un meteorito mágico impacta en Ciudad Aventura y otorga superpoderes a los cachorros de la Patrulla Canina.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-29T18:17:19.416Z",
+    "tmdb_id": 893723,
+    "portada": "https://image.tmdb.org/t/p/original/uwkqb5ZiS7jhQH5gwtkiTdd54w6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zgQQF04u3OgNBJqClRNby1FPz9s.jpg",
+    "embed": "https://1a-1791.com/video/fwe2/01/s8/2/2/7/4/c/274cw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Paramount"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
