@@ -15138,5 +15138,30 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 590,
+    "nombre": "Amigos imaginarios",
+    "generos": [
+      "Comedia",
+      "Fantasía",
+      "Familia"
+    ],
+    "descripcion": "Una joven descubre la capacidad de ver a los amigos imaginarios de las personas que han sido abandonados por los niños a los que ayudaron.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-29T17:43:09.259Z",
+    "tmdb_id": 639720,
+    "portada": "https://image.tmdb.org/t/p/original/8RgGuC7w8JxhykauzTC4bwha1J8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nxxCPRGTzxUH8SFMrIsvMmdxHti.jpg",
+    "embed": "https://1a-1791.com/video/fwe2/18/s8/2/X/f/s/s/Xfssw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
