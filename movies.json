@@ -16252,5 +16252,31 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 631,
+    "nombre": "Culpable",
+    "generos": [
+      "Drama",
+      "Suspenso"
+    ],
+    "descripcion": "Degradado al servicio de emergencias, un policía intenta salvar a una angustiada interlocutora durante un día desgarrador de revelaciones... y ajustes de cuentas.",
+    "año": 2021,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-10-29T19:00:09.192Z",
+    "tmdb_id": 567748,
+    "portada": "https://image.tmdb.org/t/p/original/5n3jwXdrNs1gVjmLC4eIj7QI310.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5wPWgTvdoVKW6ICeEAg86IBJOBW.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/x/1/w/K/x1wKq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
