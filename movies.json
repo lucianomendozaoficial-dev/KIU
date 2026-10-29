@@ -16123,5 +16123,28 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 626,
+    "nombre": "El aro 3",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "Precuela de 'El aro', que contará como una joven mujer se preocupa por su novio cuando él decide explorar una oscura subcultura cuyo centro de atención es una misteriosa cinta de video que, aparentemente, mata al observador siete días después de que éste la ha visto. La joven se sacrifica para salvar a su novio y al mismo tiempo hace un terrible descubrimiento: hay una \"película dentro de la película\" que nadie ha visto antes",
+    "año": 2017,
+    "duracion": "",
+    "rating": 5,
+    "rating_updated": "2026-10-29T18:54:09.535Z",
+    "tmdb_id": 14564,
+    "portada": "https://image.tmdb.org/t/p/original/okUzKOkgyOKrsASeMOLLacKDRcU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/a4r8xcRwTgKIUKdWtxFXyxTZLeN.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/4/V/E/y/4VEyq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
