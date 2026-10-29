@@ -16073,5 +16073,31 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 624,
+    "nombre": "La morgue",
+    "generos": [
+      "Terror",
+      "Misterio"
+    ],
+    "descripcion": "El dueño de una funeraria de una pequeña localidad y su hijo, que trabaja con él, reciben un día el cadáver de la víctima de un misterioso crimen: una bella joven que no tiene ninguna causa aparente de muerte. Ambos intentarán desvelar los intrigantes motivos del fallecimiento de la joven.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-29T18:50:13.642Z",
+    "tmdb_id": 397243,
+    "portada": "https://image.tmdb.org/t/p/original/zziZJOyTpW1UOBulXufRrQPr1Xj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2pOd80PQSJ9cUbli7PDeX59q3vQ.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/n/t/H/y/ntHyq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
