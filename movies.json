@@ -16355,5 +16355,30 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 635,
+    "nombre": "Beekeeper: Sentencia de muerte",
+    "generos": [
+      "Acción",
+      "Crimen",
+      "Suspenso"
+    ],
+    "descripcion": "La brutal campaña de venganza de un hombre adquiere dimensiones nacionales cuando se descubre que es un antiguo agente de una poderosa organización clandestina conocida como \"Los apicultores\".",
+    "año": 2024,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-29T19:19:56.633Z",
+    "tmdb_id": 866398,
+    "portada": "https://image.tmdb.org/t/p/original/9X8EhbSpYrf6pGFGttWtVDAs9Hr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/f0ACHVpV707zqu4etZrXnWNdSgL.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/l/0/7/t/l07tr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
