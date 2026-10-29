@@ -15962,5 +15962,32 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 620,
+    "nombre": "El rey león",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Drama"
+    ],
+    "descripcion": "El príncipe león Simba y su padre son el blanco de su amargado tío, que quiere ascender al trono.",
+    "año": 1994,
+    "duracion": "",
+    "rating": 8.3,
+    "rating_updated": "2026-10-29T18:40:57.910Z",
+    "tmdb_id": 8587,
+    "portada": "https://image.tmdb.org/t/p/original/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+    "embed": "https://1a-1791.com/video/s8/2/6/p/x/b/6pxbu.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
