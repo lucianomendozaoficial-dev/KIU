@@ -14170,5 +14170,29 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 555,
+    "nombre": "Viaje a la oscuridad",
+    "generos": [
+      "Suspenso",
+      "Terror"
+    ],
+    "descripcion": "Un grupo de amigos parte hacia las Tierras Altas de Escocia en busca de una cabaña perdida hace mucho tiempo. Una vez lejos de la civilización, una tragedia imprevista cae sobre el grupo y una mala decisión conduce a la sospecha, la traición y el asesinato.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 6,
+    "rating_updated": "2026-10-29T16:19:38.263Z",
+    "tmdb_id": 1127175,
+    "portada": "https://image.tmdb.org/t/p/original/rTKDCdw863kF5xgBVPz6KeAHb8k.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ueDifYqjQjHddEWCNmb4fXRYHbx.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/b/H/0/Q/bH0Qq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
