@@ -14611,5 +14611,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 571,
+    "nombre": "Kung Fu Panda",
+    "generos": [
+      "Acción",
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "Cuando el Valle de la Paz se ve amenazado, el perezoso Po el panda descubre su destino como el “elegido” y se entrena para convertirse en un héroe de kung fu, pero no será fácil transformar al vago desaliñado en un valiente guerrero. Depende del Maestro Shifu y los Cinco Furiosos: Tigresa, Grulla, Mantis, Víbora y Mono: intentarlo.",
+    "año": 2008,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-29T17:01:52.878Z",
+    "tmdb_id": 9502,
+    "portada": "https://image.tmdb.org/t/p/original/zcORJ8s9zsBjvKxP0k4FASQSjpf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qdthf9WrRDSaIkGVQGhhJ9pz1hn.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/d3/s8/2/I/b/R/g/IbRgy.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
