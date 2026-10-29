@@ -15333,5 +15333,31 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 597,
+    "nombre": "Coraline y la puerta secreta",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Fantasía",
+      "Terror"
+    ],
+    "descripcion": "Una aventurera niña de 11 años encuentra otro mundo que es una versión extrañamente idealizada de su frustrante hogar, pero que tiene siniestros secretos.",
+    "año": 2009,
+    "duracion": "",
+    "rating": 7.9,
+    "rating_updated": "2026-10-29T17:56:24.350Z",
+    "tmdb_id": 14836,
+    "portada": "https://image.tmdb.org/t/p/original/1fX7HMPL9f2qJ9jXFgnBMeYHdfs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/3b/s8/2/1/R/g/m/1Rgmw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
