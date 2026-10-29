@@ -15496,5 +15496,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 603,
+    "nombre": "Sonic 2: La película",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Familia",
+      "Comedia"
+    ],
+    "descripcion": "Cuando el Dr. Robotnik regresa, esta vez con un nuevo compañero, Knuckles, en busca de una esmeralda que tiene el poder de destruir civilizaciones. Sonic se une a su propio compañero, Tails, y juntos se embarcan en un viaje por el mundo para encontrar la esmeralda antes de que caiga en las manos equivocadas.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-10-29T18:08:24.122Z",
+    "tmdb_id": 675353,
+    "portada": "https://image.tmdb.org/t/p/original/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xuLA0pii2IMJW2puT7EvJtgpg0H.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/a8/s8/2/e/O/N/e/eONew.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Paramount"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
