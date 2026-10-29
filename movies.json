@@ -15193,5 +15193,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 592,
+    "nombre": "Frozen: Una Aventura Congelada",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Aventura",
+      "Fantasía"
+    ],
+    "descripcion": "Cuando la recién coronada Reina Elsa accidentalmente usa su poder para convertir cosas en hielo y maldecir su hogar en un invierno infinito, su hermana Anna se une a un hombre de montaña, su juguetón reno y un muñeco de nieve para cambiar las condiciones climáticas.",
+    "año": 2013,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-10-29T17:47:06.683Z",
+    "tmdb_id": 109445,
+    "portada": "https://image.tmdb.org/t/p/original/8aAkLBwrnBuKWyWowgj9KTNnjzo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/bf/s8/2/V/W/W/n/VWWnw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
