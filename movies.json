@@ -15056,5 +15056,31 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 587,
+    "nombre": "Hotel Transylvania 3: Monstruos de vacaciones",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "descripcion": "Mavis y Johnny planean ir con Drácula y sus amigos a unas vacaciones en un crucero de monstruos de lujo, donde Drácula se enamora de la capitana del barco, Ericka, sin que sepan que ella es descendiente de Abraham Van Helsing, el famoso cazador de monstruos.",
+    "año": 2018,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-10-29T17:34:12.357Z",
+    "tmdb_id": 400155,
+    "portada": "https://image.tmdb.org/t/p/original/ak1pkaurFMgLlwdD3eCYc6ThM97.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gvUYIHWzq7r3KuzAaKvly2h0SjM.jpg",
+    "embed": "https://1a-1791.com/video/fwe2/36/s8/2/3/N/z/w/3Nzww.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
