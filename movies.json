@@ -15440,5 +15440,32 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 601,
+    "nombre": "Paddington 2",
+    "generos": [
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "Paddington, ahora felizmente establecido con los Brown, realiza una serie de trabajos ocasionales para comprar el regalo perfecto para su tía Lucy, pero se lo roban.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 7.5,
+    "rating_updated": "2026-10-29T18:02:45.862Z",
+    "tmdb_id": 346648,
+    "portada": "https://image.tmdb.org/t/p/original/r6Vg1xxFqaORvw4GuOLnxQAeVhV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iJgNOTSBNrC90U2xyYq9ln0b35o.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/3f/s8/2/J/u/T/l/JuTlw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
