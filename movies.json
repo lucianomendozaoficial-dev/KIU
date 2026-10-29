@@ -14248,5 +14248,34 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 558,
+    "nombre": "Elio",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Ciencia Ficción",
+      "Familia",
+      "Comedia"
+    ],
+    "descripcion": "Con una imaginación desbordante y una enorme obsesión por los extraterrestres, Elio, de 11 años, es transportado al espacio. Pero es identificado por error como el embajador galáctico de la tierra.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-29T16:30:06.575Z",
+    "tmdb_id": 1022787,
+    "portada": "https://image.tmdb.org/t/p/original/3se2wFVp9HITFMIjPOHmnyaMXjx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ukPu5xYOBAnh5H46uK4aQOirW2b.jpg",
+    "embed": "https://rumble.com/hls-vod/787h6a/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
