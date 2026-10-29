@@ -16278,5 +16278,30 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 632,
+    "nombre": "Emoji: La Película",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Comedia"
+    ],
+    "descripcion": "Todos los utilizan; de hecho, los emojis son casi imprescindibles para la comunicación digital. Los utilizas para expresar exactamente lo que sientes, pero ¿sabes qué sucede con ellos dentro de tu celular? Cada uno tiene una función específica, excepto por Gene, quien no tiene asignado ningún filtro. Sin embargo, al enterarse que su mundo peligra, Gene, Hi5 y Jalibreak viajarán a través de las Apps para intentar salvar su mundo. ¿Lograrán salvarse y encontrar, por fin, una designación para Gene?",
+    "año": 2017,
+    "duracion": "",
+    "rating": 5.4,
+    "rating_updated": "2026-10-29T19:01:11.574Z",
+    "tmdb_id": 378236,
+    "portada": "https://image.tmdb.org/t/p/original/3Gsc5NFpeT22l43sEHd7rVZSbXK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kTrgxhRSj2sun89bDbnGCPBiey6.jpg",
+    "embed": "https://rumble.com/hls-vod/77w574/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
