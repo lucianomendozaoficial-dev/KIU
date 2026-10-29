@@ -15799,5 +15799,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 614,
+    "nombre": "Sing: ¡Ven y canta!",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Música"
+    ],
+    "descripcion": "En una ciudad de animales antropomórficos, el intento de un empresario de teatro de salvar su teatro con un concurso de canto se convierte en algo más grande de lo que prevé, incluso cuando sus finalistas descubren que sus vidas nunca serán las mismas.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-10-29T18:29:54.373Z",
+    "tmdb_id": 335797,
+    "portada": "https://image.tmdb.org/t/p/original/aNXtFYs0mPP4wakHW7PhHuh8cEo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/z9ft5HYHzWcasR6SGcgeluxTznB.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/25/s8/2/E/v/0/c/Ev0cw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
