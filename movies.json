@@ -14013,5 +14013,32 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-28"
+  },
+  {
+    "id": 549,
+    "nombre": "Minions: Nace un villano",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Crimen",
+      "Ciencia Ficción",
+      "Familia"
+    ],
+    "descripcion": "En los años 70, Gru crece siendo un gran admirador de \"Los salvajes seis\", un supergrupo de villanos. Para demostrarles que puede ser malvado, diseña un plan con la esperanza de formar parte de la banda.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-10-29T15:16:27.920Z",
+    "tmdb_id": 438148,
+    "portada": "https://image.tmdb.org/t/p/original/8iqrdedeQuRLoRUB82eRmgfswVV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg",
+    "embed": "https://rumble.com/hls-vod/788z6y/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
