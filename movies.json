@@ -15305,5 +15305,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 596,
+    "nombre": "Peter Pan 2: El regreso al país de Nunca Jamás",
+    "generos": [
+      "Aventura",
+      "Fantasía",
+      "Animación",
+      "Familia"
+    ],
+    "descripcion": "Aunque su intención era secuestrar a Wendy, el capitán Garfio secuestra a la hija de esta para atraer a Peter Pan y tenderle una trampa. Wendy ya no cree ni en Peter Pan ni en la magia, pero tendrá que derribar los muros del escepticismo por su hija.",
+    "año": 2002,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-10-29T17:54:50.698Z",
+    "tmdb_id": 16690,
+    "portada": "https://image.tmdb.org/t/p/original/9nLZKPzcEN3B2F2l5V1VwWTqJ4Z.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tz0MjeUUGgyfNfBPiIksaqEgos6.jpg",
+    "embed": "https://1a-1791.com/video/fwe2/5a/s8/2/D/N/M/o/DNMow.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
