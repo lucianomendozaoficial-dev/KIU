@@ -14861,5 +14861,32 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 580,
+    "nombre": "Buscando a Dory",
+    "generos": [
+      "Aventura",
+      "Animación",
+      "Familia"
+    ],
+    "descripcion": "Amistosa pero olvidadiza, Dory comienza la búsqueda de sus padres perdidos, y todos aprenden algunas cosas sobre el verdadero significado de la familia a lo largo del camino.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-29T17:19:46.715Z",
+    "tmdb_id": 127380,
+    "portada": "https://image.tmdb.org/t/p/original/wXBwo2DxTm6wZ8Cbu02t9kzzoK4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wijltj1toRcicHlCn8Cpsp4yPXe.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/98/s8/2/o/e/U/C/oeUCx.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
