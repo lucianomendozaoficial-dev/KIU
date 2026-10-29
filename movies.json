@@ -15743,5 +15743,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 612,
+    "nombre": "Cars 2",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Aventura",
+      "Comedia"
+    ],
+    "descripcion": "El coche de carreras de estrellas Lightning McQueen y su amigo mater en el extranjero para competir en la carrera del Gran Premio Mundial. Pero el camino al campeonato se vuelve rocoso cuando Mater se ve atrapado en una intrigante aventura propia: el espionaje internacional.",
+    "año": 2011,
+    "duracion": "",
+    "rating": 6.2,
+    "rating_updated": "2026-10-29T18:26:09.293Z",
+    "tmdb_id": 49013,
+    "portada": "https://image.tmdb.org/t/p/original/eQo1LQs5Vo9RHVHYUhNSfMZa3VB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/robYRZk9LxJTwD7GlZCginji5k.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/8/x/5/3/8x53r.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
