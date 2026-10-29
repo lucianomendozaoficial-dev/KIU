@@ -15852,5 +15852,30 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 616,
+    "nombre": "Reyes de las olas 2",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Comedia"
+    ],
+    "descripcion": "Cody, Chicken Joe y Lani han vuelto con su aventura más épica. El Dream Team de los surferos, los Hang 5 pone a prueba a Cody y a sus amigos y les enseñan el significado de trabajar en equipo mientras se dirigen al lugar más legendario del mundo para surfear.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 5.9,
+    "rating_updated": "2026-10-29T18:33:22.430Z",
+    "tmdb_id": 411840,
+    "portada": "https://image.tmdb.org/t/p/original/vFaDN23JbbFnij84y5YyQk5hbCJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3ozfGOxzwsVS5C5QiJN3qOD8CZE.jpg",
+    "embed": "https://1a-1791.com/video/fwe2/d3/s8/2/q/a/s/3/qas3v.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
