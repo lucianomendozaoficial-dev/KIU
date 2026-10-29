@@ -14144,5 +14144,31 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 554,
+    "nombre": "La novia de Chucky",
+    "generos": [
+      "Terror",
+      "Comedia"
+    ],
+    "descripcion": "Chucky, el muñeco poseído por un asesino en serie, descubre la pareja perfecta para matar y revivir en el cuerpo de otro muñeco.",
+    "año": 1998,
+    "duracion": "",
+    "rating": 6.1,
+    "rating_updated": "2026-10-29T16:15:20.611Z",
+    "tmdb_id": 11932,
+    "portada": "https://image.tmdb.org/t/p/original/lf8hJ7cvF5jQ8xzAH4in9NaGDtR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fLTd0VxpijUt6Hm1QM2ehLpWPeu.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/u/w/Y/Z/uwYZq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
