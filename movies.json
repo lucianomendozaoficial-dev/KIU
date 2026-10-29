@@ -14474,5 +14474,30 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 566,
+    "nombre": "GOAT: La cabra que cambió el juego",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "Will, un pequeño cabrito con grandes sueños, tiene la oportunidad única de unirse a los profesionales y jugar al roarball, un deporte de contacto intenso y mixto, dominado por los animales más rápidos y feroces del mundo. A sus nuevos compañeros no les entusiasma tener un pequeño cabrito en su equipo, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que los pequeños también pueden jugar al béisbol.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 8,
+    "rating_updated": "2026-10-29T16:48:23.497Z",
+    "tmdb_id": 1297842,
+    "portada": "https://image.tmdb.org/t/p/original/3dH7p6eAfzDElYYFKfYWpf9xlsG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg",
+    "embed": "https://rumble.com/hls-vod/77tf20/playlist.m3u8",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
