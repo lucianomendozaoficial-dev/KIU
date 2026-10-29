@@ -15633,5 +15633,31 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 608,
+    "nombre": "Mi villano favorito 2",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Ahora que el incansable y emprendedor Gru ha dejado atrás una vida dedicada a las fechorías para criar a Margo, Edith y Agnes, dispone de mucho tiempo libre para disfrutarlo con ellas, el Dr. Nefario y los minions. Pero, justo cuando empieza a adaptarse a su papel de padre de familia, una organización mundial ultrasecreta dedicada a la lucha contra el mal llama a su puerta.",
+    "año": 2013,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-29T18:19:02.062Z",
+    "tmdb_id": 93456,
+    "portada": "https://image.tmdb.org/t/p/original/nVqR5FXFLCXLsMBGFPT2Qdf9KbW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uD267eSiACfWLxp47t3gYymOQRj.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/11/s8/2/g/C/_/c/gC_cw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
