@@ -14194,5 +14194,32 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 556,
+    "nombre": "Infinito",
+    "generos": [
+      "Ciencia Ficción",
+      "Acción",
+      "Aventura"
+    ],
+    "descripcion": "Evan McCauley tiene habilidades que nunca aprendió y recuerdos de lugares que nunca ha visitado. Automedicado y al borde de un colapso mental, un grupo secreto que se hace llamar \"Infinitos\" acuden a su rescate, revelando que sus recuerdos son reales.",
+    "año": 2021,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-10-29T16:24:54.933Z",
+    "tmdb_id": 581726,
+    "portada": "https://image.tmdb.org/t/p/original/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wjQXZTlFM3PVEUmKf1sUajjygqT.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/H/9/a/O/H9aOq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
