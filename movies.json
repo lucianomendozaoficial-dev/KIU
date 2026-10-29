@@ -15549,5 +15549,32 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 605,
+    "nombre": "Gato con Botas: El último deseo",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Fantasía",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "El audaz forajido Gato con Botas descubre que su pasión por el peligro y su desprecio por la seguridad le han pasado factura. El Gato ha quemado ocho de sus nueve vidas, aunque ha perdido la cuenta por el camino. Recuperar esas vidas hará que el Gato con Botas emprenda su mayor búsqueda hasta ahora; la mítica Estrella de los Deseos.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 8.2,
+    "rating_updated": "2026-10-29T18:12:56.469Z",
+    "tmdb_id": 315162,
+    "portada": "https://image.tmdb.org/t/p/original/b5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+    "embed": "https://1a-1791.com/video/fwe1/98/s8/2/N/z/x/d/Nzxdw.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
