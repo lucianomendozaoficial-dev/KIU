@@ -15715,5 +15715,33 @@
     ],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 611,
+    "nombre": "Cars 3",
+    "generos": [
+      "Animación",
+      "Drama",
+      "Familia",
+      "Aventura"
+    ],
+    "descripcion": "La elegante corredora Cruz Ramirez ayudará al veterano campeón Rayo McQueen a regresar a la pista enfrentando a una nueva generación de corredores de alta tecnología. Pronto, Rayo McQueen demostrará que sigue siendo el mejor del mundo.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-10-29T18:24:55.759Z",
+    "tmdb_id": 260514,
+    "portada": "https://image.tmdb.org/t/p/original/6485g21CJuFmekWchDFf3EtVU82.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/3/F/z/8/3Fz8r.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "basico",
+    "fechaAgregado": "2026-10-29"
   }
 ]
