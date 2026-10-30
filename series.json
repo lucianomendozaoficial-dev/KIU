@@ -642,7 +642,7 @@
       "Disney",
       "Netflix"
     ],
-    "plan": "basico",
+    "plan": "premium",
     "temporadas": [
       {
         "numero": 1,
@@ -870,6 +870,24 @@
             "fechaAgregado": "2026-10-28",
             "nombre": "C5",
             "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/x/r/s/D/xrsDu.aaa.mp4"
+          },
+          {
+            "id": "cmvu7ffac1qlf",
+            "fechaAgregado": "2026-10-29",
+            "nombre": "C6",
+            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/H/v/w/D/HvwDu.aaa.mp4"
+          },
+          {
+            "id": "cmvu7h1fy22rh",
+            "fechaAgregado": "2026-10-29",
+            "nombre": "C7",
+            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/I/r/w/D/IrwDu.aaa.mp4"
+          },
+          {
+            "id": "cmvu7jihq3ihb",
+            "fechaAgregado": "2026-10-29",
+            "nombre": "C8",
+            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/_/v/w/D/_vwDu.aaa.mp4"
           }
         ]
       }
