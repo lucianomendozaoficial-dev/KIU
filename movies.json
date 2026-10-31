@@ -16300,8 +16300,12 @@
     "idioma": "Latino",
     "edad": "TP",
     "calidad": "calidad",
-    "especiales": [],
-    "plan": "basico",
+    "especiales": [
+      "Hbo",
+      "Apple",
+      "Prime Video"
+    ],
+    "plan": "premium",
     "fechaAgregado": "2026-10-29"
   },
   {
