@@ -16384,5 +16384,33 @@
     "especiales": [],
     "plan": "basico",
     "fechaAgregado": "2026-10-29"
+  },
+  {
+    "id": 636,
+    "nombre": "La Máscara",
+    "generos": [
+      "Comedia",
+      "Fantasía",
+      "Crimen",
+      "Romance"
+    ],
+    "descripcion": "Cuando el tímido empleado bancario, Stanley Ipkiss, descubre una máscara mágica que contiene el espíritu del dios nórdico Loki, su vida cambia por completo.",
+    "año": 1994,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-10-31T23:11:08.026Z",
+    "tmdb_id": 854,
+    "portada": "https://image.tmdb.org/t/p/original/sW0tABq2gGGzdwHKhBs2hupEK11.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/6/r/O/l/6rOls.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Hbo"
+    ],
+    "plan": "premium",
+    "fechaAgregado": "2026-10-31"
   }
 ]
