@@ -1480,5 +1480,46 @@
       }
     ],
     "fechaAgregado": "2026-11-01"
+  },
+  {
+    "id": 25,
+    "nombre": "Spider-Noir",
+    "generos": [
+      "Drama",
+      "Misterio",
+      "Crimen"
+    ],
+    "descripcion": "Al detective privado Ben Reilly lo contratan para un par de casos sencillos... hasta que unos mafiosos, unos monstruos y una femme fatale misteriosa tejen una red que lo obliga a encarar su antigua vida como el único superhéroe de Nueva York: La Araña.",
+    "año": 2026,
+    "duracion": "N/A",
+    "rating": 8.3,
+    "rating_updated": "2026-11-01T22:08:07.743Z",
+    "tmdb_id": 220102,
+    "portada": "https://image.tmdb.org/t/p/original/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
+    "tipo": "serie",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney",
+      "Marvel"
+    ],
+    "plan": "premium",
+    "temporadas": [
+      {
+        "id": "tmvydun745fcl",
+        "numero": 1,
+        "capitulos": [
+          {
+            "id": "cmvyduoim6gy5",
+            "fechaAgregado": "2026-11-01",
+            "nombre": "C1",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/24/s8/2/4/O/N/r/4ONrA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=371627008-371655190"
+          }
+        ]
+      }
+    ],
+    "fechaAgregado": "2026-11-01"
   }
 ]
