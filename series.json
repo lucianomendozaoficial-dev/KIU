@@ -1401,5 +1401,45 @@
       }
     ],
     "fechaAgregado": "2026-11-01"
+  },
+  {
+    "id": 24,
+    "nombre": "El juego del calamar",
+    "generos": [
+      "Action & adventure",
+      "Misterio",
+      "Drama"
+    ],
+    "descripcion": "Cientos de jugadores cortos de dinero aceptan una extraña invitación a competir en juegos infantiles. Adentro les espera un premio irresistible... con un riesgo mortal.",
+    "año": 2021,
+    "duracion": "N/A",
+    "rating": 7.9,
+    "rating_updated": "2026-11-01T21:37:28.586Z",
+    "tmdb_id": 93405,
+    "portada": "https://image.tmdb.org/t/p/original/xx3Zurg2mVep7UhXAjeYuetOvsB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+    "tipo": "serie",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "temporadas": [
+      {
+        "id": "tmvycph933tk7",
+        "numero": 1,
+        "capitulos": [
+          {
+            "id": "cmvycphy044yf",
+            "fechaAgregado": "2026-11-01",
+            "nombre": "C1",
+            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/D/S/0/q/DS0qs.aaa.mp4"
+          }
+        ]
+      }
+    ],
+    "fechaAgregado": "2026-11-01"
   }
 ]
