@@ -11,68 +11,6 @@
   "ordenSecciones": [],
   "carruseles": [
     {
-      "id": "camino-a-doomdays",
-      "titulo": "Camino a DoomDays",
-      "items": [
-        {
-          "id": 473,
-          "tipo": "pelicula"
-        },
-        {
-          "id": 474,
-          "tipo": "pelicula"
-        },
-        {
-          "id": 227,
-          "tipo": "pelicula"
-        },
-        {
-          "id": 2,
-          "tipo": "pelicula"
-        },
-        {
-          "id": 3,
-          "tipo": "pelicula"
-        },
-        {
-          "id": 2,
-          "tipo": "serie"
-        },
-        {
-          "id": 475,
-          "tipo": "pelicula"
-        },
-        {
-          "id": 476,
-          "tipo": "pelicula"
-        },
-        {
-          "id": 477,
-          "tipo": "pelicula"
-        },
-        {
-          "id": 478,
-          "tipo": "pelicula"
-        },
-        {
-          "id": 482,
-          "tipo": "pelicula"
-        },
-        {
-          "id": 479,
-          "tipo": "pelicula"
-        },
-        {
-          "id": 480,
-          "tipo": "pelicula"
-        },
-        {
-          "id": 481,
-          "tipo": "pelicula"
-        }
-      ]
-    },
-    {
       "id": "mundo-anime",
       "titulo": "Mundo Anime",
       "items": [
