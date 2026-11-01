@@ -380,7 +380,8 @@
         "tipo": "pelicula",
         "genero": "",
         "anio": "",
-        "plataforma": "Anime"
+        "plataforma": "Anime",
+        "etiqueta": ""
       }
     }
   ]
