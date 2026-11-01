@@ -16412,5 +16412,30 @@
     ],
     "plan": "premium",
     "fechaAgregado": "2026-10-31"
+  },
+  {
+    "id": 637,
+    "nombre": "Slender Man",
+    "generos": [
+      "Terror",
+      "Misterio",
+      "Suspenso"
+    ],
+    "descripcion": "“El hombre más pálido. El traje más oscuro. Más grande que el gigante más alto. Ten miedo de este hombre: Slender Man ya que puede hacer lo que nadie puede”. Estas son algunas de las características que usuarios del internet dieron al personaje ficticio de terror Slender Man (el hombre delgado). Ahora la criatura llega a la gran pantalla con este film de terror, que nace de una de las leyendas urbanas de la web más populares, en base de una recopilación de imágenes en el foro Something Awful y hoy en día, pertenece a la cultura \"creepypasta\".",
+    "año": 2018,
+    "duracion": "",
+    "rating": 4.3,
+    "rating_updated": "2026-11-01T21:31:07.077Z",
+    "tmdb_id": 439015,
+    "portada": "https://image.tmdb.org/t/p/original/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tQPDwl1jNZi59KoFT2oxDDnlqhG.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/p/Q/k/K/pQkKr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "fechaAgregado": "2026-11-01"
   }
 ]
