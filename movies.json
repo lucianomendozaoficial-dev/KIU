@@ -12015,10 +12015,11 @@
     "idioma": "Latino",
     "edad": "TP",
     "calidad": "calidad",
-    "especiales": [
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [
       "Anime"
-    ],
-    "plan": "basico"
+    ]
   },
   {
     "id": 473,
