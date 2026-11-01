@@ -16463,5 +16463,32 @@
     "especiales": [],
     "plan": "premium",
     "fechaAgregado": "2026-11-01"
+  },
+  {
+    "id": 639,
+    "nombre": "Dos policías rebeldes",
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Crimen"
+    ],
+    "descripcion": "Un lote de heroína valorado en unos 100 millones de dólares es robado del mismísimo depósito de la policía. El caso le será asignado a los agentes Burnett y Lowery, una pareja muy peculiar por los métodos que utilizan. La única pista que tienen para comenzar es la de una testigo que les ayudará a identificar a los atracadores y a la que tendrán que proteger.",
+    "año": 1995,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-11-01T21:32:42.953Z",
+    "tmdb_id": 9737,
+    "portada": "https://image.tmdb.org/t/p/original/ZYpSdXaTMFYCGbmVmXOFbdJmSv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wOLTJxfv98miIQcn0oNXq9fIgXM.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/N/B/f/L/NBfLr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "fechaAgregado": "2026-11-01"
   }
 ]
