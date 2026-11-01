@@ -371,6 +371,17 @@
           "tipo": "serie"
         }
       ]
+    },
+    {
+      "id": "mundo-anime",
+      "titulo": "Mundo Anime",
+      "items": [],
+      "filtro": {
+        "tipo": "pelicula",
+        "genero": "",
+        "anio": "",
+        "plataforma": "Anime"
+      }
     }
   ]
 }
