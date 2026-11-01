@@ -912,6 +912,42 @@
             "fechaAgregado": "2026-10-30",
             "nombre": "C12",
             "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/F/r/z/D/FrzDu.aaa.mp4"
+          },
+          {
+            "id": "cmvx2980b1nee",
+            "fechaAgregado": "2026-10-31",
+            "nombre": "C13",
+            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/b/r/z/D/brzDu.aaa.mp4"
+          },
+          {
+            "id": "cmvx2ajvu2yaf",
+            "fechaAgregado": "2026-10-31",
+            "nombre": "C14",
+            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/f/q/z/D/fqzDu.aaa.mp4"
+          },
+          {
+            "id": "cmvx2c4xi3rr2",
+            "fechaAgregado": "2026-10-31",
+            "nombre": "C15",
+            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/9/r/z/D/9rzDu.aaa.mp4"
+          },
+          {
+            "id": "cmvx2es7c4uuq",
+            "fechaAgregado": "2026-10-31",
+            "nombre": "C16",
+            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/8/y/R/D/8yRDu.aaa.mp4"
+          }
+        ]
+      },
+      {
+        "id": "tmvx2g55y5rfg",
+        "numero": 5,
+        "capitulos": [
+          {
+            "id": "cmvx2hf4o69m0",
+            "fechaAgregado": "2026-10-31",
+            "nombre": "C1",
+            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/6/N/c/K/6NcKu.aaa.mp4"
           }
         ]
       }
