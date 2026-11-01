@@ -16437,5 +16437,31 @@
     "especiales": [],
     "plan": "premium",
     "fechaAgregado": "2026-11-01"
+  },
+  {
+    "id": 638,
+    "nombre": "Invicto 3: Redención",
+    "generos": [
+      "Acción",
+      "Suspenso",
+      "Crimen",
+      "Drama"
+    ],
+    "descripcion": "En esta película Scott Adkins vuelve a encarnar a Boyka (el malo de Undisputed 2), que busca la libertad. Cuando se le ofrece la oportunidad de participar en un campeonato clandestino entre los 8 mejores luchadores reclusos del mundo, ni lo dudará.",
+    "año": 2010,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-11-01T21:31:56.666Z",
+    "tmdb_id": 38234,
+    "portada": "https://image.tmdb.org/t/p/original/76q9oFIGWDvG6y1LiqG7cM29z6k.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fTZlSRATSk7QJyUrpbmjScDtY8Z.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/9/M/v/E/9MvEr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "fechaAgregado": "2026-11-01"
   }
 ]
