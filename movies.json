@@ -16490,5 +16490,30 @@
     ],
     "plan": "premium",
     "fechaAgregado": "2026-11-01"
+  },
+  {
+    "id": 640,
+    "nombre": "Zombieland 2: Tiro de Gracia",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "En esta secuela y empleando el característico sentido del humor del que hizo gala \"Zombieland\" (Tierra de Zombies), el grupo de protagonistas tendrá que viajar desde la Casa Blanca hasta el corazón de los Estados Unidos, sobreviviendo a nuevas clases de muertos vivientes que han evolucionado desde lo sucedido hace algunos años, así como a algunos supervivientes humanos rezagados. Pero, por encima de todo, tendrán que tratar de soportar los inconvenientes de convivir entre ellos.",
+    "año": 2019,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-11-01T21:34:03.449Z",
+    "tmdb_id": 338967,
+    "portada": "https://image.tmdb.org/t/p/original/aoFLsFg9qM3QhRQpVydZFXgh0SQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/e7tMI0zVKJB2TS74TaBifIZIkCp.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/W/n/O/z/WnOzr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "fechaAgregado": "2026-11-01"
   }
 ]
