@@ -1367,5 +1367,39 @@
         ]
       }
     ]
+  },
+  {
+    "id": 23,
+    "nombre": "Las Perrerías de Mike",
+    "generos": [],
+    "descripcion": "",
+    "año": 2020,
+    "duracion": "N/A",
+    "rating": 2,
+    "rating_updated": "2026-11-01T20:53:13.104Z",
+    "tmdb_id": 301089,
+    "portada": "https://image.tmdb.org/t/p/original/5g7uhKWTufvCIm3MwqwOnduorRs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5RlwntweyjTN52qvuHYNwOw907l.jpg",
+    "tipo": "serie",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "temporadas": [
+      {
+        "id": "tmvyb4pot1x71",
+        "numero": 1,
+        "capitulos": [
+          {
+            "id": "cmvyb4rjp257r",
+            "fechaAgregado": "2026-11-01",
+            "nombre": "C1",
+            "embed": "https://geo.dailymotion.com/player/xdat4.html?video=xbsrflm"
+          }
+        ]
+      }
+    ],
+    "fechaAgregado": "2026-11-01"
   }
 ]
