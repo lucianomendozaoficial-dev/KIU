@@ -12358,10 +12358,11 @@
     "idioma": "Latino",
     "edad": "+13",
     "calidad": "calidad",
-    "especiales": [
-      "Anime"
-    ],
-    "plan": "basico"
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [
+      "anime"
+    ]
   },
   {
     "id": 486,
