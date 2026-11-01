@@ -1506,6 +1506,7 @@
       "Marvel"
     ],
     "plan": "premium",
+    "etiquetas": [],
     "temporadas": [
       {
         "id": "tmvydun745fcl",
@@ -1515,7 +1516,8 @@
             "id": "cmvyduoim6gy5",
             "fechaAgregado": "2026-11-01",
             "nombre": "C1",
-            "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/24/s8/2/4/O/N/r/4ONrA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=371627008-371655190"
+            "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/24/s8/2/4/O/N/r/4ONrA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=371627008-371655190",
+            "disponibleDesde": "2026-11-03T00:00"
           }
         ]
       }
