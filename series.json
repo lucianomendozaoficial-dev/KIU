@@ -191,28 +191,40 @@
     "especiales": [
       "Netflix"
     ],
-    "plan": "basico",
+    "plan": "premium",
+    "etiquetas": [],
     "temporadas": [
       {
         "numero": 1,
         "capitulos": [
           {
             "nombre": "C1",
-            "embed": "https://1a-1791.com/video/fwe1/ae/s8/2/w/a/d/p/wadpy.caa.mp4"
+            "embed": "https://1a-1791.com/video/fwe1/ae/s8/2/w/a/d/p/wadpy.caa.mp4",
+            "id": "cmvzljtf613qtj"
           },
           {
             "nombre": "C2",
-            "embed": "https://1a-1791.com/video/fwe2/97/s8/2/4/e/d/p/4edpy.caa.mp4"
+            "embed": "https://1a-1791.com/video/fwe2/97/s8/2/4/e/d/p/4edpy.caa.mp4",
+            "id": "cmvzljtf61422q"
           },
           {
             "nombre": "C3",
-            "embed": "https://1a-1791.com/video/fwe2/40/s8/2/w/g/d/p/wgdpy.caa.mp4"
+            "embed": "https://1a-1791.com/video/fwe2/40/s8/2/w/g/d/p/wgdpy.caa.mp4",
+            "id": "cmvzljtf615okv"
           },
           {
             "nombre": "C4",
-            "embed": "https://1a-1791.com/video/fwe2/37/s8/2/Q/k/d/p/Qkdpy.caa.mp4"
+            "embed": "https://1a-1791.com/video/fwe2/37/s8/2/Q/k/d/p/Qkdpy.caa.mp4",
+            "id": "cmvzljtf6161tb"
+          },
+          {
+            "id": "cmvzlie4d11h9k",
+            "fechaAgregado": "2026-11-02",
+            "nombre": "C5",
+            "embed": "https://1a-1791.com/video/fwe2/28/s8/2/Y/o/d/p/Yodpy.caa.mp4"
           }
-        ]
+        ],
+        "id": "tmvzljtf612mxn"
       }
     ],
     "camara": false
