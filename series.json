@@ -1472,17 +1472,18 @@
         "numero": 1,
         "capitulos": [
           {
-            "id": "cmvycphy044yf",
-            "fechaAgregado": "2026-11-01",
+            "id": "cmvzjzrbw3fj8",
+            "fechaAgregado": "2026-11-02",
+            "nombre": "C1",
+            "embed": ""
+          },
+          {
+            "id": "cmvzk0z3x4gh7",
+            "fechaAgregado": "2026-11-02",
             "nombre": "C2",
             "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/U/9/M/QU9Ms.aaa.mp4"
           }
         ]
-      },
-      {
-        "id": "tmvzjvz5y124o",
-        "numero": 2,
-        "capitulos": []
       }
     ],
     "fechaAgregado": "2026-11-01"
