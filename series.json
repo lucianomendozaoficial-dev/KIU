@@ -731,6 +731,7 @@
       "Netflix"
     ],
     "plan": "premium",
+    "etiquetas": [],
     "temporadas": [
       {
         "numero": 1,
@@ -1066,6 +1067,12 @@
             "fechaAgregado": "2026-11-01",
             "nombre": "C6",
             "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/u/c/i/K/uciKu.aaa.mp4"
+          },
+          {
+            "id": "cmvzlbcdsw291",
+            "fechaAgregado": "2026-11-02",
+            "nombre": "C7",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fww1/4f/s8/2/R/l/9/N/Rl9Ny.aaa.mp4"
           }
         ]
       }
