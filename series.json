@@ -1897,5 +1897,45 @@
       }
     ],
     "fechaAgregado": "2026-11-02"
+  },
+  {
+    "id": 28,
+    "nombre": "Aquel año nuestro",
+    "generos": [
+      "Comedia",
+      "Drama"
+    ],
+    "descripcion": "Años después de filmar un documental en la escuela que se volvió viral, dos examantes enemistados vuelven a estar frente a cámara... y frente a frente.",
+    "año": 2021,
+    "duracion": "N/A",
+    "rating": 8.4,
+    "rating_updated": "2026-11-02T19:00:47.921Z",
+    "tmdb_id": 135897,
+    "portada": "https://image.tmdb.org/t/p/original/utUJlVXFIQFT8tgcifZo0uDrFzt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/A4WAgjXnuCHWdY5TYyLf2wvAIPD.jpg",
+    "tipo": "serie",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "temporadas": [
+      {
+        "id": "tmvzmjy8i109n",
+        "numero": 1,
+        "capitulos": [
+          {
+            "id": "cmvzmk0fu2u4d",
+            "fechaAgregado": "2026-11-02",
+            "nombre": "C1",
+            "embed": "https://1a-1791.com/video/fwe2/01/s8/2/H/5/5/j/H55jw.caa.mp4"
+          }
+        ]
+      }
+    ],
+    "fechaAgregado": "2026-11-02"
   }
 ]
