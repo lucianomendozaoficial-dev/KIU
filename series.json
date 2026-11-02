@@ -1523,5 +1523,38 @@
       }
     ],
     "fechaAgregado": "2026-11-01"
+  },
+  {
+    "id": 26,
+    "nombre": "Doctora Cha",
+    "generos": [
+      "Drama",
+      "Comedia"
+    ],
+    "descripcion": "Cha Jeong-Sook fue en su juventud médico residente por un año, pero renunció a su carrera y se dedicó a su familia en los veinte años sucesivos. A pesar de su compromiso con la familia, un día se entera de que su marido In-Ho no ha sido leal con ella. Además, sufre una hepatitis aguda que trae como consecuencia la necesidad de un trasplante de hígado inmediato. Después de esta doble prueba, Jeong-Sook decide volver al hospital donde In-Ho es cirujano jefe y donde también trabaja el hijo de ambos, y retomar así la carrera médica",
+    "año": 2023,
+    "duracion": "N/A",
+    "rating": 8.2,
+    "rating_updated": "2026-11-02T17:29:48.818Z",
+    "tmdb_id": 214997,
+    "portada": "https://image.tmdb.org/t/p/original/e0ySH37m0K74vraTrW7Ckcc5mtI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/Asd9Mi9pC2B5UQp2pLplzhbd0bB.jpg",
+    "tipo": "serie",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "temporadas": [
+      {
+        "id": "tmvzjlgs453qh",
+        "numero": 1,
+        "capitulos": []
+      }
+    ],
+    "fechaAgregado": "2026-11-02"
   }
 ]
