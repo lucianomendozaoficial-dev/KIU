@@ -1465,6 +1465,7 @@
       "Netflix"
     ],
     "plan": "premium",
+    "etiquetas": [],
     "temporadas": [
       {
         "id": "tmvycph933tk7",
@@ -1473,10 +1474,15 @@
           {
             "id": "cmvycphy044yf",
             "fechaAgregado": "2026-11-01",
-            "nombre": "C1",
-            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/D/S/0/q/DS0qs.aaa.mp4"
+            "nombre": "C2",
+            "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/U/9/M/QU9Ms.aaa.mp4"
           }
         ]
+      },
+      {
+        "id": "tmvzjvz5y124o",
+        "numero": 2,
+        "capitulos": []
       }
     ],
     "fechaAgregado": "2026-11-01"
