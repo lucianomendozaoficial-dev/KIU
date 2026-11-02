@@ -16515,5 +16515,30 @@
     "especiales": [],
     "plan": "premium",
     "fechaAgregado": "2026-11-01"
+  },
+  {
+    "id": 642,
+    "nombre": "¡No vayas a colgar!",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Un grupo de adolescentes pasa parte de su tiempo libre gastando bromas telefónicas. Una noche, cuando Sam y Brady están haciendo su ronda de llamadas, una de las víctimas les planta cara y decide pagarles con su misma moneda. A partir de este momento, los roles cambiarán.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 6.2,
+    "rating_updated": "2026-11-02T17:23:04.503Z",
+    "tmdb_id": 375355,
+    "portada": "https://image.tmdb.org/t/p/original/oQW9ZZe681McgrCzjbTSemSJEU2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jn5KJr4lgQ6OPvdfoadMXsPJ5tC.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/u/E/h/B/uEhBr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-02"
   }
 ]
