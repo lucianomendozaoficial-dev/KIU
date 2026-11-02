@@ -1809,5 +1809,45 @@
       }
     ],
     "fechaAgregado": "2026-11-02"
+  },
+  {
+    "id": 27,
+    "nombre": "Elle: Legalmente rubia",
+    "generos": [
+      "Comedia",
+      "Drama"
+    ],
+    "descripcion": "Antes de ser un pez fuera del agua en Harvard, en 1995, Elle Woods fue un pez en las aguas tumultuosas de la preparatoria donde se enfrenta a amistades complicadas, un romance prohibido y elecciones cuestionables de moda. En este inesperado capítulo de su adolescencia, descubrimos las experiencias que convirtieron a Elle en la icónica mujer que conocemos y amamos.",
+    "año": 2026,
+    "duracion": "N/A",
+    "rating": 7.8,
+    "rating_updated": "2026-11-02T18:44:21.462Z",
+    "tmdb_id": 254420,
+    "portada": "https://image.tmdb.org/t/p/original/13BnuRw5cpELxANM4VshPOFV1FA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/truh4rtTUdRVYGeT0n17dxvdv41.jpg",
+    "tipo": "serie",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "temporadas": [
+      {
+        "id": "tmvzlyubk1p58",
+        "numero": 1,
+        "capitulos": [
+          {
+            "id": "cmvzlyxlv21qh",
+            "fechaAgregado": "2026-11-02",
+            "nombre": "C1",
+            "embed": "https://1a-1791.com/video/fwe2/8f/s8/2/2/S/J/D/2SJDA.aaa.mp4"
+          }
+        ]
+      }
+    ],
+    "fechaAgregado": "2026-11-02"
   }
 ]
