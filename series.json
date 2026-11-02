@@ -421,20 +421,30 @@
     "edad": "+13",
     "calidad": "calidad",
     "especiales": [],
-    "plan": "basico",
+    "plan": "premium",
+    "etiquetas": [],
     "temporadas": [
       {
         "numero": 1,
         "capitulos": [
           {
             "nombre": "C1",
-            "embed": "https://1a-1791.com/video/fwe1/20/s8/2/e/7/L/n/e7Lny.caa.mp4"
+            "embed": "https://1a-1791.com/video/fwe1/20/s8/2/e/7/L/n/e7Lny.caa.mp4",
+            "id": "cmvzknkfbholk"
           },
           {
             "nombre": "C2",
-            "embed": "https://1a-1791.com/video/fwe2/0d/s8/2/2/-/L/n/2-Lny.caa.mp4"
+            "embed": "https://1a-1791.com/video/fwe2/0d/s8/2/2/-/L/n/2-Lny.caa.mp4",
+            "id": "cmvzknkfbi9vx"
+          },
+          {
+            "id": "cmvzkm4hif1dj",
+            "fechaAgregado": "2026-11-02",
+            "nombre": "C3",
+            "embed": "https://1a-1791.com/video/fwe2/aa/s8/2/S/b/M/n/SbMny.caa.mp4"
           }
-        ]
+        ],
+        "id": "tmvzknkfbg25f"
       }
     ],
     "camara": false
