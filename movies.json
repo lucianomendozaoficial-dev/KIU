@@ -16647,5 +16647,34 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 647,
+    "nombre": "Thor: Ragnarok",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Encarcelado en el planeta Sakaar, Thor debe correr contra el tiempo para volver a Asgard y detener a Ragnarök, la destrucción de su mundo, a manos del poderoso y despiadado villano Hela.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-11-04T16:10:34.284Z",
+    "tmdb_id": 284053,
+    "portada": "https://image.tmdb.org/t/p/original/rGaayCxGkHZLUyDDB3QQnDg2MHQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/M/k/W/5/MkW5r.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
