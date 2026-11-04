@@ -16540,5 +16540,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-02"
+  },
+  {
+    "id": 643,
+    "nombre": "X-Men: Primera generación",
+    "generos": [
+      "Acción",
+      "Ciencia Ficción",
+      "Aventura"
+    ],
+    "descripcion": "En la década de 1960, los humanos con superpoderes Charles Xavier y Erik Lensherr trabajan juntos para encontrar otros como ellos, pero la búsqueda vengativa de Erik de un ambicioso mutante que arruinó su vida provoca un cisma que los divide.",
+    "año": 2011,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-11-04T16:00:38.024Z",
+    "tmdb_id": 49538,
+    "portada": "https://image.tmdb.org/t/p/original/6ED3G0lpBXRZtEDJD2xVYsqIwxI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yhp5Pt4GugkCs5mz63qWz5khHXe.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/m/t/X/A/mtXAr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
