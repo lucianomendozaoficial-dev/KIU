@@ -17356,5 +17356,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 673,
+    "nombre": "6 Balas",
+    "generos": [
+      "Suspenso",
+      "Acción",
+      "Crimen"
+    ],
+    "descripcion": "El veterano mercenario Samson Gaul sabe que, en el fragor de la batalla, cada bala cuenta. Cuando sus acciones dieron como resultado la muerte de víctimas indefensas se retiró pero ahora es la última esperanza de Andrew Fayden un padre desesperado. Fayden sabe luchar pero solo no está preparado para encontrar a su hija en las corruptas calles de un país extranjero. Juntos, ambos guerreros, no se detendrán ante nada para destrozar la red criminal que se aprovecha de los inocentes.",
+    "año": 2012,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-11-04T17:01:50.592Z",
+    "tmdb_id": 127521,
+    "portada": "https://image.tmdb.org/t/p/original/1ArlTk9TosvIJVmy9fwpD9XFRkw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zQXo8qMCd0Oial7Ped5746uHR7N.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/3/D/c/A/3DcAr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
