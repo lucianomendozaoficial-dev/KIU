@@ -17190,5 +17190,34 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 667,
+    "nombre": "SPY x FAMILY CÓDIGO: Blanco",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Aventura",
+      "Acción"
+    ],
+    "descripcion": "Él es un espía. Ella es una asesina. Juntos, Loid y Yor ocultan sus dobles vidas mientras fingen ser la familia perfecta. Sin embargo, su hija adoptiva, Anya, que es telépata, conoce los emocionantes secretos de ambos sin que lo sospechen. Bajo la excusa de llevar a su familia a una escapada invernal, los intentos de Loid por avanzar en su misión en curso, Operation Strix, se complican cuando Anya se involucra por error, desencadenando acontecimientos ¡que amenazan la paz mundial!",
+    "año": 2023,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-11-04T16:50:42.420Z",
+    "tmdb_id": 1062807,
+    "portada": "https://image.tmdb.org/t/p/original/uFVAAqVvzY10cVLsOzUb0eJJfVO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tKihJpAof64rjw0A8uvKohUVjra.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/y/E/V/F/yEVFr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "crunchyroll"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
