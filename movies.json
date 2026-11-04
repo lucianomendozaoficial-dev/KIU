@@ -17411,5 +17411,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 675,
+    "nombre": "La caída",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "Mariel, es una clavadista veterana en su última oportunidad de participar en los Juegos Olímpicos. Sin embargo, cuando una terrible verdad sale a la superficie, Mariel se ve obligada a enfrentarse con su propio pasado y preguntarse ¿Ganar sigue siendo el último sueño?",
+    "año": 2022,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-11-04T17:33:24.948Z",
+    "tmdb_id": 1037603,
+    "portada": "https://image.tmdb.org/t/p/original/euQEF1XOpfaEoRPAQDIdvqEFkNY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wgBAxLkFtHJ5Cl6MfKoeC0sssMv.jpg",
+    "embed": "https://la-caida1.zonaaps-peliculas7590.workers.dev/0:/LA CAIDA/La Caida1x1.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "amazon"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
