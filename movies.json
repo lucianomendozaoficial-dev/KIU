@@ -17051,5 +17051,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 662,
+    "nombre": "Tu nombre",
+    "generos": [
+      "Animación",
+      "Romance",
+      "Drama"
+    ],
+    "descripcion": "Taki y Mitsuha descubren un día que durante el sueño sus cuerpos se intercambian, y comienzan a comunicarse por medio de notas. A medida que consiguen superar torpemente un reto tras otro, se va creando entre los dos un vínculo que poco a poco se convierte en algo más romántico.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 8.5,
+    "rating_updated": "2026-11-04T16:40:30.377Z",
+    "tmdb_id": 372058,
+    "portada": "https://image.tmdb.org/t/p/original/6qt4boe1IWfoffBF2P0QKOCSYUr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/f/V/K/_/fVK_t.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "crunchyroll"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
