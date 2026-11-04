@@ -16966,5 +16966,34 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 659,
+    "nombre": "Río",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "Capturado por contrabandistas cuando era apenas una cría, un guacamayo llamado Blu nunca aprendió a volar y vive una vida feliz domesticado en Minnesota con su amiga humana, Linda. Blu se piensa que es el último de su especie, pero cuando escuchan que Jewel, una solitaria hembra, vive en Río de Janeiro, Blu y Linda emprenderán un viaje a su encuentro.",
+    "año": 2011,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-11-04T16:35:18.324Z",
+    "tmdb_id": 46195,
+    "portada": "https://image.tmdb.org/t/p/original/scjaS4XzbGicYLYAVbhmffwZtqq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3vxlXdwBKztOJdgiZ2Qwasl9FY4.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/A/6/d/K/A6dKr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
