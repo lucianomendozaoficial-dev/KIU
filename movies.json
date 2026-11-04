@@ -17219,5 +17219,34 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 668,
+    "nombre": "Invicto 4: La gran pelea",
+    "generos": [
+      "Acción",
+      "Drama",
+      "Suspenso",
+      "Crimen"
+    ],
+    "descripcion": "Boyka es un luchador de boxeo que se encuentra en mitad de una importante liga. Durante la competición se produce una muerte lo que hace que empiece a replantearse verdaderamente lo que merece la pena este deporte. Cuando descubre que la mujer del fallecido se encuentra en serios problemas, decide luchar una serie de batallas para poder liberarla de la servidumbre.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-11-04T16:52:28.088Z",
+    "tmdb_id": 348893,
+    "portada": "https://image.tmdb.org/t/p/original/yegOHiGUyHiUXNSFlMfFTEZboj7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tCsYQTkQx7vknDmTw666K1XxAdx.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/m/a/E/F/maEFr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
