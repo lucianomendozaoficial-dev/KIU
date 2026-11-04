@@ -16861,5 +16861,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 655,
+    "nombre": "Violet y Finch",
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "descripcion": "Violet y Theodore son dos amigos cuyo encuentro cambia sus vidas para siempre. Mientras luchan por dejar atrás las cicatrices de su pasado, descubren que incluso los momentos más insignificantes pueden tener una importancia crucial en sus vidas.",
+    "año": 2020,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-11-04T16:29:27.762Z",
+    "tmdb_id": 342470,
+    "portada": "https://image.tmdb.org/t/p/original/cYtAU7GtSEoBD9EuS311RCNTb6K.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tcrNJfyNEIqaBR8Ogkgnq5xQJnf.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/S/u/x/Q/SuxQr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
