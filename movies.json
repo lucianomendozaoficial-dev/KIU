@@ -17135,5 +17135,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 665,
+    "nombre": "Pasajero 666",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Una joven doctora con una hija de 6 años está en un vuelo nocturno atrapada en una terrible tormenta. En una cabina medio vacía, se enfrenta a muertes inexplicables de sus compañeros de viaje, pierde el control de la realidad y revive la peor pesadilla de su infancia.",
+    "año": 2021,
+    "duracion": "",
+    "rating": 5.4,
+    "rating_updated": "2026-11-04T16:46:04.796Z",
+    "tmdb_id": 659384,
+    "portada": "https://image.tmdb.org/t/p/original/im1sYcEskurUCIknzAcytaLoPzE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/f7YIqQmPuBLhheNCpvmLVMLH4Gn.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/E/f/x/M/EfxMr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
