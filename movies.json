@@ -17079,5 +17079,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 663,
+    "nombre": "Un Jefe en Pañales",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "La llegada de un hermanito trastoca por completo la idílica vida del pequeño Tim, hasta entonces hijo único de 7 años y el ojito derecho de sus padres. Su nuevo hermano es un peculiar bebé, que viste traje y corbata y lleva maletín. Tim comienza a sospechar de él, hasta que descubre que puede hablar.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-11-04T16:43:20.435Z",
+    "tmdb_id": 295693,
+    "portada": "https://image.tmdb.org/t/p/original/cl5GCE7kS5LETpa0B1YPym4mIG2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8280R0bDR1FusPyThAOmAcSC4nu.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/1/Y/N/M/1YNMr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
