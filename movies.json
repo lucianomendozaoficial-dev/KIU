@@ -16782,5 +16782,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 652,
+    "nombre": "Bad Boys II: Vuelven más rebeldes",
+    "generos": [
+      "Acción",
+      "Crimen",
+      "Comedia"
+    ],
+    "descripcion": "Los detectives de narcóticos Mike Lowrey y Marcus Burnett han sido asignados a un nuevo caso en Miami, donde un astuto narcotraficante  ha iniciado una sangrienta guerra. Además la amistad de los dos agentes se complica cuando Mike empieza a sentir algo por la hermana de Marcus...",
+    "año": 2003,
+    "duracion": "",
+    "rating": 6.7,
+    "rating_updated": "2026-11-04T16:20:02.644Z",
+    "tmdb_id": 8961,
+    "portada": "https://image.tmdb.org/t/p/original/r6qSm5p1lRaEbNOioNzhF5A4RaN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gxSVZCUlDd8upT1G2wdrUdz2hxG.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/n/P/5/R/nP5Rr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
