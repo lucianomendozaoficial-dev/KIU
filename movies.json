@@ -17248,5 +17248,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 669,
+    "nombre": "Hasta los huesos",
+    "generos": [
+      "Terror",
+      "Romance",
+      "Drama"
+    ],
+    "descripcion": "Maren y Lee, dos misteriosos forasteros, se embarcan en una odisea de 1.600 kilómetros por los Estados Unidos de Ronald Reagan. Pero cuando se dan cuenta de que no pueden huir de sus aterradores pasados, la pareja se enfrenta a una prueba final para decidir si pueden sobrevivir con sus diferencias.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-11-04T16:54:00.901Z",
+    "tmdb_id": 791177,
+    "portada": "https://image.tmdb.org/t/p/original/lP814mEpSCdWCAMiZT1Yt5rlJhg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8sPxa4sdRvjgRG3GgkO8RQxUR9P.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/p/b/D/F/pbDFr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
