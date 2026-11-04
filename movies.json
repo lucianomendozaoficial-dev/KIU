@@ -17276,5 +17276,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 670,
+    "nombre": "Invicto 2: El último hombre en pie",
+    "generos": [
+      "Acción",
+      "Crimen",
+      "Suspenso",
+      "Drama"
+    ],
+    "descripcion": "Un boxeador ex campeón del mundo, pero venido a menos y lleno de deudas viaja a Rusia con su agente para ganarse unos pesos grabando comerciales de Vodka, pero una vez allá caerá en manos de la mafia, que desea meterlo preso y enfrentarlo al campeón reinante de un torneo para reclusos que mueve muchísimo dinero. Es así como “Ice man” deberá vérselas con todos los reclusos y el corrupto mundo que ahí se vive.",
+    "año": 2006,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-11-04T16:56:11.348Z",
+    "tmdb_id": 15255,
+    "portada": "https://image.tmdb.org/t/p/original/dQYWGpcEZ6ZLVoW87tjr2FbgSx8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3FhqdmY25ajBgrGOuIMRe0brOci.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/F/q/T/D/FqTDr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
