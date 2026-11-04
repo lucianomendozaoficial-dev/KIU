@@ -16621,5 +16621,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 646,
+    "nombre": "La nana mágica: Nanny McPhee",
+    "generos": [
+      "Fantasía",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "Los siete hermanos Brown, los niños más traviesos del mundo, acaban de perder a su madre, y para su agobiado padre cuidar de ellos y trabajar en la funeraria local es más de lo que puede soportar. Para colmo, su tía Adelaide, una mujer autoritaria e insensible que les presta ayuda económica, amenaza con dejar de hacerlo si su padre no se casa en el plazo de un mes. El señor Brown, que está lleno de deudas, sabe que si no lo hace, irá a la cárcel. Cuando sus hijos se enteran de la situación, empiezan a comportarse todavía peor que antes. La gente le dice a Brown que necesita a Nanny McPhee, una niñera muy especial, pero él no sabe cómo encontrarla.",
+    "año": 2005,
+    "duracion": "",
+    "rating": 6.7,
+    "rating_updated": "2026-11-04T16:06:20.655Z",
+    "tmdb_id": 11283,
+    "portada": "https://image.tmdb.org/t/p/original/i9WlbFMs3PJzopqw4DpmZtxf2FN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ijmKdhQQ86L18ZUywjHjM7h7YgO.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/X/f/G/7/XfG7r.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
