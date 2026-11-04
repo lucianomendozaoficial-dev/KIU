@@ -16728,5 +16728,30 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 650,
+    "nombre": "La serpiente a la sombra del águila",
+    "generos": [
+      "Acción",
+      "Comedia"
+    ],
+    "descripcion": "Un anciano profesor de artes marciales conserva la tradición de la lucha de la cobra, y consigue formar un discípulo que además, observando la lucha entre una cobra y un gato, incorporará el estilo garra de gato.",
+    "año": 1978,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-11-04T16:17:13.016Z",
+    "tmdb_id": 11537,
+    "portada": "https://image.tmdb.org/t/p/original/rHRIajKl7NPnoFVpbO1xaCJRnnh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jPybVtmqT68Pw0LCLXeypViQPFh.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Y/5/-/W/Y5-Wr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
