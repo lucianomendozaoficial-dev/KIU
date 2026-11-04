@@ -16597,5 +16597,29 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 645,
+    "nombre": "Mama",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "El día que su padre mató a su madre, las hermanas Victoria y Lilly desaparecieron en el bosque cercano a la urbanización donde vivían. Su tío Lucas y su novia Annabel las han buscado sin cesar durante cinco años. Cuando ocurre lo imposible y las niñas aparecen en una cabaña medio derruida, la pareja empieza a preguntarse si no ha llegado alguien más a su casa acompañando a las niñas. Annabel intenta ofrecer una vida normal a las niñas, pero acaba convencida de que hay una presencia malévola en la casa. ¿Sufren las hermanas de estrés traumático o viene un fantasma a visitarlas? Mientras intenta contestar a estas inquietantes preguntas, la nueva madre acabará descubriendo que los susurros que se oyen a la hora de dormir proceden de los labios de una presencia letal.",
+    "año": 2013,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-11-04T16:04:20.808Z",
+    "tmdb_id": 132232,
+    "portada": "https://image.tmdb.org/t/p/original/9nYzxKmVlMKEhzUHnQBz326OBWR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cu3uaBqPORcfpKQWaIjA1GJbvEg.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/5/1/v/M/51vMr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
