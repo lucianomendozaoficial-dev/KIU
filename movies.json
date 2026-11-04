@@ -16676,5 +16676,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 648,
+    "nombre": "Minicampeones",
+    "generos": [
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "descripcion": "Calvin Cambridge, un jovencito a quien le encanta el básquet, tiene un sueño: ser un famoso jugador y estar entre los mejores de la NBA. ... Un día, descubre unas viejas zapatillas de básquet que tienen inscritas las iniciales “MJ”, entre la ropa usada donada por la caridad de la gente.",
+    "año": 2002,
+    "duracion": "",
+    "rating": 6.1,
+    "rating_updated": "2026-11-04T16:13:20.532Z",
+    "tmdb_id": 21972,
+    "portada": "https://image.tmdb.org/t/p/original/mYwV45UpHZgRHvCgMRggDnHoWJb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lh0uM88KjXsmRzWXUGAGWJ0AOJR.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/k/8/d/1/k8d1r.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
