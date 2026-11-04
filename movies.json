@@ -16568,5 +16568,34 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 644,
+    "nombre": "Aquamarine: Mi Amiga la Sirena",
+    "generos": [
+      "Fantasía",
+      "Romance",
+      "Familia",
+      "Comedia"
+    ],
+    "descripcion": "Claire y Hailey son dos grandes amigas de trece años de edad que se embarcan en la aventura de sus vidas cuando descubren a una sirena llamada Aquamarine dentro de una piscina.",
+    "año": 2006,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-11-04T16:02:30.070Z",
+    "tmdb_id": 14191,
+    "portada": "https://image.tmdb.org/t/p/original/16Oe4Dbkd3XrRpFCOlwRVfnasXJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aKp0rJwZ6lxp9yChuoSoyNEV8hU.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/H/C/M/L/HCMLr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
