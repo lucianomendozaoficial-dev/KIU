@@ -17384,5 +17384,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 674,
+    "nombre": "Atrápame si puedes",
+    "generos": [
+      "Drama",
+      "Crimen"
+    ],
+    "descripcion": "Basada en una historia real. En los años sesenta, Frank W. Abagnale era un joven y escurridizo delincuente que adoptaba diversas identidades (médico, abogado o copiloto de líneas aéreas). Carl Hanratty, un agente del FBI, tenía la misión de seguir su pista y capturarlo para llevarlo ante la justicia, pero Frank siempre iba un paso por delante de él.",
+    "año": 2002,
+    "duracion": "",
+    "rating": 8,
+    "rating_updated": "2026-11-04T17:04:35.333Z",
+    "tmdb_id": 640,
+    "portada": "https://image.tmdb.org/t/p/original/wcWi3xIEzIjDERTZyWoqryQGURA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eS3xZQ1C8lt6mm4K5lTmjbYn2HE.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/E/F/e/C/EFeCr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Paramount"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
