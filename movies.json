@@ -16941,5 +16941,30 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 658,
+    "nombre": "Secreto en la Montaña",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "Verano de 1963. Dos vaqueros, Ennis Del Mar y Jack Twist, se conocen mientras hacen cola para ser contratados por el ranchero Joe Aguirre. Los dos aspiran a conseguir un trabajo estable, casarse y formar una familia. Cuando Aguirre les envía a cuidar ganado a la majestuosa montaña Brokeback, entre ambos surge un sentimiento de camaradería que deriva hacia una relación íntima. Al concluir el verano, tienen que abandonar Brokeback y seguir caminos diferentes.",
+    "año": 2005,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-11-04T16:34:09.612Z",
+    "tmdb_id": 142,
+    "portada": "https://image.tmdb.org/t/p/original/dxZ0S9dQ3tRhy0x112TQHFp6rMY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/l/V/R/0/lVR0r.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
