@@ -16914,5 +16914,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 657,
+    "nombre": "La razón de estar contigo",
+    "generos": [
+      "Aventura",
+      "Fantasía",
+      "Familia",
+      "Drama"
+    ],
+    "descripcion": "¿Y si un perro pudiera tener más de una vida? Esta no es una historia de mascotas desde el punto de vista de un humano. Todo lo contrario, es la historia de un perro en busca del propósito de su vida, a través de las diversas relaciones con sus dueños. Es así como regresa al primero de ellos, sabiendo que debe ayudarlo una vez más.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-11-04T16:32:28.210Z",
+    "tmdb_id": 381289,
+    "portada": "https://image.tmdb.org/t/p/original/szmeCcSEzTdCjJiPhto0D9MGGbl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sLjeApi5odpyEoCzAnbr5DycL3z.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/s/O/_/N/sO_Nr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
