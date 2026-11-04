@@ -17162,5 +17162,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 666,
+    "nombre": "Pobres Criaturas",
+    "generos": [
+      "Ciencia Ficción",
+      "Romance",
+      "Comedia"
+    ],
+    "descripcion": "Bella Baxter es una joven revivida por el brillante y poco ortodoxo científico Dr. Godwin Baxter. Bajo la protección de Baxter, Bella está ansiosa por aprender. Hambrienta de la mundanidad que le falta, Bella se escapa con Duncan Wedderburn, un sofisticado y perverso abogado, en una aventura vertiginosa a través de los continentes.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-11-04T16:48:51.989Z",
+    "tmdb_id": 792307,
+    "portada": "https://image.tmdb.org/t/p/original/xbfzQ7Q7qmDUf50eZH8C57Ygx6n.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/t/I/N/I/tINIr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
