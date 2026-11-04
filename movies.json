@@ -16995,5 +16995,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 660,
+    "nombre": "Ip Man 3",
+    "generos": [
+      "Acción",
+      "Drama",
+      "Historia"
+    ],
+    "descripcion": "Una banda de criminales dirigidos por un constructor ambicioso intentan desalojar la escuela local pero el maestro Ip Man no está dispuesto a ceder. Paralelamente, un nuevo maestro de Wing Chun ha llegado a la ciudad.",
+    "año": 2015,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-11-04T16:37:49.233Z",
+    "tmdb_id": 365222,
+    "portada": "https://image.tmdb.org/t/p/original/1wBnEGU0OXtgtDvTtgvYEODwcwi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kFHmrWUp3FUlmW7S68KCwDuowJD.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/O/i/1/M/Oi1Mr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Vix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
