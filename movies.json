@@ -16704,5 +16704,29 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 649,
+    "nombre": "Los huéspedes",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "Una madre deja a sus dos hijos durante una semana en la remota granja de sus abuelos, en Pensilvania. Los niños descubrirán que la anciana pareja está implicada en algo profundamente inquietante. Película de M. Night Shyamalan (‘El sexto sentido’) realizada con muy bajo presupuesto.",
+    "año": 2015,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-11-04T16:14:48.882Z",
+    "tmdb_id": 298312,
+    "portada": "https://image.tmdb.org/t/p/original/bwZ9zpsWHYlwffMJg2E8N9RLL0M.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o51GktmDgLPLYFXn7iZDQxmNHPF.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/M/z/f/X/MzfXr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
