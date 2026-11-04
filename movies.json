@@ -16808,5 +16808,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 653,
+    "nombre": "Ben 10: Invasión Alienígena",
+    "generos": [
+      "Acción",
+      "Película de tv",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Este filme se trata de que la nave de una misteriosa chica alenígena (Elena) se estrella sobre la Tierra, y el equipo, conformado por Ben, su prima Gwen, y su amigo Kevin, tendrá que defender el planeta del padre de la extraña visitante. Ben tendrá que romper sus propios récords, hablando sobre plomeros, para ayudar a Elena y para descubrir una amenaza alienígena para el planeta Tierra. Ahora, el equipo debe confiar en sus instintos para ayudar a salvar el día y detener todo esto. \"Ben 10: Alien Swarm\" es la segunda película live-action de Cartoon Network basada de la serie Ben 10: Alien Force, tras \"Ben 10: Carrera Contra El Tiempo\".",
+    "año": 2009,
+    "duracion": "",
+    "rating": 6.2,
+    "rating_updated": "2026-11-04T16:21:27.028Z",
+    "tmdb_id": 25642,
+    "portada": "https://image.tmdb.org/t/p/original/bFB5Y184X41AgLiuNQRqvTqDEGQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oK190JudMVb0C5773Vab0TKcBbv.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/n/p/h/1/nph1r.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
