@@ -17303,5 +17303,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 671,
+    "nombre": "Hellraiser: Ella",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Una joven que lucha contra la adicción se apodera de una antigua caja de rompecabezas, sin saber que su propósito es convocar a los Cenobitas, un grupo de sádicos seres sobrenaturales de otra dimensión.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 6.2,
+    "rating_updated": "2026-11-04T16:58:28.207Z",
+    "tmdb_id": 338947,
+    "portada": "https://image.tmdb.org/t/p/original/gEFoo66nTFdF8YB79CQurtUyJfj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3r3tZgKTw1554hcFoUfydLHE38w.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/_/J/u/D/_JuDr.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-04"
   }
 ]
