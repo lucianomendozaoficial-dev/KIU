@@ -17807,5 +17807,35 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-05"
+  },
+  {
+    "id": 690,
+    "nombre": "Herbie: A toda marcha",
+    "generos": [
+      "Comedia",
+      "Familia",
+      "Aventura",
+      "Fantasía",
+      "Romance"
+    ],
+    "descripcion": "Maggie Peyton es la nueva propietaria del Número 53 - el desenfrenado Herbie, el Volkswagen que piensa por su cuenta - que decide competir en la categoría NASCAR. Con los nuevos trucos que esconde Herbie bajo el capó intentará entrar en el libro de los récords.",
+    "año": 2005,
+    "duracion": "",
+    "rating": 5.9,
+    "rating_updated": "2026-11-05T18:12:25.586Z",
+    "tmdb_id": 11451,
+    "portada": "https://image.tmdb.org/t/p/original/wvENCYbopbWTINoojnVhw33DeAN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/u6qrMY2PIzXwmydmKNHmVDFbjaV.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/N/p/u/e/Npues.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-05"
   }
 ]
