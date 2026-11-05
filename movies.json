@@ -17570,5 +17570,30 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-05"
+  },
+  {
+    "id": 681,
+    "nombre": "Ruega Por Nosotros",
+    "generos": [
+      "Terror",
+      "Misterio"
+    ],
+    "descripcion": "Alice, una joven con problemas de audición que, tras una supuesta visita de la Virgen María, es inexplicablemente capaz de oír, hablar y curar a los enfermos. A medida que se corre la voz y la gente de cerca y de lejos acude a presenciar sus milagros, un periodista caído en desgracia que espera reavivar su carrera visita el pequeño pueblo de Nueva Inglaterra para investigar. Cuando comienzan a producirse sucesos aterradores a su alrededor, empieza a preguntarse si estos fenómenos son obra de la Virgen María o de algo mucho más siniestro.",
+    "año": 2021,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-11-05T17:56:31.289Z",
+    "tmdb_id": 632357,
+    "portada": "https://image.tmdb.org/t/p/original/llHklmHQEDwTgbwGrPvQ5ouSy2k.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jw6ASGRT2gi8EjCImpGtbiJ9NQ9.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/D/O/2/_/DO2_r.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-05"
   }
 ]
