@@ -17751,5 +17751,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-05"
+  },
+  {
+    "id": 688,
+    "nombre": "Chappie",
+    "generos": [
+      "Crimen",
+      "Acción",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "En un futuro cercano, el crimen es combatido por una fuerza de policías robots. Uno de estos robots, llamado Chappie, es secuestrado por un grupo de delincuentes que le instalan un nuevo programa que lo convertirá en el primer robot capaz de tener pensamientos y sentimientos propios.",
+    "año": 2015,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-11-05T18:08:31.996Z",
+    "tmdb_id": 198184,
+    "portada": "https://image.tmdb.org/t/p/original/g2kVBpRljENCi8KskBi0tedK3UE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qX5T5GVAcq2UKaaiAx5SZp1AtlY.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/A/h/d/QAhds.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-05"
   }
 ]
