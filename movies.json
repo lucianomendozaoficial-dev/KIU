@@ -17438,5 +17438,29 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-04"
+  },
+  {
+    "id": 676,
+    "nombre": "El Ciempiés Humano: Primera secuencia",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "Lindsay y Jenny son dos turistas estadounidenses que viajan por Europa. Durante su escala en Alemania, una tarde deciden ir a una fiesta. Dirigiéndose allí, su automóvil sufre una avería en un camino solitario en medio de un pantano por lo que deciden caminar para pedir ayuda. En ese momento cae una fuerte lluvia y llegan a una casa ubicada en un claro. Ahí las recibe un sujeto misterioso que les invita a pasar para refugiarse. Sin embargo, las droga y al despertar descubren que están atadas a unas camas en un cuarto equipado a manera de laboratorio.",
+    "año": 2009,
+    "duracion": "",
+    "rating": 5.2,
+    "rating_updated": "2026-11-05T17:43:47.934Z",
+    "tmdb_id": 37169,
+    "portada": "https://image.tmdb.org/t/p/original/ucBv96WOHdzl2aIGv6BPtgqS9iN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wubUakLEAAnKeXmuTks5insTKQx.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/n/M/I/7/nMI7r.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-05"
   }
 ]
