@@ -17700,5 +17700,29 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-05"
+  },
+  {
+    "id": 686,
+    "nombre": "Triunfos Robados 3: Todo o nada",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Cuando la popular Britney Allen (Hayden Panettiere) se traslada del elegante Pacific Vista al barrio obrero de Crenshaw Heights, su vida se transforma completamente. Britney se encontrará enemistada con sus nuevos compañeros de clase, espcialmente con la animadora Camilla (Solange Knowles-Smith). Pero cuando consigue un puesto en el equipo de animadoras, deberá enfrentarse a su anterior equipo en una competición para participar en el nuevo vídeo del grupo de moda Rihanna y ¡solo un equipo podrá \"ir a por todas\" y ganar un lugar en la historia!",
+    "año": 2006,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-11-05T18:04:45.636Z",
+    "tmdb_id": 11211,
+    "portada": "https://image.tmdb.org/t/p/original/vKT5fDtEHKtGOF0AgCsPCEyczb9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1C8aqNN4LG8RAOdWtj3HkeI3hhd.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/h/f/3/c/hf3cs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-05"
   }
 ]
