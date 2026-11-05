@@ -17513,5 +17513,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-05"
+  },
+  {
+    "id": 679,
+    "nombre": "Las aventuras de Sharkboy y Lavagirl",
+    "generos": [
+      "Aventura",
+      "Familia",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Todos siempre supieron que Max tenía una imaginación salvaje, pero nadie creía que sus creaciones más salvajes, un niño criado por grandes tiburones blancos vigilantes y una niña con la fuerza de un volcán, fueran reales. Ahora, estos dos maestros de acción del tamaño de una pinta le mostrarán a Max que incluso un niño común tiene lo que se necesita para ser extraordinario.",
+    "año": 2005,
+    "duracion": "",
+    "rating": 5.2,
+    "rating_updated": "2026-11-05T17:50:38.030Z",
+    "tmdb_id": 14199,
+    "portada": "https://image.tmdb.org/t/p/original/h4fPiaxCmMyRCo2VD155GXonXXg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qQNGhBijPIBlFkGwjtQk6sflml9.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/r/g/A/8/rgA8r.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-05"
   }
 ]
