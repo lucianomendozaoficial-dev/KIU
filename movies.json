@@ -17779,5 +17779,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-05"
+  },
+  {
+    "id": 689,
+    "nombre": "Godzilla Minus One",
+    "generos": [
+      "Ciencia Ficción",
+      "Terror",
+      "Acción"
+    ],
+    "descripcion": "En el Japón de la posguerra surge un nuevo terror. ¿Podrán sobrevivir las personas devastadas... y mucho menos defenderse?",
+    "año": 2023,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-11-05T18:10:16.922Z",
+    "tmdb_id": 940721,
+    "portada": "https://image.tmdb.org/t/p/original/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/f/g/a/Qfgas.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-05"
   }
 ]
