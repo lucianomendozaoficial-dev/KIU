@@ -17595,5 +17595,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-05"
+  },
+  {
+    "id": 682,
+    "nombre": "El sobreviviente",
+    "generos": [
+      "Bélica",
+      "Acción",
+      "Drama"
+    ],
+    "descripcion": "Año 2005. A un equipo de élite de las fuerzas especiales SEAL del ejército norteamericano, liderados por Marcus Luttrell junto a otros tres soldados les es encomendada una peligrosa misión, la \"Operación red wing\": capturar o matar a un líder terrorista talibán, Admad Shad, que se esconde en una zona boscosa de Afganistán. La llegada al punto donde localizaron el objetivo se realizó sin problemas, pero pronto la situación se complicó hasta extremos inimaginables.",
+    "año": 2013,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-11-05T17:58:37.107Z",
+    "tmdb_id": 193756,
+    "portada": "https://image.tmdb.org/t/p/original/zgYyGngB9DzCCPeB4mj4MdcImUx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hmEbQB5UlcwobldcSDNlLZiUnmA.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/D/O/2/_/DO2_r.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-05"
   }
 ]
