@@ -17489,5 +17489,29 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-05"
+  },
+  {
+    "id": 678,
+    "nombre": "The River: Legend of La Llorona",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "",
+    "año": 2006,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-11-05T17:48:31.933Z",
+    "tmdb_id": 211678,
+    "portada": "https://image.tmdb.org/t/p/original/wvZUfDAK9hA3PeRL9DS95cHnl1o.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rmiUkA7Ny9mrXxmEvmsWRrdgv5R.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/L/d/A/8/LdA8r.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-05"
   }
 ]
