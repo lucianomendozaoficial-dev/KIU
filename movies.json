@@ -17462,5 +17462,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-05"
+  },
+  {
+    "id": 677,
+    "nombre": "Miss Peregrine y los niños peculiares",
+    "generos": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "descripcion": "Una horrible tragedia familiar lleva a Jacob, de 16 años, a viajar por la costa de Gales, donde descubre las ruinas del hogar para niños especiales de Miss Peregrine. Mientras explora los destartalados cuartos y pasillos, se da cuenta que los niños que vivieron allí (uno de los cuales fue su abuelo) eran excepcionales. Quizá eran peligrosos, quizá había una buena razón para ponerlos en cuarentena en una isla desierta...",
+    "año": 2016,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-11-05T17:46:02.622Z",
+    "tmdb_id": 283366,
+    "portada": "https://image.tmdb.org/t/p/original/xo68ta8ArYuo9IY3chIcuQ5gSx4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ld7V9BjMk2xtiBNcR8savyyk5ca.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/r/k/t/8/rkt8r.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-05"
   }
 ]
