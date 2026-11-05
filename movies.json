@@ -17647,5 +17647,30 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-05"
+  },
+  {
+    "id": 684,
+    "nombre": "El teléfono negro",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "El tímido pero inteligente Finney Blake, de 13 años, es secuestrado por un asesino sádico. En el sótano insonorizado, un teléfono desconectado en la pared empieza a sonar.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 7.5,
+    "rating_updated": "2026-11-05T18:01:47.861Z",
+    "tmdb_id": 756999,
+    "portada": "https://image.tmdb.org/t/p/original/1D2R2wIgbTyXTPzmyJIKSbVN9wG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AfvIjhDu9p64jKcmohS4hsPG95Q.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/T/A/l/b/TAlbs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-05"
   }
 ]
