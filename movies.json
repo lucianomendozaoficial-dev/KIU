@@ -17621,5 +17621,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-05"
+  },
+  {
+    "id": 683,
+    "nombre": "Uncharted: Fuera del mapa",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Misterio"
+    ],
+    "descripcion": "Nathan Drake, un joven astuto de la calle, y su ingenioso compañero Victor \"Sully\" Sullivan se embarcan en una peligrosa búsqueda del \"mayor tesoro jamás encontrado\" mientras también siguen pistas que pueden conducir al hermano perdido de Nathan.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-11-05T18:00:43.038Z",
+    "tmdb_id": 335787,
+    "portada": "https://image.tmdb.org/t/p/original/6hlI9Ea1O4IeJ2cj7OiNinqg8Qd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/q/x/m/a/qxmas.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-05"
   }
 ]
