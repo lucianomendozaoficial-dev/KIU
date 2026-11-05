@@ -17724,5 +17724,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-05"
+  },
+  {
+    "id": 687,
+    "nombre": "El Club de los Incomprendidos",
+    "generos": [
+      "Romance",
+      "Drama",
+      "Fantasía",
+      "Comedia"
+    ],
+    "descripcion": "",
+    "año": 2014,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-11-05T18:06:57.621Z",
+    "tmdb_id": 261102,
+    "portada": "https://image.tmdb.org/t/p/original/8FHk0h9sgPoZ9VowdD8dSWRqoZ8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/k03NKr2mgma98hnM4xAcvaUHWlP.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/w/5/b/d/w5bds.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-05"
   }
 ]
