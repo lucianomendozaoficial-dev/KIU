@@ -17541,5 +17541,34 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-05"
+  },
+  {
+    "id": 680,
+    "nombre": "La Cenicienta 3: Un giro en el tiempo",
+    "generos": [
+      "Animación",
+      "Romance",
+      "Familia",
+      "Fantasía"
+    ],
+    "descripcion": "La madrastra de Cenicienta se apodera de la varita mágica del Hada Madrina para viajar atrás en el tiempo y lograr cambiar el curso de los acontecimientos mediante un maléfico hechizo.",
+    "año": 2007,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-11-05T17:54:10.678Z",
+    "tmdb_id": 16119,
+    "portada": "https://image.tmdb.org/t/p/original/1Nm3SCJVonYliuJgUVmZ49tne5k.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3mmV3DuOpqc0eTUcrlFGoVl1p9T.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/g/e/_/Qge_r.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-05"
   }
 ]
