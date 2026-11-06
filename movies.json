@@ -17837,5 +17837,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-05"
+  },
+  {
+    "id": 691,
+    "nombre": "Una historia de Derry",
+    "generos": [
+      "Drama",
+      "Terror",
+      "Misterio"
+    ],
+    "descripcion": "Siglos antes de la aparición del payaso Pennywise en Derry, tres chicos nativos americanos encuentran un aterrador espíritu ancestral en el bosque.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-11-06T16:19:20.586Z",
+    "tmdb_id": 1813355,
+    "portada": "https://image.tmdb.org/t/p/original/jmhkSZYcSMVw8IWiNROyWaD3Sal.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/90/s8/2/s/X/I/b/sXIbB.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=48481280-48498446",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "max"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-06"
   }
 ]
