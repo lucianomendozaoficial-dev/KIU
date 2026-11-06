@@ -2427,5 +2427,74 @@
       }
     ],
     "fechaAgregado": "2026-11-02"
+  },
+  {
+    "id": 29,
+    "nombre": "No tengo miedo",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "Miguel, de diez años, descubre a un niño secuestrado en un hoyo del bosque. Para salvarlo, deberá enfrentar la crueldad del mundo adulto y sus miedos más profundos.",
+    "año": 2026,
+    "duracion": "N/A",
+    "rating": 8.8,
+    "rating_updated": "2026-11-06T16:47:22.121Z",
+    "tmdb_id": 290232,
+    "portada": "https://image.tmdb.org/t/p/original/ctDqarHjLlrKhKx1j7N4rF746qQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9eHQh4Ji4wWksUSln264LZt3NfL.jpg",
+    "tipo": "serie",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "temporadas": [
+      {
+        "id": "tmw57jua41r4d",
+        "numero": 1,
+        "capitulos": [
+          {
+            "id": "cmw57jz2b2ycp",
+            "fechaAgregado": "2026-11-06",
+            "nombre": "C1",
+            "embed": "https://1a-1791.com/video/fwe2/b2/s8/2/E/S/P/E/ESPEA.aaa.mp4"
+          },
+          {
+            "id": "cmw57kyo33c4v",
+            "fechaAgregado": "2026-11-06",
+            "nombre": "C2",
+            "embed": "https://1a-1791.com/video/fwe2/10/s8/2/a/U/P/E/aUPEA.aaa.mp4"
+          },
+          {
+            "id": "cmw57m1k6437a",
+            "fechaAgregado": "2026-11-06",
+            "nombre": "C3",
+            "embed": "https://1a-1791.com/video/fwe2/18/s8/2/G/V/P/E/GVPEA.aaa.mp4"
+          },
+          {
+            "id": "cmw57mvmq5uoy",
+            "fechaAgregado": "2026-11-06",
+            "nombre": "C4",
+            "embed": "https://1a-1791.com/video/fwe2/1e/s8/2/Q/W/P/E/QWPEA.aaa.mp4"
+          },
+          {
+            "id": "cmw57no2z6fbo",
+            "fechaAgregado": "2026-11-06",
+            "nombre": "C5",
+            "embed": "https://1a-1791.com/video/fww1/47/s8/2/8/Y/P/E/8YPEA.aaa.mp4"
+          },
+          {
+            "id": "cmw57ofgi7kie",
+            "fechaAgregado": "2026-11-06",
+            "nombre": "C6",
+            "embed": "https://1a-1791.com/video/fwe2/61/s8/2/M/0/P/E/M0PEA.aaa.mp4"
+          }
+        ]
+      }
+    ],
+    "fechaAgregado": "2026-11-06"
   }
 ]
