@@ -1439,6 +1439,30 @@
             "embed": "https://hugh.cdn.rumble.cloud/video/fww1/53/s8/2/5/J/T/O/5JTOy.aaa.mp4"
           }
         ]
+      },
+      {
+        "id": "tmw57tra4argm",
+        "numero": 8,
+        "capitulos": [
+          {
+            "id": "cmw57txdwbyn1",
+            "fechaAgregado": "2026-11-06",
+            "nombre": "C1",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fww1/82/s8/2/D/n/W/O/DnWOy.aaa.mp4"
+          },
+          {
+            "id": "cmw57uri7cpsn",
+            "fechaAgregado": "2026-11-06",
+            "nombre": "C2",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fww1/34/s8/2/J/t/W/O/JtWOy.aaa.mp4"
+          },
+          {
+            "id": "cmw57vj0gd4e2",
+            "fechaAgregado": "2026-11-06",
+            "nombre": "C3",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fww1/8c/s8/2/9/y/W/O/9yWOy.aaa.mp4"
+          }
+        ]
       }
     ]
   },
