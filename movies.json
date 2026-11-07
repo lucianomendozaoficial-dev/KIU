@@ -18918,5 +18918,30 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 731,
+    "nombre": "Volando Alto",
+    "generos": [
+      "Drama",
+      "Historia"
+    ],
+    "descripcion": "Taron Egerton y Hugh Jackman co-protagonizan la inspiradora historia real de Eddie el Águila, un británico saltador de esquí poco común que nunca dejó de creer en sí mismo, incluso cuando una nación entera lo estaba descartando. Con la ayuda de un rebelde y carismático entrenador, el más débil y amable gana el corazón de los aficionados de todo el mundo al hacer una demostración inolvidable en los Juegos Olímpicos de Invierno de Calgary.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-11-07T18:17:37.911Z",
+    "tmdb_id": 319888,
+    "portada": "https://image.tmdb.org/t/p/original/ghuGA9wFzam4WMZrnXMiXOQxu4c.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jbcEWHYpnlZ1aiMCLcRyiIhwUwY.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/2/Y/k/y/2Ykys.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
