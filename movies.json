@@ -18786,5 +18786,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 726,
+    "nombre": "El gángster, el policía y el diablo",
+    "generos": [
+      "Acción",
+      "Crimen",
+      "Suspenso"
+    ],
+    "descripcion": "Después de apenas sobrevivir a un ataque violento de un esquivo asesino en serie, el jefe del crimen Jang Dong-su se encuentra formando una asociación poco probable con el detective local Jung Tae-seok para atrapar al sádico asesino simplemente conocido como “K”.",
+    "año": 2019,
+    "duracion": "",
+    "rating": 7.9,
+    "rating_updated": "2026-11-07T18:06:01.340Z",
+    "tmdb_id": 581528,
+    "portada": "https://image.tmdb.org/t/p/original/o9rByfNAkGJuXOSQLQ6UpUfGTOQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jJJQ1PPXUEchqyZ9YyWzgSNU39Z.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/G/k/I/u/GkIus.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
