@@ -17948,5 +17948,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 695,
+    "nombre": "Scooby-Doo 2: Monstruos sueltos",
+    "generos": [
+      "Misterio",
+      "Aventura",
+      "Comedia"
+    ],
+    "descripcion": "La pandilla de Misterio a la Orden debe salvar a Coolsville de un ataque realizado por sus monstruos del pasado, que han sido revividos por un malvado enmascarado que intenta acabar con la pandilla.",
+    "año": 2004,
+    "duracion": "",
+    "rating": 6.1,
+    "rating_updated": "2026-11-07T16:48:31.891Z",
+    "tmdb_id": 11024,
+    "portada": "https://image.tmdb.org/t/p/original/5anMa9cWwDL6JSvmkdbCpUsFIdu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/m8y7OjvCBLmJfG6CIb5gpXFSLec.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/W/d/F/h/WdFhs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
