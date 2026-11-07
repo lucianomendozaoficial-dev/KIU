@@ -18567,5 +18567,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 718,
+    "nombre": "Desencantada",
+    "generos": [
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "descripcion": "Diez años después de su felices para siempre, Giselle cuestiona su felicidad, sin darse cuenta, cambiando la vida de los del mundo real y de los habitantes de Andalasia.",
+    "año": 2022,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-11-07T17:34:51.319Z",
+    "tmdb_id": 338958,
+    "portada": "https://image.tmdb.org/t/p/original/73YTuR5lc6BhvBZaxVLnyLlOMui.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mchDEPh1fkID8nq8IONAGQeiPJg.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Z/o/j/s/Zojss.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
