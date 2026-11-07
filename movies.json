@@ -18222,5 +18222,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 705,
+    "nombre": "Superheroicos",
+    "generos": [
+      "Familia",
+      "Acción",
+      "Fantasía"
+    ],
+    "descripcion": "Cuando unos invasores alienígenas capturan a los superhéroes de la Tierra, sus hijos tienen que aprender a trabajar en equipo para rescatarlos y salvar el planeta.",
+    "año": 2020,
+    "duracion": "",
+    "rating": 5.9,
+    "rating_updated": "2026-11-07T17:04:10.063Z",
+    "tmdb_id": 615677,
+    "portada": "https://image.tmdb.org/t/p/original/5AcJFpvxcqjLNADrCNAUYOsIrQP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/y6FYAhaeFMj9Lsk8OdF2NeWQkbd.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/u/O/_/m/uO_ms.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
