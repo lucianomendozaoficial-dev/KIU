@@ -17976,5 +17976,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 696,
+    "nombre": "X-Men: Días del futuro pasado",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Los X-Men originales unen fuerzas y envían a Wolverine al pasado en un intento desesperado de cambiar la historia y prevenir un evento que desemboca en la perdición tanto para humanos como para mutantes.",
+    "año": 2014,
+    "duracion": "",
+    "rating": 7.5,
+    "rating_updated": "2026-11-07T16:50:10.336Z",
+    "tmdb_id": 127585,
+    "portada": "https://image.tmdb.org/t/p/original/ggb9nmS5alJuA0ll0iU5YHiGbb0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3czpqXzFy5UcNuD1AubecRLWkwD.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/l/g/z/j/lgzjs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
