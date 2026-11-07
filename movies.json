@@ -17922,5 +17922,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 694,
+    "nombre": "Bad Boys para siempre",
+    "generos": [
+      "Suspenso",
+      "Acción",
+      "Crimen"
+    ],
+    "descripcion": "Es la tercera y (supuestamente) última parte de Dos policías rebeldes, con sus dos protagonistas originales, Will Smith y Martin Lawrence. Acción y humor al estilo noventero con una trama random: los agentes, ya maduritos, vuelven a reunirse porque un criminal ha puesto precio a sus cabezas. Ya no dirige Michael Bay, sino los belgas Adil El Arbi y Bilall Fallah.",
+    "año": 2020,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-11-07T16:46:53.073Z",
+    "tmdb_id": 38700,
+    "portada": "https://image.tmdb.org/t/p/original/5XR7Pbo8qdwdpOIsFtWJOEiOJD6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/8/b/M/g/8bMgs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
