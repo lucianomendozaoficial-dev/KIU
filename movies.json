@@ -18062,5 +18062,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 699,
+    "nombre": "Proyecto X",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Tres estudiantes de un instituto deciden organizar una fiesta salvaje en casa de uno de ellos, promocionándola en las redes sociales como la fiesta más loca de la temporada. Además, los chicos deciden grabarla para luego publicarla en la red. Pero, poco a poco, irán surgiendo una serie de complicaciones imprevistas...",
+    "año": 2012,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-11-07T16:54:46.241Z",
+    "tmdb_id": 57214,
+    "portada": "https://image.tmdb.org/t/p/original/owF9NIcQOPFAOjp2pni8BsVlnRq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cUqXHZtnptgvyAE1hN47Wsf3ami.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/t/2/t/l/t2tls.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "max"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
