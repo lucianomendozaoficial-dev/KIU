@@ -18812,5 +18812,30 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 727,
+    "nombre": "Una vida en un año",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "Un joven de 17 años descubre que su novia se está muriendo, por lo que se propone darle una vida entera, en el último año que se fue.",
+    "año": 2020,
+    "duracion": "",
+    "rating": 8.2,
+    "rating_updated": "2026-11-07T18:08:59.927Z",
+    "tmdb_id": 447362,
+    "portada": "https://image.tmdb.org/t/p/original/pe5Fvwn2lrQyPPnmbZCpbNSKazW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/u6aGN71Hx39iX8Uv4ILRRKHmAXc.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/T/4/N/w/T4Nws.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
