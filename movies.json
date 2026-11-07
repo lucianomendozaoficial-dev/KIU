@@ -18088,5 +18088,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 700,
+    "nombre": "Estación Espacial Internacional",
+    "generos": [
+      "Ciencia Ficción",
+      "Suspenso"
+    ],
+    "descripcion": "Cuando se produce un acontecimiento bélico mundial en la Tierra, Estados Unidos y Rusia, ambas naciones contactan en secreto con sus astronautas a bordo de la ISS y les dan instrucciones para que tomen el control de la estación por cualquier medio necesario.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 5.7,
+    "rating_updated": "2026-11-07T16:56:40.719Z",
+    "tmdb_id": 790462,
+    "portada": "https://image.tmdb.org/t/p/original/2ZgXNi458jc7DqdAMhsHpF1sX0I.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uNVm7P02IDiYsi9lul0aJ0lROBL.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/4/K/M/k/4KMks.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
