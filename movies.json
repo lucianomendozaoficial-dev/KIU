@@ -18142,5 +18142,30 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 702,
+    "nombre": "Mi nombre es Khan",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "Rizwan Khan (Tanay Chheda) es un niño musulmán que se crió con su madre (Zarina Wahab) en el Borivali sección de Bombay en la India y que sufre de síndrome de Asperger. Ya como un adulto (Shahrukh Khan), Rizwan se enamora de una hindú madre soltera, Mandira (kajol) que vive en San Francisco. Después de los atentados del 9/11, Rizwan es detenido como sospechoso de terrorismo por la autoridades por la conducta sospechosa que tiene a razon de su discapacidad. Después de su arresto, él se reúne con Radha (Sheetal Menon), un terapeuta que ayuda a superar los traumas vividos. Rizwan entonces comienza un viaje para encontrar y reunirse con el Presidente Barack Obama (Christopher B. Duncan), a fin de limpiar su nombre.",
+    "año": 2010,
+    "duracion": "",
+    "rating": 8,
+    "rating_updated": "2026-11-07T16:59:57.289Z",
+    "tmdb_id": 26022,
+    "portada": "https://image.tmdb.org/t/p/original/jtpPxVJkYKCaxVrnetK2YYH9Fqy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zGCnIADWwpjGllYv8DgT8HIuIQl.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Z/m/2/m/Zm2ms.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
