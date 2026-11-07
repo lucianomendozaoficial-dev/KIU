@@ -18488,5 +18488,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 715,
+    "nombre": "No manches, Frida",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Después de salir de prisión, Zequi, un ladrón de bancos, se dispone a recuperar dinero enterrado por su cómplice; pero se horroriza al saber que un gimnasio de secundaria está ahora sobre el sitio donde el botín está escondido.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 7.7,
+    "rating_updated": "2026-11-07T17:28:23.832Z",
+    "tmdb_id": 375794,
+    "portada": "https://image.tmdb.org/t/p/original/6HfyXfIEywLa2HvcswKi44dDKxL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3z8cveYwdIz2IZRhm6cHu8f2HRT.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/X/o/s/z/Xoszs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
