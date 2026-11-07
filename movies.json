@@ -18167,5 +18167,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 703,
+    "nombre": "Nunca más",
+    "generos": [
+      "Drama",
+      "Suspenso"
+    ],
+    "descripcion": "Una mujer que sufre abusos de su esposo, finalmente decide escapar con su hija para buscar seguridad y libertad. Pero cuando su esposo la persigue, Slim se ve obligada a enfrentarse a él para proteger a su familia.",
+    "año": 2002,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-11-07T17:01:16.212Z",
+    "tmdb_id": 1957,
+    "portada": "https://image.tmdb.org/t/p/original/254Xd4rQLEzktnlYNVqmBfZ2CSg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ozbkcXmqcGqWKMKLE2o1QBIlPeW.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/2/v/-/m/2v-ms.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "max"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
