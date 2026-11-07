@@ -18463,5 +18463,30 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 714,
+    "nombre": "Un desastre de película",
+    "generos": [
+      "Comedia",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Un grupo de veinteañeros intenta sobrevivir durante una fatídica noche a todo tipo de catástrofes y desastres naturales: meteoritos, tornados, terremotos y otras desgracias inimaginables, que golpean la ciudad. A su vez, los jóvenes tratan de resolver una serie de misterios que pueden acabar con la desenfrenada destrucción. De los creadores de Casi 300 y Scary Movie, que en esta ocasión parodia películas de catástrofes, así como otras películas de actualidad.",
+    "año": 2008,
+    "duracion": "",
+    "rating": 3.2,
+    "rating_updated": "2026-11-07T17:26:52.555Z",
+    "tmdb_id": 13805,
+    "portada": "https://image.tmdb.org/t/p/original/sSl7HA2YyW6NDaIScoJ83UJRPrn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5V6jAFS0Q49SI07qjyFRMYlbfR9.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/M/5/a/s/M5ass.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
