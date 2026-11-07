@@ -17865,5 +17865,34 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-06"
+  },
+  {
+    "id": 692,
+    "nombre": "Depredador: Cazador de asesinos",
+    "generos": [
+      "Animación",
+      "Acción",
+      "Ciencia Ficción",
+      "Suspenso"
+    ],
+    "descripcion": "Esta antología animada original sigue a tres de los guerreros más feroces de la historia de la humanidad: una saqueadora vikinga que guía a su joven hijo en una sangrienta misión de venganza, un ninja del Japón feudal que se enfrenta a su hermano samurái en una brutal batalla por la sucesión, y un piloto de la Segunda Guerra Mundial que surca los cielos para investigar una amenaza de otro mundo que pone en riesgo a la causa aliada.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-11-07T16:41:37.110Z",
+    "tmdb_id": 1376434,
+    "portada": "https://image.tmdb.org/t/p/original/dTlMY8qQ0721i1r7kURqvM4T7us.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3AGZKVr2DPT9H53gYtkSEC1tK1E.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fww1/55/s8/2/p/t/V/Q/ptVQy.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
