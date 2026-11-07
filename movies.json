@@ -17894,5 +17894,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 693,
+    "nombre": "Depredador: Tierras salvajes",
+    "generos": [
+      "Acción",
+      "Ciencia Ficción",
+      "Aventura"
+    ],
+    "descripcion": "En el futuro, en un planeta remoto, un joven Depredador, marginado de su clan, encuentra un aliado inesperado en Thia y se embarca en un peligroso viaje en busca del adversario definitivo.",
+    "año": 2025,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-11-07T16:45:15.393Z",
+    "tmdb_id": 1242898,
+    "portada": "https://image.tmdb.org/t/p/original/r7TEWHLr1lsIsTkiEFwtM3hAWma.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+    "embed": "https://rumble.com/hls-vod/78dxq4/playlist.m3u8?u=0&b=0",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
