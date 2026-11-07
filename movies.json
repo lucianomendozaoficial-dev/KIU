@@ -18330,5 +18330,34 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 709,
+    "nombre": "101 dálmatas II: Una aventura en Londres",
+    "generos": [
+      "Familia",
+      "Animación",
+      "Aventura",
+      "Comedia"
+    ],
+    "descripcion": "Ser uno de los 101 le pasa factura a Patch, que no se siente único. Cuando se queda atrás accidentalmente el día de la mudanza, conoce a su ídolo, Relámpago, que lo inscribe en una campaña publicitaria.",
+    "año": 2003,
+    "duracion": "",
+    "rating": 6,
+    "rating_updated": "2026-11-07T17:11:11.600Z",
+    "tmdb_id": 13654,
+    "portada": "https://image.tmdb.org/t/p/original/tBZbbkloDEeA8Fy8KjNBNVAhByv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vhuNTct6wQKcaV0U8aUXLVvjetU.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/f/w/d/p/fwdps.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
