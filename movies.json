@@ -18595,5 +18595,34 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 719,
+    "nombre": "Angry Birds: La Película",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "descripcion": "Una isla poblada enteramente, o casi enteramente, por pájaros felices que no vuelan. En este paraíso, Red, un pájaro con mal genio, el veloz Chuck y el volátil Bomb siempre han sido marginados. Pero cuando la isla recibe la visita de unos misteriosos cerditos verdes, estos insólitos inadaptados deberán descubrir qué traman los cerdos.",
+    "año": 2016,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-11-07T17:36:42.227Z",
+    "tmdb_id": 153518,
+    "portada": "https://image.tmdb.org/t/p/original/cY7nyBe2HHvWHmpafq8hjnrQp4j.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o4mhrLxv6I70kvYA42qANGUF7ya.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/4/m/5/s/4m5ss.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
