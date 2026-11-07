@@ -18865,5 +18865,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 729,
+    "nombre": "Océanos de fuego",
+    "generos": [
+      "Western",
+      "Aventura"
+    ],
+    "descripcion": "Ambientada en 1890, esta es la historia de un mensajero de Pony Express que viaja a Arabia para competir con su caballo, Hidalgo, en una peligrosa carrera por un gran premio del concurso, en una aventura que envía a la pareja por el mundo ...",
+    "año": 2004,
+    "duracion": "",
+    "rating": 6.9,
+    "rating_updated": "2026-11-07T18:12:25.861Z",
+    "tmdb_id": 2023,
+    "portada": "https://image.tmdb.org/t/p/original/nqiZRoGuRWlL3ZvxUNEwrgZzhh7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sAiTihJ8bjEqg8nYUIlTQUnVXuj.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/8/B/1/x/8B1xs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
