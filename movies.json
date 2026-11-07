@@ -18514,5 +18514,29 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 716,
+    "nombre": "No manches, Frida 2: paraíso destruido",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Zequi y Lucy están a punto de casarse. A pesar de que él promete no excederse durante la despedida de soltero, las cosas se salen de control.",
+    "año": 2019,
+    "duracion": "",
+    "rating": 7.9,
+    "rating_updated": "2026-11-07T17:30:19.180Z",
+    "tmdb_id": 554596,
+    "portada": "https://image.tmdb.org/t/p/original/rG7rDoTe1ZEa936eonDCkV76nkx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1TPzecXAb5uCqmscA6WaQqKMmvV.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/w/0/L/B/w0LBs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
