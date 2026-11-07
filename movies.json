@@ -18304,5 +18304,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 708,
+    "nombre": "Seguridad",
+    "generos": [
+      "Acción",
+      "Suspenso",
+      "Crimen"
+    ],
+    "descripcion": "Un exsoldado que trabaja como guardia de seguridad debe proteger a una niña de 11 años que corre un grave peligro. La muchacha ha sido testigo de un asesinato y por eso se ha convertido en el blanco de unos peligrosos delincuentes.",
+    "año": 2017,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-11-07T17:09:28.688Z",
+    "tmdb_id": 460846,
+    "portada": "https://image.tmdb.org/t/p/original/tXvvwqenhg8g0TfedoxMEd6W7cP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/41pWNOj2rqKSfsKayS4kAbzpsRt.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/R/N/6/o/RN6os.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
