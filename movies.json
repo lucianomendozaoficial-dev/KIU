@@ -18412,5 +18412,29 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 712,
+    "nombre": "Los Tres Chiflados",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Abandonados en la entrada de un convento, Larry, Curly y Moe crecieron a niveles desconocidos de desdichada estupidez. Empeñados ahora en salvar el hogar de su infancia, sólo Los Tres Chiflados podían verse mezclados en una descabellada trama criminal...",
+    "año": 2012,
+    "duracion": "",
+    "rating": 5.8,
+    "rating_updated": "2026-11-07T17:15:45.691Z",
+    "tmdb_id": 76489,
+    "portada": "https://image.tmdb.org/t/p/original/2rP8vjVp5nx4c9TxVW14jWlffW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pCPXnddyDtsHAZVzVumuRpDN1vO.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/X/4/Z/q/X4Zqs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
