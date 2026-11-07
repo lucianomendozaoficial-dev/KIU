@@ -18436,5 +18436,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 713,
+    "nombre": "Alicia en el país de las pesadillas",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Una adolescente conflictuada se va a vivir con su abuela a una casa aislada en el bosque, sin saber que fuerzas siniestras la acechan.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 5.7,
+    "rating_updated": "2026-11-07T17:21:21.170Z",
+    "tmdb_id": 1174618,
+    "portada": "https://image.tmdb.org/t/p/original/igZqHk5j5edOaOjZlBFa2ohTr3F.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xKJTWGvheOMMlTHgrjN18KaD9Ra.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/x/5/X/r/x5Xrs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
