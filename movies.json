@@ -18032,5 +18032,35 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 698,
+    "nombre": "Aladdin",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Aventura",
+      "Fantasía",
+      "Romance"
+    ],
+    "descripcion": "Un niño de la calle de buen corazón y un Gran Visir hambriento de poder compiten por una lámpara mágica que tiene el poder de hacer realidad sus deseos más profundos.",
+    "año": 1992,
+    "duracion": "",
+    "rating": 7.7,
+    "rating_updated": "2026-11-07T16:53:10.412Z",
+    "tmdb_id": 812,
+    "portada": "https://image.tmdb.org/t/p/original/qiEpw4qjwYw82Qzme56UZwWJOAG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/q/R/s/k/qRsks.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
