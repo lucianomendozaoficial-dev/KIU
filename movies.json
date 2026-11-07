@@ -18115,5 +18115,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 701,
+    "nombre": "Kabhi Khushi Kabhie Gham",
+    "generos": [
+      "Comedia",
+      "Drama"
+    ],
+    "descripcion": "Rohan, estudiante universitario, regresa a casa de sus padres en las afueras de Nueva Delhi para celebrar el Diwali con su familia. Una vez allí, descubre la verdad sobre lo sucedido con su hermano Rahull: diez años antes, su padre y su hermano se distanciaron después de que éste se casara, en contra de la tradición y el deseo de su familia, con una joven llamada Anjali y se mudaran a Londres. Es entonces cuando Rohan decide viajar a Londres para traer a su hermano a casa… pero primero debe encontrarlo y convencerlo",
+    "año": 2001,
+    "duracion": "",
+    "rating": 7.7,
+    "rating_updated": "2026-11-07T16:58:27.646Z",
+    "tmdb_id": 10757,
+    "portada": "https://image.tmdb.org/t/p/original/12BvYKueY0eruZuTYIextEZaCC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sPMBiyjTco4JdKojlfGIz5Wd0jC.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/s/n/V/m/snVms.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
