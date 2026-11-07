@@ -18652,5 +18652,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 721,
+    "nombre": "La herencia del tío",
+    "generos": [
+      "Comedia",
+      "Misterio"
+    ],
+    "descripcion": "Cuando su tío rico fallece, su mansión llena de complejos enigmas se convierte en el escenario de la lucha de su distanciada familia por hacerse con una parte de la fortuna.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 5.2,
+    "rating_updated": "2026-11-07T17:40:24.016Z",
+    "tmdb_id": 1279433,
+    "portada": "https://image.tmdb.org/t/p/original/hblBwcjAAgPIVN4db8dWcGcSuOf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dYGJ9cI3pUjCUITfxxsO5kEGKTF.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Z/P/w/t/ZPwts.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
