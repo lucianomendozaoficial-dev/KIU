@@ -18679,5 +18679,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 722,
+    "nombre": "Sangre, Sudor y Gloria",
+    "generos": [
+      "Comedia",
+      "Crimen",
+      "Acción"
+    ],
+    "descripcion": "Cuenta la historia de unos culturistas de Florida que planean el secuestro, robo y asesinato de un adinerado empresario. Sin embargo, la víctima no fallece y se recupera en secreto. De hecho, contrata a un detective privado para que localice a sus captores con el propósito de vengarse de ellos.",
+    "año": 2013,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-11-07T17:42:19.336Z",
+    "tmdb_id": 134374,
+    "portada": "https://image.tmdb.org/t/p/original/5VGC75DlriOUdNEoKP4Yp1cHQnb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/73Ridh5DhGBmKAiwq8gy3IbtthT.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/w/b/y/t/wbyts.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
