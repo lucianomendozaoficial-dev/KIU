@@ -18705,5 +18705,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 723,
+    "nombre": "Exorcismo",
+    "generos": [
+      "Terror",
+      "Suspenso"
+    ],
+    "descripcion": "Un actor con problemas comienza a desmoronarse mientras filma una película de terror. Su hija, con la que no tiene mucha relación, se pregunta si está volviendo a caer en sus adicciones del pasado o si en esta oportunidad hay algo más siniestro en juego.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 5,
+    "rating_updated": "2026-11-07T17:43:57.833Z",
+    "tmdb_id": 646683,
+    "portada": "https://image.tmdb.org/t/p/original/1Xp2vxva5Ov6XKJpV1ucq3qOQ0u.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/93dDAqtrFQk5zeofDtQGExPlYjC.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/-/T/B/t/-TBts.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
