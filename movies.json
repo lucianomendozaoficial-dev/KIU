@@ -18538,5 +18538,34 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 717,
+    "nombre": "Los increíbles 2",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Animación",
+      "Familia"
+    ],
+    "descripcion": "La familia de Los Increíbles emprende una nueva misión que implica un cambio en los roles familiares: Bob Parr (Mr. Increíble) debe administrar la casa mientras su esposa Helen (Elastigirl) sale a salvar el mundo.",
+    "año": 2018,
+    "duracion": "",
+    "rating": 7.5,
+    "rating_updated": "2026-11-07T17:32:55.291Z",
+    "tmdb_id": 260513,
+    "portada": "https://image.tmdb.org/t/p/original/bJjc0217DuipdwJ0wyi3I4j6soR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/J/P/P/w/JPPws.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
