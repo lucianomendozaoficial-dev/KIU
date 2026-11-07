@@ -18892,5 +18892,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 730,
+    "nombre": "Detonantes",
+    "generos": [
+      "Acción"
+    ],
+    "descripcion": "Parker, comandante de las Fuerzas Especiales, está en servicio activo en el extranjero cuando la llaman para que regrese a su ciudad natal con la trágica noticia de que su padre ha muerto repentinamente. Convertida en la dueña del bar familiar, Parker se reencuentra con su antiguo novio, el ahora sheriff Jesse, el temperamental hermano de este, Elvis, y el poderoso padre de ambos, el senador Swann, mientras intenta comprender qué le ocurrió realmente a su padre.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 5.6,
+    "rating_updated": "2026-11-07T18:13:41.693Z",
+    "tmdb_id": 704673,
+    "portada": "https://image.tmdb.org/t/p/original/mOXgCNK2PKf7xlpsZzybMscFsqm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cmgjr2saprHvYw6Ee7MUIqGVQHn.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/8/k/H/x/8kHxs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
