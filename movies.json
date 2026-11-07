@@ -18194,5 +18194,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 704,
+    "nombre": "Contracara",
+    "generos": [
+      "Acción",
+      "Crimen",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Para frustrar un complot terrorista, un agente del FBI se somete a una cirugía de transplante facial y asume la identidad de un cerebro criminal, que asesinó a su único hijo. El plan se torna agrio cuando el criminal se despierta prematuramente y busca venganza.",
+    "año": 1997,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-11-07T17:02:31.803Z",
+    "tmdb_id": 754,
+    "portada": "https://image.tmdb.org/t/p/original/xi3nSWC1YMBCQzu8ySJZAXMxtIW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tsSWHgaFlzzkp3o976juBZbmcs2.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/O/U/6/m/OU6ms.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
