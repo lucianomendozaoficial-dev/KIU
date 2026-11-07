@@ -18624,5 +18624,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 720,
+    "nombre": "Z-O-M-B-I-E-S 2",
+    "generos": [
+      "Fantasía",
+      "Romance",
+      "Película de tv"
+    ],
+    "descripcion": "Cuenta las aventuras de Addison y Zed, dos estudiantes del instituto Seabrook High, cuyo romance se ve amenazado por la aparición de un grupo de hombres-lobo.",
+    "año": 2020,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-11-07T17:38:42.983Z",
+    "tmdb_id": 599521,
+    "portada": "https://image.tmdb.org/t/p/original/cOnxoQ3kx4mgmWb7yRi6GBWssOh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aJK3XZGn7TaCnb1wbHBgCfXOxnc.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/I/z/i/t/Izits.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
