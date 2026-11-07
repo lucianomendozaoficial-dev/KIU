@@ -18759,5 +18759,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 725,
+    "nombre": "Cuando te encuentre",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "El Sargento Marítimo estadounidense Logan Thibault vuelve de su tercer período de servicio en Iraq, con una cosa atribuye el cuidado de él a la fotografía viva-a que encontró de una mujer que no conoce hasta. El aprendizaje de su nombre es Beth y donde vive, se revela en su puerta y termina por tomar un trabajo en su perrera local dirigida por la familia. A pesar de su desconfianza inicial y las complicaciones en su vida, un romance se desarrolla entre ellos, dar a Logan espera que Beth pudiera ser mucho más que su encanto de la buena suerte.",
+    "año": 2012,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-11-07T18:03:28.848Z",
+    "tmdb_id": 77877,
+    "portada": "https://image.tmdb.org/t/p/original/fRvAAnok5idXu42DNVAuXaNxx6x.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zGZpy2u5yRczyRMOlNTEm8vJMCi.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/O/j/w/u/Ojwus.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
