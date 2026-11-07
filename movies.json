@@ -18943,5 +18943,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 732,
+    "nombre": "Mi mascota es un monstruo",
+    "generos": [
+      "Familia",
+      "Aventura",
+      "Fantasía"
+    ],
+    "descripcion": "El protagonista es Angus MacMorrow (Alex Etel), un solitario muchacho escocés que vive con el deseo de que su padre regrese de la guerra. Un día, Angus lleva a casa un extraño objeto que encuentra en la playa, se da cuenta muy pronto de que se trata de un huevo mágico y su fantasía se desborda: se imagina criando a un ser fabuloso: el \"monstruo del lago Ness\", uno de los mitos escoceses más populares. Intenta mantenerlo oculto y establecer con él un estrecho vínculo de amistad.",
+    "año": 2007,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-11-07T18:19:29.429Z",
+    "tmdb_id": 54318,
+    "portada": "https://image.tmdb.org/t/p/original/jIQScY2dytYRYQDWJ6mt3PTH3oT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pz38t7dTtW6iNTGtiyL53M7cCw0.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/E/a/8/y/Ea8ys.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
