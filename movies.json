@@ -18004,5 +18004,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 697,
+    "nombre": "Kick-Ass 2",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Crimen"
+    ],
+    "descripcion": "Después de la heroica acción de Kick-Ass, otros ciudadanos se inspiran para convertirse en cruzados enmascarados. Pero Niebla Roja dirige su propio grupo de supervillanos malvados para vengarse, matar a Kick-Ass y destruir todo lo que representa.",
+    "año": 2013,
+    "duracion": "",
+    "rating": 6.4,
+    "rating_updated": "2026-11-07T16:51:45.177Z",
+    "tmdb_id": 59859,
+    "portada": "https://image.tmdb.org/t/p/original/wjFX0jaUl7tfgN0CDAbdgqqRwOT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dHBYguQvCDa00GMoidNYa7IOD8y.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/W/B/H/j/WBHjs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-07"
   }
 ]
