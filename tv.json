@@ -24,5 +24,14 @@
     "embed": "https://www.youtube.com/embed/ArKbAx1K-2U",
     "tipo": "tv",
     "plan": "premium"
+  },
+  {
+    "id": 5,
+    "nombre": "Tom y jerry",
+    "genero": "Entretenimiento",
+    "logo": "https://tse4.mm.bing.net/th/id/OIP.P7Pvej45oRzhmFBLc6DIgQAAAA?r=0&w=260&h=198&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "embed": "https://www.youtube.com/embed/rEKifG2XUZg",
+    "tipo": "tv",
+    "plan": "premium"
   }
 ]
