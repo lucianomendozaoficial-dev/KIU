@@ -264,11 +264,11 @@
     "contacto": "",
     "nombreCompleto": "Lautaro Mendoza",
     "fechaExpiracion": "2026-10-24 21:01",
-    "fechaAlta": "",
-    "plan": "basico",
+    "plan": "premium",
     "debePagar": "1 Semana",
     "descripcion": "",
     "renueva": false,
+    "fechaAlta": "",
     "permisos": {
       "peliculas": true,
       "series": true,
