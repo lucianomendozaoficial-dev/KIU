@@ -102,49 +102,6 @@
     ]
   },
   {
-    "id": 6,
-    "nombre": "More@kiu.com",
-    "password": "2026",
-    "dni": "",
-    "contacto": "",
-    "nombreCompleto": "Morena Mendoza",
-    "fechaExpiracion": "",
-    "fechaAlta": "",
-    "plan": "premium",
-    "debePagar": "Gratis",
-    "descripcion": "",
-    "renueva": false,
-    "permisos": {
-      "peliculas": true,
-      "series": true,
-      "tv": true,
-      "milista": true,
-      "buscar": true,
-      "perfiles": true,
-      "compartir": true,
-      "soporte": true,
-      "descargas": true
-    },
-    "slots": [
-      {
-        "n": 1,
-        "estado": "vacio"
-      },
-      {
-        "n": 2,
-        "estado": "vacio"
-      },
-      {
-        "n": 3,
-        "estado": "vacio"
-      },
-      {
-        "n": 4,
-        "estado": "vacio"
-      }
-    ]
-  },
-  {
     "id": 10,
     "nombre": "Ivan@kiu.com",
     "password": "2026",
