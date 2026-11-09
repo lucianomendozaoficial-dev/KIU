@@ -14,5 +14,14 @@
     "plan": "estandar",
     "logo": "https://cdn.m3u.cl/logo/1558_Neo_Net_Music.png",
     "embed": "https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 3,
+    "nombre": "El chavo del 8",
+    "genero": "Entretenimiento",
+    "logo": "https://resizing.flixster.com/gGjjG7K9kpWkIG9Juj5EnmaSMAw=/300x300/v2/https://flxt.tmsimg.com/assets/p373778_b_v8_af.jpg",
+    "embed": "https://www.youtube.com/embed/fy_fYd3ZwPE",
+    "tipo": "tv",
+    "plan": "premium"
   }
 ]
