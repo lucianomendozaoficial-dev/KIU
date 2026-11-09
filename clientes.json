@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": 1,
+    "nombre": "Cliente Prueba",
+    "empresa": "cineprueba.com",
+    "contacto": "",
+    "email": "cliente@prueba.com",
+    "fechaExpiracion": "",
+    "token": "kiu_61fbc451c827409e00ec5cc89ceee5c812cf",
+    "activo": true,
+    "notas": "",
+    "creado": "2026-11-09T20:36:03.647Z"
+  }
+]
