@@ -5968,32 +5968,6 @@
     "plan": "basico"
   },
   {
-    "id": 239,
-    "nombre": "Normal",
-    "generos": [
-      "Acción",
-      "Crimen",
-      "Suspenso"
-    ],
-    "descripcion": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
-    "año": 2026,
-    "duracion": "",
-    "rating": 7.3,
-    "rating_updated": "2026-10-25T19:07:07.499Z",
-    "tmdb_id": 1242332,
-    "portada": "https://image.tmdb.org/t/p/original/rHjnkuwEdfh31X0E0MofBfMUgi1.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
-    "embed": "https://fastream.to/embed-viad4in667er.html",
-    "tipo": "pelicula",
-    "idioma": "Español (Latino)",
-    "edad": "+16",
-    "camara": false,
-    "especiales": [
-      "Prime Video"
-    ],
-    "plan": "basico"
-  },
-  {
     "id": 240,
     "nombre": "Un hombre por semana",
     "generos": [
