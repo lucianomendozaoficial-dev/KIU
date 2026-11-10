@@ -18976,5 +18976,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-10"
+  },
+  {
+    "id": 735,
+    "nombre": "Una aventura extraordinaria",
+    "generos": [
+      "Aventura",
+      "Drama"
+    ],
+    "descripcion": "Pi Patel es un muchacho cuyo padre es el dueño del zoológico de la ciudad de la India en la que viven. Su familia decide marcharse a Canadá, pero una tormenta hace naufragar el barco en el que viajan. Pi consigue salvarse gracias a una barcaza en la que también hay otro “pasajero”, un tigre de Bengala al que el joven intentará domar para poder sobrevivir.",
+    "año": 2012,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-11-10T16:24:14.480Z",
+    "tmdb_id": 87827,
+    "portada": "https://image.tmdb.org/t/p/original/y7Uix8uMV6W4xEUyUyCGzACtTtb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/21YsCNMub5455NQCn3jh9SmRFyG.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/_/M/c/G/_McGs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [
+      "max"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-10"
   }
 ]
