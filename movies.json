@@ -19003,5 +19003,34 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-10"
+  },
+  {
+    "id": 736,
+    "nombre": "La Familia del Barrio: La Película",
+    "generos": [
+      "Comedia",
+      "Animación",
+      "Historia",
+      "Ciencia Ficción"
+    ],
+    "descripcion": "Todo marcha bien hasa que 'El Noruego', compra una máquina del tiempo y accidentalmente, cambia el rumbo de la historia de México. Ahora depende de toda familia el viajar al pasado y reparar el daño antes de que sea demasiado tarde.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 8.2,
+    "rating_updated": "2026-11-10T16:29:09.872Z",
+    "tmdb_id": 1308623,
+    "portada": "https://image.tmdb.org/t/p/original/9mOEVJCKUWMxTABooY1U0FSwfi6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mn7bGRuEP9yAiq5IjkwqqyQsRhR.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/z/_/i/G/z_iGs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "",
+    "calidad": "calidad",
+    "especiales": [
+      "Vix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-10"
   }
 ]
