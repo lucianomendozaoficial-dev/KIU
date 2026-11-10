@@ -19032,5 +19032,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-10"
+  },
+  {
+    "id": 737,
+    "nombre": "Un actor malo",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "Los actores Sandra Navarro y Daniel Zavala están listos para coprotagonizar una película de un prestigioso cineasta. Charlas casuales con el equipo, conversaciones amistosas, y las carreras de ambos están por fin floreciendo: puede que estén en sintonía para una difícil escena que se avecina. Entonces, algo terrible sucede.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-11-10T16:30:39.325Z",
+    "tmdb_id": 1111869,
+    "portada": "https://image.tmdb.org/t/p/original/sBASNWe649hZ1GEYsVRRjnZ110U.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hBPiwjiNCyI08gftr2IxOX3LYPg.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/D/_/t/G/D_tGs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-10"
   }
 ]
