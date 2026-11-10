@@ -19085,5 +19085,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-10"
+  },
+  {
+    "id": 739,
+    "nombre": "Problemista",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Alejandro, un aspirante a diseñador de juguetes, lucha por dar vida a sus insólitas ideas en Nueva York. A medida que se le acaba el tiempo de su visado de trabajo, su única esperanza es ayudar a un personaje particular y extraño del mundo del arte.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6.7,
+    "rating_updated": "2026-11-10T16:33:28.399Z",
+    "tmdb_id": 852247,
+    "portada": "https://image.tmdb.org/t/p/original/26tSnsW9pbT28fMKm9ShRP3EPHT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9qnMdti0Iw5mk1i0EfE19jaEw0s.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/d/z/o/K/dzoKs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-10"
   }
 ]
