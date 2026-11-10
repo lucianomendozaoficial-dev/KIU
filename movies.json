@@ -19111,5 +19111,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-10"
+  },
+  {
+    "id": 740,
+    "nombre": "Jack en la caja maldita 3: El Ascenso",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "Cuando una adolescente estadounidense accede a un internado femenino del Reino Unido, sus compañeras no tardan en darse cuenta de que ha ido a buscar una misteriosa caja de juguetes escondida en el patio del colegio. Tras encontrarla y abrirla, seis alumnos se lanzan a una lucha por la supervivencia contra un demonio que escapa de su interior. ¿Lograrán salir con vida de la escuela, o el demonio cobrará las víctimas que necesita para seguir vivo?",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-11-10T16:35:07.451Z",
+    "tmdb_id": 1207898,
+    "portada": "https://image.tmdb.org/t/p/original/uHfddXNm1pOZDn4D8ttsZi1jcgT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tIiu9FFN6bk5yDKog6R4l4FmOMY.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/5/x/b/L/5xbLs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-10"
   }
 ]
