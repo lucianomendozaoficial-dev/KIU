@@ -19058,5 +19058,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-10"
+  },
+  {
+    "id": 738,
+    "nombre": "Amar te duele",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "La vida de Ulises da un giro inopinado cuando conoce a Renata, una muchacha asimismo de clase alta. Renata compra ropa con su amiga y cómplice «La Güera» y su hermana alcohólica más joven, Mariana; cuando de súbito cruza miradas seductoras con Ulises por medio de un escaparate.",
+    "año": 2002,
+    "duracion": "",
+    "rating": 8.2,
+    "rating_updated": "2026-11-10T16:32:05.414Z",
+    "tmdb_id": 51822,
+    "portada": "https://image.tmdb.org/t/p/original/kbtgdKUEnX76MOJ7w30js5vSNLT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wsQHVF9qaBiFVkAPwQsQN30wDya.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/L/0/E/I/L0EIs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-10"
   }
 ]
