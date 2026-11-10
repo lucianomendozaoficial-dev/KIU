@@ -18948,5 +18948,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-10"
+  },
+  {
+    "id": 734,
+    "nombre": "El señor de la guerra",
+    "generos": [
+      "Crimen",
+      "Drama",
+      "Suspenso"
+    ],
+    "descripcion": "Yuri Orlov, un traficante de armas ruso, recorre los países en guerra intentando eludir no sólo la persecución de un implacable agente de la Interpol, sino también la de sus rivales en el negocio e incluso la de alguno de sus clientes, todos ellos importantes dictadores.",
+    "año": 2005,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-11-10T16:22:19.872Z",
+    "tmdb_id": 1830,
+    "portada": "https://image.tmdb.org/t/p/original/tzmXFYq9OhUNYATAtbCuNr1Nin9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kBSDfMjItDS1XwzKX7gNuqvrtV3.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/w/Q/4/E/wQ4Es.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-10"
   }
 ]
