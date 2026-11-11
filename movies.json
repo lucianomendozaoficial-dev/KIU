@@ -3,7 +3,9 @@
     "id": 999,
     "nombre": "Película de prueba",
     "duracion": "1h 45min",
-    "embed": ""
+    "embed": "",
+    "plan": "basico",
+    "especiales": []
   },
   {
     "id": 1,
