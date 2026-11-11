@@ -36,13 +36,13 @@
   },
   {
     "id": 6,
-    "nombre": "Canal Cine de Prueba",
+    "nombre": "Cine 24/7",
     "genero": "Cine",
-    "logo": "",
+    "logo": "https://th.bing.com/th/id/OIP.TbhNtb8I7SXIB5dgjjsNXQHaHB?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
     "embed": "",
     "tipo": "especial",
     "plan": "premium",
-    "horaInicio": "13:00",
+    "horaInicio": "04:00",
     "horaFin": "23:59",
     "programacion": [
       {
@@ -55,6 +55,38 @@
           {
             "peliculaId": 30,
             "duracion": 90
+          },
+          {
+            "peliculaId": 10,
+            "duracion": 126
+          },
+          {
+            "peliculaId": 40,
+            "duracion": 112
+          },
+          {
+            "peliculaId": 110,
+            "duracion": 92
+          },
+          {
+            "peliculaId": 142,
+            "duracion": 110
+          },
+          {
+            "peliculaId": 155,
+            "duracion": 117
+          },
+          {
+            "peliculaId": 139,
+            "duracion": 97
+          },
+          {
+            "peliculaId": 147,
+            "duracion": 90
+          },
+          {
+            "peliculaId": 188,
+            "duracion": 102
           }
         ]
       }
