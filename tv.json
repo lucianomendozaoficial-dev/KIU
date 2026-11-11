@@ -33,5 +33,27 @@
     "embed": "https://www.youtube.com/embed/rEKifG2XUZg",
     "tipo": "tv",
     "plan": "premium"
+  },
+  {
+    "id": 6,
+    "nombre": "Canal Cine de Prueba",
+    "genero": "Cine",
+    "logo": "",
+    "embed": "",
+    "tipo": "especial",
+    "plan": "premium",
+    "horaInicio": "18:00",
+    "horaFin": "23:59",
+    "programacion": [
+      {
+        "fecha": "2026-11-11",
+        "items": [
+          {
+            "peliculaId": 1,
+            "duracion": 95
+          }
+        ]
+      }
+    ]
   }
 ]
