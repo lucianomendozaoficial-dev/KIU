@@ -19029,5 +19029,29 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-11"
+  },
+  {
+    "id": 737,
+    "nombre": "La monja mala 3",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "La monja ha regresado y ha puesto su mirada en una chica sola en las montañas.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6.1,
+    "rating_updated": "2026-11-11T17:48:34.660Z",
+    "tmdb_id": 1136347,
+    "portada": "https://image.tmdb.org/t/p/original/g95fhs7w9LjLefMCLsMDFMoZ44x.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/r5JPFrwZyFwPQyLu4oXhm5h5tg1.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/7/E/b/L/7EbLs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-11"
   }
 ]
