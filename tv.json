@@ -42,7 +42,7 @@
     "embed": "",
     "tipo": "especial",
     "plan": "premium",
-    "horaInicio": "18:00",
+    "horaInicio": "13:00",
     "horaFin": "23:59",
     "programacion": [
       {
@@ -51,6 +51,10 @@
           {
             "peliculaId": 1,
             "duracion": 95
+          },
+          {
+            "peliculaId": 30,
+            "duracion": 90
           }
         ]
       }
