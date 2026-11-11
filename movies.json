@@ -18974,5 +18974,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-11"
+  },
+  {
+    "id": 735,
+    "nombre": "Es por su bien",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Tres mamás hacen hasta lo imposible para que sus hijos terminen con sus novias ya que creen que son las parejas incorrectas para sus pequeños, encontrando que ser mamá a veces es dejar que tus hijos crezcan y tomen sus propias decisiones.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-11-11T17:44:35.921Z",
+    "tmdb_id": 1192846,
+    "portada": "https://image.tmdb.org/t/p/original/f7udxOX5DiAHFtq4pid99M65leg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rkpAE4uIp2ch2QGvwfSxnxLTrAV.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/h/G/c/L/hGcLs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Vix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-11"
   }
 ]
