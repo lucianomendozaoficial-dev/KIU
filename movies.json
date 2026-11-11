@@ -1,5 +1,11 @@
 [
   {
+    "id": 999,
+    "nombre": "Película de prueba",
+    "duracion": "1h 45min",
+    "embed": ""
+  },
+  {
     "id": 1,
     "nombre": "Una película de Minecraft",
     "generos": [
