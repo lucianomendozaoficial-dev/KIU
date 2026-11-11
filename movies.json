@@ -6491,15 +6491,17 @@
     "tmdb_id": 567811,
     "portada": "https://image.tmdb.org/t/p/original/4clvunwVxvwjem4y1BjuqImlPB.jpg",
     "banner": "https://image.tmdb.org/t/p/original/xEPQxkqAVIXrZKQIQCKqyRHzc1t.jpg",
-    "embed": "https://reypelis.net/?trembed=0&trid=39291&trtype=1",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/l/O/g/K/lOgKs.caa.mp4",
     "tipo": "pelicula",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+7",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Prime Video"
     ],
-    "plan": "basico"
+    "plan": "premium",
+    "etiquetas": [],
+    "camara": false
   },
   {
     "id": 261,
