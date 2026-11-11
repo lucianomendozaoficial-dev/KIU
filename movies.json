@@ -19000,5 +19000,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-11"
+  },
+  {
+    "id": 736,
+    "nombre": "Un asunto familiar",
+    "generos": [
+      "Romance",
+      "Comedia"
+    ],
+    "descripcion": "¿Puede haber algo peor que trabajar como asistente de un actor famoso y caprichoso que no te toma en serio? Descubrir que está enamorado de tu mamá...",
+    "año": 2024,
+    "duracion": "",
+    "rating": 5.8,
+    "rating_updated": "2026-11-11T17:45:50.403Z",
+    "tmdb_id": 987686,
+    "portada": "https://image.tmdb.org/t/p/original/dwih5qHfNGMs1so7gY69HxRBsvF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ngLxW9WqQAkTCBTcjOSt2Pnz5qZ.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/P/e/p/K/PepKs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-11"
   }
 ]
