@@ -18920,5 +18920,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-07"
+  },
+  {
+    "id": 733,
+    "nombre": "Fancy Dance: Una danza ceremonial",
+    "generos": [
+      "Drama"
+    ],
+    "descripcion": "Después de la desaparición de su hermana, Jax y su sobrina Roki deben permanecer juntas. Desesperadas por mantener intacta lo que queda de su familia, Jax y Roki desafían a la ley e inician un viaje hacia el Grand Nation Powwow en la ciudad de Oklahoma.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6.5,
+    "rating_updated": "2026-11-11T17:38:51.696Z",
+    "tmdb_id": 1058617,
+    "portada": "https://image.tmdb.org/t/p/original/oMruDjFOYzjbFPNRjVT8uxEtb6T.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2oTqxCe7EGMqMpJx5we2xcBT6Lx.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/a/C/q/L/aCqLs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-11"
   }
 ]
