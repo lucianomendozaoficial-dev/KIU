@@ -18946,5 +18946,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-11"
+  },
+  {
+    "id": 734,
+    "nombre": "Firma Aquí",
+    "generos": [
+      "Ciencia Ficción",
+      "Comedia",
+      "Romance"
+    ],
+    "descripcion": "En este mundo ya se dieron cuenta que el amor para siempre es imposible. Por eso existe una empresa que consigue al amor perfecto cada cuatro años. Después de pasar unos días en pausa, Fran conoce a Roque, quien de inmediato empieza a ganarse su corazón a pesar de no entenderse al principio. Pero conforme el tiempo avanza, se aprenden a conocer y Fran experimenta una sensación que nunca antes había sentido.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 7.5,
+    "rating_updated": "2026-11-11T17:41:56.542Z",
+    "tmdb_id": 675009,
+    "portada": "https://image.tmdb.org/t/p/original/mw8Lqk6czURT3HNp3yXtIC7Bdfq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dEVrGUhTnvk5FMH4SAucEzTSblj.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/0/w/w/K/0wwKs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-11"
   }
 ]
