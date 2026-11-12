@@ -2625,6 +2625,48 @@
             "fechaAgregado": "2026-11-12",
             "nombre": "C1",
             "embed": "https://hugh.cdn.rumble.cloud/video/fww1/be/s8/2/a/X/4/8/aX48A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=441828352-441862071"
+          },
+          {
+            "id": "cmwdtgx1x38w4",
+            "fechaAgregado": "2026-11-12",
+            "nombre": "C2",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fww1/9b/s8/2/o/1/4/8/o148A.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=89583616-89615377"
+          },
+          {
+            "id": "cmwdti0fl4k0m",
+            "fechaAgregado": "2026-11-12",
+            "nombre": "C3",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/2b/s8/2/u/6/4/8/u648A.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=247396864-247426178"
+          },
+          {
+            "id": "cmwdtiuwk5q1j",
+            "fechaAgregado": "2026-11-12",
+            "nombre": "C4",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/3e/s8/2/I/7/4/8/I748A.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=90166784-90198636"
+          },
+          {
+            "id": "cmwdtjmde6ght",
+            "fechaAgregado": "2026-11-12",
+            "nombre": "C5",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/44/s8/2/I/8/4/8/I848A.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=250127360-250156991"
+          },
+          {
+            "id": "cmwdtkink7bsf",
+            "fechaAgregado": "2026-11-12",
+            "nombre": "C6",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/7c/s8/2/K/9/4/8/K948A.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=226870784-226897578"
+          },
+          {
+            "id": "cmwdtlfwf8ie7",
+            "fechaAgregado": "2026-11-12",
+            "nombre": "C7",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/8a/s8/2/6/c/5/8/6c58A.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=263073792-263104896"
+          },
+          {
+            "id": "cmwdtmdzj9cpz",
+            "fechaAgregado": "2026-11-12",
+            "nombre": "C8",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/b3/s8/2/s/e/5/8/se58A.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=72711680-72737420"
           }
         ]
       }
