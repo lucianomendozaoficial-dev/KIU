@@ -2592,5 +2592,43 @@
       }
     ],
     "fechaAgregado": "2026-11-11"
+  },
+  {
+    "id": 31,
+    "nombre": "Crystal Lake",
+    "generos": [
+      "Drama",
+      "Misterio"
+    ],
+    "descripcion": "Pam Voorhees, madre soltera, no ha podido superar el dolor tras la trágica muerte por ahogamiento de su hijo pequeño y enfermizo, Jason, en el lago del pueblo hace casi un año. Cuando dos desconocidos llegan a su casa indagando en su pasado, se desencadena una inquietante cadena de acontecimientos que deja a los habitantes de Crystal Lake preguntándose: ¿quién es realmente Pam Voorhees?",
+    "año": 2026,
+    "duracion": "N/A",
+    "rating": 8.6,
+    "rating_updated": "2026-11-12T17:21:25.750Z",
+    "tmdb_id": 213562,
+    "portada": "https://image.tmdb.org/t/p/original/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+    "tipo": "serie",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "temporadas": [
+      {
+        "id": "tmwdtenn21847",
+        "numero": 1,
+        "capitulos": [
+          {
+            "id": "cmwdteqwa21jp",
+            "fechaAgregado": "2026-11-12",
+            "nombre": "C1",
+            "embed": "https://hugh.cdn.rumble.cloud/video/fww1/be/s8/2/a/X/4/8/aX48A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=441828352-441862071"
+          }
+        ]
+      }
+    ],
+    "fechaAgregado": "2026-11-12"
   }
 ]
