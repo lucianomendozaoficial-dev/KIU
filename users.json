@@ -12,6 +12,10 @@
     "debePagar": "$3.000",
     "descripcion": "",
     "renueva": false,
+    "modoPrueba": false,
+    "pruebaInicio": "",
+    "pruebaHasta": "",
+    "pruebaDuracion": 1,
     "permisos": {
       "peliculas": true,
       "series": true,
@@ -25,44 +29,44 @@
     },
     "slots": [
       {
-        "n": 1,
-        "estado": "ocupado",
         "dispositivo": "dev-mveiur9g-0a455e9j",
         "nombre": "Windows · Edge (5e9j)",
         "desde": 1794104498105,
-        "token": "kmw77huuvu5beq3g3"
+        "token": "kmw77huuvu5beq3g3",
+        "n": 1,
+        "estado": "ocupado"
       },
       {
-        "n": 2,
-        "estado": "ocupado",
         "dispositivo": "dev-mvhahhxn-vyw29bpo",
         "nombre": "Windows · Edge (9bpo)",
         "desde": 1792713804639,
-        "token": "kmvk7ihsz1iw1fjoo"
+        "token": "kmvk7ihsz1iw1fjoo",
+        "n": 2,
+        "estado": "ocupado"
       },
       {
-        "n": 3,
-        "estado": "ocupado",
         "dispositivo": "dev-mvk83vfw-tla5snju",
         "nombre": "Android · Chrome (snju)",
         "desde": 1792714803698,
-        "token": "kmvk83w0u6acy5f6i"
+        "token": "kmvk83w0u6acy5f6i",
+        "n": 3,
+        "estado": "ocupado"
       },
       {
-        "n": 4,
-        "estado": "ocupado",
         "dispositivo": "dev-mvn73r5w-cwcbs5tw",
         "nombre": "iPhone · Safari (s5tw)",
         "desde": 1792894517060,
-        "token": "kmvn73rmwiwcy3568"
+        "token": "kmvn73rmwiwcy3568",
+        "n": 4,
+        "estado": "ocupado"
       },
       {
-        "n": 5,
-        "estado": "ocupado",
         "dispositivo": "dev-mvobiiyw-fjdxk3t3",
         "nombre": "Android · Chrome (k3t3)",
         "desde": 1792962482614,
-        "token": "kmvobkifri3l2xy6u"
+        "token": "kmvobkifri3l2xy6u",
+        "n": 5,
+        "estado": "ocupado"
       }
     ]
   },
@@ -79,6 +83,10 @@
     "debePagar": "$3.000",
     "descripcion": "",
     "renueva": false,
+    "modoPrueba": false,
+    "pruebaInicio": "",
+    "pruebaHasta": "",
+    "pruebaDuracion": 1,
     "permisos": {
       "peliculas": true,
       "series": true,
@@ -114,6 +122,10 @@
     "debePagar": "$3.000",
     "descripcion": "+54 11 3256 8112",
     "renueva": false,
+    "modoPrueba": false,
+    "pruebaInicio": "",
+    "pruebaHasta": "",
+    "pruebaDuracion": 1,
     "permisos": {
       "peliculas": true,
       "series": true,
@@ -145,6 +157,10 @@
     "debePagar": "$3.000",
     "descripcion": "+54 1171790722",
     "renueva": false,
+    "modoPrueba": false,
+    "pruebaInicio": "",
+    "pruebaHasta": "",
+    "pruebaDuracion": 1,
     "permisos": {
       "peliculas": true,
       "series": true,
@@ -176,6 +192,10 @@
     "debePagar": "1 Semana",
     "descripcion": "",
     "renueva": false,
+    "modoPrueba": false,
+    "pruebaInicio": "",
+    "pruebaHasta": "",
+    "pruebaDuracion": 1,
     "permisos": {
       "peliculas": true,
       "series": true,
@@ -211,6 +231,10 @@
     "debePagar": "Amigo Fiel",
     "descripcion": "",
     "renueva": false,
+    "modoPrueba": false,
+    "pruebaInicio": "",
+    "pruebaHasta": "",
+    "pruebaDuracion": 1,
     "permisos": {
       "peliculas": true,
       "series": true,
@@ -246,6 +270,10 @@
     "debePagar": "24hs",
     "descripcion": "",
     "renueva": false,
+    "modoPrueba": false,
+    "pruebaInicio": "",
+    "pruebaHasta": "",
+    "pruebaDuracion": 1,
     "permisos": {
       "peliculas": true,
       "series": true,
