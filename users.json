@@ -92,16 +92,20 @@
     },
     "slots": [
       {
+        "n": 1,
+        "estado": "ocupado",
         "dispositivo": "dev-mvikb3oo-9hipsgeo",
         "nombre": "Android · Chrome (sgeo)",
         "desde": 1792614469056,
-        "token": "kmvps0xvl4wwxgiqg",
-        "n": 1,
-        "estado": "ocupado"
+        "token": "kmvps0xvl4wwxgiqg"
       },
       {
         "n": 2,
-        "estado": "vacio"
+        "estado": "ocupado",
+        "dispositivo": "dev-mvjkihmh-mk1b9bj8",
+        "nombre": "Android · Chrome (9bj8)",
+        "desde": 1794866128139,
+        "token": "kmwjsy8is5ozmnbo5"
       }
     ]
   },
