@@ -148,11 +148,11 @@
     "contacto": "",
     "nombreCompleto": "Elias Seville",
     "fechaExpiracion": "2026-11-09 20:00",
-    "fechaAlta": "",
     "plan": "premium",
     "debePagar": "Amigo Fiel",
     "descripcion": "",
     "renueva": false,
+    "fechaAlta": "",
     "permisos": {
       "peliculas": true,
       "series": true,
