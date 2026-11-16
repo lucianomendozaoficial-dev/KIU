@@ -106,37 +106,6 @@
     ]
   },
   {
-    "id": 13,
-    "nombre": "Maria@kiu.com",
-    "password": "2211",
-    "dni": "",
-    "contacto": "",
-    "nombreCompleto": "Maria Jimenez",
-    "fechaExpiracion": "2026-10-14",
-    "fechaAlta": "",
-    "plan": "estandar",
-    "debePagar": "$3.000",
-    "descripcion": "+54 1171790722",
-    "renueva": false,
-    "permisos": {
-      "peliculas": true,
-      "series": true,
-      "tv": true,
-      "milista": true,
-      "buscar": true,
-      "perfiles": true,
-      "compartir": true,
-      "soporte": true,
-      "descargas": true
-    },
-    "slots": [
-      {
-        "n": 1,
-        "estado": "vacio"
-      }
-    ]
-  },
-  {
     "id": 15,
     "nombre": "Mendozita@kiu.com",
     "password": "2004",
