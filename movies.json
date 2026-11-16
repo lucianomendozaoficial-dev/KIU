@@ -19115,5 +19115,35 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-16"
+  },
+  {
+    "id": 1002,
+    "nombre": "El imaginario",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Drama",
+      "Familia",
+      "Fantasía"
+    ],
+    "descripcion": "Amanda y Rudger, su amigo imaginario, viven emocionantes aventuras juntos. Pero un día Rudger se queda solo y debe enfrentar una amenaza misteriosa.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 7.6,
+    "rating_updated": "2026-11-16T16:21:48.142Z",
+    "tmdb_id": 913001,
+    "portada": "https://image.tmdb.org/t/p/original/mZlUUidADxGIJx0J7jevy1RvO1c.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/q72PB4UfXK3RH7aoxp4X5l85wD2.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/9/g/Z/L/9gZLs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-16"
   }
 ]
