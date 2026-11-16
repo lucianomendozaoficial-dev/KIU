@@ -19170,5 +19170,30 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-16"
+  },
+  {
+    "id": 1004,
+    "nombre": "Por tus muertos",
+    "generos": [
+      "Comedia",
+      "Música"
+    ],
+    "descripcion": "",
+    "año": 2024,
+    "duracion": "",
+    "rating": 5.1,
+    "rating_updated": "2026-11-16T16:24:14.377Z",
+    "tmdb_id": 1209304,
+    "portada": "https://image.tmdb.org/t/p/original/j61AYdBcEk6WZZzxmhfoNZccn4j.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sDpEMvB30EbaR3YxTH39aXHwDAG.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/H/_/t/M/H_tMs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-16"
   }
 ]
