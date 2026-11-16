@@ -19061,5 +19061,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-11"
+  },
+  {
+    "id": 1000,
+    "nombre": "Herencia Siniestra",
+    "generos": [
+      "Terror",
+      "Misterio"
+    ],
+    "descripcion": "Edward y su novia Riley se embarcan en un viaje al norte de Portugal para encontrarse con la familia perdida de Edward. Al llegar a la magnífica villa, Edward está encantado de conocer a su madre y a su hermano gemelo ansioso por conectarse con sus orígenes. Pronto Edward descubrirá el terrible secreto que lo une a ellos.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6,
+    "rating_updated": "2026-11-16T16:16:58.017Z",
+    "tmdb_id": 1082063,
+    "portada": "https://image.tmdb.org/t/p/original/nFhz88v5bGzojDdzb4Nuh9d6oes.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tDbMom0pFUjJ8u0ScLsZbdPm1aD.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/G/Q/n/L/GQnLs.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-16"
   }
 ]
