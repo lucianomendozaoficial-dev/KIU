@@ -19088,5 +19088,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-16"
+  },
+  {
+    "id": 1001,
+    "nombre": "Juanpis González: El presidente de la gente",
+    "generos": [
+      "Comedia",
+      "Acción"
+    ],
+    "descripcion": "Juanpis González llega a ser presidente de Colombia. El hombre más malcriado del país tiene que superar una difícil prueba impuesta por su abuelo para heredar la fortuna familiar, a través de la cual encuentra la que, cree, es su vocación: hacer política, pero de una forma no siempre lícita.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 6.8,
+    "rating_updated": "2026-11-16T16:20:14.635Z",
+    "tmdb_id": 1300182,
+    "portada": "https://image.tmdb.org/t/p/original/ngA9a2p0Yqx23eJL7banw3GShpT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/v5Sh1essBJ6204gv8BsKWE33wVT.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/a/j/A/L/ajALs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-16"
   }
 ]
