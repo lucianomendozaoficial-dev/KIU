@@ -74,15 +74,15 @@
     "contacto": "",
     "nombreCompleto": "Marisa Sosa",
     "fechaExpiracion": "2026-11-06 17:32",
-    "fechaAlta": "",
     "plan": "premium",
     "debePagar": "$3.000",
     "descripcion": "",
     "renueva": false,
+    "fechaAlta": "",
     "permisos": {
       "peliculas": true,
       "series": true,
-      "tv": false,
+      "tv": true,
       "milista": true,
       "buscar": true,
       "perfiles": true,
@@ -98,6 +98,10 @@
         "token": "kmvps0xvl4wwxgiqg",
         "n": 1,
         "estado": "ocupado"
+      },
+      {
+        "n": 2,
+        "estado": "vacio"
       }
     ]
   },
