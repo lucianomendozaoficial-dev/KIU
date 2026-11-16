@@ -19145,5 +19145,30 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-16"
+  },
+  {
+    "id": 1003,
+    "nombre": "Acción Rápida",
+    "generos": [
+      "Acción",
+      "Crimen"
+    ],
+    "descripcion": "Culpándose a sí mismo por la muerte de su esposa, Gao Feng dejó la industria de la seguridad y vivió una vida normal con su hijo. Seis años después, debido a la llegada de su antiguo jefe, Gao Feng no tiene más remedio que volver a la antigua profesión.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-11-16T16:23:04.178Z",
+    "tmdb_id": 1161678,
+    "portada": "https://image.tmdb.org/t/p/original/uKvturWf7y6zjfBIIhb18TicuLh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hvf9gY1VPSxPlir0THPmuaKJ7vg.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/A/b/t/M/AbtMs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-16"
   }
 ]
