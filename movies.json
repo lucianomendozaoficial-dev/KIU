@@ -19195,5 +19195,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-16"
+  },
+  {
+    "id": 1005,
+    "nombre": "El Hombre de Los Sueños",
+    "generos": [
+      "Comedia",
+      "Fantasía"
+    ],
+    "descripcion": "El desafortunado hombre de familia Paul Matthews encuentra su vida patas arriba cuando millones de extraños de repente comienzan a verlo en sus sueños. Pero cuando sus apariciones nocturnas toman un giro de pesadilla, Paul se ve obligado a navegar por su nuevo estrellato.",
+    "año": 2023,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-11-16T16:25:53.400Z",
+    "tmdb_id": 823482,
+    "portada": "https://image.tmdb.org/t/p/original/8LJVauVacKhi0xuUa8aKTPGn4pW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2WRe1y5S1jGWTKUcSPPmD1Ixq56.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Z/Z/K/M/ZZKMs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-16"
   }
 ]
