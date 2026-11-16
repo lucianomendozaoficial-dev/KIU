@@ -19222,5 +19222,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-16"
+  },
+  {
+    "id": 1006,
+    "nombre": "Quizás es cierto lo que dicen de nosotras",
+    "generos": [
+      "Drama",
+      "Suspenso"
+    ],
+    "descripcion": "Ximena, una exitosa psiquiatra, recibe la inesperada visita de su hija mayor, Tamara, a quien no ha visto desde hace mucho. Su estancia en una comunidad espiritual la ha alejado y cambiado completamente. Mientras Tamara se refugia en casa de su madre, se abre una investigación debido a que el hijo recién nacido de Tamara desapareció en extrañas circunstancias al interior de la secta a la cual ella pertenece. Tanto la justicia como Ximena intentarán descubrir cuál es el destino del bebé desaparecido. Inspirada en hechos reales.",
+    "año": 2024,
+    "duracion": "",
+    "rating": 5.7,
+    "rating_updated": "2026-11-16T16:28:05.271Z",
+    "tmdb_id": 1212149,
+    "portada": "https://image.tmdb.org/t/p/original/cUT2d0Czgh3HjGrKL4J8Wo5VMw9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qZLdAZDmjqfAWEXFQxCXHNDdQKB.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/T/b/3/M/Tb3Ms.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+18",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-16"
   }
 ]
