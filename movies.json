@@ -19299,5 +19299,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-17"
+  },
+  {
+    "id": 1009,
+    "nombre": "Novata Espacial",
+    "generos": [
+      "Comedia"
+    ],
+    "descripcion": "Tiffany \"Rex\" Simpson (Emma Roberts) siempre soñó con ir al espacio, y con su aplicación \"retocada\" consigue un lugar en el supercompetitivo programa de entrenamiento de astronautas de la NASA. En aprietos, ¿podrá esta chica de Florida recurrir a su astucia, agallas y determinación para terminar el entrenamiento y viajar al espacio antes de que se descubra su secreto?",
+    "año": 2024,
+    "duracion": "",
+    "rating": 5.5,
+    "rating_updated": "2026-11-17T18:20:50.315Z",
+    "tmdb_id": 1019411,
+    "portada": "https://image.tmdb.org/t/p/original/drXnPoX7sBlq2dqQ5zZkREiO6Hy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/c3tOvnxFp2uUfLs6U8ew52N3FhO.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/6/Y/3/M/6Y3Ms.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Prime Video"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-17"
   }
 ]
