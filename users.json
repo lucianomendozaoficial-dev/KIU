@@ -7,11 +7,11 @@
     "contacto": "",
     "nombreCompleto": "Luciano Mendoza",
     "fechaExpiracion": "2026-12-13 23:10",
-    "fechaAlta": "",
     "plan": "premium",
     "debePagar": "$3.000",
     "descripcion": "",
     "renueva": false,
+    "fechaAlta": "",
     "permisos": {
       "peliculas": true,
       "series": true,
@@ -63,6 +63,10 @@
         "token": "kmvobkifri3l2xy6u",
         "n": 5,
         "estado": "ocupado"
+      },
+      {
+        "n": 6,
+        "estado": "vacio"
       }
     ]
   },
