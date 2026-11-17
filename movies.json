@@ -19273,5 +19273,31 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-17"
+  },
+  {
+    "id": 1008,
+    "nombre": "De Noche Con El Diablo",
+    "generos": [
+      "Terror"
+    ],
+    "descripcion": "Una transmisión de televisión en vivo en 1977 sale terriblemente mal, desatando el mal en las salas de estar de la nación",
+    "año": 2024,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-11-17T18:18:56.409Z",
+    "tmdb_id": 938614,
+    "portada": "https://image.tmdb.org/t/p/original/jga2jfUWXuVdaBn3WojJooLTSeC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/umyOinNa6vqqnqoVc9QqzyaapUz.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/t/Q/3/M/tQ3Ms.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-17"
   }
 ]
