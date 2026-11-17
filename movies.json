@@ -19381,5 +19381,35 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-17"
+  },
+  {
+    "id": 1012,
+    "nombre": "El castillo en el cielo",
+    "generos": [
+      "Aventura",
+      "Fantasía",
+      "Animación",
+      "Acción",
+      "Familia"
+    ],
+    "descripcion": "En esta aventura infantil, un joven minero y una misteriosa chica buscan una isla perdida que, según la leyenda, oculta grandes riquezas.",
+    "año": 1986,
+    "duracion": "",
+    "rating": 8,
+    "rating_updated": "2026-11-17T18:26:19.124Z",
+    "tmdb_id": 10515,
+    "portada": "https://image.tmdb.org/t/p/original/6EkloGi5FUtPLZl5NtGvVGIfX0B.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3cyjYtLWCBE1uvWINHFsFnE8LUK.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/o/N/9/M/oN9Ms.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-17"
   }
 ]
