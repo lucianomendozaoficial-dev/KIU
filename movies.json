@@ -19439,5 +19439,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-17"
+  },
+  {
+    "id": 1014,
+    "nombre": "La Tumba de las Luciérnagas",
+    "generos": [
+      "Animación",
+      "Drama",
+      "Bélica"
+    ],
+    "descripcion": "Centrada en la ciudad de Kōbe, Japón, narra la dura historia de dos hermanos, Seita y Setsuko, y de su lucha desesperada por sobrevivir durante los últimos meses de la Segunda Guerra Mundial.",
+    "año": 1988,
+    "duracion": "",
+    "rating": 8.4,
+    "rating_updated": "2026-11-17T18:29:29.521Z",
+    "tmdb_id": 12477,
+    "portada": "https://image.tmdb.org/t/p/original/j3fQ6LePWbY41AUg4pYyNJW94Cd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aHaqZpOL7UyVu0nKqp3SMz0o2E1.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/v/D/Q/_/vDQ_t.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-17"
   }
 ]
