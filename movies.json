@@ -19411,5 +19411,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-17"
+  },
+  {
+    "id": 1013,
+    "nombre": "Kiki: Entregas a Domicilio",
+    "generos": [
+      "Animación",
+      "Familia",
+      "Fantasía"
+    ],
+    "descripcion": "Kiki no es una niña como otra cualquiera porque es aprendiz de bruja. Con solo 13 años y por tradición del oficio que está aprendiendo, la niña tiene que abandonar la casa de sus padres y buscar algún sitio donde sean necesarios sus servicios de bruja. Para emprender el viaje, Kiki se acompaña de su amigo Jiji y también de su gato; juntos, y sobre una escoba voladora, los amigos se instalan en un pueblecito que da al mar, donde la niña empezará a conocerse verdaderamente a sí misma.",
+    "año": 1989,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-11-17T18:28:02.702Z",
+    "tmdb_id": 16859,
+    "portada": "https://image.tmdb.org/t/p/original/m2D2iqNgtV8uuWWlzjFsELYBh9s.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ooGaNXI2OYszAajCFdIXLr73E1S.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/7/j/-/M/7j-Ms.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-17"
   }
 ]
