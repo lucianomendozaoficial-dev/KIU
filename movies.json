@@ -19492,5 +19492,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-18"
+  },
+  {
+    "id": 1016,
+    "nombre": "Un poco de compañía antes de morir",
+    "generos": [
+      "Romance",
+      "Drama",
+      "Comedia"
+    ],
+    "descripcion": "Yui Katakura (Ko Shibasaki) tiene 40 años, está soltera y vive entregada a una afición muy particular: ahorrar. Poco a poco, ha ido reuniendo un buen colchón para disfrutar de una jubilación tranquila. Pero todos sus planes se desmoronan cuando, tras un chequeo gratuito, le diagnostican cáncer y le dan un año de vida. Todavía conmocionada por la noticia, se cruza de repente con Yoshitaka Sena, alias Ryuma (Eiji Akaso), un atractivo ‘host’ de pelo rosa que le pide dinero prestado. Si de todas formas se va a morir, ya no tiene sentido seguir ahorrando. Así que Yui acepta su insólita petición y «compra» a Sena por 720 000 yenes. Así comienza una relación tan insólita como imprevisible, que pronto dará un giro inesperado.",
+    "año": 2026,
+    "duracion": "",
+    "rating": 7.1,
+    "rating_updated": "2026-11-18T22:01:23.640Z",
+    "tmdb_id": 1654940,
+    "portada": "https://image.tmdb.org/t/p/original/4mdyjojUihFbw76GBl6ZO8E8bCh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fwe2/21/s8/2/2/K/g/f/2KgfB.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=864876544-864942602",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-18"
   }
 ]
