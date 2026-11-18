@@ -19575,5 +19575,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-18"
+  },
+  {
+    "id": 1019,
+    "nombre": "Susurros del Corazón",
+    "generos": [
+      "Animación",
+      "Drama",
+      "Familia"
+    ],
+    "descripcion": "Shizuku Tsukishima es una chica que le encanta leer. Su padre trabaja en una biblioteca, y ella a veces traduce canciones occidentales al jápones. Es entonces cuando se da cuenta de que, en las tarjetas de los libros de la biblioteca, Seiji Amasawa aparece antes que ella, y se empieza a imaginar como será el chico que se leyo los mismos libros antes que ella. Es entonces cuando por seguir a un gato llega a una bonita tienda, el nieto del tendero es ese tal Seiji, comenzará así una historia de amor, con dificultades ya que ella no se siente segura de lo que va a ser en la vida mientras que Seiji quiere viajar para realizar su sueño de convertirse en un artesano de violines.",
+    "año": 1995,
+    "duracion": "",
+    "rating": 7.9,
+    "rating_updated": "2026-11-18T22:06:02.706Z",
+    "tmdb_id": 37797,
+    "portada": "https://image.tmdb.org/t/p/original/q5ucEqlNH6ypr6KF8UILssqdasU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rphor0XQcYO4CQoQ6auaQm3UPap.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/Z/4/b/N/Z4bNs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-18"
   }
 ]
