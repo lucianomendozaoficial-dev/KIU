@@ -19547,5 +19547,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-18"
+  },
+  {
+    "id": 1018,
+    "nombre": "Porco Rosso",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Fantasía"
+    ],
+    "descripcion": "Italia, años 30. Los piratas aéreos en biplanos aterroriza a los cruceros de lujo que navegan por el mar Adriático. El único piloto lo suficientemente valiente para detener está plaga es Porco Rosso, un antiguo as de la aviación que, de alguna manera, se convierte en un cerdo antropomórfico durante la Primera Guerra Mundial.",
+    "año": 1992,
+    "duracion": "",
+    "rating": 7.8,
+    "rating_updated": "2026-11-18T22:04:43.925Z",
+    "tmdb_id": 11621,
+    "portada": "https://image.tmdb.org/t/p/original/15VBzhCN7azC8tj1g2UO1gMBANE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ec4m0EvVlEtVl5aySdw6ab9uG0b.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/2/1/-/M/21-Ms.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-18"
   }
 ]
