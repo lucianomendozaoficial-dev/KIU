@@ -19467,5 +19467,30 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-17"
+  },
+  {
+    "id": 1015,
+    "nombre": "Peligrosa Obsesión",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "descripcion": "En el verano de 1969, el coronel Kim Jin Pyung luchó con valentía en la guerra de Vietnam. Sin embargo, vive atrapado en un matrimonio sin amor con Soo Jin. En un complejo de viviendas de la familia militar, el coronel se enamora de Jong Ga Heun, la esposa de su subordinado, y mantienen un apasionado romance secreto.",
+    "año": 2014,
+    "duracion": "",
+    "rating": 6.6,
+    "rating_updated": "2026-11-18T21:59:30.940Z",
+    "tmdb_id": 269955,
+    "portada": "https://image.tmdb.org/t/p/original/fYrFH2WlCEUNuR85JturV77uOBU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aQzXICKh3oaJanWSsSRJ2epB9Z5.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/fww1/ea/s8/2/E/H/g/f/EHgfB.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=668976640-669056239",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-18"
   }
 ]
