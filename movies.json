@@ -19688,5 +19688,35 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-18"
+  },
+  {
+    "id": 1023,
+    "nombre": "Mentes poderosas",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Ciencia Ficción",
+      "Romance"
+    ],
+    "descripcion": "Después de que una enfermedad matara al 98% de los niños y jóvenes de los Estados Unidos, el 2% que consiguió sobrevivir ha desarrollado superpoderes, pero los han encerrado en campos de internamiento al ser declarados una amenaza. Una de esas niñas de 16 años, Ruby, consigue escapar de su campamento y se une a un grupo de adolescentes que huyen de las fuerzas del gobierno.",
+    "año": 2018,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-11-18T22:13:20.089Z",
+    "tmdb_id": 445651,
+    "portada": "https://image.tmdb.org/t/p/original/tkwFkWJNMA5kDWcMQnXMXH5LI4G.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5BxrMNGl3YDiWgHCVJu8iLQoJDM.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/H/R/q/a/HRqaq.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-18"
   }
 ]
