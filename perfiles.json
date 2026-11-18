@@ -1,19 +1,19 @@
 {
   "_nota": "Perfiles, configuración y Mi Lista por usuario. Generado por KIU Play.",
   "version": 1,
-  "actualizado": "2026-11-18T14:03:22.473Z",
+  "actualizado": "2026-11-18T14:03:33.858Z",
   "usuarios": {
     "luciano@kiu.com": {
       "perfiles": [
         {
           "id": "prof_25e576bb-0017-4261-8e8f-cb8ed75d3358",
           "name": "Luciano",
-          "avatar": "PERFILES/19.png",
+          "avatar": "PERFILES/1.png",
           "createdAt": 1791741752335,
           "kids": false,
           "edadMax": null,
           "pin": "2378",
-          "updatedAt": 1795010601009
+          "updatedAt": 1795010612378
         }
       ],
       "miLista": {
