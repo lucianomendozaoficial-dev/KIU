@@ -1,7 +1,7 @@
 {
   "_nota": "Perfiles, configuración y Mi Lista por usuario. Generado por KIU Play.",
   "version": 1,
-  "actualizado": "2026-11-18T00:42:28.057Z",
+  "actualizado": "2026-11-18T00:42:31.017Z",
   "usuarios": {
     "luciano@kiu.com": {
       "perfiles": [
@@ -13,7 +13,7 @@
           "kids": false,
           "edadMax": null,
           "pin": null,
-          "updatedAt": 1794962546680
+          "updatedAt": 1794962548551
         },
         {
           "id": "prof_55071417-a784-43b1-a593-c366fd475512",
@@ -23,7 +23,7 @@
           "kids": false,
           "edadMax": null,
           "pin": null,
-          "updatedAt": 1794962546680
+          "updatedAt": 1794962548551
         }
       ],
       "miLista": {
