@@ -19800,5 +19800,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-18"
+  },
+  {
+    "id": 1027,
+    "nombre": "El Príncipe de Egipto",
+    "generos": [
+      "Aventura",
+      "Animación",
+      "Drama",
+      "Familia"
+    ],
+    "descripcion": "En Egipto, hace miles de años, el Faraón Seti ordena el ahogamiento de todos los bebés judíos. Una madre desesperada coloca a su bebé en una cesta río abajo y deja que Dios la guíe hasta la orilla en donde será hallada por la esposa del Faraón y el bebé, Moisés, criado como hermano del heredero al trono, Ramsés. Años después los hermanos se distanciarán por el descubrimiento de los orígenes hebreos de Moisés.",
+    "año": 1998,
+    "duracion": "",
+    "rating": 7.3,
+    "rating_updated": "2026-11-18T22:20:38.995Z",
+    "tmdb_id": 9837,
+    "portada": "https://image.tmdb.org/t/p/original/3Wx3xiAPAiRDM8xNKDplnLv8MWb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/565DYYXgdRYMiETLi2EDx4p7s92.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/T/d/r/Q/TdrQq.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-18"
   }
 ]
