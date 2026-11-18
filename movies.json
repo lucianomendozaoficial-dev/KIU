@@ -19520,5 +19520,32 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-18"
+  },
+  {
+    "id": 1017,
+    "nombre": "Recuerdos del ayer",
+    "generos": [
+      "Animación",
+      "Drama"
+    ],
+    "descripcion": "Taeko Okajima es una joven de que pide permiso de vacaciones para poder regresar a casa a Yamagata, el pueblo de su cuñada, y donde de niña vivió los momentos mas felices de toda su vida. En el transcurso de su viaje a a la granja de sus familiares y a su posterior residencia, Taeko ira recordando su pasado en el colegio, mientras vive intensamente su presente, sin saber bien qué hacer con su vida y si acceder a las presiones de la familia para casarse con el granjero Toshio con el que le une un poderoso afecto.",
+    "año": 1991,
+    "duracion": "",
+    "rating": 7.4,
+    "rating_updated": "2026-11-18T22:03:20.704Z",
+    "tmdb_id": 15080,
+    "portada": "https://image.tmdb.org/t/p/original/oRhdS9KvZgQ3MvlKCNAMygCXQW1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jsIxoKIuH6lLt4Y3NW7Tf1BwcIO.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/-/T/-/M/-T-Ms.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-18"
   }
 ]
