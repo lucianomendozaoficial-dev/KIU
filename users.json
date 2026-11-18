@@ -41,7 +41,11 @@
       },
       {
         "n": 3,
-        "estado": "vacio"
+        "estado": "ocupado",
+        "dispositivo": "dev-mvk83vfw-tla5snju",
+        "nombre": "Android · Chrome (snju)",
+        "desde": 1794962583409,
+        "token": "kmwledlskkbhjyfod"
       },
       {
         "n": 4,
