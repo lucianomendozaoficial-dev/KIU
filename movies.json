@@ -19631,5 +19631,34 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-18"
+  },
+  {
+    "id": 1021,
+    "nombre": "Mis vecinos los Yamada",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Drama"
+    ],
+    "descripcion": "Basada en el famoso manga de Hisachi Ishii, esta película cuenta pequeñas e imaginativas historias de la vida diaria de una típica familia de clase media de Tokyo. Los Yamada son Takashi y Matsuko (el padre y la madre), Shige (la suegra), Noboru (el hijo), Nonoko (la hija) y Pochi (el perro de la familia).",
+    "año": 1999,
+    "duracion": "",
+    "rating": 7,
+    "rating_updated": "2026-11-18T22:10:33.947Z",
+    "tmdb_id": 16198,
+    "portada": "https://image.tmdb.org/t/p/original/7lDWEfYmJtYEaSz39Dq1cCqKFeZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9pIRnrvWOCG62HmDWELopE1Ip3k.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/e/D/c/N/eDcNs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+7",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-18"
   }
 ]
