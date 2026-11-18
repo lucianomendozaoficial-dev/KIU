@@ -25,7 +25,11 @@
     "slots": [
       {
         "n": 1,
-        "estado": "vacio"
+        "estado": "ocupado",
+        "dispositivo": "dev-mvene7ut-jgc7jv4y",
+        "nombre": "Android · Chrome (jv4y)",
+        "desde": 1794964376499,
+        "token": "kmwlfg1enh9a271th"
       },
       {
         "n": 2,
