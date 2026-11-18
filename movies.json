@@ -19603,5 +19603,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-18"
+  },
+  {
+    "id": 1020,
+    "nombre": "La Guerra de los Mapaches",
+    "generos": [
+      "Aventura",
+      "Animación",
+      "Fantasía"
+    ],
+    "descripcion": "Ante la inminente destrucción de un frondoso bosque cercano a una ciudad, cuyos dirigentes quieren construir en su lugar una urbanización, los mapaches que viven en el bosque intentarán sabotear la operación para así conservar sus hogares.",
+    "año": 1994,
+    "duracion": "",
+    "rating": 7.2,
+    "rating_updated": "2026-11-18T22:07:54.378Z",
+    "tmdb_id": 15283,
+    "portada": "https://image.tmdb.org/t/p/original/jjOzBFm4IVBsfKzuGlxJpZ0EuLH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2uv0VEoyWxb3KgsiF5FInWP18wQ.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/g/g/c/N/ggcNs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "TP",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-18"
   }
 ]
