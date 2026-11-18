@@ -19660,5 +19660,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-18"
+  },
+  {
+    "id": 1022,
+    "nombre": "La princesa Mononoke",
+    "generos": [
+      "Aventura",
+      "Fantasía",
+      "Animación"
+    ],
+    "descripcion": "Tras sufrir el ataque de un monstruoso jabalí maldito, el joven Ashitaka emprende el camino en busca de la cura que detenga la infección. Mientras, los humanos están acabando con los bosques y los dioses convertidos en temibles bestias hacen todo lo posible por protegerlo encabezados por Mononoke, una princesa guerrera. Ashikata deberá escoger bando y decidir si ayudar a los hombres o las deidades intentando detener la maldición de su herida que se extiende por su cuerpo sin cuartel.",
+    "año": 1997,
+    "duracion": "",
+    "rating": 8.3,
+    "rating_updated": "2026-11-18T22:12:10.648Z",
+    "tmdb_id": 128,
+    "portada": "https://image.tmdb.org/t/p/original/ceLYqyBe93J4lKcR1wEug3Rfkwc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/E/J/c/N/EJcNs.caa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Netflix"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-18"
   }
 ]
