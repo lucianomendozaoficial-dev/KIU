@@ -1,6 +1,47 @@
 {
   "_nota": "Perfiles, configuración y Mi Lista por usuario. Generado por KIU Play.",
   "version": 1,
-  "actualizado": "2026-11-18T00:30:05.840Z",
-  "usuarios": {}
+  "actualizado": "2026-11-18T00:31:25.130Z",
+  "usuarios": {
+    "luciano@kiu.com": {
+      "perfiles": [
+        {
+          "id": "prof_25e576bb-0017-4261-8e8f-cb8ed75d3358",
+          "name": "Luciano",
+          "avatar": "PERFILES/1.png",
+          "createdAt": 1791741752335,
+          "updatedAt": 1794961885129
+        }
+      ],
+      "miLista": {
+        "prof_25e576bb-0017-4261-8e8f-cb8ed75d3358": [
+          {
+            "id": 3,
+            "tipo": "pelicula"
+          },
+          {
+            "id": 14,
+            "tipo": "serie"
+          },
+          {
+            "id": 518,
+            "tipo": "pelicula"
+          },
+          {
+            "id": 498,
+            "tipo": "pelicula"
+          },
+          {
+            "id": 404,
+            "tipo": "pelicula"
+          },
+          {
+            "id": 213,
+            "tipo": "pelicula"
+          }
+        ],
+        "_noprofile": []
+      }
+    }
+  }
 }
