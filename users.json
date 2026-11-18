@@ -65,11 +65,7 @@
       },
       {
         "n": 6,
-        "estado": "ocupado",
-        "dispositivo": "dev-mwkk6kdc-vhfp1u3e",
-        "nombre": "Android · Chrome (1u3e)",
-        "desde": 1794911867044,
-        "token": "kmwkk6l5jwzfnukzy"
+        "estado": "vacio"
       }
     ]
   },
