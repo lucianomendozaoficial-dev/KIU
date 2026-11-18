@@ -1,0 +1,22 @@
+{
+  "_nota": "Perfiles, configuración y Mi Lista por usuario. Generado por KIU Play.",
+  "version": 1,
+  "actualizado": "2026-11-18T00:19:52.393Z",
+  "usuarios": {
+    "kiu qa": {
+      "perfiles": [
+        {
+          "id": "qa-perfil-1",
+          "name": "KIU QA",
+          "avatar": "PERFILES/1.png",
+          "createdAt": 1794961192393,
+          "updatedAt": 1794961192393
+        }
+      ],
+      "miLista": {
+        "qa-perfil-1": [],
+        "_noprofile": []
+      }
+    }
+  }
+}
