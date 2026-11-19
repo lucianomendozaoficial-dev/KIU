@@ -2655,5 +2655,46 @@
       }
     ],
     "fechaAgregado": "2026-11-12"
+  },
+  {
+    "id": 32,
+    "nombre": "Una buena familia americana",
+    "generos": [
+      "Drama",
+      "Crimen",
+      "Misterio"
+    ],
+    "descripcion": "Kristine y Michael Barnett, una pareja del Medio Oeste, adoptan a una niña llamada Natalia Grace, aunque poco a poco comienzan a sospechar que tal vez no sea quien decía ser. Inspirada en una historia real.",
+    "año": 2025,
+    "duracion": "N/A",
+    "rating": 7.6,
+    "rating_updated": "2026-11-19T17:18:09.525Z",
+    "tmdb_id": 207411,
+    "portada": "https://image.tmdb.org/t/p/original/jN4x0pgxKD0cWayIfySPhsopXIp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jkyjkLuKxKa2PXaTcPDfrBUHxi8.jpg",
+    "tipo": "serie",
+    "idioma": "Latino",
+    "edad": "+16",
+    "calidad": "calidad",
+    "especiales": [
+      "Disney"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "temporadas": [
+      {
+        "id": "tmwntdf6x1blx",
+        "numero": 1,
+        "capitulos": [
+          {
+            "id": "cmwntdhyo22qt",
+            "fechaAgregado": "2026-11-19",
+            "nombre": "C1",
+            "embed": "https://1a-1791.com/video/fww1/dc/s8/2/W/u/A/x/WuAxy.caa.mp4"
+          }
+        ]
+      }
+    ],
+    "fechaAgregado": "2026-11-19"
   }
 ]
