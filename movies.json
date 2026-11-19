@@ -10340,16 +10340,18 @@
     "tmdb_id": 744857,
     "portada": "https://image.tmdb.org/t/p/original/9Ly4S99McgnhO50XikTGguPFNvo.jpg",
     "banner": "https://image.tmdb.org/t/p/original/cavK9ox37pxDg11RvJINMH63onU.jpg",
-    "embed": "https://fastream.to/embed-3f2h4duh4wgx.html",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/R/O/0/7/RO07p.caa.mp4",
     "tipo": "pelicula",
-    "idioma": "Español (Latino)",
+    "idioma": "Latino",
     "edad": "+18",
-    "camara": false,
+    "calidad": "calidad",
     "especiales": [
       "Netflix",
       "Apple"
     ],
-    "plan": "basico"
+    "plan": "premium",
+    "etiquetas": [],
+    "camara": false
   },
   {
     "id": 409,
