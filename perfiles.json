@@ -1,7 +1,7 @@
 {
   "_nota": "Perfiles, configuración y Mi Lista por usuario. Generado por KIU Play.",
   "version": 1,
-  "actualizado": "2026-11-19T02:10:11.633Z",
+  "actualizado": "2026-11-19T17:32:19.951Z",
   "usuarios": {
     "luciano@kiu.com": {
       "perfiles": [
@@ -13,7 +13,7 @@
           "kids": false,
           "edadMax": null,
           "pin": "2378",
-          "updatedAt": 1795054201753
+          "updatedAt": 1795109531964
         },
         {
           "id": "prof_1792962510217_6t5ltjx",
@@ -23,7 +23,17 @@
           "kids": false,
           "edadMax": null,
           "pin": null,
-          "updatedAt": 1795054201753
+          "updatedAt": 1795109531964
+        },
+        {
+          "id": "prof_160beace-d0b4-4c88-b19d-91cdb3111179",
+          "name": "Luciano",
+          "avatar": "PERFILES/1.png",
+          "createdAt": 1791836257731,
+          "kids": false,
+          "edadMax": null,
+          "pin": null,
+          "updatedAt": 1795109531964
         }
       ],
       "miLista": {
@@ -58,6 +68,16 @@
           }
         ],
         "prof_1792962510217_6t5ltjx": [],
+        "prof_160beace-d0b4-4c88-b19d-91cdb3111179": [
+          {
+            "id": 3,
+            "tipo": "pelicula"
+          },
+          {
+            "id": 14,
+            "tipo": "serie"
+          }
+        ],
         "_noprofile": []
       }
     }
