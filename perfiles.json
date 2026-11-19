@@ -1,7 +1,7 @@
 {
   "_nota": "Perfiles, configuración y Mi Lista por usuario. Generado por KIU Play.",
   "version": 1,
-  "actualizado": "2026-11-18T15:44:57.252Z",
+  "actualizado": "2026-11-19T02:10:11.633Z",
   "usuarios": {
     "luciano@kiu.com": {
       "perfiles": [
@@ -13,7 +13,17 @@
           "kids": false,
           "edadMax": null,
           "pin": "2378",
-          "updatedAt": 1795016695629
+          "updatedAt": 1795054201753
+        },
+        {
+          "id": "prof_1792962510217_6t5ltjx",
+          "name": "Belen",
+          "avatar": "PERFILES/3.png",
+          "createdAt": 1792962510217,
+          "kids": false,
+          "edadMax": null,
+          "pin": null,
+          "updatedAt": 1795054201753
         }
       ],
       "miLista": {
@@ -47,6 +57,7 @@
             "tipo": "pelicula"
           }
         ],
+        "prof_1792962510217_6t5ltjx": [],
         "_noprofile": []
       }
     }
