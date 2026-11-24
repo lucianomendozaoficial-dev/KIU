@@ -19858,5 +19858,33 @@
     "plan": "premium",
     "etiquetas": [],
     "fechaAgregado": "2026-11-18"
+  },
+  {
+    "id": 1029,
+    "nombre": "Amanecer rojo",
+    "generos": [
+      "Suspenso",
+      "Bélica",
+      "Drama"
+    ],
+    "descripcion": "Un ejército formado por tropas soviéticas, cubanas y nicaragüenses invade y destruye una pequeña localidad de Colorado, provocando la III Guerra Mundial. Un grupo de jóvenes con un alto espíritu patriótico consigue huir y preparar un rápido contraataque.",
+    "año": 1984,
+    "duracion": "",
+    "rating": 6.3,
+    "rating_updated": "2026-11-24T16:48:49.573Z",
+    "tmdb_id": 1880,
+    "portada": "https://image.tmdb.org/t/p/original/7Z1NgiJ3cq5tasdfKVuAmcJpXyK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9fOfsVHZHig6MHPHczv0zMY6cKc.jpg",
+    "embed": "https://hugh.cdn.rumble.cloud/video/s8/2/p/Q/3/h/pQ3ho.aaa.mp4",
+    "tipo": "pelicula",
+    "idioma": "Latino",
+    "edad": "+13",
+    "calidad": "calidad",
+    "especiales": [
+      "Apple"
+    ],
+    "plan": "premium",
+    "etiquetas": [],
+    "fechaAgregado": "2026-11-24"
   }
 ]
