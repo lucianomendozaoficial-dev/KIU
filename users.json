@@ -182,39 +182,5 @@
         "estado": "ocupado"
       }
     ]
-  },
-  {
-    "id": 17,
-    "nombre": "carlos.kiu",
-    "password": "2027",
-    "dni": "0000000",
-    "contacto": "",
-    "nombreCompleto": "Carlos",
-    "fechaExpiracion": "2026-11-13 19:00",
-    "fechaAlta": "2026-11-12",
-    "plan": "premium",
-    "debePagar": "24hs",
-    "descripcion": "",
-    "renueva": false,
-    "permisos": {
-      "peliculas": true,
-      "series": true,
-      "milista": true,
-      "buscar": true,
-      "perfiles": true,
-      "compartir": true,
-      "soporte": true,
-      "descargas": true
-    },
-    "slots": [
-      {
-        "n": 1,
-        "estado": "vacio"
-      },
-      {
-        "n": 2,
-        "estado": "vacio"
-      }
-    ]
   }
 ]
